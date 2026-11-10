@@ -1,0 +1,367 @@
+UNIDAD: UI-04
+SENTENCIA: 40518588
+ÓRGANO: Primer Tribunal Colegiado en Materias Penal y Administrativa del Décimo Séptimo Circuito
+FECHA: 2025-11-19
+TIPO DE ASUNTO: Queja
+AVISO: Uso institucional UI-04 (2 sentencias con el mismo machote): codifica la declaración una sola vez.
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+[15] Audio que se genera con base en una aplicación de inteligencia artificial, derivado del texto proporcionado por este Tribunal Colegiado contenido en esta sentencia. Al respecto, se comparte el criterio contenido en la tesis II.2o.C.9 K (11a.), registro digital 2031010, de rubro: “INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.”
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+RECURSO DE QUEJA ADMINISTRATIVA NÚMERO 491/2025.
+
+QUEJOSO Y RECURRENTE: ****** ***** ********* *******.
+
+MAGISTRADO PONENTE: LICENCIADO JOSÉ RAYMUNDO CORNEJO OLVERA.
+
+SECRETARIA: LICENCIADA CLAUDIA ALEJANDRA ALVARADO MEDINILLA.
+
+Chihuahua, Chihuahua, acuerdo del Primer Tribunal Colegiado en Materias Penal y Administrativa del Decimoséptimo Circuito, correspondiente a la sesión de diecinueve de noviembre de dos mil veinticinco.
+
+V I S T O S, para resolver en audiencia pública y celebrada por videoconferencia, en términos del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma diversas disposiciones que regulan la difusión de las videograbaciones de las sesiones públicas de los Tribunales Colegiados y Plenos de Circuito, los autos del Recurso de Queja Administrativa número 491/2025, derivado del juicio de amparo ********* del índice del Juzgado Primero de Distrito en el Estado de Chihuahua, con residencia en esta ciudad; y,
+
+R E S U L T A N D O:
+
+PRIMERO. Mediante escrito presentado electrónicamente en el Portal de Servicios en Línea del Poder Judicial Federal el doce de noviembre de dos mil veinticinco, ****** ***** ********* *******, por conducto de su autorizado ***** ******** *****, interpuso recurso de queja contra el acuerdo de diez del citado mes y año, dictado en el incidente de suspensión derivado del juicio de amparo indirecto ********* del Juzgado Primero de Distrito en el Estado de Chihuahua, en el cual se negó la suspensión provisional.
+
+Por oficio ********** de trece de noviembre de dos mil veinticinco, la Titular del Juzgado Primero de Distrito en el Estado de Chihuahua rindió su informe sobre la materia de la queja interpuesta por la parte quejosa e informó que las constancias del expediente electrónico relativo estaban disponibles para su consulta en el sistema integral de seguimiento de expedientes.
+
+El recurso de queja se recibió el trece del presente mes y año en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materias Penal y Administrativa del Decimoséptimo Circuito, con residencia en esta ciudad y el catorce siguiente en este órgano colegiado.
+
+SEGUNDO. Por auto de catorce de noviembre de dos mil veinticinco se ordenó formar el expediente, dar trámite al presente medio de impugnación y conforme al control que al efecto se lleva internamente, se turnaron los autos a la ponencia del magistrado ponente, licenciado José Raymundo Cornejo Olvera, a fin de que formulara el proyecto de resolución correspondiente; y,
+
+C O N S I D E R A N D O:
+
+PRIMERO.- Competencia. Este Primer Tribunal Colegiado en Materias Penal y Administrativa del Decimoséptimo Circuito, es competente para conocer y resolver el presente recurso de queja, con base en lo establecido por los artículos 97, fracción I, inciso b), 98, fracción I y 101, último párrafo, de la Ley de Amparo y 35, fracción III, de la Ley Orgánica del Poder Judicial de la Federación en vigor, así como por el Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito; toda vez que el proveído impugnado se dictó en el incidente de suspensión derivado de un juicio de amparo indirecto, en materia administrativa, por una Juez de Distrito con residencia en esta ciudad, en la que este órgano colegiado ejerce jurisdicción.
+
+SEGUNDO.- Oportunidad de la interposición del recurso.
+
+El acuerdo en pugna se notificó al recurrente, por conducto de su autorizado, el once de noviembre de dos mil veinticinco y surtió efectos el mismo día, por lo que el término de dos días previsto por el artículo 98, fracción I, de la Ley de Amparo, transcurrió del doce al trece del citado mes y año; por tanto, si el escrito de expresión de agravios se presentó el doce de noviembre del año en curso, resulta oportuna la interposición del presente medio de impugnación, debido a que se promovió dentro del plazo previsto en la ley. Lo anterior, se patentiza en el cuadro calendario siguiente:
+
+SIN TEXTO
+
+NOVIEMBRE DE DOS MIL VEINTICINCO.
+
+L M M J V S D
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+NOTIFICÓ INICIÓ CONCLUYÓ
+
+Y SURTIÓ CÓMPUTO Y CÓMPUTO
+
+EFECTOS PRESENTÓ
+
+TERCERO.- Resulta innecesario transcribir el auto recurrido, así como los agravios que en su escrito de impugnación hace valer la parte inconforme, los cuales se tienen por reproducidos en este considerando, como si se insertasen a la letra, por economía procesal y porque la ley de la materia no exige su trascripción; además, el hecho de que no se trascriban no la deja en estado de indefensión, pues de ninguna forma implica que se dejen de observar los principios de congruencia y exhaustividad con que deben cumplir las sentencias de amparo.
+
+Máxime, que el artículo 74 de la Ley de Amparo establece los elementos que la sentencia debe contener, entre los que no se comprenden la transcripción de las consideraciones que sustentan la determinación recurrida, ni la de los agravios; lo cual encuentra razonable explicación si se tiene en cuenta que los principios de congruencia y exhaustividad se satisfacen cuando el órgano revisor de amparo precisa los puntos sujetos a debate, derivados del escrito de expresión de agravios, los estudia y les da respuesta, misma que debe estar vinculada y corresponder a los planteamientos de legalidad o constitucionalidad, efectivamente hechos valer en el pliego correspondiente. De manera que prescindir de tal reproducción en nada agravia a las partes; aunado a que dicho fallo y argumentos defensivos obran en autos.
+
+Lo anterior encuentra soporte en la jurisprudencia que dice:
+
+“CONCEPTOS DE VIOLACIÓN O AGRAVIOS. PARA CUMPLIR CON LOS PRINCIPIOS DE CONGRUENCIA Y EXHAUSTIVIDAD EN LAS SENTENCIAS DE AMPARO ES INNECESARIA SU TRANSCRIPCIÓN. De los preceptos integrantes del capítulo X "De las sentencias", del título primero "Reglas generales", del libro primero "Del amparo en general", de la Ley de Amparo, no se advierte como obligación para el juzgador que transcriba los conceptos de violación o, en su caso, los agravios, para cumplir con los principios de congruencia y exhaustividad en las sentencias, pues tales principios se satisfacen cuando precisa los puntos sujetos a debate, derivados de la demanda de amparo o del escrito de expresión de agravios, los estudia y les da respuesta, la cual debe estar vinculada y corresponder a los planteamientos de legalidad o constitucionalidad efectivamente planteados en el pliego correspondiente, sin introducir aspectos distintos a los que conforman la litis. Sin embargo, no existe prohibición para hacer tal transcripción, quedando al prudente arbitrio del juzgador realizarla o no, atendiendo a las características especiales del caso, sin demérito de que para satisfacer los principios de exhaustividad y congruencia se estudien los planteamientos de legalidad o inconstitucionalidad que efectivamente se hayan hecho valer.”.[1]
+
+También se comulga con el criterio de la tesis aislada XVII.1o.C.T.30 K[2], sustentada por el Primer Tribunal
+
+[1] “Registro digital: 164618-Instancia: Segunda Sala-Novena Época-Materias(s): Común-Tesis: 2a./J. 58/2010-Fuente: Semanario Judicial de la Federación y su Gaceta-Tomo XXXI, Mayo de 2010, página 830-Tipo: Jurisprudencia”
+
+[2] “Registro digital: 175433-Instancia: Tribunales Colegiados de Circuito-Novena Época-Materias(s): Común-Tesis: XVII.1o.C.T.30 K-Fuente: Semanario Judicial de la Federación y su Gaceta-Tomo XXIII, Marzo de 2006, página 2115-Tipo: Aislada”
+
+Colegiado en Materias Civil y de Trabajo de ese Circuito, que señala:
+
+“SENTENCIAS DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO. AL EMITIRLAS NO SE ENCUENTRAN OBLIGADOS A TRANSCRIBIR LA RESOLUCIÓN RECURRIDA. El hecho de que en las sentencias que emitan los Tribunales Colegiados de Circuito no se transcriba la resolución recurrida, no infringe disposiciones de la Ley de Amparo, a la cual quedan sujetas sus actuaciones, pues el artículo 77 de dicha legislación, que establece los requisitos que deben contener las sentencias, no lo prevé así, ni existe precepto alguno que establezca esa obligación; además, dicha omisión no deja en estado de indefensión al recurrente, puesto que ese fallo obra en los autos y se toma en cuenta al resolver.”.
+
+CUARTO.- En el caso, resulta aplicable en favor del disconforme la suplencia de su queja, en términos de la fracción VII del artículo 79 de la Ley de Amparo, pues, dada su discapacidad visual[3], dicha figura busca asegurar que las condiciones desfavorables en que se encuentran determinados grupos sociales en nuestro país no se traduzcan, a su vez, en desventajas procesales y de acceso a la tutela jurisdiccional efectiva.
+
+Ilustra al respecto, la tesis 2a. L/2020 (10a.) de la entonces Segunda Sala de la Suprema Corte de Justicia de la Nación, Décima Época de la Gaceta del Semanario Judicial de la Federación, registro digital 2022415, que dice:
+
+[3] Según se advierte de la Credencial Nacional para Personas con Discapacidad que adjuntó a su demanda de amparo, expedida a su nombre por la Jefa de la Unidad de Asistencia e Inclusión Social.
+
+“SUPLENCIA DE LA QUEJA DEFICIENTE. DEBE APLICARSE EN FAVOR DE LAS PERSONAS CON DISCAPACIDAD, EN TÉRMINOS DEL ARTÍCULO 79, FRACCIÓN VII, DE LA LEY DE AMPARO.
+
+… Criterio jurídico: La Segunda Sala del Alto Tribunal determina que es procedente suplir la queja deficiente en favor de las personas con discapacidad, en términos de la fracción VII del artículo 79 de la Ley de Amparo, misma que prevé su actualización en beneficio de quienes, "por sus condiciones de ... marginación se encuentren en clara desventaja social para su defensa en el juicio".
+
+Justificación: Lo anterior, pues la finalidad de la fracción normativa en cita consiste en asegurarse de que las condiciones desfavorables en que se encuentran determinados grupos sociales en nuestro país no se traduzcan, a su vez, en desventajas procesales y de acceso a la tutela jurisdiccional efectiva. En ese sentido, la suplencia de la queja opera en favor de las personas con discapacidad, al pertenecer a uno de los grupos histórica y socialmente más vulnerables del país. Máxime cuando ello resulta congruente por los compromisos internacionales de mejorar la situación de las personas con discapacidad, a través de la adopción de medidas positivas para reducir las desventajas estructurales que padecen tales personas. En ese sentido, es evidente que un trato jurisdiccional preferente resulta del todo justificado en tratándose de personas con discapacidad; de ahí que no sólo se debe atender a sus peticiones y reclamos prescindiendo de la exigibilidad de ciertos tecnicismos o formalismos, sino que, al suplir la queja deficiente, los tribunales deben coadyuvar a “dar voz” a quienes frecuentemente no son escuchados por su condición de vulnerabilidad.”.
+
+QUINTO.- Los agravios expresados por el quejoso resultan parcialmente fundados.
+
+A manera de preámbulo, es oportuno relatar los antecedentes jurídicos relevantes que informan este asunto y dan mérito a la anunciada calificación de las pretensiones planteadas por el disconforme:
+
+1. Mediante escrito depositado en el buzón de la Oficina de Correspondencia Común de los Juzgados de Distrito, con sede en esta ciudad, ****** ***** ********* *******, demandó el amparo y la protección de la Justicia Federal en contra de los actos reclamados al titular de la Secretaría del Bienestar en Chihuahua, con sede en esta ciudad, consistentes en (i) la inminente negativa de otorgarle una pensión no contributiva para personas con alguna discapacidad, por el mismo monto de la otorgada a personas adultas mayores, así como (ii) la omisión de dar respuesta a la solicitud que presentó el veintiocho de febrero de dos mil veinticinco.
+
+2. En auto de diez de noviembre de dos mil veinticinco, la Juez Primero de Distrito en el Estado de Chihuahua, a quien tocó conocer el asunto, admitió la demanda que radicó como juicio de amparo ********* y, entre otras cosas, ordenó la apertura del incidente de suspensión, en el que, mediante proveído dictado en esa misma fecha, negó al quejoso la suspensión provisional de los actos reclamados, con base en las consideraciones siguientes:
+
+“… Fijación del acto reclamado.
+
+Ahora, a efecto de proveer sobre la suspensión provisional solicitada, resulta importante puntualizar que del análisis íntegro de la demanda de amparo la parte quejosa reclama del Titular de la Secretaría del Bienestar Chihuahua, con sede en esta ciudad, lo siguiente:
+
+➢ La omisión de dar respuesta al escrito presentado ante la autoridad responsable el veinticinco de marzo de dos mil veinticinco, relativo a la solicitud de pensión no contributiva por discapacidad.
+
+[…]
+
+En el caso sujeto a estudio, la parte quejosa reclama esencialmente la inminente negativa de la responsable de acceder otorgarle la pensión para el Bienestar de las Personas con Discapacidad.
+
+Asimismo, en el capítulo correspondiente, solicitó la suspensión del acto reclamado, para el efecto de que se le otorgue esa pensión; empero, no demuestra que al momento de la presentación de la demanda la disconforme efectivamente tenga el derecho a la pensión que refiere.
+
+En efecto, de concederse la suspensión que solicita para el efecto de que le sea otorgada la pensión referida, se traduciría en el otorgamiento de un derecho del cual no ha sido declarado beneficiario y que no ha recibido con anterioridad al ejercicio de la acción constitucional.
+
+Por lo tanto, es inconcuso que con anterioridad a la presentación de la demanda, el quejoso no se encuentra reconocido como beneficiario de la pensión otorgada para el Bienestar de las Personas con Discapacidad.
+
+En ese tenor, el otorgamiento de la suspensión infringiría el artículo 131, segundo párrafo, de la Ley de Amparo, conforme al cual, según se explicó, la medida cautelar no puede constituir derechos de los cuales se carecía al momento de la presentación de la demanda; ello porque no existe constancia de la que se desprenda que la quejosa se le haya reconocido por parte de la responsable como beneficiaria de la pensión para personas con discapacidad.
+
+Sin que proceda otorgar la suspensión con base en la apariencia del buen derecho y el peligro en la demora, toda vez que esos aspectos no implican soslayar la naturaleza y finalidad de la suspensión, ni la prohibición expresa contenida en el citado artículo 131 de la Ley de Amparo, que establece que en ningún caso el otorgamiento de la medida cautelar podrá tener por efecto modificar o restringir derechos ni constituir aquellos que no haya tenido la quejosa antes de la presentación de la demanda.
+
+Tampoco pasa inadvertido que la solicitud de la medida cautelar se llevó a cabo con base en la protección de un derecho social; sin embargo, tales aspectos no llevan al extremo de llegar a constituir un derecho que no tenía antes de la presentación de la demanda.
+
+En esas condiciones, en el caso concreto y bajo las circunstancias analizadas, lo procedente es negar la suspensión provisional solicitada por la parte quejosa respecto del acto que en esta vía reclama.”.
+
+4. Esto es, la juzgadora federal negó la suspensión provisional solicitada fijando como único acto reclamado por el justiciable la inminente negativa de la autoridad responsable a otorgarle una pensión no contributiva para personas con discapacidad.
+
+Ahora bien, frente a ello, el peticionario del amparo se inconforma manifestando, básicamente, que en el particular, en donde está de por medio su subsistencia como persona con discapacidad, es imperante la concesión de la suspensión con efectos restitutorios como un anticipo de la sentencia de amparo conforme al principio de la apariencia del buen derecho y el peligro en la demora, por encontrarse en juego su mínimo vital; razón por la cual, atento al principio pro persona, debe otorgarse la suspensión provisional y en su momento, la definitiva, puesto que debe acudirse a la norma más amplia y a la interpretación más extensiva cuando se trata de reconocer derechos fundamentales.
+
+Añade que, bajo el nuevo escenario de derechos humanos, debe concedérsele tal providencia cautelar, porque el reclamado se trata de un acto que trasciende en forma directa en sus derechos fundamentales, de modo que en nada afecta su otorgamiento; particularidades que no fueron analizadas en el auto recurrido.
+
+Delimitado tal contexto fáctico y jurídico, es claro que la materia de la litis planteada en esta vía de impugnación se constriñe a determinar la procedencia o no de la suspensión provisional de los actos reclamados en el caso, supliendo la deficiencia de la queja externada por el peticionario del amparo.
+
+Para ello, importa recordar que la negativa de la suspensión provisional impugnada partió de la fijación de los actos reclamados realizada por la A quo, ambos -inminente negativa de pensión y falta de contestación a esa solicitud- los englobó en un solo acto reclamado: “omisión de dar respuesta al escrito presentado ante la autoridad responsable el veinticinco de marzo de dos mil veinticinco, relativo a la solicitud de pensión no contributiva por discapacidad.”; es decir, violación a su derecho de petición-.
+
+Apreciación que no se comparte, toda vez que del estudio integral de la demanda de amparo y sus anexos, se obtiene que la parte quejosa, en realidad, reclama de manera destacada dos actos distintos, a saber: (i) la inminente negativa de otorgarle una pensión no contributiva para personas con alguna discapacidad, por el mismo monto de la otorgada a personas adultas mayores; y (ii) la omisión de dar respuesta a la solicitud de dicha pensión que presentó el veintiocho de marzo de dos mil veinticinco.
+
+Partiendo de esa premisa, se concluye que el estudio sobre la procedencia o no de la suspensión solicitada por la parte quejosa no solo debió realizarse bajo la figura de la suplencia de la queja que se actualiza en el caso, sino con base en un análisis diferenciado de la naturaleza de cada uno de esos actos de los cuales se duele en su demanda de amparo, como se efectuará a continuación por este tribunal.
+
+La negativa de la suspensión provisional decretada debe prevalecer pero únicamente por lo que toca al acto reclamado destacado, traducido en la inminente negativa de otorgar al quejoso una pensión no contributiva para personas con discapacidad visual por el mismo monto de la otorgada a personas adultas mayores, ya se trata de un acto futuro e incierto que no es susceptible de ser suspendido, en razón de que su realización no es segura, sino remota, pues su existencia depende de la postura que, en todo caso, asuma la autoridad responsable al pronunciarse sobre esa solicitud.
+
+Así lo sustentan los criterios que enseguida se copian con sus elementos de difusión pública:
+
+“Suprema Corte de Justicia de la Nación Registro digital: 284798 Instancia: Pleno Quinta Época Materias(s): Común Fuente: Semanario Judicial de la Federación. Tomo XIV, página 329 Tipo: Aislada ACTOS FUTUROS E INCIERTOS. Contra ellos es improcedente conceder la suspensión.”
+
+“Suprema Corte de Justicia de la Nación Registro digital: 230653 Instancia: Tribunales Colegiados de Circuito Octava Época Materias(s): Administrativa Fuente: Semanario Judicial de la Federación. Tomo II, Segunda Parte-2, Julio-Diciembre de 1988, página 571 Tipo: Aislada
+
+SUSPENSION, PROCEDE EN CONTRA DE ACTOS INMINENTES, NO ASI EN CONTRA DE ACTOS FUTUROS E INCIERTOS. Los actos Futuros de realización incierta, tanto en su ejecución como en sus efectos, no son susceptibles de servir como materia a la medida cautelar; sólo procede ésta si se tiene certidumbre acerca de su realización por tratarse de actos inminentes.”
+
+En cambio, resulta procedente conceder la suspensión provisional respecto al diverso acto del que se duele la parte justiciable, consistente en la omisión de dar respuesta a la solicitud de pensión que, en su calidad de persona con discapacidad visual permanente, presentó ante la autoridad responsable el veintiocho de marzo de dos mil veinticinco, porque, en realidad, se traduce en la omisión de la Secretaría del Bienestar en Chihuahua de resolver lo que en derecho corresponda respecto del trámite de dicha solicitud.
+
+De ahí que si bien es verdad dicha medida cautelar no puede ser constitutiva de derechos que con antelación no tiene en su haber la persona quejosa, también lo es que respecto de la petición que, desde el mes de marzo de dos mil veinticinco, elevó a la autoridad responsable, tiene derecho a que se le resuelva dicho trámite, mediante una respuesta debidamente fundada y motivada, porque atento a lo expresado en su solicitud y a las manifestaciones que al respecto realizó, bajo protesta de decir verdad, en su demanda de amparo, es una persona que padece discapacidad visual permanente, lo cual acredita con la credencial nacional de personas con discapacidad, expedida a su nombre por la Jefa de la Unidad de Asistencia e Inclusión Social, con folio *******, de modo que, a su parecer, se ubica dentro de la población mexicana con derecho a recibir la denominada “Pensión del Bienestar para Personas con Discapacidad”, porque el artículo 4° constitucional[4] establece que la Federación y las entidades federativas garantizarán la entrega de una pensión no contributiva a las personas con discapacidad permanente menores de sesenta y cinco años, en los términos que fije la ley.
+
+Relacionado con ello, el veintidós de enero de dos mil veinticinco se publicó, en el Diario Oficial de la Federación[5], el Acuerdo por el que se emiten las Reglas de Operación del Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente, para el ejercicio fiscal 2025, emitido por la Secretaría de Bienestar del gobierno de la República.
+
+Su objetivo general[6] es contribuir a mejorar el ingreso monetario de los hogares de las personas mexicanas con discapacidad permanente, de niñas, niños, adolescentes y jóvenes de 0 a 29 años de edad y personas de 30 y hasta un día antes de cumplir los 65 años de edad, que (i) habiten en municipios y localidades indígenas o afromexicanas o en municipios o localidades con alto o muy alto grado de marginación, o (ii) personas de 30 y hasta un día antes de cumplir los 65 años de edad que residan en una entidad federativa cuyo gobierno haya firmado el Convenio para la Universalización de la Pensión para personas con discapacidad permanente.
+
+Ello, mediante un apoyo económico[7] de
+
+[4] «Artículo 4o.-… La Federación y las entidades federativas garantizarán la entrega de una pensión no contributiva a las personas con discapacidad permanente menores de sesenta y cinco años, en los términos que fije la ley.»
+
+[5]https://www.gob.mx/cms/uploads/attachment/file/969447/RO_PPBPDP_2025_01_22.pdf
+
+[6] Artículo 2.1
+
+[7] 3.5.1 Apoyos Económicos El monto del apoyo será de $1,600.00 (Mil seiscientos pesos 00/100 M.N.) mensuales pagaderos bimestralmente, de acuerdo con el Presupuesto de Egresos de la Federación autorizado para el ejercicio fiscal 2025, el cual se actualizará a partir del año 2026, para $1,600.00 pesos mensuales (pagaderos bimestralmente), para lo cual se exigen los siguientes requisitos[8]: (1) acta de nacimiento; (2) documento de Identificación vigente; (3) Clave Única de Registro de Población «CURP»; (4) certificado y/o constancia médica que acredite la discapacidad permanente, emitido por alguna institución pública del sector salud federal, estatal o municipal; (5) comprobante de domicilio o constancia de residencia de la autoridad local; y (6) Formato de Registro Personas con Discapacidad debidamente llenado.
+
+En su punto 3.6.1, el citado Acuerdo[9] reconoce que todas las personas derechohabientes de la pensión tienen derecho a recibir información de manera clara y oportuna.
+
+Mientras que los incisos c) y d) de su punto 4.1 disponen[10] que se informará a la persona solicitante o a su adulto auxiliar, el resultado de su solicitud de incorporación al Programa, en un plazo máximo de dos meses a la captura del trámite por las Delegaciones de Programas para el Desarrollo, a partir de la recepción de su solicitud en los Módulos de Atención; y, en caso de validación del registro, se iniciará el proceso de entrega del medio de pago por medio de tarjeta bancaria.
+
+aquellas personas incorporadas en el Padrón de Beneficiarios y que no se encuentren en algún supuesto de retención, suspensión, o baja de acuerdo con lo establecido en las presentes Reglas de Operación.
+
+[8] 3.3 Criterios de Elegibilidad y Requisitos de Acceso
+
+[9] 3.6.1 Derechos Las Personas Derechohabientes de la Pensión tienen derecho a: a) Recibir información de manera clara y oportuna.
+
+[10] 4. Operación 4.1 Proceso El proceso para la atención a las personas solicitantes será de acuerdo con lo siguiente: … c) Se informará a la persona solicitante o a su adulto auxiliar, el resultado de su solicitud de incorporación al Programa, en un plazo máximo de dos meses a la captura del trámite por las Delegaciones de Programas para el Desarrollo a partir de su solicitud en los Módulos de Atención o través de la Línea de Bienestar establecidos en el numeral 6.2 Solicitudes de Información de las presentes Reglas de Operación.
+
+Atento a lo anterior, en el caso, se considera acreditada la apariencia del buen derecho[11] de la parte quejosa dado que (i) manifestó bajo protesta de decir verdad tener una discapacidad visual permanente; y adjuntó a su demanda de amparo (ii) la solicitud de pensión para personas con discapacidad presentada ante la Secretaría de Bienestar en Chihuahua desde el veintiocho de marzo de dos mil veinticinco, sin que obre constancia en torno a su respuesta una vez que transcurrieron en demasía los dos meses que para tal efecto tenía la autoridad responsable; así como (iii) copia de su Credencial Nacional para Personas con Discapacidad (folio *******), emitida por la Secretaría de Salud, en la que obra su Clave Única de Registro de Población «CURP», teléfono y domicilio.
+
+Ante ese entorno, se coincide con la A Quo en que la suspensión no puede tener por efecto que de inmediato se le proporcione la pensión pretendida, pues corresponde a la autoridad administrativa verificar el cumplimiento de los requisitos para su procedencia.
+
+Sin embargo, atendiendo a que la omisión de dar respuesta a la solicitud de pensión que -en los apuntados términos- le realizó la parte quejosa no es una abstención simple, sino que constituye un acto negativo -omisión de resolver su trámitecon efectos positivos -retrasar el pago de pensión, de ser procedente-, la negativa de la suspensión pudiera implicar dejar al recurrente en estado de indefensión en cuanto a dicho trámite de pensión al subsistir la falta de resolución sobre dicha solicitud, pues, aun cuando justificó encontrarse en el supuesto para gozar de la pensión por discapacidad, su petición no ha sido resuelta por la
+
+[11] Véase la jurisprudencia 2a./J. 204/2009 de la Segunda Sala de la Suprema Corte de Justicia de la Nación, registro digital 165659, de rubro: «SUSPENSIÓN. PARA DECIDIR SOBRE SU OTORGAMIENTO EL JUZGADOR DEBE PONDERAR SIMULTÁNEAMENTE LA APARIENCIA DEL BUEN DERECHO CON EL PERJUICIO AL INTERÉS SOCIAL O AL ORDEN PÚBLICO.» autoridad responsable dentro del plazo establecido en la normatividad aplicable, con la consecuencia de que estaría siendo privado de un derecho fundamental que como mexicano, en situación de persona con discapacidad, le reconoce la Constitución Política de los Estados Unidos Mexicanos, particularmente, en su artículo 4º.
+
+Determinada así la naturaleza del acto reclamado que ahora nos ocupa, este tribunal estima que, en la especie, se encuentran satisfechos los requisitos que para la procedencia de la suspensión establece el artículo 128 de la Ley de Amparo y existen condiciones para tutelar en forma anticipada y restitutoria los derechos de la parte quejosa.
+
+Existencia del acto reclamado De las constancias que obran en autos se advierte su existencia, ya que la parte quejosa aportó el acuse de recibo de la solicitud que motivó la omisión reclamada.
+
+Interés suspensional En el caso, la parte justiciable es precisamente la interesada en obtener el apoyo social económico que solicitó a la autoridad responsable; por ende, dicho vínculo jurídico acredita su interés suspensional, pues la omisión reclamada incide de manera directa en su derecho de petición, pudiendo generar, virtud a lo solicitado -pensión no contributiva para persona con discapacidad-, un perjuicio de difícil reparación en tanto subsista el descuido de referencia -no resolver su trámite-, al impactar indirectamente en el derecho fundamental de las personas con discapacidad permanente a acceder a una pensión no contributiva.
+
+Ponderación frente al interés social y el orden público.
+
+La concesión de la medida no ocasiona perjuicio alguno a la colectividad ni contraviene disposiciones de orden público, pues su finalidad es proteger el derecho de petición previsto en el artículo 8 de la Constitución Política de los Estados Unidos Mexicanos, del cual toda persona es titular y adicionalmente, en su caso, el derecho de las personas con discapacidad permanente de acceder a una pensión no contributiva, previsto en el artículo 4º de la propia carta magna.
+
+Por ende, si esos derechos -de petición y pensionario- se encuentran establecidos a nivel constitucional es inconcuso que los intereses sociales no se vulneran con esta medida; por el contrario, la colectividad está interesada en que los derechos que han sido reconocidos a ese rango, sean promovidos, respetados, protegidos y garantizados.
+
+De modo tal que, con la concesión de la suspensión provisional, la sociedad no resiente afectación alguna, en tanto se examina, precisamente, la constitucionalidad o no del acto reclamado de trato.
+
+Apariencia del buen derecho La apariencia del buen derecho permite a las y los juzgadores de amparo, en una etapa temprana del juicio constitucional, como lo es la suspensión provisional, analizar anticipadamente la posible inconstitucionalidad del acto reclamado para así otorgar una tutela preliminar de la protección constitucional.
+
+En efecto, la nueva manera de acceder a una verdadera protección constitucional para las y los justiciables prevé diversos mecanismos a fin de proteger en mayor grado posibles afectaciones a su esfera jurídica; es decir, la apariencia del buen derecho constituye la visión más proteccionista que puede contener la suspensión de los actos, pues, se insiste, permite a la persona juzgadora realizar un análisis preliminar del fondo del asunto, pero sin prejuzgar sobre él.
+
+Como resultado de ese ejercicio, acorde con las constancias obrantes en autos, se estima que, en la especie, la autoridad responsable ha retrasado su pronunciamiento sobre la pensión no contributiva para personas con discapacidad permanente que le solicitó la parte quejosa, aquí recurrente; retardo que, según se explicó, no solamente transgrede ese derecho constitucional de petición, sino el diverso pensionario, contenidos en los artículos 8º y 4º del pacto federal, de modo que la omisión reclamada podría incidir de manera directa en el goce efectivo de los derechos humanos en cita.
+
+A ello se suma que la ahora parte inconforme pertenece a un grupo vulnerable al padecer una discapacidad visual permanente, sobre lo cual el artículo 4 de la Ley General para la Inclusión de las Personas con Discapacidad, prevé que toda persona en esa situación gozará de todos los derechos que establece el orden jurídico mexicano, sin distinción de origen étnico, nacional, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, opiniones, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otro motivo u otra característica propia de la condición humana o que atente contra su dignidad.
+
+Asimismo, dispone que las medidas contra la discriminación tienen como finalidad prevenir o corregir que una persona con discapacidad sea tratada de una manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable.
+
+Por su parte, el numeral 21 de dicha legislación establece que la Secretaría de Desarrollo Social -actualmente Secretaría del Bienestar- promoverá el derecho de las personas con discapacidad a un mayor índice de desarrollo humano, así como el de sus familias, incluyendo alimentación, vestido y vivienda adecuados, también a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad, entre otras cosas, bajo el establecimiento de medidas que garanticen el acceso de las personas con discapacidad en todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza, en observancia de todas aquellas disposiciones que les sean aplicables de la Ley General de Desarrollo Social.
+
+A su vez, esta última normativa, en su artículo 3, dispone, entre diversas cuestiones, que la Política de Desarrollo Social se sujeta a múltiples principios, entre ello, para el caso particular, el de justicia distributiva, solidaridad, integralidad y respeto a la diversidad.
+
+Para tal efecto, precisa que la justicia distributiva impone garantizar que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y las de las demás personas.
+
+La solidaridad dispone la efectiva colaboración entre personas, grupos sociales y órdenes de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad.
+
+La integralidad consiste en la articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, en el marco de la Política Nacional de Desarrollo Social.
+
+El respeto a la diversidad implica el reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias.
+
+Ahora bien, el Plan Nacional de Desarrollo del Gobierno de México para los años 2025 a 2030, establece múltiples objetivos y acciones para la transformación del país bajo un modelo de desarrollo con bienestar, justicia social y sustentabilidad, bajo un enfoque de promoción, protección, respeto y garantía de derecho humanos.
+
+Entre esas acciones se encuentran los programas sociales elevados a rango constitucional, cuya finalidad es el bienestar y desarrollo humano, bajo la ampliación de la red de protección social para personas que enfrentan situaciones o condiciones de desigualdad, pobreza o marginación y aquellas que por diversas razones se encuentren en situaciones de vulnerabilidad.
+
+Bajo ese orden, sin prejuzgar sobre el fondo del asunto, se concluye que en el particular opera la apariencia del buen derecho en favor de la persona quejosa al ubicarse, en forma indiciaria y para efectos de este incidente de trato, bajo los supuestos de apoyo y desarrollo social establecidos por la propia Administración Pública del Estado Mexicano, por lo que, al menos, merece obtener una respuesta a su solicitud de pensión y en esa medida, es procedente concederle la suspensión provisional de esa omisión en análisis que reclama, para el efecto de que, dentro del plazo de veinticuatro horas, la autoridad responsable, Secretaría del Bienestar en Chihuahua, realice lo siguiente:
+
+1. Se pronuncie respecto a la procedencia o improcedencia de la solicitud que le presentó el quejoso para obtener una “Pensión para el Bienestar de las Personas con Discapacidad Permanente”.
+
+2. Para lo cual deberá analizar la solicitud y anexos a fin de, en su caso, obtener la totalidad de los requisitos que exige el Acuerdo por el que se emiten las Reglas de Operación del Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente, para el ejercicio fiscal dos mil veinticinco.
+
+3. De ser procedente, tome de manera inmediata todas las medidas necesarias para proceder al pago de la pensión al quejoso, a partir de la fecha en que presentó su solicitud.
+
+Bajo apercibimiento que en caso de incumplimiento o no informar su impedimento legal se harán efectivos los medios de apremio y sanciones que prevé el Título Quinto de la Ley de Amparo.
+
+En apoyo a lo resuelto, se comparte, por analogía, el criterio sustentado en la tesis I.20o.A.42 A (11a.) del Vigésimo Tribunal Colegiado en Materia Administrativa del Primer Circuito, con registro digital 2030317, que dice:
+
+“SUSPENSIÓN PROVISIONAL EN AMPARO INDIRECTO. PROCEDE CONTRA LA OMISIÓN DE PAGO CORRESPONDIENTE AL PROGRAMA PENSIÓN PARA EL BIENESTAR DE LAS PERSONAS CON DISCAPACIDAD PERMANENTE.
+
+Hechos: Una persona con discapacidad permanente reconocida por los servicios de salud pública del Gobierno de la Ciudad de México, promovió amparo indirecto contra la omisión de pago de diversos bimestres del Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente. La persona juzgadora otorgó la suspensión provisional solicitada para el efecto de que se reanudara el pago periódico de su pensión hasta que se emitiera una resolución sobre los folios de aclaración o corrección levantados por aquélla, al estimar que no se contravienen disposiciones de orden público ni se sigue perjuicio al interés social.
+
+Criterio jurídico: Este Tribunal Colegiado de Circuito determina que procede la suspensión provisional en el amparo indirecto contra la omisión de pago correspondiente al Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente.
+
+Justificación: El apoyo económico objeto del programa referido persigue finalidades de orden público e interés social, como lo son el mejoramiento de la situación de protección social de la población en condiciones de vulnerabilidad, particularmente al padecer una discapacidad permanente, lo cual es consistente con el décimo cuarto párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, en relación con la obligación del Estado de garantizar la entrega de apoyos económicos en los términos que fijen las leyes, a las personas pertenecientes a grupos vulnerables, como son aquellas con discapacidades permanentes. Por ello, la medida cautelar no sigue perjuicio al interés social ni contraviene disposiciones de orden público, por lo que se actualiza el requisito previsto en el artículo 128, fracción II, de la Ley de Amparo para su otorgamiento.”
+
+Sin que la presente determinación inobserve la jurisprudencia 2a./J. 22/2023 (11a.) de la entonces Segunda Sala del Alto Tribunal, registro digital 2026730, de rubro: “SUSPENSIÓN DEL ACTO RECLAMADO CON EFECTOS RESTITUTORIOS. PARÁMETROS QUE DEBE TOMAR EN CUENTA EL JUZGADOR AL ANALIZAR LA POSIBILIDAD DE CONCEDERLA ANTE LA EVENTUALIDAD DE QUE, CON ELLO, SE DEJE SIN MATERIA EL JUICIO DE AMPARO EN LO PRINCIPAL”, dado que, por un lado, se trata de un beneficio transitorio posible de ser retrotraído mediante la interrupción, de ser el caso, del pago de la pensión de no obtener sentencia desfavorable en el juicio de amparo; y, por el otro, no queda sin materia el juicio principal, pues subsiste la causa de pedir del quejoso, con base en la cual se analizará -incluso ex officio[12]- la regularidad constitucional del Acuerdo que prevé los requisitos para acceder a la pensión de trato, así como que el monto sea menor al que reciben las personas adultas mayores.
+
+Por esas mismas razones, la postura aquí asumida tampoco contraviene la jurisprudencia PR.A.CN. J/78 A (11a.)[13] del Pleno Regional en Materia Administrativa de la Región
+
+[12] De conformidad con la jurisprudencia P./J. 2/2022 (11a.) del Pleno del Alto Tribunal, registro digital 2024159, de rubro: “CONTROL DE REGULARIDAD CONSTITUCIONAL. CONTENIDO Y ALCANCE DEL DEBER DE LOS ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACIÓN DE REALIZARLO AL CONOCER JUICIOS DE AMPARO DIRECTO E INDIRECTO [ABANDONO DE LAS TESIS AISLADAS P. IX/2015 (10a.) Y P. X/2015 (10a.)].”
+
+[13] Suprema Corte de Justicia de la Nación Registro digital: 2028448 Instancia: Plenos Regionales Undécima Época Materias(s): Común, Administrativa Tesis: PR.A.CN. J/78 A (11a.)
+
+Fuente: Gaceta del Semanario Judicial de la Federación. Libro 35, Marzo de 2024, Tomo VI, página 5483 Tipo: Jurisprudencia SUSPENSIÓN PROVISIONAL EN EL JUICIO DE AMPARO INDIRECTO. ES IMPROCEDENTE CONCEDERLA PARA QUE SE DÉ RESPUESTA CUANDO SE RECLAMA VIOLACIÓN AL DERECHO DE PETICIÓN.
+
+Centro-Norte, dada su inaplicabilidad en el caso analizado.
+
+En consecuencia, emítase una resolución complementaria bajo un lenguaje simple y directo[14], así como una versión en audio[15] a fin de garantizar a la persona peticionaria un acceso pleno a las sentencias emitidas por el Poder Judicial de la Federación, ya que, como se expuso en la presente resolución, aduce tener una discapacidad.
+
+Apoya lo anterior, por analogía, la tesis 1a. CCCXXXIX/2013 (10a.) de la Primera Sala de la Suprema Corte de
+
+Hechos: Los Tribunales Colegiados de Circuito contendientes interpretaron la jurisprudencia 2a./J. 22/2023 (11a.) de la Segunda Sala de la Suprema Corte de Justicia de la Nación para analizar si procede otorgar la suspensión para el efecto de que la autoridad responsable otorgue una respuesta, cuando se impugne la omisión de contestar un escrito en el ejercicio del derecho de petición, y llegaron a conclusiones opuestas. Mientras que uno señaló que era improcedente concederla porque de hacerlo sus efectos no podrían ser revocados ante una sentencia que niegue la protección constitucional, el otro sostuvo que su otorgamiento no necesariamente implica que se emita una respuesta definitiva al fondo de lo solicitado. Criterio jurídico: El Pleno Regional en Materia Administrativa de la Región Centro-Norte, con residencia en la Ciudad de México, determina que es improcedente conceder la suspensión provisional contra las consecuencias derivadas de la omisión de contestar una solicitud en el ejercicio del derecho de petición.
+
+Justificación: El artículo 147 de la Ley de Amparo prevé que la suspensión como medida cautelar puede concederse con efectos conservativos o de tutela anticipada. La Segunda Sala de la Suprema Corte de Justicia de la Nación en la jurisprudencia 2a./J. 22/2023 (11a.) interpretó el primer párrafo de la norma citada en el enunciado "conservar la materia del amparo hasta la terminación del juicio" de ese precepto, y estableció los parámetros que deben tomarse en cuenta al analizar la posibilidad de conceder la suspensión con efectos restitutorios, ante la eventualidad de que con ello se deje sin materia el juicio de amparo principal: que se trate de un beneficio transitorio que pueda ser revocado con la sentencia de fondo que se dicte y, en sentido opuesto, cuando ese beneficio no sea transitorio o definitivo, que no podrá ser revocado aun cuando se niegue el amparo. De esta forma, cuando se solicita la suspensión por las consecuencias derivadas de la omisión de contestar un escrito de petición es improcedente concederla con efectos restitutorios –para que se otorgue una respuesta–, porque en ese caso se trata de una excepción a la regla general, ya que se otorgaría un beneficio definitivo que no podría ser revocado ante una eventual negativa del juicio de amparo en lo principal, al haberse producido la respuesta.
+
+PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO.
+
+[14] Al respecto, se comparte el criterio contenido en la tesis II.3o.T.7 L (11a.) del Tercer Tribunal Colegiado en Materia de Trabajo del Segundo Circuito, registro digital 2028081, de rubro: “PERSONAS CON DISCAPACIDAD VISUAL. EL TRIBUNAL COLEGIADO DE CIRCUITO QUE CONOZCA DEL JUICIO DE AMPARO DIRECTO QUE PROMUEVAN, DEBE REALIZAR LOS AJUSTES RAZONABLES PARA FACILITARLES EL PLENO CONOCIMIENTO DE LAS CONSECUENCIAS JURÍDICAS QUE DERIVAN DE LA SENTENCIA CORRESPONDIENTE.”
+
+[15] Audio que se genera con base en una aplicación de inteligencia artificial, derivado del texto proporcionado por este Tribunal Colegiado contenido en esta sentencia. Al respecto, se comparte el criterio contenido en la tesis II.2o.C.9 K (11a.), registro digital 2031010, de rubro: “INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.”
+
+Justicia de la Nación, Décima Época, de la Gaceta del Semanario Judicial de la Federación, con registro digital 2005141, de rubro: “SENTENCIA CON FORMATO DE LECTURA FÁCIL. EL JUEZ QUE CONOZCA DE UN ASUNTO SOBRE UNA PERSONA CON DISCAPACIDAD INTELECTUAL, DEBERÁ DICTAR UNA RESOLUCIÓN COMPLEMENTARIA BAJO DICHO FORMATO.”
+
+Formato complementario de lectura fácil que se realiza en los siguientes términos:
+
+*Hola ****** ********* . Este resumen es para explicarte de forma sencilla lo que decidió este Tribunal sobre tu caso.
+
+Tú presentaste una demanda de amparo porque la Secretaría del Bienestar en Chihuahua no te ha respondido la solicitud que hiciste desde el mes de marzo de dos mil veinticinco para recibir una pensión para personas con discapacidad permanente y además, temes que te la nieguen.
+
+El Juzgado de Distrito revisó tu caso y resolvió que no era procedente ahora pedirle a la Secretaría del Bienestar en Chihuahua que te paguen la pensión, pero tampoco que te den respuesta sobre si tienes o no derecho a esa pensión.
+
+Como no estuviste de acuerdo con esa conclusión, tu abogado presentó una queja ante este Tribunal Colegiado, argumentando que tu situación afecta tu mínimo vital, es decir, tu derecho a vivir con lo necesario para subsistir, por lo que debía protegerse tu caso de forma más efectiva.
+
+Este Tribunal Colegiado revisó tu asunto y te dio parcialmente la razón. Confirmó que todavía no puede ordenarse el pago automático de la pensión (porque eso se decide en un trámite administrativo), pero te otorgó la suspensión para que la autoridad actúe de manera más rápida y clara.
+
+En nuestra decisión, el Tribunal ordenó lo siguiente:
+
+✓ La Secretaría del Bienestar en Chihuahua debe, en un plazo máximo de 24 horas, resolver tu solicitud de pensión que le presentaste.
+
+✓ La autoridad debe revisar tus documentos y si cumples con los requisitos, empezar a pagarte la pensión desde la fecha en que se la solicitaste.
+
+✓ Si no cumple o no explica legalmente por qué no puede hacerlo, el Tribunal puede imponerle multas y sanciones.
+
+En resumen, ya no pueden dejarte sin respuesta. Si cumples los requisitos, la Secretaría debe autorizarte y pagarte la pensión que solicitaste, y hacerlo de inmediato, pues es un derecho humano que está previsto en el artículo 4° de nuestra Constitución.*
+
+Para lo cual -en vía de ajuste razonable[16]-, se comisiona a la Actuaria Judicial adscrita a este órgano colegiado para que notifique personalmente a la parte quejosa la presente resolución, le corra traslado con la versión complementaria en lenguaje sencillo y dé lectura de la misma directamente a ****** ***** ********* *******.
+
+Al respecto, se comparte el criterio contenido en la tesis II.1o.A.3 K (11a.) del Primer Tribunal Colegiado en Materia Administrativa del Segundo Circuito, registro digital 2030439, intitulada: “SENTENCIA EN FORMATO ACCESIBLE. SU EMISIÓN, LECTURA Y EXPLICACIÓN EN EL JUICIO DE AMPARO CONSTITUYEN AJUSTES AL PROCEDIMIENTO PARA QUE LAS PERSONAS CON DISCAPACIDAD ACCEDAN A LA JUSTICIA EN CONDICIONES DE IGUALDAD.”
+
+Por lo expuesto y fundado, con apoyo además en los artículos 97, fracción I, inciso b), 98, fracción I, 99, 100 y 101, último párrafo, de la de la Ley de Amparo, se resuelve:
+
+ÚNICO.- Se modifica el auto recurrido, por motivos, en los términos y para los efectos establecidos en la presente resolución.
+
+[16] De conformidad con la jurisprudencia 1a./J. 163/2022 (11a.) de la entonces Primera Sala del Alto Tribunal, registro digital 2025638, de rubro: «DERECHOS DE LAS PERSONAS CON DISCAPACIDAD. DIFERENCIA ENTRE AJUSTES RAZONABLES Y AJUSTES DE PROCEDIMIENTO.»
+
+Notifíquese y personalmente a la parte quejosa, publíquese, envíese testimonio de esta resolución al juzgado de origen y, en su oportunidad, archívese el toca.
+
+Así, lo resolvió el Primer Tribunal Colegiado en Materias Penal y Administrativa del Decimoséptimo Circuito, por unanimidad de votos de los Magistrados Mario Humberto Gámez Roldán, José Raymundo Cornejo Olvera y Marta Elena Barrios Solís; siendo presidente el citado en primer término y ponente el segundo de los nombrados, quienes firman electrónicamente el diecinueve de noviembre de dos mil veinticinco, en unión de la Secretaria de Acuerdos Beatriz Enríquez Grado, quien autoriza y da fe.
+
+MAGISTRADO PRESIDENTE:
+
+MARIO HUMBERTO GÁMEZ ROLDÁN (Firma electrónica)
+
+MAGISTRADO Y PONENTE:
+
+JOSÉ RAYMUNDO CORNEJO OLVERA.
+
+(Firma electrónica)
+
+MAGISTRADA:
+
+MARTA ELENA BARRIOS SOLÍS.
+
+(Firma electrónica)
+
+SECRETARIA DE ACUERDOS:
+
+BEATRIZ ENRÍQUEZ GRADO.
+
+(Firma electrónica)
+
+Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+[FIRMA ELECTRÓNICA] Firmantes: BEATRIZ ENRIQUEZ GRADO
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Número de serie:
+
+[FIRMA ELECTRÓNICA] Firmantes: MARIO HUMBERTO GAMEZ ROLDAN
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Número de serie:
+
+[FIRMA ELECTRÓNICA] Firmantes: JOSÉ RAYMUNDO CORNEJO OLVERA
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Número de serie:
+
+[FIRMA ELECTRÓNICA] Firmantes: Marta Elena Barrios Solís
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Número de serie:
+
+El diecinueve de noviembre de dos mil veinticinco, la licenciada Claudia Alejandra Alvarado Medinilla, Secretario(a), con adscripción en el Primer Tribunal Colegiado en Materias Penal y Administrativa del Décimo Séptimo Circuito, hago constar y certifico que en esta versión pública no existe información clasificada como confidencial o reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública. Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+BEATRIZ ENRIQUEZ GRADO 706a6620636a66320000000000000000000136f3 15/05/26 18:00:00 PJF - Versión Pública
+PJF - Versión Pública

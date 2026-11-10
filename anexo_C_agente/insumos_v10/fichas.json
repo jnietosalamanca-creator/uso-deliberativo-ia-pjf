@@ -1,0 +1,104 @@
+[
+ {
+  "orden": 1,
+  "unidad": "UI-01",
+  "sentencia": "34911709",
+  "archivo": "fichas/01_UI-01_34911709.txt"
+ },
+ {
+  "orden": 2,
+  "unidad": "UI-02",
+  "sentencia": "38940092",
+  "archivo": "fichas/02_UI-02_38940092.txt"
+ },
+ {
+  "orden": 3,
+  "unidad": "UI-05",
+  "sentencia": "41376243",
+  "archivo": "fichas/03_UI-05_41376243.txt"
+ },
+ {
+  "orden": 4,
+  "unidad": "UI-03",
+  "sentencia": "36735907",
+  "archivo": "fichas/04_UI-03_36735907.txt"
+ },
+ {
+  "orden": 5,
+  "unidad": "UI-04",
+  "sentencia": "40518588",
+  "archivo": "fichas/05_UI-04_40518588.txt"
+ },
+ {
+  "orden": 6,
+  "unidad": "UI-06",
+  "sentencia": "41108742",
+  "archivo": "fichas/06_UI-06_41108742.txt"
+ },
+ {
+  "orden": 7,
+  "unidad": "36067199",
+  "sentencia": "36067199",
+  "archivo": "fichas/07_36067199_36067199.txt"
+ },
+ {
+  "orden": 8,
+  "unidad": "40479724",
+  "sentencia": "40479724",
+  "archivo": "fichas/08_40479724_40479724.txt"
+ },
+ {
+  "orden": 9,
+  "unidad": "40299423",
+  "sentencia": "40299423",
+  "archivo": "fichas/09_40299423_40299423.txt"
+ },
+ {
+  "orden": 10,
+  "unidad": "37978358",
+  "sentencia": "37978358",
+  "archivo": "fichas/10_37978358_37978358.txt"
+ },
+ {
+  "orden": 11,
+  "unidad": "39973524",
+  "sentencia": "39973524",
+  "archivo": "fichas/11_39973524_39973524.txt"
+ },
+ {
+  "orden": 12,
+  "unidad": "37062926",
+  "sentencia": "37062926",
+  "archivo": "fichas/12_37062926_37062926.txt"
+ },
+ {
+  "orden": 13,
+  "unidad": "38079611",
+  "sentencia": "38079611",
+  "archivo": "fichas/13_38079611_38079611.txt"
+ },
+ {
+  "orden": 14,
+  "unidad": "41338150",
+  "sentencia": "41338150",
+  "archivo": "fichas/14_41338150_41338150.txt"
+ },
+ {
+  "orden": 15,
+  "unidad": "41725432",
+  "sentencia": "41725432",
+  "archivo": "fichas/15_41725432_41725432.txt"
+ },
+ {
+  "orden": 16,
+  "unidad": "36723308",
+  "sentencia": "36723308",
+  "archivo": "fichas/16_36723308_36723308.txt"
+ },
+ {
+  "orden": 17,
+  "unidad": "41436839",
+  "sentencia": "41436839",
+  "archivo": "fichas/17_41436839_41436839.txt"
+ }
+]

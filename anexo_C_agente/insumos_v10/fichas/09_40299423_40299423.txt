@@ -1,0 +1,447 @@
+UNIDAD: 40299423
+SENTENCIA: 40299423
+ÓRGANO: Juzgado Octavo de Distrito en Materia Administrativa en la Ciudad de México
+FECHA: 2026-02-24
+TIPO DE ASUNTO: Amparo Indirecto
+AVISO: (ninguno)
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+Las operaciones que anteceden se han realizado con el apoyo de inteligencia artificial, ya que si bien no implican operaciones complejas, lo cierto es que esta herramienta es útil para brindar un acceso a la justicia más célere. Es aplicable, por las razones que la informan la jurisprudencia II.2o.C. J/1 K (12a.), del Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito, visible en la Duodécima Época del Semanario Judicial de la Federación, con registro digital: 2031639, de rubro y texto siguientes:
+
+OCTAVO DE INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS
+
+Criterio jurídico: Las herramientas de inteligencia artificial pueden emplearse válidamente en procesos jurisdiccionales para calcular el monto de las garantías que se fijen en los juicios de amparo, en el entendido de que su utilización no sustituye la labor de las personas juzgadoras, sino que facilitan y eficientizan la administración de justicia.
+
+Justificación: Ante el avance de las nuevas tecnologías y las tendencias emergentes de justicia digital, la inteligencia artificial es una herramienta innovadora que puede incorporarse a los procesos para facilitar el razonamiento numérico dentro de labores jurisdiccionales.
+
+El uso de herramientas de inteligencia artificial en estos casos se justifica porque permite: a) reducir errores humanos en dichos cálculos; b) dar transparencia y trazabilidad al exponer cómo se obtiene el resultado paso a paso; c) generar consistencia y estandarización en los precedentes y en la fijación de los montos de las garantías; y d) mejorar la eficiencia procesal, al liberar tiempo para el análisis sustantivo del caso y facilitar la motivación de las decisiones judiciales. Este mecanismo, recomendable desde una visión institucional de los tribunales que adoptan mejores prácticas para la administración de justicia, permite a las personas juzgadoras obtener datos auditables que muestran de manera transparente cómo se cuantifica una garantía. De esta forma se preserva el núcleo esencial de la función jurisdiccional, a la vez que se refuerza la motivación y transparencia del fallo, en consonancia con un principio de justicia digital y los estándares de motivación previstos en el artículo 16 de la Constitución Federal.
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+AUDIENCIA CONSTITUCIONAL En la Ciudad de México, a las diez horas con veinte minutos del veinticuatro de febrero de dos mil veintiséis,
+
+JUZGADO OCTAVO DE
+
+DISTRITO EN día y hora fijados para la audiencia constitucional en el juicio
+
+MATERIA
+
+ADMINISTRATIVA de amparo con el número de expediente 1926/2025-IV,
+
+EN LA CIUDAD DE MÉXICO.
+
+promovido por ***** ********* **** ******** por propio
+
+MESA IV.
+
+derecho, se procede a celebrarla ante la presencia de Martín
+
+J.A. 1926/2025
+
+Adolfo Santos Pérez, Juez Octavo de Distrito en Materia Administrativa en la Ciudad de México, quien actúa con Juan Carlos Elizalde Hernández, secretario que da fe. .
+
+Con fundamento en el artículo 124 de la Ley de Amparo, el Juez Octavo de Distrito en Materia Administrativa en la Ciudad de México declara abierta la audiencia sin asistencia de las partes.
+
+A continuación, el secretario relaciona las constancias que obran en el expediente, entre las que destacan: escrito inicial de demanda, auto de admisión de la demanda, constancias de emplazamiento, informes justificados rendidos y acuerdos correspondientes.
+
+El Juez Octavo de Distrito en Materia Administrativa en la Ciudad de México acuerda: con fundamento en los artículos 117, 119, 123 y 124 de la Ley de Amparo, por hecha la relación de las constancias de autos para los efectos legales que correspondan.
+
+• Periodo probatorio.
+
+Abierto el período de pruebas: el secretario da cuenta con las documentales, presuncional, en su doble aspecto, legal y humana, así como instrumental de actuaciones, ofrecidas por las partes, según sea el caso.
+
+El Juez Octavo de Distrito en Materia Administrativa en la Ciudad de México acuerda: con fundamento en los artículos 123 y 124 de la Ley de Amparo, se tienen ofrecidas, admitidas y desahogadas, dada su propia y especial naturaleza, las probanzas de referencia.
+
+Al no haber más pruebas por desahogar, se cierra el periodo probatorio de referencia y se procede a abrir el de alegatos.
+
+• Periodo de alegatos.
+
+Abierto el período de alegatos: el Secretario hace constar que las partes no ejercieron tal derecho y que el agente del Ministerio Público de la Federación adscrito no formuló pedimento.
+
+El Juez Octavo de Distrito en Materia Administrativa en la Ciudad de México acuerda: Con fundamento en el artículo 124 de la Ley de Amparo, se declara el cierre de la fase de alegatos, y se declara precluido el derecho de las partes para formularlos.
+
+Al no haber diligencia pendiente que desahogar, se procede a dictar la resolución correspondiente.
+
+Ciudad de México, veinticuatro de febrero de dos mil veintiséis.
+
+Vistos, los autos para resolver el juicio de amparo indirecto 1926/2025-IV, promovido por ***** ********* **** *******, por propio derecho; y, R E S U L T A N D O:
+
+PRIMERO. PRESENTACIÓN DE LA DEMANDA. Por escrito JUZGADO presentado el veintiuno de octubre de dos mil veinticinco, en la
+
+OCTAVO DE DISTRITO EN
+
+Oficina de Correspondencia Común de los Juzgados de Distrito
+
+MATERIA ADMINISTRATIVA
+
+EN LA CIUDAD DE en Materia Administrativa en la Ciudad de México, y recibido el
+
+MÉXICO.
+
+día hábil siguiente en este juzgado, ***** ********* ****
+
+MESA IV.
+
+J.A. 1926/2025 *******, por propio derecho, solicitó el amparo y protección
+
+de la Justicia Federal, en contra de la Décimo Segunda Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, de la que reclamó:
+
+La sentencia interlocutoria por la cual se resolvió como infundado el recurso de queja por defecto en el cumplimiento de la sentencia, emitida el veintidós de septiembre de dos mil veinticinco, en autos del expediente ************ ****.
+
+SEGUNDO. ADMISIÓN. Por auto de veintitrés de octubre de dos mil veinticinco, este juzgado registró el expediente con el número 1926/2025-IV, admitió a trámite la demanda, solicitó a la autoridad responsable su informe justificado y dio la intervención que legalmente le compete al agente del Ministerio Público de la Federación de la adscripción.
+
+TERCERO. VERIFICACIÓN DE LA AUDIENCIA
+
+CONSTITUCIONAL. La audiencia constitucional inició en los términos del acta que antecede y concluye con el dictado de esta sentencia.
+
+C O N S I D E R A N D O
+
+PRIMERO. COMPETENCIA. Este Juzgado Octavo de Distrito en Materia Administrativa en la Ciudad de México, tiene competencia constitucional y legal para conocer, y resolver este juicio de amparo, de conformidad con lo previsto en los artículos 103, fracción I y 107, fracción VII, de la Constitución Política de los Estados Unidos Mexicanos; 35 y 107, fracción VI, de la Ley de Amparo; 54, fracción V de la Ley Orgánica del Poder Judicial de la Federación; y el punto Primero, fracción I y Segundo, fracción I, número 3, y Cuarto, fracción I, del Acuerdo General número 03/2013, expedido por el Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; en razón de que este juzgado previno en el conocimiento del asunto, en el cual se reclama un acto emitido después de concluido el juicio por un tribunal administrativo.
+
+SEGUNDO. FIJACIÓN DE LA LITIS. Los actos reclamados deben quedar precisados, a efecto de dar cumplimiento a lo previsto en el artículo 74, fracción I, de la Ley de Amparo.
+
+De la lectura de la demanda de amparo se advierte que la parte quejosa reclama:
+
+La sentencia interlocutoria por la cual se resolvió como infundado el recurso de queja por defecto en el cumplimiento de la sentencia, emitida el veintidós de septiembre de dos mil veinticinco, en autos del expediente ************ **** del índice de la Décimo Segunda Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa
+
+JUZGADO OCTAVO DE
+
+DISTRITO EN TERCERO. . Es cierto
+
+EXISTENCIA DEL ACTO RECLAMADO
+
+MATERIA ADMINISTRATIVA
+
+EN LA CIUDAD DE el acto que se reclama de la Décimo Segunda Sala
+
+MÉXICO.
+
+Regional en la Ciudad de México del Tribunal Federal de
+
+MESA IV.
+
+J.A. 1926/2025 Justicia Administrativa, pues tal autoridad aceptó que
+
+emitió la resolución reclamada.
+
+Lo anterior, además, se corrobora con la consulta de las copias certificadas del juicio de origen, con pleno valor probatorio, de conformidad con los artículos 129, 197, 202 y 207 del Código Federal de Procedimientos Civiles, supletorio de la Ley de Amparo por virtud de su artículo 2°.
+
+CUARTO. ESTUDIO DEL FONDO DEL ASUNTO NEGATIVA DEL
+
+AMPARO. Al no haberse hecho valer alguna causa de improcedencia ni advertirse de oficio, procede entrar al estudio del fondo del asunto.
+
+La constitucionalidad de tal acto reclamado se analiza de conformidad con el principio de suplencia de la queja, previsto en el artículo 79, fracción V, de la Ley de Amparo, cuya aplicación se extiende a aquellos juicios de amparo en los cuales se controvierten cuestiones relativas al goce de derechos pensionarios, de conformidad con las consideraciones, que comparte este órgano jurisdiccional, establecidas en la tesis aislada 2a. XCV/2014 (10a.), de la Segunda Sala del Alto Tribunal, publicada en la Gaceta del Semanario Judicial de la Federación, Décima Época Libro 11, octubre de 2014, Tomo I, página 1106, la cual establece:
+
+SUPLENCIA DE LA QUEJA DEFICIENTE EN MATERIA LABORAL. OPERA EN FAVOR DE LOS PENSIONADOS Y DE SUS BENEFICIARIOS. Conforme al artículo 79, fracción V, de la Ley de Amparo, la autoridad que conozca del juicio deberá suplir la deficiencia de los conceptos de violación o agravios, en materia laboral, en favor del trabajador, con independencia de que la relación entre empleador y empleado esté regulada por el derecho laboral o por el administrativo; de lo cual se deduce que si bien esta norma se refiere a determinados sujetos y a dos tipos de relaciones jurídicas específicas, como son, por un lado, las personas que cumplen con su deber social y su derecho al trabajo y, por otra, quienes las emplean, ya sea dentro de un vínculo laboral o de orden administrativo, lo cierto es que las razones que en estos supuestos inspiran la obligación del órgano de amparo para suplir la deficiencia de la queja a favor del trabajador no se agotan con motivo de la jubilación o retiro de quien había estado subordinado a un empleador, pues las causas que originaron el auxilio que la ley les brindaba durante su época laboralmente activa no solo se mantienen, sino que incluso se agudizan, porque lo habitual es que como pensionistas sus ingresos se reduzcan y, con ello, la posibilidad de contar con asesoría legal adecuada. Así, esta Segunda Sala determina que tratándose de juicios de amparo deducidos de asuntos laborales o contencioso-administrativos, en los que se controviertan el otorgamiento y los ajustes de pensiones, así como de cualquiera otra prestación derivada de éstas, ya sea por los interesados o por sus beneficiarios, el órgano de amparo queda obligado a suplir la deficiencia de la queja en favor de los demandantes de tales pretensiones, en la inteligencia de que este deber solo tiene razón de ser cuando existan causas jurídicamente válidas para preservar u otorgar algún derecho, pues si el juzgador no advierte que dicha suplencia lo conduzca a esta finalidad provechosa para el particular, bastará con que así lo declare sin necesidad de que haga un estudio oficioso del asunto, el cual, por carecer de un sentido práctico, solo entorpecería la pronta solución del litigio en perjuicio de los propios justiciables.
+
+En el caso, la parte quejosa reclama la sentencia interlocutoria por la cual se resolvió como infundado el recurso de queja por defecto en el cumplimiento de la sentencia, emitida el veintidós de septiembre de dos mil veinticinco, en autos del expediente **************** del índice de la Décimo Segunda Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa Es evidente que la litis de origen y que trasciende al juicio de amparo, implica determinar si la sentencia emitida en el juicio contencioso administrativo fue debidamente cumplida o, por el contrario, si existió defecto en el cumplimiento. Ello,
+
+JUZGADO OCTAVO DE
+
+para verificar su fue correcto o no que la Sala responsable
+
+DISTRITO EN MATERIA
+
+ADMINISTRATIVA declarara infundado el recurso de queja de mérito.
+
+EN LA CIUDAD DE MÉXICO.
+
+MESA IV.
+
+Bien, como antecedentes relevantes del asunto, es
+
+J.A. 1926/2025
+
+importante exponer los siguientes.
+
+Mediante escrito presentado el catorce de agosto de dos mil veintitrés, ante el Tribunal Federal de Justicia Administrativa, la ahora quejosa ***** ********* **** *******, demandó la nulidad del oficio ********************, de treinta de junio de dos mil veintitrés.
+
+Por razón de turno correspondió conocer del asunto a la Decimosegunda Sala Regional Metropolitana del Tribunal Federal de Justica Administrativa; que el ocho de enero de dos mil veinticuatro, dictó sentencia en la que declaró nulidad del acto administrativo impugnado para el siguiente efecto:
+
+En las citadas consideraciones y con fundamento en lo dispuesto en el cuarto párrafo del artículo 50 de la Ley Federal de Procedimiento Contencioso Administrativo, esta Juzgadora estima que procede declarar la nulidad de la resolución impugnada, para el efecto de que la autoridad emita una nueva resolución en la que se realicen los ajustes correspondientes y otorgue los incrementos correspondientes a la cuota pensionaria de la accionante conforme a lo antes anotado, esto es, en términos del artículo 57 de la Ley del Instituto de Seguridad Social y Servicios Sociales de los Trabajadores del Estado (…)
+
+Dicho incremento, deberá efectuarse acorde a la Constancia de Evolución Salarial del puesto y plaza desempeñada por la accionante antes de causar baja en el servicio, de la cual deberá allegarse y darle a conocer a la pensionada, realizando un comparativo de los incrementos aplicados -en su caso- y los aplicables a su cuota diaria pensionaria, a partir de que se le otorgó la pensión y hasta el cumplimiento de este fallo, debiendo establecer de forma pormenorizada qué incrementos corresponden, conforme a lo previsto en la Ley de la materia y lo determinado en la presente sentencia considerándose que tratándose del incremento a la cuota pensionaria, tiene la obligación de calcular la pensión conforme lo previsto por los artículos 57, 60 y 64 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+De igual forma, se ordena el pago de las cantidades que resulten como diferencias a favor de la actora, únicamente por el periodo de cinco años anteriores a la fecha en que ésta solicitó el incremento de su cuota diaria de pensión, esto es, cinco años antes de la presentación del escrito ante esa autoridad enjuiciada al que recayó la resolución impugnada en el presente juicio, a saber, el quince de junio de dos mil veintitrés y hasta el cumplimiento del presente fallo, incluyendo aquéllas por concepto de aguinaldo o gratificación publicada en la Gaceta del Semanario Judicial de la Federación el dieciocho de octubre de dos mil diecinueveobligatoria para esta sala conforme lo dispone el artículo 217 de la ley de Amparo- cuyos rubro, texto y datos de publicaciones fueron transcritos anteriormente en el presente fallo
+
+Previa queja por incumplimiento de sentencia, el Subdirector de Pensiones de la Dirección de Prestaciones Económicas, Sociales y Culturales del Instituto Mexicano del Seguro Social emitió el oficio No. ****************, de veinticuatro de julio de dos mil veinticinco, a efecto de establecer la cuota pensionaria de la parte quejosa y las diferencias adeudadas a su favor.
+
+En contra de tal oficio, la parte actora en el juicio de nulidad, aquí quejosa, interpuso recurso de queja, lo que dio lugar a la emisión de:
+
+La sentencia interlocutoria por la cual se resolvió como infundado el recurso de queja por defecto en el cumplimiento de la sentencia, emitida el veintidós de septiembre de dos mil veinticinco, en autos del expediente ************ ****.
+
+JUZGADO Ahora bien, en la sentencia ejecutoria del juicio de
+
+OCTAVO DE
+
+DISTRITO EN nulidad, se precisó que el aumento de la cuota pensionaria de
+
+MATERIA ADMINISTRATIVA
+
+EN LA CIUDAD DE la parte quejosa debería realizarse en términos del artículo 57
+
+MÉXICO.
+
+de la Ley del Instituto de Seguridad y Servicios Sociales de
+
+MESA IV.
+
+J.A. 1926/2025 los Trabajadores del Estado, conforme al aumento de precios
+
+al consumidor del año calendario anterior o, de resultar inferior conforme al incremento del sueldo de los trabajadores en activo, con base en la constancia de evolución salarial del puesto y plaza desempeñada por la accionante antes de causar baja en el servicio.
+
+A efecto de establecer el aumento anual del sueldo de los trabajadores en activo, es preciso indicar que la legislación de la materia no establece cómo proceder en caso de que exista más de un aumento salarial de los trabajadores en activo en el año correspondiente.
+
+Este Juzgado considera que, para tal efecto, debe verificarse cuál fue el porcentaje de aumento total del sueldo de los trabajadores en activo, en el año respectivo, al comparar el sueldo inicial del periodo respectivo, contra el sueldo inicial del periodo anterior. De este modo es posible saber cuál es el incremento anual total del sueldo de los trabajadores en activo.
+
+Por lo cual, en los años en que existan varios aumentos al sueldo de los trabajadores en activo, estos no deben seccionarse en lo individual, a efecto de establecer el porcentaje de aumento de cada periodo interanual y luego sumarse. Porque ello, solo permitiría saber cuál es la suma de los porcentajes del aumento salarial existente en un año; sin embargo, la ley de la materia lo que exige es establecer cuál es el incremento anual del sueldo —no así la suma de los incrementos inter anuales—; y, justamente, ese incremento anual es unívoco, al comparar el sueldo inicial con el sueldo anterior.
+
+De tal modo, para efecto de establecer el incremento anual del sueldo de los trabajadores en activo, entonces lo correcto es establecer cuál es el sueldo inicial del periodo anterior, respecto del sueldo inicial del periodo siguiente y a partir de ello realizar la comparación correspondiente.
+
+Para establecer el porcentaje, lo procedente es hacer una operación en la cual al sueldo nuevo se le reste el sueldo anterior, con el fin de identificar el incremento del sueldo en numerario; y, hecho ello, dicho incremento en numerario se procederá a dividir entre el sueldo anterior para establecer a que porción corresponde de éste; y, al multiplicarse por cien, se podrá establecer el porcentaje respectivo.
+
+Bien, expuesto lo dicho, cabe traer a cuenta la constancia de evolución salarial que se tuvo en cuenta en el juicio de origen para determinar el aumento porcentual del sueldo de los trabajadores en activo.
+
+JUZGADO OCTAVO DE DISTRITO EN MATERIA ADMINISTRATIVA EN LA CIUDAD DE MÉXICO.
+
+MESA IV.
+
+J.A. 1926/2025
+
+Bien, A partir de tal constancia, es posible advertir que al inicio de cada año, los trabajadores en activo tenían el salario siguiente:
+
+Fecha Sueldo Fecha de inicio de la $4,332.43 pensión: Abril de dos mil cinco.
+
+Enero de dos mil seis. $4,518.73 Enero de dos mil siete. $4,769.59 Enero de dos mil ocho. $5,033.52 Enero de dos mil nueve. $5,275.13 Enero de dos mil diez. $5,554.71 Enero de dos mil once. $6,103.67 Enero de dos mil doce. $6,363.07 Enero de dos mil trece. $6,633.50 Enero de dos mil catorce. $6,915.43 Enero de dos mil quince. $7,192.06 Enero de dos mil dieciséis. $7,443.78 Enero de dos mil diecisiete. $7,704.31 Enero de dos mil dieciocho. $8.043.30 Enero de dos mil diecinueve. $8,401.23 Enero de dos mil veinte. $8,686.87 Enero de dos mil veintiuno. $9,025.66 Enero de dos mil veintidós. $9,771.84 Enero de dos mil veintitrés. $10,358.15 Enero de dos mil veinticuatro. $11,712.61
+
+En ese sentido, si bien en los años dos mil cinco a dos mil diez, existieron varios aumentos salariares en un mismo año, según se advierte de la respectiva constancia; lo cierto es que para verificar el incremento anual, hay que atender únicamente al sueldo inicial de un periodo respecto del otro; pues, la legislación de la materia, exige determinar cuál fue el incremento del sueldo anual de los trabajadores en activo, de forma global y no de modo seccionado.
+
+En este orden, se tiene que, conforme a los datos anteriores, el incremento del sueldo de los trabajadores en activo en cada año se calcula de forma siguiente:
+
+2006 respecto de 2005:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (4,518.73 − 4,332.43) / 4,332.43 × 100 = 186.30 / 4,332.43 × 100 = 4.3001%
+
+2007 respecto de 2006:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (4,769.59 − 4,518.73) / 4,518.73 × 100 = 250.86 / 4,518.73 × 100 = 5.5516%
+
+JUZGADO OCTAVO DE
+
+2008 respecto de 2007:
+
+DISTRITO EN MATERIA
+
+ADMINISTRATIVA Incremento % = (Sueldo nuevo − Sueldo
+
+EN LA CIUDAD DE MÉXICO.
+
+anterior) / Sueldo anterior × 100
+
+MESA IV.
+
+= (5,033.52 − 4,769.59) / 4,769.59 × 100
+
+J.A. 1926/2025
+
+= 263.93 / 4,769.59 × 100 = 5.5336%
+
+2009 respecto de 2008:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (5,275.13 − 5,033.52) / 5,033.52 × 100 = 241.61 / 5,033.52 × 100 = 4.8000%
+
+2010 respecto de 2009:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (5,554.71 − 5,275.13) / 5,275.13 × 100 = 279.58 / 5,275.13 × 100 = 5.3000%
+
+2011 respecto de 2010:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (6,103.67 − 5,554.71) / 5,554.71 × 100 = 548.96 / 5,554.71 × 100 = 9.8828% 2012 respecto de 2011:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (6,363.07 − 6,103.67) / 6,103.67 × 100 = 259.40 / 6,103.67 × 100 = 4.2499%
+
+2013 respecto de 2012:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (6,633.50 − 6,363.07) / 6,363.07 × 100 = 270.43 / 6,363.07 × 100 = 4.2500%
+
+2014 respecto de 2013:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (6,915.43 − 6,633.50) / 6,633.50 × 100 = 281.93 / 6,633.50 × 100 = 4.2501%
+
+2015 respecto de 2014:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (7,192.06 − 6,915.43) / 6,915.43 × 100 = 276.63 / 6,915.43 × 100 = 4.0002%
+
+2016 respecto de 2015:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (7,443.78 − 7,192.06) / 7,192.06 × 100 = 251.72 / 7,192.06 × 100 = 3.5000%
+
+2017 respecto de 2016:
+
+Incremento % = (Sueldo nuevo − Sueldo
+
+JUZGADO OCTAVO DE
+
+anterior) / Sueldo anterior × 100
+
+DISTRITO EN MATERIA
+
+ADMINISTRATIVA = (7,704.31 − 7,443.78) / 7,443.78 × 100
+
+EN LA CIUDAD DE MÉXICO.
+
+= 260.53 / 7,443.78 × 100
+
+MESA IV.
+
+= 3.5000%
+
+J.A. 1926/2025
+
+2018 respecto de 2017:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (8,043.30 − 7,704.31) / 7,704.31 × 100 = 338.99 / 7,704.31 × 100 = 4.4000%
+
+2019 respecto de 2018:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (8,401.23 − 8,043.30) / 8,043.30 × 100 = 357.93 / 8,043.30 × 100 = 4.4500%
+
+2020 respecto de 2019:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (8,686.87 − 8,401.23) / 8,401.23 × 100 = 285.64 / 8,401.23 × 100 = 3.4000%
+
+2021 respecto de 2020:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (9,025.66 − 8,686.87) / 8,686.87 × 100 = 338.79 / 8,686.87 × 100 = 3.9000%
+
+2022 respecto de 2021:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (9,771.84 − 9,025.66) / 9,025.66 × 100 = 746.18 / 9,025.66 × 100 = 8.2673%
+
+2023 respecto de 2022:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (10,358.15 − 9,771.84) / 9,771.84 × 100 = 586.31 / 9,771.84 × 100 = 6.0000%
+
+2024 respecto de 2023:
+
+Incremento % = (Sueldo nuevo − Sueldo anterior) / Sueldo anterior × 100 = (11,712.61 − 10,358.15) / 10,358.15 × 100 = 1,354.46 / 10,358.15 × 100 = 13.0763%
+
+Las operaciones que anteceden se han realizado con el apoyo de inteligencia artificial, ya que si bien no implican operaciones complejas, lo cierto es que esta herramienta es útil para brindar un acceso a la justicia más célere. Es aplicable, por las razones que la informan la jurisprudencia II.2o.C. J/1 K (12a.), del Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito, visible en la Duodécima Época del Semanario Judicial de la Federación, con registro digital: 2031639, de rubro y texto siguientes:
+
+JUZGADO
+
+OCTAVO DE INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS
+
+DISTRITO EN
+
+JURISDICCIONALES. CONSTITUYE UNA HERRAMIENTA
+
+MATERIA
+
+ADMINISTRATIVA VÁLIDA PARA CALCULAR EL MONTO DE LAS EN LA CIUDAD DE GARANTÍAS QUE SE FIJEN EN LOS JUICIOS DE
+
+MÉXICO.
+
+AMPARO.
+
+MESA IV.
+
+Hechos: Diversas personas interpusieron recursos de queja y
+
+J.A. 1926/2025
+
+de revisión en el incidente de suspensión para impugnar el monto de las garantías fijadas por Juzgados de Distrito al acordar diferentes asuntos. Consideraron que su determinación carecía de parámetros objetivos o que no se tomaron en cuenta las características personales y capacidad económica de la persona quejosa para fijarlas.
+
+Criterio jurídico: Las herramientas de inteligencia artificial pueden emplearse válidamente en procesos jurisdiccionales para calcular el monto de las garantías que se fijen en los juicios de amparo, en el entendido de que su utilización no sustituye la labor de las personas juzgadoras, sino que facilitan y eficientizan la administración de justicia.
+
+Justificación: Ante el avance de las nuevas tecnologías y las tendencias emergentes de justicia digital, la inteligencia artificial es una herramienta innovadora que puede incorporarse a los procesos para facilitar el razonamiento numérico dentro de labores jurisdiccionales.
+
+La jurisprudencia exige parámetros para calcular las garantías que deben fijarse en los juicios de amparo, lo que exige operaciones como la actualización de valores, la aplicación de tasas de interés y la ponderación de lapsos procesales. Estas actividades, aunque necesarias para la motivación de una resolución judicial, no forman parte del núcleo decisorio jurisdiccional, sino que constituyen labores auxiliares susceptibles de apoyo tecnológico.
+
+El uso de herramientas de inteligencia artificial en estos casos se justifica porque permite: a) reducir errores humanos en dichos cálculos; b) dar transparencia y trazabilidad al exponer cómo se obtiene el resultado paso a paso; c) generar consistencia y estandarización en los precedentes y en la fijación de los montos de las garantías; y d) mejorar la eficiencia procesal, al liberar tiempo para el análisis sustantivo del caso y facilitar la motivación de las decisiones judiciales. Este mecanismo, recomendable desde una visión institucional de los tribunales que adoptan mejores prácticas para la administración de justicia, permite a las personas juzgadoras obtener datos auditables que muestran de manera transparente cómo se cuantifica una garantía. De esta forma se preserva el núcleo esencial de la función jurisdiccional, a la vez que se refuerza la motivación y transparencia del fallo, en consonancia con un principio de justicia digital y los estándares de motivación previstos en el artículo 16 de la Constitución Federal.
+
+De tal modo, el aumento del sueldo de los trabajadores en activo en cada periodo fue el siguiente:
+
+2006 → 4.30% 2007 → 5.55% 2008 → 5.53% 2009 → 4.80% 2010 → 5.30% 2011 → 9.88% 2012 → 4.25% 2013 → 4.25% 2014 → 4.25% 2015 → 4.00% 2016 → 3.50% 2017 → 3.50% 2018 → 4.40% 2019 → 4.45% 2020 → 3.40% 2021 → 3.90% 2022 → 8.27% 2023 → 6.00% 2024 → 13.08%
+
+En cambio, al dar cumplimiento a la sentencia de origen, el Subdirector de Pensiones de la Dirección de Prestaciones Económicas, Sociales y Culturales del Instituto Mexicano del Seguro Social, estableció en el oficio No. ****************, que fue materia de análisis de la sentencia interlocutoria reclamada, que el aumento del sueldo de los trabajadores en activo fue el siguiente:
+
+2006 → 5.50% 2007 → 5.50% 2008 → 4.80% 2009 → 5.30% 2010 → 4.90%
+
+JUZGADO OCTAVO DE
+
+2011 → 4.75%
+
+DISTRITO EN MATERIA
+
+ADMINISTRATIVA 2012 → 4.25%
+
+EN LA CIUDAD DE MÉXICO.
+
+2013 → 4.25%
+
+MESA IV.
+
+2014 → 4.25%
+
+J.A. 1926/2025
+
+2015 → 4.00% 2016 → 3.50% 2017 → 3.50% 2018 → 4.40% 2019 → 4.45% 2020 → 3.40% 2021 → 3.90% 2022 → 8.27% 2023 → 6.00% 2024 → 13.08%
+
+De tal modo, es claro que en el oficio materia de análisis de la resolución de queja por incumplimiento de sentencia, no se estableció adecuadamente cuál fue el aumento del sueldo de los trabajadores en activo; pues, el resultado arrojado en el mismo, difiere al correcto, mismo que se ha justificado en esta sentencia.
+
+Lógicamente, lo anterior implica que el nuevo cálculo de la cuota pensionaria de la parte actora en el juicio de nulidad, aquí quejosa, parte de un procedimiento erróneo, que no se ajusta a los lineamientos de la sentencia del juicio de origen.
+
+Lo anterior, debió advertirlo la Sala responsable, a efecto de determinar que la sentencia en el juicio de origen no fue debidamente cumplida, pues para garantizar el acceso a la justicia y el respeto a la cosa juzgada, debió constatar que no exista exceso ni defectos en el cumplimiento de lo sentenciado, máxime que en el juicio de origen se involucran derechos humanos a la seguridad social de la parte quejosa, respecto de la cual, es aplicable la suplencia de la queja, según se precisó.
+
+Así las cosas, se considera fundado, suplido en su deficiencia, el concepto de violación de la parte quejosa, en cuanto expone que la Sala responsable no realizó un estudio exhaustivo para verificar el debido cumplimiento de lo sentenciado en el juicio de origen.
+
+En estas condiciones, procede CONCEDER EL AMPARO Y LA PROTECCIÓN DE LA JUSTICIA FEDERAL para que la Sala responsable considere que ha quedado insubsistente la sentencia reclamada y, en su lugar emita otra en la cual siguiendo los lineamientos de esta sentencia, por un lado, reitere todo los aspectos desvinculados de la concesión de amparo y, por otro, declare fundado el recurso de queja al considerar que en el oficio materia de análisis de la queja no se calcularon correctamente los porcentajes de aumento de los salarios de los trabajadores en activo, por lo que se deberá ordenar que se calcule de nueva cuenta la cuota pensionaria de la quejosa al tomar en cuenta dichos aumentos de forma correcta, en los términos establecidos en esta sentencia.
+
+Por lo expuesto y fundado se:
+
+R E S U E L V E
+
+ÚNICO. La Justicia de la Unión AMPARA Y PROTEGE a ***** ********* **** ******** por propio derecho, por
+
+JUZGADO
+
+OCTAVO DE los motivos y fundamentos y para los efectos expuestos en el
+
+DISTRITO EN MATERIA
+
+ADMINISTRATIVA último considerando de esta sentencia.
+
+EN LA CIUDAD DE MÉXICO.
+
+MESA IV.
+
+Notifíquese, por oficio a las autoridades
+
+J.A. 1926/2025
+
+responsables y electrónicamente a la Agente del Ministerio Público de la Federación adscrita.
+
+Así lo resolvió y firma Martín Adolfo Santos Pérez, Juez Octavo de Distrito en Materia Administrativa en la Ciudad de México, quien actúa asistido de Juan Carlos Elizalde Hernández, Secretario que autoriza y certifica que la presente resolución, se encuentra debidamente incorporada al expediente electrónico. Doy fe.
+
+_____________________________ __________________________ resolución que antecede, con excepción de los casos en que se haya ordenado su notificación de manera personal o por oficio.- Doy fe. Yuritzi Montes de Oca Cortez.
+
+AC DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
+
+[FIRMA ELECTRÓNICA] Firmantes: JUAN CARLOS ELIZALDE HERNANDEZ
+
+Cadena firma:
+
+FIRMANTE Nombre: MARTÍN ADOLFO SANTOS PÉREZ Validez: BIEN Vigente
+
+Cadena firma:
+
+El veinticuatro de febrero de dos mil veintiseis, el licenciado Juan Carlos Elizalde Hernández, Secretario(a), con adscripción en el Juzgado Octavo de Distrito en Materia Administrativa en la Ciudad de México, hago constar y certifico que en esta versión pública no existe información clasificada como confidencial o reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública. Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+A JUAN CARLOS ELIZALDE HERNANDEZ 3030303031303030303030373135313738333030 25/04/29 01:03:08 PJF - Versión Pública
+JUAN CARLOS ELIZALDE HERNANDEZ 3030303031303030303030373135313738333030 25/04/29 01:03:08 PJF - Versión Pública Martín Adolfo Santos Pérez Juan Carlos Elizalde Hernández Juez Octavo de Distrito en Materia Secretaria/o del juzgado. Administrativa en la Ciudad de México. RAZÓN. En la misma fecha se giraron el(los) oficio(s) 5890 y 5891, con el(los) que se comunica el auto que antecede. CONSTE. En la Ciudad de México, siendo las nueve horas del día veinticinco de febrero de dos mil veintiséis, con fundamento en los artículos 24, 26, fracción III, de la Ley de Amparo, notificó a las partes la resolución que antecede, por medio de lista fijada en los términos del artículo 29, de la Ley de la materia citada, asimismo, con fundamento en lo previsto por el artículo
+31 de la Ley de Amparo a las nueve horas del mismo día se da por hecha la notificación de la
+PJF - Versión Pública

@@ -1,0 +1,24 @@
+﻿campo,n_ambos,n_solo_uno,acuerdo_simple,alfa,ic95_inf,ic95_sup,lectura
+tarea,14,0,0.714,0.668,0.351,0.911,tentativo
+tarea_numerica,14,0,1.0,1.0,1.0,1.0,suficiente
+herramienta,14,0,0.643,0.435,0.024,0.752,insuficiente
+version_declarada,14,0,0.857,-0.038,-0.174,0.0,insuficiente
+fecha_consulta_declarada,14,0,0.929,0.64,-0.08,1.0,insuficiente
+fundamento_uso,14,0,0.786,0.587,0.143,1.0,insuficiente
+a_proporcionalidad,14,0,0.929,0.863,0.491,1.0,suficiente
+b_datos,14,0,0.714,0.325,-0.227,0.816,insuficiente
+c_informa,14,0,1.0,,,,sin variación (todos el mismo valor)
+c_metodologia,14,0,0.786,0.585,0.082,1.0,insuficiente
+c_datos_entrada,14,0,0.714,0.438,-0.105,0.862,insuficiente
+c_resultado,14,0,0.929,0.862,0.449,1.0,suficiente
+resultado,14,0,0.714,-0.125,-0.35,0.0,insuficiente
+d_supervision,14,0,0.429,0.096,-0.301,0.438,insuficiente
+prompt,14,0,0.929,0.862,0.526,1.0,suficiente
+respuesta_ia,14,0,0.571,0.344,-0.054,0.649,insuficiente
+p_norma,6,1,1.0,1.0,1.0,1.0,suficiente
+p_hechos,6,1,0.833,0.686,-0.1,1.0,tentativo
+p_metodo,6,1,1.0,1.0,1.0,1.0,suficiente
+p_limites,6,1,0.833,0.686,-0.1,1.0,tentativo
+fundamentacion,14,0,0.786,0.652,0.289,1.0,insuficiente
+motivacion,14,0,0.714,0.556,0.179,0.867,insuficiente
+recalculo,14,0,0.786,0.616,0.332,1.0,insuficiente

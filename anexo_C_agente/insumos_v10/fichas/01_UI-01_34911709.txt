@@ -1,0 +1,495 @@
+UNIDAD: UI-01
+SENTENCIA: 34911709
+ÓRGANO: Juzgado Segundo de Distrito en Materia Administrativa, Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República
+FECHA: 2025-01-20
+TIPO DE ASUNTO: Amparo Indirecto
+AVISO: Uso institucional UI-01 (196 sentencias con el mismo machote): codifica la declaración una sola vez.
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+SÍNTESIS EN LENGUAJE CIUDADANO CREADA CON INTELIGENCIA ARTIFICIAL
+
+Asimismo, se informa que esta primera síntesis fue creada con inteligencia artificial con el objetivo de incorporar de manera paulatina tal herramienta digital en la función jurisdiccional encomendada a este juzgador dadas sus eventuales ventajas para tal servicio público, a saber, la eliminación de conceptos técnicos o jurídicos altamente complejos o su sustitución por otros, la reducción de los plazos para el dictado de las sentencias, entre otras.
+
+Mensaje Te compartiré un proyecto de sentencia en versión pública. Redacta una breve síntesis de aquel en un formato amigable y comprensible para (en inglés: prompt) personas no abogadas.
+
+A continuación, se presenta una segunda síntesis del presente fallo en el formato comentado, pero sin el uso de inteligencia artificial.
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+JUICIO DE AMPARO INDIRECTO 26/2024 QUEJOSA: ******** ***** * ***** *** ******** ******* ********* ** ********* ** ******* ********
+
+JUEZ JONATHAN BASS HERRERA SECRETARIO JUAN ARTURO RAMOS ROBLES
+
+Vistos los autos para resolver el juicio de amparo indirecto 26/2024, promovido por ******** ***** * ***** *** ******** ******* ********* ** ********* ** ******* ********* por conducto de su representante legal, contra actos de la persona Directora General del Centro Nacional de Control de Energía y otras autoridades.
+
+SÍNTESIS EN LENGUAJE CIUDADANO CREADA CON INTELIGENCIA ARTIFICIAL
+
+En términos de lo dispuesto en el artículo 13 de la Ley General de Transparencia y Acceso a la Información Pública[1], a continuación se presenta una síntesis del
+
+presente fallo en lenguaje ciudadano para facilitar su comprensión, así como para transparentar la labor jurisdiccional[2].
+
+Asimismo, se informa que esta primera síntesis fue creada con inteligencia artificial con el objetivo de incorporar de manera paulatina tal herramienta digital en la función jurisdiccional encomendada a este juzgador dadas sus eventuales ventajas para tal servicio público, a saber, la eliminación de conceptos técnicos o jurídicos altamente complejos o su sustitución por otros, la reducción de los plazos para el dictado de las sentencias, entre otras.
+
+Lo anterior, sin que por el momento se utilice tal herramienta para la solución del presente caso o para la redacción de alguna otra parte de la sentencia, de modo que su uso se limitó a requerirle la elaboración de una síntesis del presente fallo que le fue proporcionado en versión pública.
+
+Mensaje Te compartiré un proyecto de sentencia en versión pública. Redacta una breve síntesis de aquel en un formato amigable y comprensible para (en inglés: prompt) personas no abogadas.
+
+Antecedentes
+
+Aquí tienes una síntesis amigable y accesible del proyecto de sentencia:
+
+¿De qué trata esta resolución?
+
+Una empresa que opera en el sector eléctrico argumentó que los precios establecidos por el Centro Nacional de Control de Energía (CENACE) para la potencia eléctrica en 2024 son injustos y no transparentes, lo que afecta la competencia en el mercado y sus derechos.
+
+Puntos principales del caso:
+
+1. El reclamo: La empresa sostiene que:
+
+• La metodología usada para calcular los precios beneficia injustificadamente a la Comisión Federal de Electricidad (CFE).
+
+[1] Disposición normativa que se transcribe a continuación.
+
+Artículo 13. En la generación, publicación y entrega de información se deberá garantizar que ésta sea accesible, confiable, verificable, veraz, oportuna y atenderá las necesidades del derecho de acceso a la información de toda persona.
+
+Los sujetos obligados buscarán, en todo momento, que la información generada tenga un lenguaje sencillo para cualquier persona y se procurará, en la medida de lo posible, su accesibilidad y traducción a lenguas indígenas.
+
+[2] Al respecto, en el documento denominado “Lenguaje Ciudadano. Un manual para quien escribe en la Administración Pública Federal”, la Secretaría de la Función Pública conceptualiza al lenguaje ciudadano como aquel que utiliza expresiones simples, claras y directas en la comunicación con las personas gobernadas, lo que a criterio de este juzgador implica en la labor jurisdiccional no utilizar expresiones altamente formalistas o sustituirlas por otras más claras, especialmente para personas no abogadas. • No se siguió el procedimiento legal que incluye una revisión obligatoria por la Comisión
+
+Reguladora de Energía (CRE).
+
+• No se proporcionó suficiente información sobre cómo se determinaron los precios.
+
+2. La decisión: El juez resolvió que:
+
+• Los precios de 2024 se basan en una metodología definida en años anteriores y no es posible
+
+cuestionarla en este juicio porque no forma parte de los actos específicos reclamados.
+
+• El cálculo de los precios sí fue transparente, ya que se consideraron todos los puntos de
+
+interconexión (nodos) relevantes, conforme a la normativa.
+
+Resultado:
+
+El juez concluyó que no se violaron los derechos de la empresa y negó el amparo solicitado. En resumen, el procedimiento seguido para establecer los precios fue legal y transparente según las reglas aplicables.
+
+SÍNTESIS TRADICIONAL EN LENGUAJE CIUDADANO
+
+A continuación, se presenta una segunda síntesis del presente fallo en el formato comentado, pero sin el uso de inteligencia artificial.
+
+Antecedentes
+
+Una empresa que cuenta con un permiso para prestar el servicio de suministro eléctrico en la modalidad de suministro calificado, es decir, para gestionar el abastecimiento de energía eléctrica a ciertas personas con necesidades específicas presentó demanda de amparo en contra de los precios de la potencia de dos mil veinticuatro, emitidos por el Centro Nacional de Control de Energía, así como en contra de su cobro.
+
+Lo anterior, al estimar que tales precios son inconstitucionales al quebrantar la competencia en el mercado de potencia, así como sus prerrogativas fundamentales, en virtud de que (i) el incremento de tales precios siguió una metodología que beneficia de manera injustificada a la Comisión Federal de Electricidad y para la que no se observó el procedimiento aplicable en relación con la obtención de la no objeción por parte de la Comisión Reguladora de Energía y (ii) la cuantificación relativa no fue transparente.
+
+Cuestiones jurídicas a resolver
+
+¿La metodología utilizada por el Centro Nacional de Control de Energía para calcular los precios de la potencia de dos mil veinticuatro transgrede la competencia y libre A
+
+concurrencia en el sector y obtuvo la no objeción por parte de la Comisión Reguladora de Energía?
+
+B ¿Se transparentó el cálculo de los precios de la potencia de dos mil veinticuatro?
+
+Resoluciones
+
+En términos de lo dispuesto en el Manual del Mercado para el Balance de Potencia, cada tres años el Centro Nacional de Control de Energía define la metodología que utilizará para calcular los precios de la potencia, de modo que los otros años estos únicamente se actualizan con la fórmula prevista en dicho manual.
+
+En el caso, los precios impugnados en este juicio (2024) son los actualizados respecto de la anualidad anterior (2023) en la que el Centro Nacional de Control de Energía estableció la metodología aplicable, por lo que este juzgador está impedido para analizar el A
+
+planteamiento de la quejosa, ya que su inconformidad radica en la construcción de dicha metodología, lo que no es materia de los precios aquí controvertidos, pues, como se dijo, para calcularlos únicamente se actualizaron los valores respectivos.
+
+En otras palabras, resulta jurídicamente inviable analizar la constitucionalidad de los precios en mención bajo la óptica planteada por la quejosa, es decir, a partir de su metodología, ya que esta fue definida en otro momento y acto que no es materia del presente juicio constitucional.
+
+La parte quejosa estima que el cálculo de los precios controvertidos no fue transparente, ya que el Centro Nacional de Control de Energía no informó los nodos y sus correlativos costos que se utilizaron para dichas cifras.
+
+Sin embargo, como lo prevé el Manual del Mercado para el Balance de Potencia, el Centro B Nacional de Control de Energía obtuvo tales cantidades con base en lo precios marginales locales de la totalidad de los nodos que componen las zonas de potencia, es decir, no utilizó uno o algunos en particular como lo sugirió la quejosa, de ahí que claramente no estaba constreñido a actuar en el sentido exigido por dicha parte, es decir, no debía informar los nodos cuyas características consideró para el cálculo de los precios impugnados cuando optó por contemplarlos a todos.
+
+CONTEXTO
+
+1. Otorgamiento de permiso. Mediante resolución ************ de diecisiete de marzo de dos mil dieciséis, la Comisión Reguladora de Energía le otorgó a ******** ***** * ***** *** ******** ******* ********* ** ********* ** ******* ******** el permiso ************** para prestar el servicio de suministro eléctrico en la modalidad de suministro calificado en todo el territorio nacional[3].
+
+2. Suscripción del contrato de participante del mercado. Por contrato suscrito el veintitrés de febrero de dos mil dieciséis entre el Centro Nacional de Control de Energía y ******** ***** * ***** *** ******** ******* ********* ** ********* ** ******* ********, se acordó establecer relaciones entre estas a fin de realizar y mantener durante su vigencia las operaciones relacionadas con el Mercado Eléctrico Mayorista en lo que corresponde al servicio de suministro calificado[4].
+
+3. Precios máximos de potencia 2024. En términos de lo dispuesto en el Manual del Mercado para el Balance de Potencia, el Centro Nacional de Control de Energía publicó el precio neto y el precio máximo de la potencia para dicho mercado en dos mil veinticuatro (año de producción dos mil veintitrés), el que le fue notificado a la quejosa mediante el Sistema de Información del Mercado Eléctrico Mayorista[5].
+
+Tales precios constituyen el objeto principal del presente juicio de amparo
+
+ÍNDICE
+
+Apartado Decisión Página
+
+Resultando
+
+Demanda de amparo 4
+
+Declaración de incompetencia por turno 4
+
+Avocamiento y admisión 4
+
+Considerando
+
+[3] Tal permiso constituye un hecho notorio para este juzgador en términos de lo dispuesto en el artículo 88 del Código Federal de Procedimientos Civiles, de aplicación supletoria a la Ley de Amparo, ya que está disponible en la página web institucional de la Comisión Reguladora de Energía.
+
+[4] Anexo uno del escrito de demanda.
+
+[5] Página 3 del escrito de demanda.
+
+Este juzgador es legalmente competente para conocer del Competencia 4 a 5
+
+presente asunto.
+
+Actos Se tienen como actos reclamados los precisados en este 5 a 7 reclamados considerando.
+
+Existencia Son ciertos los actos reclamados. 7 a 8
+
+Causas de No se actualizan las causas de improcedencia invocadas por la 8 a 10 improcedencia autoridad responsable ni se advierte de oficio tal circunstancia.
+
+Estudio 10 a
+
+V.1 Cuestión jurídica a resolver 10 a 12
+
+V.2 Metodología para la determinación de los precios de la potencia 12 a 14
+
+V.3 Resolución 14 a
+
+Único. La Justicia de la Unión no ampara ni protege a ******** ***** * ***** *** ******** ******* ********* ** ********* Decisión ** ******* ******** contra actos de la persona Directora General del Centro Nacional de Control de Energía y otras autoridades por los motivos expuestos en el considerando quinto de este fallo.
+
+RESULTANDO
+
+Primero. Demanda en amparo. Mediante escrito presentado el ocho de marzo de dos mil veinticuatro en la Oficina de Correspondencia Común de los Juzgados de Distrito y Tribunales Colegiados de Circuito en Competencia Económica, Radiodifusión y Telecomunicaciones y del Centro Auxiliar de la Primera Región* ******** ***** * ***** *** ******** ******* ********* ** ********* ** ******* ********* por conducto de su representante legal, solicitó el amparo y protección de la Justicia de la Unión en contra de los actos de las autoridades ahí señaladas.
+
+Segundo. Declaración de incompetencia por turno. Por cuestión de turno, correspondió conocer del asunto a este Juzgado Segundo de Distrito en Materia Administrativa especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y jurisdicción en toda la República que por acuerdo de veintidós de marzo de dos mil veinticuatro, previo registro de la demanda bajo el expediente 26/2024 y desahogo de una prevención, se declaró legalmente incompetente por cuestión de turno para conocer de este al estimar que su conocimiento le correspondía al Juzgado Primero de Distrito de esta sub especialidad.
+
+Tercero. Avocamiento y admisión. Tal órgano jurisdiccional no aceptó la competencia por turno declinada, por lo que, previos trámites administrativos, por auto de ocho de abril de dos mil veinticuatro, este juzgador se avocó al conocimiento del presente juicio y lo admitió a trámite; asimismo, le solicitó a las autoridades responsables rindieran informe justificado, se dio la intervención que le compete a la persona agente del Ministerio Público de la Federación de la adscripción y se señaló fecha y hora para la celebración de la audiencia constitucional, verificada en términos del acta que antecede.
+
+CONSIDERANDO
+
+Primero. Competencia. Este Juzgado Segundo de Distrito en Materia Administrativa especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y jurisdicción en toda la República es legalmente competente para conocer del presente juicio de amparo indirecto de conformidad con lo dispuesto en los artículos 28, 103, fracción I, y 107, fracción VII, de la Constitución Política de los Estados Unidos Mexicanos; 107 de la Ley de Amparo, así como 54, fracción IV, de la Ley Orgánica del Poder Judicial de la Federación y el Acuerdo General 22/2013 del Pleno del Consejo de la Judicatura Federal, pues se trata de actos por los que se establecen precios máximos.
+
+En efecto, a criterio de este juzgador, los actos de autoridad que establezcan o apliquen precios máximos tienen implicaciones en materia de competencia económica, dado que regulan directamente la interacción de los agentes económicos en un mercado, tal y como lo sostuvo la Segunda Sala de la Suprema Corte de Justicia de la Nación al resolver la contradicción de criterios 113/2017, en donde determinó que a estos órganos sub especializados les corresponde conocer de los juicios en los que se controvierta la determinación de los precios máximos al público de las gasolinas y el diésel[6].
+
+Segundo. Acto reclamado. La Suprema Corte de Justicia de la Nación ha establecido que la demanda de amparo es un todo y que, por ende, su análisis no debe limitarse al escrito inicial sino que también debe incluir el de sus documentos y anexos, así como el del escrito por medio del cual es aclarada[7].
+
+[6] De dicha contradicción de criterios derivó el siguiente criterio jurisprudencial.
+
+ÓRGANOS JURISDICCIONALES EN MATERIA ADMINISTRATIVA ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y JURISDICCIÓN EN TODA LA REPÚBLICA. SON COMPETENTES PARA CONOCER DE LOS JUICIOS DE AMPARO O SUS RECURSOS CUANDO LOS ACTOS RECLAMADOS TENGAN COMO OBJETIVO CREAR CONDICIONES DE LIBRE COMPETENCIA Y CONCURRENCIA EN EL MERCADO DE LOS PETROLÍFEROS, COMO LO SON LA DETERMINACIÓN DE LOS PRECIOS DE LAS GASOLINAS Y EL DIÉSEL. El Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013, y la legislación ordinaria derivada de éste provocaron el establecimiento de un modelo constitucional y legal que reconoce la participación de terceros en actos posteriores a la exploración y extracción del petróleo y de los demás hidrocarburos; por ello, esa reforma tiene, entre otros objetivos, crear las condiciones adecuadas para un mercado abierto y competitivo de combustibles, mediante un orden jurídico que busca fomentar la libre competencia y concurrencia en la comercialización y expendio al público de las gasolinas y el diésel. Por tanto, de los juicios de amparo o sus recursos en los que se reclamen actos de autoridad relativos a la determinación de precios máximos al público de las gasolinas y el diésel, deberán conocer los órganos jurisdiccionales especializados en competencia económica, ya que esos actos tienen como finalidad fomentar la libre competencia y concurrencia en ese sector, con independencia del carácter formal de la autoridad administrativa que los haya emitido, en virtud de que forman parte de toda una política de competencia tendente a lograr una mayor participación de los agentes económicos en ese mercado. Cabe agregar que este criterio no implica que deje de tener aplicación el Acuerdo General 2/2017 del Pleno del Consejo de la Judicatura Federal, relativo al trámite, resolución y cumplimiento de los juicios de amparo en los que, entre otros, se señale como acto reclamado la Ley de Ingresos de la Federación para el ejercicio fiscal 2017; la Ley de Hidrocarburos; el Acuerdo que establece el precio máximo de la gasolina, y el Acuerdo que establece el cronograma de flexibilización de precios de gasolinas y diésel, previsto en el artículo décimo segundo transitorio de la Ley de Ingresos en mención, por parte de los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, publicado en el Diario Oficial de la Federación el 21 de febrero de 2017. Jurisprudencia 2a./J. 68/2018 (10a.) (registro digital 2017325)
+
+[7] Son aplicables los siguientes criterios:
+
+DEMANDA DE AMPARO. AL PROVEER SOBRE SU ADMISIÓN, SU ANÁLISIS DEBE COMPRENDER LOS ANEXOS QUE SE ACOMPAÑEN A LA MISMA. Esta Suprema Corte de Justicia de la Nación ha establecido que la demanda de amparo debe ser interpretada en forma integral, atendiendo a lo que en ella se pretende desde el punto de vista material y no únicamente formal; el desarrollo de este criterio permite considerar que el estudio integral de la demanda incluye el de los anexos de la misma, en virtud de que éstos generalmente contienen datos que completan el entendimiento de la demanda, cuando es obscura o imprecisa; así, los anexos pueden permitir al Juez esclarecer su contenido y desentrañar la verdadera voluntad del quejoso, lo que encuentra su apoyo en los principios que para la administración de justicia prevé el artículo 17 de la Constitución General de la República. Por ende, en los casos en que del análisis integral de la demanda y sus anexos, el Juez advierta alguna irregularidad o imprecisión, debe prevenir a la parte quejosa en términos de lo previsto en el artículo 146 de la Ley de Amparo, para que formule la aclaración correspondiente, ya que de omitir esa prevención, incurre en una violación a las normas que rigen el procedimiento en el juicio de amparo, que podría trascender al resultado de la sentencia, por lo que con apoyo en el artículo 91, fracción IV, de la Ley de Amparo, llevaría a ordenar la reposición del procedimiento. Jurisprudencia 2a./J. 183/2005 (9ª) (registro 176329)
+
+Por tanto, las y los juzgadores de amparo deben analizar e interpretar tales elementos para atender la pretensión que contienen desde el punto de vista material, no únicamente formal, así como deben prescindir de los calificativos que en ellos se hagan sobre la constitucionalidad o inconstitucionalidad de los actos reclamados. De ahí que deben cumplir las siguientes exigencias.
+
+En primer lugar, interpretar la demanda con un sentido de liberalidad no restrictivo para determinar con exactitud la intención de la persona promovente y, de tal manera, armonizar los datos y elementos que la conforman sin cambiar su alcance y contenido; es decir, examinar sus elementos y establecer qué es lo que pretende conseguir mediante el juicio de amparo.
+
+En segundo lugar, a la luz de la intención identificada, verificar cuáles son los actos que causan perjuicio a la parte quejosa según sus conceptos de violación y al margen de que hubieran sido formalmente señalados como reclamados; esto es, a contrario sensu, descartar los que no la perjudiquen y los que no estén vinculados con su propósito.
+
+En tercer lugar, identificada la pretensión material de la parte quejosa y depurados los actos reclamados en función de su relación con ella, es necesario armonizar los datos de la demanda con toda la información del expediente a fin de atender a lo que dicha parte quiso decir ––a su causa de pedir–– para lograr congruencia entre lo pedido y lo resuelto.
+
+De modo que las y los juzgadores de amparo están obligados a superar la valoración literal del capítulo respectivo y a interpretar integralmente las constancias del expediente para precisar los actos reclamados ––la base de la litis del juicio constitucional–– únicamente a partir de lo que la parte quejosa efectivamente pretende reclamar[8].
+
+DEMANDA DE AMPARO INDIRECTO. EL ESCRITO INICIAL Y SU ACLARACIÓN NO PUEDEN DESVINCULARSE NI ANALIZARSE POR SEPARADO, YA QUE AMBOS INTEGRAN AQUÉLLA. Al tener el escrito aclaratorio de una demanda de amparo indirecto su origen en una irregularidad del escrito inicial, ya sea porque éste no cumplió con todos los requisitos previstos en el artículo 116 de la Ley de Amparo, o bien, porque con él no se exhibió el número de copias a que se refiere el artículo 120 de tal ordenamiento legal, y que su propósito es el de subsanar tales vicios, puede concluirse que no pueden desvincularse, analizarse o considerarse por separado, pues ambos escritos integran la demanda de amparo y, consecuentemente, deben ser considerados indefectiblemente como un solo documento. Jurisprudencia P./J. 35/2001 (registro 189979)
+
+[8] Son aplicables los siguientes criterios:
+
+DEMANDA DE AMPARO. DEBE SER INTERPRETADA EN SU INTEGRIDAD. Este Alto Tribunal, ha sustentado reiteradamente el criterio de que el juzgador debe interpretar el escrito de demanda en su integridad, con un sentido de liberalidad y no restrictivo, para determinar con exactitud la intención del promovente y, de esta forma, armonizar los datos y los elementos que lo conforman, sin cambiar su alcance y contenido, a fin de impartir una recta administración de justicia al dictar una sentencia que contenga la fijación clara y precisa del acto o actos reclamados, conforme a lo dispuesto en el artículo 77, fracción I, de la Ley de Amparo. Jurisprudencia P./J. 40/2000 (registro 192097)
+
+ACTOS RECLAMADOS. DEBE ESTUDIARSE ÍNTEGRAMENTE LA DEMANDA DE AMPARO PARA DETERMINARLOS. Si del análisis integral del escrito de demanda se llega al conocimiento de que, aunque no de manera formal, se señala algún acto como lesivo de garantías dentro de los conceptos de violación o en cualquier otra parte de la demanda de amparo, debe tenérsele como acto reclamado y estudiarse su constitucionalidad en la sentencia, pues ha sido criterio reiterado de esta Suprema Corte de Justicia, considerar la demanda como un todo. Jurisprudencia 2a./J. 55/98 (registro 195745)
+
+ACTOS RECLAMADOS. REGLAS PARA SU FIJACIÓN CLARA Y PRECISA EN LA SENTENCIA DE AMPARO. El artículo 77, fracción I, de la Ley de Amparo establece que las sentencias que se dicten en el juicio de garantías deberán contener la fijación clara y precisa de los actos reclamados, así como la apreciación de las pruebas conducentes para tenerlos o no por demostrados; asimismo, la Suprema Corte de Justicia de la Nación ha sostenido el criterio de que para lograr tal fijación debe acudirse a la lectura íntegra de la demanda sin atender a los calificativos que en su enunciación se hagan sobre su constitucionalidad o inconstitucionalidad. Sin embargo, en algunos casos ello resulta insuficiente, por lo que los juzgadores de amparo deberán armonizar, además, los datos que emanen del escrito inicial de demanda, en un sentido que resulte congruente con todos sus elementos, e incluso con la totalidad de la información del expediente del juicio, atendiendo preferentemente al pensamiento e intencionalidad de su autor, descartando las precisiones que generen oscuridad o confusión. Esto es, el juzgador de amparo, al fijar los actos reclamados, deberá atender a lo que quiso decir el quejoso y no únicamente a lo que en apariencia dijo, pues sólo de esta manera se logra congruencia entre lo pretendido y lo resuelto. Tesis aislada P. VI/2004 (registro 181810)
+
+ACTOS RECLAMADOS EN EL AMPARO INDIRECTO. MÉTODO PARA SU FIJACIÓN Y ANÁLISIS POR EL JUEZ DE DISTRITO Y POR EL TRIBUNAL REVISOR, CUANDO EL SEÑALAMIENTO DEL QUEJOSO ES CONFUSO. De los criterios jurisprudenciales y aislados sustentados por el Pleno y las Salas de la Suprema Corte de Justicia de la Nación, se advierte que, para fijar correctamente los actos reclamados que serán materia del análisis constitucional, debe acudirse a la lectura íntegra de la demanda, por virtud de su sentido de indivisibilidad, sin atender a los calificativos que, en su enunciación, se hagan sobre su constitucionalidad o inconstitucionalidad, pero si fuera el caso que, aun eso fuera insuficiente, entonces los juzgadores deberán armonizar -además de los datos que emanen del escrito inicial- la información que se desprenda de la totalidad del expediente del juicio, buscando lograr que su sentido sea congruente con todos esos elementos e identificando los reclamos con alguno de los supuestos de procedencia del amparo, lo que deberá hacerse con un sentido de liberalidad no restrictivo y atendiendo, preferentemente, al pensamiento e intencionalidad de su autor, descartando las precisiones que generen oscuridad o confusión (es decir, debe preferirse lo que quiso decir el quejoso y no lo que en apariencia dijo, a partir de una valoración rígida o literal del capítulo respectivo) y, todo ello, con el objeto de lograr una congruencia entre las pretensiones, lo que será resuelto y lo que razonablemente puede ser materia del juicio constitucional en función de los supuestos de su procedencia, sin que pueda considerarse que esto implique una suplencia de queja, sino la recta precisión de un presupuesto que será la base de la litis del juicio constitucional. Esta valoración debe ser especialmente cuidadosa, cuando se trata de determinar si fueron varios los reclamos autónomos del quejoso o si se está ante una impugnación conexa de varios actos indisolublemente relacionados, respecto de los cuales sería indebido un juzgamiento aislado por cada reclamo aparente; por todo lo anterior, si dichos aspectos y método no fueron observados por el Juez de Distrito en la sentencia de amparo indirecto sujeta a revisión, el Tribunal Colegiado de Circuito, como órgano revisor, de oficio y sin necesidad de agravio, deberá corregirlos para evitar que el proceso constitucional culmine con una sentencia incongruente que no corresponda a la realidad de lo impugnado por el quejoso. Tesis aislada II.3o.A.23 K (10a.) (registro 2007130)
+
+SENTENCIAS DE AMPARO. DEBEN REFLEJAR LO EFECTIVAMENTE RECLAMADO POR EL QUEJOSO (LEGISLACIÓN VIGENTE A PARTIR DEL 3 DE ABRIL DE 2013). De las previsiones que contiene la Ley de Amparo vigente en su artículo 74, se infiere que la fijación de los actos reclamados se encuentra inmersa en el escrutinio que debe realizar quien emite el fallo y cuyo objetivo es la correcta y completa resolución del caso. Por ende, el artículo citado no exige que, en ese aspecto, las sentencias reproduzcan indefectiblemente lo señalado en el capítulo respectivo de la demanda o los informes justificados, sino que reflejen lo efectivamente reclamado por el quejoso; por lo que, para la debida comprensión de este punto, es necesario atender a la integridad de la demanda e, incluso, a cualquier otro elemento relevante en el juicio. Tesis aislada I.1o.A.E.21 K (10a.) (registro 2008699)
+
+En el caso, después de haber examinado la demanda y la totalidad de las constancias del expediente para fijar de manera clara y precisa la litis en el presente asunto, con fundamento en el artículo 74, fracción I, de la Ley de Amparo, se tienen como autoridades responsables y actos reclamados los especificados a continuación.
+
+Autoridades responsables Actos reclamados
+
+a) La emisión del precio máximo y neto de la 1. Directora General del Centro Nacional de potencia del mercado para el balance de Control de Energía potencia de dos mil veinticuatro, año de producción dos mil veintitrés.
+
+2. Directora de Administración del Mercado Eléctrico Mayorista del Centro Nacional de Control de Energía b) La emisión del estado de cuenta de la quejosa en ejecución del precio neto de la 3. Directora de Administración y Finanzas potencia.
+
+del Centro Nacional de Control de Energía
+
+Tercero. Existencia. La emisión de un pronunciamiento sobre la existencia del acto reclamado es ––por razón de técnica–– un aspecto indispensable para resolver lo conducente en relación con las causas de improcedencia hechas valer o advertidas de oficio y para analizar el fondo de la cuestión planteada en este asunto.
+
+A fin de emitir tal pronunciamiento, en primer lugar, es conveniente saber que las disposiciones normativas generales señaladas como actos reclamados en un juicio de amparo no pueden ser objeto de prueba porque su existencia debe tenerse por acreditada con su publicación en el Diario Oficial de la Federación, o bien, en el respectivo medio oficial de difusión[9].
+
+En segundo lugar, es oportuno tener presente que, fuera de esa hipótesis, la existencia de los actos reclamados debe ponderarse en función de lo alegado por la autoridad responsable en su informe justificado y que, si ésta ha omitido rendirlo, debe presumirse su certeza conforme a lo establecido en el artículo 117, cuarto párrafo, de la Ley de Amparo salvo prueba o hecho notorio en contrario.
+
+De modo que, en caso contrario, esto es, cuando la autoridad rinde dicho informe, debe distinguirse si reconoció la existencia del acto reclamado, para tenerlo por cierto con base en lo manifestado por ella; o bien, si lo negó, para entonces ponderar la naturaleza de dicho acto y conjugarla con las reglas que rigen en materia probatoria a fin de determinar si debe tenerse por cierto ––o no–– a partir de tales elementos.
+
+DEMANDA DE AMPARO, DEBE ESTUDIARSE EN SU INTEGRIDAD. Tomando en consideración que la demanda de garantías constituye un todo, es incuestionable que el a quo está obligado a analizarla en su integridad y atender a todos aquellos actos que en la misma se señalen como reclamados, ya que de no hacerlo así resulta claro que con tal omisión el juez de Distrito deja de observar lo dispuesto por el artículo 77, fracción I, de la Ley de Amparo, pues la sentencia que pronuncie en forma alguna contiene la fijación clara y precisa de los actos reclamados. Jurisprudencia VI. 2o. J/221 (registro 218046)
+
+ACTO RECLAMADO, FIJACION DEL, POR LOS JUECES DE DISTRITO. Los artículos 77, fracciones I y II, y 79 de la Ley Orgánica de los Artículos 103 y 107 de la Constitución Federal y los 258 y 332 del Código Federal de Procedimientos Civiles, no exigen de los Jueces de Distrito la transcripción literal del concepto del acto reclamado expresado en la demanda de garantías, sino que previenen que las sentencias que dicten dichos funcionarios y la Suprema Corte de Justicia, entre otros requisitos, deberán contener la fijación clara y precisa del acto o actos reclamados. Por tanto, aunque la enunciación que del acto reclamado haga el Juez de Distrito en su sentencia, no coincida exactamente con los términos de la demanda, con ello no irroga agravio alguno al quejoso, si precisa bien, aunque con redacción distinta, el alcance jurídico de la resolución que constituye dicho acto reclamado. Tesis aislada (registro 353317)
+
+Finalmente, es pertinente considerar que si el acto reclamado es de naturaleza positiva y la autoridad responsable niega su existencia, la carga probatoria se trasladará a la parte quejosa y, por consiguiente, ésta deberá aportar los elementos que estime necesarios para desvirtuar esa negativa antes de la celebración de la audiencia constitucional[10].
+
+En cambio, si son de naturaleza omisiva y la autoridad responsable niega su existencia, será indispensable verificar si ésta se encontraba en aptitud legal de realizar la actuación exigida por la parte quejosa, ya que, de ser el caso, la omisión atribuida deberá tenerse por cierta salvo prueba en contrario; mientras que, de no ser así, deberá tenerse por inexistente y, en consecuencia, se deberá sobreseer en el juicio.
+
+En el caso, las autoridades responsables reconocieron la existencia de los actos reclamados cuya certeza se corrobora, por un lado, al resultar un hecho notorio dada la disponibilidad de los precios controvertidos en la página web institucional del Centro Nacional de Control de Energía y, por el otro, con el instrumento notarial que acompañó la parte quejosa a su escrito de demanda que no fue objetado por las partes; de ahí que deban tenerse por ciertos los actos sometidos a control constitucional en este juicio.
+
+Cuarto. Causas de improcedencia. En el juicio de amparo es posible impugnar normas generales, actos u omisiones cuando vulneren derechos reconocidos en la Constitución Federal y en los tratados internacionales de los que el Estado mexicano es parte, inclusive, cuando esa vulneración se origine por la contravención al régimen de distribución de competencias entre la Federación y las entidades federativas. Por ello, es un mecanismo jurisdiccional de control constitucional que tiene la finalidad de restituir el goce de tales derechos.
+
+La improcedencia de dicho mecanismo, según lo ha establecido la Suprema Corte de Justicia de la Nación, conlleva la actualización de un impedimento técnico para que el órgano jurisdiccional analice y resuelva la cuestión planteada en la demanda y, por ende, supone algunas circunstancias -de hecho o de derecho- que impiden que la parte quejosa logre la satisfacción de su pretensión mediante la acción de amparo e implica, según el momento procesal, el desechamiento de aquélla o el sobreseimiento en el juicio.
+
+En el caso, las autoridades responsables invocaron las causas de improcedencia previstas en el artículo 61, fracciones XIII y XX, de la Ley de Amparo (consentimiento de los actos reclamados e incumplimiento del principio de definitividad), por lo que se procede a su análisis.
+
+[10] Es aplicable el siguiente criterio.
+
+ACTO RECLAMADO POSITIVO. ANTE LA NEGATIVA DE LA AUTORIDAD RESPONSABLE, SU EXISTENCIA DEBE PROBARSE POR EL QUEJOSO AUN CUANDO LAS VIOLACIONES EN EL COMETIDAS IMPLIQUEN CONDUCTAS NEGATIVAS. Cuando el acto reclamado necesariamente consiste en una conducta activa por parte de la autoridad y se señalan como violatorias al orden constitucional conductas de carácter omisivo en las que incurrió la autoridad responsable al realizarla, el quejoso debe demostrar la existencia de esa conducta positiva ante la negativa de la autoridad de haberla ejecutado, pues de la imposibilidad jurídica de exigir al quejoso la demostración de esas omisiones, no se puede derivar ni lógica ni jurídicamente la existencia del acto reclamado, en virtud de que si tales omisiones no pudieron generarse sino con motivo de esa conducta positiva y ésta no se produjo, menos aún pudieron verificarse las citadas omisiones. Jurisprudencia 3a./J.
+
+35/90 (registro 207114)
+
+Asimismo, es ilustrativo el siguiente criterio.
+
+ACTO RECLAMADO, NATURALEZA DEL (ACTOS POSITIVOS Y NEGATIVOS). Debe tenerse presente que no es lo mismo el carácter o naturaleza que el sentido del acto reclamado. Por que el acto es de naturaleza o de carácter negativo cuando consiste en una conducta omisiva, esto es, en una abstención, en dejar de hacer lo que la ley ordena; en tanto que es de naturaleza o de carácter positivo cuando consiste en una conducta comisiva, esto es, en una acción, en hacer lo que la ley ordena. por su parte, el sentido de los actos de naturaleza negativa o positiva puede ser igualmente negativo o positivo. La abstención de la autoridad puede redundar en una prohibición, o en no dictar un mandamiento imperativo, y, así, la omisión tendrá sentido positivo o negativo en la afectación del interés jurídico del quejoso, El acto comisivo de la autoridad, asimismo, puede redundar en conceder o negar lo que se pide, lo cual le dará su sentido positivo o negativo; pero basta que el acto sea resolutorio o decisivo para que no pueda calificarse como omisivo, es decir, de naturaleza o de carácter negativo. Tesis aislada sin número (registro 316826)
+
+IV.1 Consentimiento de los actos reclamados
+
+En primer lugar, las autoridades responsables sostienen que se actualiza la causa de improcedencia prevista en el artículo 61, fracción XIII, de la Ley de Amparo, porque la participación de la quejosa en el Mercado para el Balance de Potencia implica la aceptación tácita de sus condiciones, lo que incluye los precios sometidos a control constitucional en este asunto, de modo que en su opinión estos también fueron consentidos como consecuencia de ello.
+
+Tal argumento es infundado, pues la participación de la quejosa en el mercado en mención no implica renunciar a su derecho a controvertir en esta sede constitucional la regulación que ahí se aplique como, por ejemplo, los precios relativos; antes bien, es precisamente tal participación la que la legitima para someter a control constitucional los actos aquí reclamados.
+
+Es decir, cuando las personas gobernadas cumplen con el marco legal y regulatorio que le aplica a la situación jurídica en la que se encuentran como, por ejemplo, cuando enteran una contribución o, como en el caso, cuando observan los precios establecidos para el mercado en el que participan, no es posible sostener que consintieron tales actos de autoridad, pues su actuación tuvo el único propósito de evitar el incumplimiento del marco aplicable por las consecuencias inherentes a ello y, en cambio, tal circunstancia les concede el interés necesario en la presente instancia constitucional[11].
+
+Así, el que la quejosa participara en el Mercado para el Balance de Potencia de dos mil veinticuatro, no implica que hubiera consentido los precios establecidos para este, sino que observó la regulación aplicable para evitar que se le impidiera participar en aquel y dentro del plazo legal acudió al presente juicio a cuestionar su regularidad constitucional, sin que sea obstáculo para ello, como lo pretenden las autoridades responsables, el que la quejosa hubiera podido acceder a otras formas de adquisición de potencia, pues ello no modifica su situación jurídica.
+
+En efecto, no pasa desapercibido para este juzgador que en el artículo 2.2.1 del Manual del Mercado para el Balance de Potencia se estableció que las personas obligadas a adquirir potencia puedan hacerlo mediante transacciones bilaterales o en el mercado mencionado, pues la elección de una de esas dos opciones no implica el consentimiento de sus reglas, ya que, se insiste, es precisamente esa elección la que modifica la situación de la quejosa y le concede el interés para impugnarlo; en síntesis, ni la elección de una opción ni la observancia de su regulación implican consentimiento, pues derivan del estricto cumplimiento del marco normativo[12].
+
+[11] Es aplicable, por analogía, la tesis de jurisprudencia transcrita enseguida.
+
+LEYES, AMPARO CONTRA. EL PAGO LISO Y LLANO DE UNA CONTRIBUCIÓN NO IMPLICA EL CONSENTIMIENTO EXPRESO DE LA LEY QUE LA ESTABLECE. Si el quejoso presenta la demanda de amparo en contra de una ley tributaria dentro del plazo legal, computado a partir de que realizó el pago de la contribución en forma lisa y llana, ello no constituye la manifestación de voluntad que entrañe el consentimiento de la ley que la establece ya que, dada la naturaleza de las normas fiscales, su cumplimiento por parte de los contribuyentes se impone como imperativo y conlleva la advertencia cierta de una coacción, por lo que la promoción del juicio de amparo correspondiente, refleja la inconformidad del peticionario de garantías con el contenido de la ley impugnada. Jurisprudencia P./J. 68/97 (registro digital 197667)
+
+[12] El artículo citado es del tenor literal siguiente.
+
+2.2.1 Acreditación de Potencia […]
+
+(e) La Potencia Anual Acreditada de un Participante del Mercado podrá ser utilizada por ese Participante del Mercado para cumplir con sus requisitos de Potencia para esa Zona de Potencia en ese año y para enajenarla a fin de que otros Participantes del Mercado puedan cumplir con sus requisitos de Potencia para esa Zona de Potencia en ese año. La enajenación de esa Potencia podrá realizarla el Participante del Mercado a través de Transacciones Bilaterales de Potencia o a través del Mercado para el Balance de Potencia.
+
+IV.2 Incumplimiento del principio de definitividad
+
+En segundo lugar, las autoridades responsables plantearon que se actualiza la causa de improcedencia prevista en el artículo 61, fracción XX, de la Ley de Amparo, porque previo a la presentación de la demanda de amparo la parte quejosa debió acudir al procedimiento para la solución de controversias previsto en el artículo 19.3.1 de las Bases del Mercado Eléctrico y, ya que no lo hizo, el presente juicio constitucional resulta improcedente de acuerdo con el principio de definitividad[13].
+
+Tal argumento es infundado, pues el artículo citado de la Ley de Amparo requiere que el medio de defensa permita la suspensión de los actos controvertidos con los mismos alcances que en el presente juicio, lo que no se actualiza respecto del procedimiento mencionado al no prever tal medida cautelar; maxime, que aquel no está previsto en alguna ley y los actos reclamados no encuadran en alguna de las hipótesis previstas en el artículo 3 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, de ahí que la quejosa no estaba obligada a agotar el procedimiento en mención ni el juicio contencioso administrativo previo a la presentación de la demanda de amparo.
+
+Así, al no actualizarse las causas de improcedencia invocadas por las autoridades responsables ni advertirse de oficio alguna otra o de sobreseimiento, lo procedente es estudiar el fondo del asunto.
+
+Quinto. Estudio. Con la finalidad de satisfacer el principio de exhaustividad que debe revestir toda determinación judicial, el estudio de fondo del presente asunto se dividirá en los siguientes apartados: (i) cuestión jurídica a resolver, (ii) metodología para la determinación de los precios de la potencia y (iii) resolución.
+
+V.1 Cuestión jurídica a resolver
+
+En principio, resulta necesario señalar que no se transcribirán los conceptos de violación formulados por la parte quejosa porque no existe disposición legal que imponga tal obligación y el no hacerlo no conlleva transgresión alguna a los principios de congruencia y exhaustividad contenidos en los artículos 74 y 75 de la ley de la materia[14].
+
+[13] El numeral en mención se transcribe enseguida.
+
+19.3 Procedimiento para la solución de controversias 19.3.1 Las controversias que surjan en el Mercado Eléctrico Mayorista entre el CENACE y los Participantes del Mercado, o entre Participantes del Mercado cuando así lo hayan pactado, podrán resolverse a través del procedimiento para la solución de controversias previsto en esta sección y de conformidad con el Manual de Prácticas de Mercado correspondiente. Dicho procedimiento también podrá utilizarse para resolver controversias que surjan entre el CENACE y los Transportistas o Distribuidores, o bien, entre los Participantes del Mercado y los Transportistas o Distribuidores.
+
+[14] Son aplicables, entre otros, los siguientes criterios: jurisprudencia P.J. 3/2005 (registro 179367), de rubro “CONCEPTOS DE VIOLACIÓN EN AMPARO DIRECTO. EL ESTUDIO DE LOS QUE DETERMINEN SU CONCESIÓN DEBE ATENDER AL PRINCIPIO DE MAYOR BENEFICIO, PUDIÉNDOSE OMITIR EL DE AQUELLOS QUE AUNQUE RESULTEN FUNDADOS, NO MEJOREN LO YA ALCANZADO POR EL QUEJOSO, INCLUSIVE LOS QUE SE REFIEREN A CONSTITUCIONALIDAD DE LEYES.”; jurisprudencia I.4o.A. J/83 (registro 164369), de rubro “CONCEPTOS DE VIOLACIÓN EN AMPARO INDIRECTO. EL ESTUDIO DE LOS QUE DETERMINEN SU CONCESIÓN DEBE PREFERIR LOS RELACIONADOS CON EL FONDO DEL ASUNTO A LOS FORMALES, O BIEN, ATENDER AL PRINCIPIO DE MAYOR BENEFICIO.”; y la jurisprudencia 1a. J/7 (10a.) (registro 2006757), de rubro “VIOLACIONES PROCESALES. ESTÁN SUBORDINADAS AL ESTUDIO DE FONDO CUANDO ÉSTE REDUNDA EN MAYOR BENEFICIO PARA EL QUEJOSO, AUN CUANDO SEAN ADVERTIDAS EN SUPLENCIA DE LA QUEJA DEFICIENTE O SE HAGAN VALER VÍA CONCEPTOS DE VIOLACIÓN (INTERPRETACIÓN DEL ARTÍCULO 189 DE LA LEY DE AMPARO, VIGENTE A PARTIR DEL 3 DE ABRIL DE 2013).”.
+
+Asimismo, es conveniente reiterar que se atenderá a la causa de pedir contenida en ellos, es decir, a las razones por las que la parte quejosa considera inconstitucional los actos reclamados, el agravio que le causa y los motivos que originan ese agravio con la posibilidad de definir cuál es el derecho humano vulnerado y sin que ello signifique atender meras afirmaciones sin fundamento[15].
+
+Así, de la lectura del escrito de demanda se desprende que la parte quejosa formuló, vía su único concepto de violación, los argumentos esquematizados en la siguiente tabla.
+
+[15] Son aplicables los siguientes criterios:
+
+SENTENCIAS DE AMPARO. EL ÓRGANO JUDICIAL QUE CONOZCA DEL JUICIO PUEDE DEFINIR CUÁL ES EL DERECHO HUMANO QUE EN CADA ASUNTO SE ESTIME VIOLADO, EN TÉRMINOS DEL ARTÍCULO 76 DE LA LEY DE AMPARO. Si conforme al artículo citado, el órgano jurisdiccional tiene la obligación de corregir los errores u omisiones que advierta en la cita de los preceptos constitucionales y legales que se estimen violados, y puede examinar en su conjunto los conceptos de violación y los agravios, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, sin cambiar los hechos expuestos en la demanda, es inconcuso que, en concordancia con lo anterior, también puede definir cuál es el derecho humano que, en su caso, se estime violado en cada asunto. Jurisprudencia 1a./J. 51/2019 (10a.) (registro 2020281)
+
+CONCEPTOS DE VIOLACIÓN O AGRAVIOS. AUN CUANDO PARA LA PROCEDENCIA DE SU ESTUDIO BASTA CON EXPRESAR LA CAUSA DE PEDIR, ELLO NO IMPLICA QUE LOS QUEJOSOS O RECURRENTES SE LIMITEN A REALIZAR MERAS AFIRMACIONES SIN FUNDAMENTO. El hecho de que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación haya establecido en su jurisprudencia que para que proceda el estudio de los conceptos de violación o de los agravios, basta con que en ellos se exprese la causa de pedir, obedece a la necesidad de precisar que aquéllos no necesariamente deben plantearse a manera de silogismo jurídico, o bien, bajo cierta redacción sacramental, pero ello de manera alguna implica que los quejosos o recurrentes se limiten a realizar meras afirmaciones sin sustento o fundamento, pues es obvio que a ellos corresponde (salvo en los supuestos legales de suplencia de la queja) exponer razonadamente el porqué estiman inconstitucionales o ilegales los actos que reclaman o recurren. Lo anterior se corrobora con el criterio sustentado por este Alto Tribunal en el sentido de que resultan inoperantes aquellos argumentos que no atacan los fundamentos del acto o resolución que con ellos pretende combatirse. Jurisprudencia 1a./J. 81/2002 (registro 185425).
+
+CONCEPTOS DE VIOLACIÓN. PARA QUE SE ESTUDIEN, BASTA CON EXPRESAR CLARAMENTE EN LA DEMANDA DE GARANTÍAS LA CAUSA DE PEDIR. El Pleno de la Suprema Corte de Justicia de la Nación considera que debe abandonarse la tesis jurisprudencial que lleva por rubro "CONCEPTOS DE VIOLACIÓN. REQUISITOS LÓGICOS Y JURÍDICOS QUE DEBEN REUNIR.", en la que, se exigía que el concepto de violación, para ser tal, debía presentarse como un verdadero silogismo, siendo la premisa mayor el precepto constitucional violado, la premisa menor los actos autoritarios reclamados y la conclusión la contraposición entre aquéllas, demostrando así, jurídicamente, la inconstitucionalidad de los actos reclamados. Las razones de la separación de ese criterio radican en que, por una parte, los artículos 116 y 166 de la Ley de Amparo no exigen como requisito esencial e imprescindible, que la expresión de los conceptos de violación se haga con formalidades tan rígidas y solemnes como las que establecía la aludida jurisprudencia y, por otra, que como la demanda de amparo no debe examinarse por sus partes aisladas, sino considerarse en su conjunto, es razonable que deban tenerse como conceptos de violación todos los razonamientos que, con tal contenido, aparezcan en la demanda, aunque no estén en el capítulo relativo y aunque no guarden un apego estricto a la forma lógica del silogismo, sino que será suficiente que en alguna parte del escrito se exprese con claridad la causa de pedir, señalándose cuál es la lesión o agravio que el quejoso estima le causa el acto, resolución o ley impugnada y los motivos que originaron ese agravio, para que el Juez de amparo deba estudiarlo. Tesis P./J. 68/2000 (registro 191384).
+
+CONCEPTOS DE VIOLACIÓN O AGRAVIOS. AUN CUANDO PARA LA PROCEDENCIA DE SU ESTUDIO BASTA CON EXPRESAR LA CAUSA DE PEDIR, ELLO NO IMPLICA QUE LOS QUEJOSOS O RECURRENTES SE LIMITEN A REALIZAR MERAS AFIRMACIONES SIN FUNDAMENTO. El hecho de que el Tribunal Pleno de la Suprema Corte de Justicia de la Nación haya establecido en su jurisprudencia que para que proceda el estudio de los conceptos de violación o de los agravios, basta con que en ellos se exprese la causa de pedir, obedece a la necesidad de precisar que aquéllos no necesariamente deben plantearse a manera de silogismo jurídico, o bien, bajo cierta redacción sacramental, pero ello de manera alguna implica que los quejosos o recurrentes se limiten a realizar meras afirmaciones sin sustento o fundamento, pues es obvio que a ellos corresponde (salvo en los supuestos legales de suplencia de la queja) exponer razonadamente el porqué estiman inconstitucionales o ilegales los actos que reclaman o recurren. Lo anterior se corrobora con el criterio sustentado por este Alto Tribunal en el sentido de que resultan inoperantes aquellos argumentos que no atacan los fundamentos del acto o resolución que con ellos pretende combatirse. Jurisprudencia 1a./J. 81/2002 (registro 185425)
+
+CONCEPTOS O AGRAVIOS INOPERANTES. QUÉ DEBE ENTENDERSE POR "RAZONAMIENTO" COMO COMPONENTE DE LA CAUSA DE PEDIR PARA QUE PROCEDA SU ESTUDIO. De acuerdo con la conceptualización que han desarrollado diversos juristas de la doctrina moderna respecto de los elementos de la causa petendi, se colige que ésta se compone de un hecho y un razonamiento con el que se explique la ilegalidad aducida. Lo que es acorde con la jurisprudencia 1a./J. 81/2002, de la Primera Sala de la Suprema Corte de Justicia de la Nación en el sentido de que la causa de pedir no implica que los quejosos o recurrentes pueden limitarse a realizar meras afirmaciones sin sustento o fundamento, pues a ellos corresponde (salvo en los supuestos de suplencia de la deficiencia de la queja) exponer, razonadamente, por qué estiman inconstitucionales o ilegales los actos que reclaman o recurren; sin embargo, no ha quedado completamente definido qué debe entenderse por razonamiento. Así, conforme a lo que autores destacados han expuesto sobre este último, se establece que un razonamiento jurídico presupone algún problema o cuestión al cual, mediante las distintas formas interpretativas o argumentativas que proporciona la lógica formal, material o pragmática, se alcanza una respuesta a partir de inferencias obtenidas de las premisas o juicios dados (hechos y fundamento). Lo que, trasladado al campo judicial, en específico, a los motivos de inconformidad, un verdadero razonamiento (independientemente del modelo argumentativo que se utilice), se traduce a la mínima necesidad de explicar por qué o cómo el acto reclamado, o la resolución recurrida se aparta del derecho, a través de la confrontación de las situaciones fácticas concretas frente a la norma aplicable (de modo tal que evidencie la violación), y la propuesta de solución o conclusión sacada de la conexión entre aquellas premisas (hecho y fundamento). Por consiguiente, en los asuntos que se rigen por el principio de estricto derecho, una alegación que se limita a realizar afirmaciones sin sustento alguno o conclusiones no demostradas, no puede considerarse un verdadero razonamiento y, por ende, debe calificarse como inoperante; sin que sea dable entrar a su estudio so pretexto de la causa de pedir, ya que ésta se conforma de la expresión de un hecho concreto y un razonamiento, entendido por éste, cualquiera que sea el método argumentativo, la exposición en la que el quejoso o recurrente realice la comparación del hecho frente al fundamento correspondiente y su conclusión, deducida del enlace entre uno y otro, de modo que evidencie que el acto reclamado o la resolución que recurre resulta ilegal; pues de lo contrario, de analizar alguna aseveración que no satisfaga esas exigencias, se estaría resolviendo a partir de argumentos no esbozados, lo que se traduciría en una verdadera suplencia de la queja en asuntos en los que dicha figura está vedada. Jurisprudencia (V Región) 2o. J/1 (10a.) (registro 2010038)
+
+Síntesis del argumento
+
+Son inconstitucionales los precios impugnados al contravenir la competencia y libre concurrencia en el sector en beneficio de la Comisión Federal de Electricidad, así como los derechos humanos a la libertad de trabajo y a la seguridad jurídica de la parte quejosa, porque el Centro Nacional de Control de Energía no especificó el nodo en el que se interconecta la central para efectos del cálculo del costo de la tecnología de generación de referencia y, como consecuencia de ello, aumentó significativamente y sin dar justificación el costo fijo de transporte de combustible.
+
+Además, para ello no obtuvo la no objeción de la Comisión Reguladora de Energía que exige la normativa aplicable, lo que corrobora la inconstitucionalidad de los precios materia de este juicio.
+
+Asimismo, dicha falta de información implica una ausencia de transparencia en contravención a la obligación depositada en el Centro Nacional de Control de Energía en términos de lo dispuesto en el artículo 159 de la Ley de la Industria Eléctrica.
+
+Tales argumentos, a criterio de este juzgador, implican contestar las preguntas formuladas en la siguiente tabla.
+
+Cuestiones jurídicas a resolver
+
+¿La metodología utilizada por el Centro Nacional de Control de Energía para calcular los precios de la potencia de dos mil A veinticuatro transgrede la competencia y libre concurrencia en el sector y obtuvo la no objeción por parte de la Comisión Reguladora de Energía?
+
+¿Se transparentó el cálculo de los precios de la potencia de dos mil B veinticuatro?
+
+V.2 Metodología para la determinación de los precios de la potencia
+
+Como se mencionó en el apartado que antecede, la inconformidad de la parte peticionaria de amparo respecto de los precios aquí sometidos a control constitucional radica en uno de los elementos más relevantes para su cuantificación, a saber, la Tecnología de Generación de Referencia y los costos inherentes a ella, por lo que en las siguientes líneas se pormenorizará acerca del procedimiento relativo para su definición y cálculo previsto en el Manual del Mercado para el Balance de Potencia y demás normativa aplicable.
+
+En principio, se destaca que en términos de lo dispuesto en los artículos 1.3.1 y 1.3.3 de las Bases del Mercado Eléctrico, el Mercado Eléctrico Mayorista consta, entre otros, del Mercado para el Balance de Potencia, esto es, aquel sobre el que versa el presente juicio constitucional y cuya finalidad es que en este se realicen transacciones de potencia no cubierta o comprometida a través de contratos de cobertura eléctrica, es decir, un mercado al que las entidades obligadas a adquirir potencia pueden acudir para hacerlo cuando no lo hubieran conseguido mediante otros contratos[16].
+
+[16] Las disposiciones normativas citadas son del tenor literal siguiente.
+
+1.3 Descripción del Mercado Eléctrico Mayorista Ahora, para efectos de dicho mercado, el Centro Nacional de Control de Energía debe calcular los precios máximo y neto del objeto a comercializar en aquel, esto es, la potencia, para lo que sigue distintas metodologías a las que la normativa incorpora un factor a descontar determinante para efectos de este pronunciamiento: los Ingresos del Mercado de Energía para la Tecnología de Generación de Referencia, es decir, los ingresos netos que dicha tecnología habría obtenido de haber participado en un mercado de energía a corto plazo (Mercado del Día en Adelanto)[17].
+
+En el capítulo once del Manual del Mercado para el Balance de Potencia se establecieron los procedimientos aplicables para la identificación y justificación de la Tecnología de Generación de Referencia comentada, así como para el cálculo de sus costos y su actualización; en específico, en su artículo 11.1.1 se estableció que cada tres años el Centro Nacional de Control de Energía publicará en el Sistema de Información de Mercado la tecnología en comento identificada, así como sus costos y características, los que estarán sujetos a la no objeción por parte de la Comisión Reguladora de Energía en el plazo ahí previsto[18].
+
+1.3.1 El Mercado Eléctrico Mayorista consta de:
+
+(a) un Mercado de Energía de Corto Plazo, que a su vez se integra por:
+
+(i) el Mercado del Día en Adelanto;
+
+(ii) el Mercado de Tiempo Real; y, a partir de la SEGUNDA ETAPA, (iii) el Mercado de Una Hora en Adelanto;
+
+(b) un Mercado para el Balance de Potencia;
+
+(c) un Mercado de Certificados de Energías Limpias; y, (d) subastas de Derechos Financieros de Transmisión.
+
+Además de ello, el CENACE operará subastas para asignar Contratos de Cobertura Eléctrica de mediano y largo plazo.
+
+1.3.3 Mercado para el Balance de Potencia (a) Este mercado operará anualmente para el año inmediato anterior con el propósito de realizar transacciones de compraventa de Potencia no cubierta o comprometida a través de Contratos de Cobertura Eléctrica. (b) A través de él las Entidades Responsables de Carga cuyos contratos no cubrieron los requisitos reales de Potencia de acuerdo a las obligaciones establecidas por la CRE y los Generadores cuya operación no satisfizo sus compromisos contractuales, podrán realizar transacciones con los Generadores y Entidades Responsables de Carga que tengan excedentes relativos a sus compromisos de Potencia.
+
+[17] Véase los siguientes artículos del Manual del Mercado para el Balance de Potencia.
+
+1.3.14 Ingresos del Mercado de Energía para la Tecnología de Generación de Referencia (IMTGR): Los ingresos netos (en exceso de sus costos variables) que la Tecnología de Generación de Referencia habría obtenido, en promedio, de haber participado en el Mercado del Día en Adelanto en una Zona de Potencia y para un año dado, y se expresarán en Pesos/MW-año.
+
+1.3.26 Precio Máximo de Potencia: El precio máximo que podrá tener la Potencia calculado por el CENACE para cada Zona de Potencia a partir del Precio de Cierre de Potencia Estimado y descontando los Ingresos del Mercado de Energía para la Tecnología de Generación de Referencia de conformidad con lo previsto en la sección 7.5.1.
+
+1.3.27 Precio Neto de Potencia: Corresponde a la definición contenida en la Base 2.1.101 y se refiere al precio final de la Potencia calculado por el CENACE para cada Zona de Potencia a partir del Precio de Cierre de Potencia y descontando los Ingresos del Mercado de Energía para la Tecnología de Generación de Referencia de conformidad con lo previsto en la sección 8.4.1.
+
+[18] El artículo citado se transcribe enseguida.
+
+11.1 Identificación de la Tecnología de Generación de Referencia 11.1.1 El CENACE deberá identificar la Tecnología de Generación de Referencia para cada Zona de Potencia de acuerdo con lo siguiente:
+
+(a) La Tecnología de Generación de Referencia identificada por el CENACE para cada Zona de Potencia deberá ser aquella que represente el menor costo nivelado, considerando, en su caso, el punto de interconexión de la Tecnología de Generación de Referencia, un factor de planta teórico de 100/8,760 y lo previsto en los numerales 11.1.2 a 11.1.5. (b) El CENACE podrá determinar que la misma Tecnología de Generación de Referencia es aplicable a varias Zonas de Potencia.
+
+(c) Cada tres años el CENACE publicará en el Sistema de Información del Mercado y por lo menos cuatro meses antes de la operación del siguiente Mercado para el Balance de Potencia, las Tecnologías de Generación de Referencia identificadas y sus costos y características técnicas.
+
+(d) Las Tecnologías de Generación de Referencia, sus costos asociados y características técnicas estarán sujetas a la no objeción por parte de la CRE, la cual se considerará emitida cuando ese órgano regulador no objete la propuesta correspondiente dentro de los 20 días contados a partir de la fecha en que le haya sido notificada esa propuesta.
+
+Asimismo, en el artículo 11.4.1 del instrumento en análisis, se estableció que treinta días antes de que se lleve a cabo el Mercado para el Balance de Potencia, el Centro Nacional de Control de Energía actualizará los costos de la Tecnología de Generación de Referencia con base en las fórmulas y detalles ahí previstos, de modo que la identificación y justificación de la tecnología multimencionada, así como la de sus costos y características tiene lugar cada tres años y entre ellos dicho centro únicamente debe de actualizarlos, es decir, poner al día los valores aplicables a una metodología ya definida y que previamente obtuvo la no objeción por parte de la Comisión Reguladora de Energía[19].
+
+Finalmente y dado que también constituye uno de los puntos planteados por la parte peticionaria de amparo, se destaca que, como su nombre lo indica, la Tecnología de Generación de Referencia constituye un modelo que, de manera general, puede definirse y aplicarse de dos maneras, a saber, (i) al elegir como referente un nodo, es decir, un solo punto de interconexión o (ii) considerando más de uno o todos los que componen la zona en la que se aplicarán los precios comentados (zona de potencia) tal y como se establece en los artículos 8.8.1 y 11.2.1 del manual en mención[20].
+
+[19] El artículo citado es del tenor literal siguiente.
+
+11.4 Actualización de los Costos de la Tecnología de Generación de Referencia 11.4.1 Por lo menos 30 días antes de que se lleve a cabo el Mercado para el Balance de Potencia, el CENACE determinará el cálculo final de los costos fijos nivelados totales y de los costos variables totales (incluyendo de operación y mantenimiento variables distintos al combustible y, si aplica, la fórmula de los costos variables de combustible y régimen térmico) de las Tecnologías de Generación de Referencia para cada Zona de Potencia aplicables al año respectivo. Esta determinación actualizará únicamente los siguientes factores:
+
+[…]
+
+[20] Disposiciones normativas que se transcriben a continuación.
+
+8.8.1 El CENACE publicará los resultados del Mercado para el Balance de Potencia en el Sistema de Información del Mercado a más tardar al tercer día hábil siguiente a la fecha o periodo en que se haya realizado el Mercado para el Balance de Potencia correspondiente. El CENACE deberá al menos publicar la siguiente información:
+
+[…]
+
+(h) La información utilizada para el cálculo del Precio Máximo de Potencia y del Precio Neto de Potencia para cada Zona de Potencia, incluyendo como mínimo:
+
+(i) El precio de la energía para cada hora del año en la ubicación de la tecnología de Generación de Referencia. En caso de haber más de una ubicación, se utilizará el promedio ponderado.
+
+(ii) El costo variable de la Tecnología de Generación de Referencia.
+
+(iii) El costo del combustible en Pesos/MMBTU para cada día del año para la Tecnología de Generación de Referencia. En caso de utilizar más de un nodo se utilizará el promedio ponderado del combustible.
+
+(iv) El régimen térmico en MMBtu/MWh para la Tecnología de Generación de Referencia a 75% de su capacidad en condición de sitio.
+
+(v) Otros cálculos aplicables utilizados para el cálculo del IMTGR que el CENACE haya aplicado.
+
+[…]
+
+11.2.1 El CENACE deberá entregar a la CRE un informe por escrito en el que justifique las Tecnologías de Generación de Referencia que hayan sido identificadas en los términos de la sección 11.1 anterior, el cual deberá cumplir con lo siguiente, según sea aplicable:
+
+[…]
+
+(i) Deberá identificar, para cada Zona de Potencia, los índices de combustible, los ajustes a las bases de precios de combustibles, los costos variables de transporte de combustible y la fórmula basada en los índices que serán utilizados por el CENACE para calcular los costos variables de combustible de la Tecnología de Generación de Referencia con el fin de determinar los Ingresos del Mercado de Energía para la Tecnología de Generación de Referencia, considerando que:
+
+(i) La información publicada del costo del combustible debe producir un costo variable de combustible que refleje un costo promedio del combustible, incluyendo costos variables promedio de transportación, para la Tecnología de Generación de Referencia, donde:
+
+(A) El costo variable del combustible es un promedio dado que es posible que el CENACE determine el costo considerando distintas ubicaciones en la Zona de Potencia donde el CENACE considere que la Tecnología de Generación pueda ser instalada, donde cada ubicación podrá tener distinto costo variable de combustible incluyendo distintos costos variables de transportación.
+
+(B) Para evitar dudas, el CENACE podrá considerar la posibilidad de múltiples ubicaciones dentro de una Zona de Potencia donde la Tecnología de Generación de Referencia podría interconectarse, y aunque cada ubicación potencialmente produciría un costo variable de combustible incluyendo transportación, el CENACE deberá publicar una fórmula para cada Zona de Potencia que determine un costo variable del combustible para la Tecnología de Generación Por ejemplo, en dos mil veinte (año de producción dos mil diecinueve) y en los dos años siguientes, el Centro Nacional de Control de Energía ubicó la Tecnología de Generación de Referencia en un nodo para cada zona de potencia (primera opción comentada en el párrafo anterior), mientras que para el dos mil veintitrés (año de producción dos mil veintidós) y para el año que nos ocupa, es decir, dos mil veinticuatro (año de producción dos mil veintitrés), tal autoridad obtuvo los datos comentados de todos los nodos que componen cada zona de potencia (segunda opción comentada en el párrafo anterior)[21].
+
+V.3 Resolución
+
+¿La metodología utilizada por el Centro Nacional de Control de Energía para calcular los precios de la potencia de dos mil A veinticuatro transgrede la competencia y libre concurrencia en el
+
+sector y obtuvo la no objeción por parte de la Comisión Reguladora de Energía?
+
+Una vez establecido lo anterior, este juzgador advierte que resulta jurídicamente inviable analizar los argumentos planteados por la quejosa en relación con la inconstitucionalidad de los precios máximo y neto de potencia para el dos mil veinticuatro (año de producción dos mil veintitrés), ya que para sostener dicha premisa combate los valores relacionados con la Tecnología de Generación de Referencia que, conforme a la metodología explicada en el apartado que antecede, no fue definida ni cuantificada en el acto reclamado sino en la anualidad anterior, de ahí que su argumento resulte inoperante, ya que el agravio esgrimido no deriva de los precios aquí controvertidos.
+
+de Referencia en esa Zona de Potencia. La fórmula puede incluir múltiples índices de combustible, si el CENACE lo considera adecuado.
+
+[21] En efecto, para el dos mil veintidós (año de producción dos mil veintiuno) el Centro Nacional de Control de Energía ubicó los siguientes nodos para cada zona de potencia.
+
+Por otro lado, en dos mil veinticuatro (año de producción dos mil veintitrés), explicó lo siguiente.
+
+En efecto, como se expuso previamente, cada tres años el Centro Nacional de Control de Energía define la Tecnología de Generación de Referencia y sus costos que utilizará para calcular los precios máximo y neto de la potencia y entre tales anualidades únicamente actualiza los datos aplicables; en el caso, como lo señalaron las autoridades responsables al rendir informe justificado y resulta un hecho notorio para este juzgador, el dos mil veintitrés (año de producción dos mil veintidós) fue año de identificación de la tecnología apuntada, por lo que en el año materia de este asunto (dos mil veinticuatro, año de producción dos mil veintitrés) aquella únicamente se actualizó[22].
+
+Por tanto, si la parte quejosa pretende combatir la constitucionalidad de los precios de dos mil veinticuatro (año de producción dos mil veintitrés) con base en aspectos que se refieren a la Tecnología de Generación de Referencia definida en dos mil veintitrés (año de producción dos mil veintidós), es claro para este juzgador que su planteamiento deviene inoperante, pues tales aspectos controvertidos no fueron establecidos en los actos sometidos a escrutinio constitucional en este asunto, de modo que su análisis excedería la materia aquí planteada.
+
+Tal razonamiento debe replicarse al diverso argumento planteado por la quejosa acerca de que las autoridades responsables no obtuvieron la no objeción por parte de la Comisión Reguladora de Energía, puesto que, como también se mencionó en el apartado anterior, aquella únicamente debe solicitarse cuando se identifica, justifica y cuantifica la Tecnología de Generación de Referencia, lo que, se insiste, no sucedió en la anualidad sobre la que versa este juicio (dos mil veinticuatro, año de producción dos mil veintitrés) porque en ese año esta exclusivamente fue actualizada, de ahí que las autoridades responsables no estuvieran constreñidas a obtenerla.
+
+Máxime, que, como se desprende de la lectura del escrito de demanda, la parte peticionaria de amparo también participó en el Mercado para el Balance de la Potencia de dos mil veintitrés (año de producción dos mil veintidós) y presentó diversa demanda de amparo en contra de los precios ahí establecidos, lo que en opinión de este juzgador corrobora que, en estricta relación con su causa de pedir, es lo determinado en ese año lo que realmente afecta su esfera jurídica y no así la actualización correspondiente realizada en la anualidad sobre la que versa este juicio constitucional.
+
+B ¿Se transparentó el cálculo de los precios de la potencia de dos mil veinticuatro?
+
+En otro aspecto, la parte quejosa expuso que los actos reclamados son inconstitucionales, porque las autoridades responsables no transparentaron la información utilizada para la determinación de los precios controvertidos, en específico, ya que no informaron el nodo que ubicaron para calcularlos; tal argumento es infundado, porque como se planteó con anterioridad, el Manual del Mercado para el Balance de Potencia contempla la posibilidad de ubicar la tecnología multimencionada en más de un nodo y, en este caso, se utilizaron todos los que están en cada zona de potencia, por lo que la actuación esperada no era exigible.
+
+[22] Véase el documento disponible en el siguiente enlace electrónico que resulta un hecho notorio para este juzgador en términos de lo dispuesto en el artículo 88 del Código Federal de Procedimientos Civiles, de aplicación supletoria a la Ley de Amparo dada su presentación en una página web oficial.
+
+https://www.cenace.gob.mx/Docs/02_MBP/InformeTGR/2023/Informe%20TGR%202023%20(v2024-01-26).pdf En otras palabras y contrario a lo planteado por la parte quejosa, a criterio de este juzgador no es constitucional ni legalmente exigible a las autoridades responsables, incluso bajo la óptica de la transparencia prevista en el artículo 159 de la Ley de la Industria Eléctrica, que especifiquen qué nodos utilizaron para efectos de la Tecnología de Generación de Referencia cuando en el informe relativo estas expresamente señalaron que consideraron su totalidad, ya que dicha manifestación es suficiente para que las personas interesadas conozcan los parámetros ocupados[23].
+
+En contraposición, este juzgador estima que la obligación en comento únicamente se actualiza cuando, como ha sucedido anteriormente, las autoridades responsables ubican la Tecnología de Generación de Referencia en uno o más nodos en específico, porque en tal caso sí es relevante que informen puntualmente cuáles para efectos de transparentar su decisión, lo que, se insiste, no se actualiza en este asunto dado que dichas autoridades consideraron la totalidad de los nodos disponibles en cada zona de potencia.
+
+En consecuencia, al resultar inoperantes e infundados los argumentos planteados por la parte peticionaria de amparo, lo procedente es reconocer la validez constitucional de los actos reclamados y, por ende, negar la protección constitucional solicitada.
+
+DECISIÓN
+
+Por tanto, se resuelve:
+
+Único. La Justicia de la Unión no ampara ni protege a ******** ***** * ***** *** ******** ******* ********* ** ********* ** ******* ******** contra actos de la persona Directora General del Centro Nacional de Control de Energía y otras autoridades por los motivos expuestos en el considerando quinto de este fallo.
+
+Notifíquese a las partes de la siguiente forma:
+
+Parte Notificación Quejosa Personalmente Autoridad responsable Oficio Tercero interesado No existe Ministerio Público Federal Vía electrónica
+
+Lo proveyó y firma Jonathan Bass Herrera, Juez Segundo de Distrito en Materia Administrativa Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y jurisdicción en toda la República, quien actúa asistido de Juan Arturo Ramos Robles, secretario que autoriza y da fe el veinte de enero de dos mil veinticinco, fecha en que lo permitieron las labores del juzgado. Doy fe.
+
+Juez de Distrito Secretario
+
+[23] La disposición citada se transcribe enseguida.
+
+Artículo 159.- La Secretaría, la CRE y el CENACE facilitarán la transparencia de la información en el Mercado Eléctrico Mayorista, tomando en cuenta el interés público, la integridad y funcionamiento eficiente de dicho Mercado, la competencia económica y la protección de los consumidores. La CRE establecerá las modalidades y la información mínima que deberán hacer pública los integrantes de la industria eléctrica, incluyendo los informes sobre el desempeño y evolución del Mercado Eléctrico Mayorista que deberá publicar el CENACE.
+
+Asimismo, la CRE, así como los expertos o el ente que la CRE establezca en términos del artículo 104 de esta Ley, emitirán informes propios sobre el desempeño y evolución del Mercado Eléctrico Mayorista, y podrán exigir la información necesaria para el monitoreo de dicho mercado. Las ofertas en el Mercado Eléctrico Mayorista se publicarán por el CENACE dentro de los 60 días naturales siguientes al día de que se trate, sujeto a los términos que defina la CRE.
+
+En esta misma fecha se giraron los oficios 412, 413 y 414 a fin de notificar a las partes la sentencia que antecede. Conste.
+
+Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+[FIRMA ELECTRÓNICA] Firmantes: JUAN ARTURO RAMOS ROBLES
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Numero de serie:
+
+[FIRMA ELECTRÓNICA] Firmantes: JONATHAN BASS HERRERA
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Numero de serie:
+
+El veinte de enero de dos mil veinticinco, el licenciado Juan Arturo Ramos Robles, Secretario(a), con adscripción en el Juzgado Segundo de Distrito en Materia Administrativa, Especializado en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en la Ciudad de México y Jurisdicción en toda la República, hago constar y certifico que en esta versión pública no existe información clasificada como confidencial o reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública. Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+           JUAN ARTURO RAMOS ROBLES 706a6620636a66320000000000000000000075ff 15/05/26 18:00:00 PJF - Versión Pública
+JUAN ARTURO RAMOS ROBLES 706a6620636a66320000000000000000000075ff 15/05/26 18:00:00 PJF - Versión Pública
+[9] Es aplicable el siguiente criterio. PRUEBA. CARGA DE LA MISMA RESPECTO DE LEYES, REGLAMENTOS, DECRETOS Y ACUERDOS DE INTERÉS GENERAL PUBLICADOS EN EL DIARIO OFICIAL DE LA FEDERACIÓN. Respecto de las leyes, reglamentos, decretos y acuerdos de interés general, no se necesita probar su existencia en autos, pues basta que estén publicados en el Diario Oficial, para que la autoridad judicial esté obligada a tomarlos en cuenta, en virtud de su naturaleza y obligatoriedad, y porque la inserción de tales documentos en el órgano oficial de difusión tiene por objeto dar publicidad al acto de que se trate, y tal publicidad determina precisamente que los tribunales, a quienes se les encomienda la aplicación del derecho, por la notoriedad de ese acontecimiento, no puedan argüir desconocerlo. Jurisprudencia 2ª./J.65/2000 (registro 191452)
+PJF - Versión Pública

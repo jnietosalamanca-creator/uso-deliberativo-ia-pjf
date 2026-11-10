@@ -1,0 +1,663 @@
+UNIDAD: 39973524
+SENTENCIA: 39973524
+ÓRGANO: Juzgado Cuarto de Distrito en el Estado de Guanajuato
+FECHA: 2026-03-30
+TIPO DE ASUNTO: Amparo Indirecto
+AVISO: (ninguno)
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+Así como también hizo referencia a la consulta electrónica de una plataforma de inteligencia artificial para establecer que “el producto del ahorro en el seguro educativo GNP está diseñado y promovido para que el ahorro coincida con la edad en que el hijo o hija inicie universidad y postgrado” (folios 83 reverso y 84).
+
+Y si bien se tiene presente que la inteligencia artificial es una herramienta que puede ser utilizada por los órganos jurisdiccionales para facilitar el dictado de sus resoluciones, ello no implica que deban obviarse las reglas procedimentales ni que puedan desatenderse las cargas probatorias y la forma en la cual debe analizarse la litis en una segunda instancia.
+
+Máxime, cuando se tiene que el uso de la inteligencia artificial en las resoluciones jurisdiccionales implica la satisfacción de una serie de requisitos que permitan a las partes tener la certeza de que la información obtenida se manejó de manera ética y con un enfoque de derechos humanos, los cuales, en el particular, fueron desatendidos por la autoridad responsable.
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+Hechos: En diversos recursos de queja y de revisión en incidentes de suspensión interpuestos contra decisiones de Juzgados de Distrito en amparo indirecto, este Tribunal Colegiado de Circuito empleó herramientas de inteligencia artificial para calcular el monto de una garantía. Al tratarse de una práctica innovadora en procesos jurisdiccionales resultó necesario, bajo un ejercicio de autocontención, definir los parámetros para la aplicación ética y responsable de la inteligencia artificial.
+
+Criterio jurídico: La utilización de herramientas de inteligencia artificial en procesos jurisdiccionales con una perspectiva de derechos humanos, ética y responsable, exige que las personas juzgadoras observen como elementos mínimos los principios de: a) proporcionalidad e inocuidad; b) protección de datos personales; c) transparencia y explicabilidad; y d) supervisión y decisión humanas.
+
+Justificación: Ante la ausencia de regulación específica para el uso de herramientas de inteligencia artificial las personas juzgadoras deben hacer un ejercicio de autocontención adoptando lineamientos para su aplicación responsable con perspectiva de derechos humanos.
+
+Para ello pueden tomar como referencia los esfuerzos de regulación a nivel internacional, como las Directrices Éticas para una Inteligencia Artificial Fiable del Grupo de expertos de alto nivel sobre inteligencia artificial creado por la Comisión Europea; el Reglamento del Parlamento Europeo del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial; y la Recomendación sobre la ética de la inteligencia artificial de la UNESCO y sus principios éticos.
+
+Para ello, cuando utilicen herramientas de inteligencia artificial las personas juzgadoras deben cumplir con los siguientes elementos mínimos: a) la proporcionalidad e inocuidad exige que las herramientas de inteligencia artificial se utilicen únicamente en la medida necesaria y adecuada para alcanzar un fin legítimo, como por ejemplo, facilitar razonamientos numéricos sin que se alcance al razonamiento jurídico en la interpretación o aplicación de las normas; b) deben emplearlas de manera que no se comprometa la protección de datos del expediente judicial; c) la transparencia y explicabilidad imponen que la persona juzgadora no sólo informe que utiliza herramientas de inteligencia artificial, sino que exponga la metodología, los datos empleados y la forma en que se arribó al resultado, a fin de permitir que el procedimiento sea auditado y comprendido por las partes y órganos revisores; y d) la supervisión y la decisión humanas aseguran que la tecnología opere como auxiliar y no como sustituto, manteniendo la deliberación y decisión en el ámbito estrictamente jurisdiccional.
+
+La valoración de esta información le permitió al magistrado concluir que la quejosa reconoció que la póliza ******** en comento se trataba de la misma cuya firma de autorización le había solicitado su contraparte, por lo cual, atendiendo a que su naturaleza era la de una cuenta de ahorro para el pago de la educación del hijo de los litigantes (en los términos que quedó establecido a partir de la información obtenida de fuentes de internet e inteligencia artificial), debía entenderse dentro de aquellos rubros que de conformidad con las cláusulas quinta y décimo tercera del convenio, las partes acordaron que corresponderían a ****** ******** ********
+
+Así como también hizo referencia a la consulta electrónica de una plataforma de inteligencia artificial para establecer que “el producto del ahorro en el seguro educativo GNP está diseñado y promovido para que el ahorro coincida con la edad en que el hijo o hija inicie universidad y postgrado” (folios 83 reverso y 84).
+
+Y si bien se tiene presente que la inteligencia artificial es una herramienta que puede ser utilizada por los órganos jurisdiccionales para facilitar el dictado de sus resoluciones, ello no implica que deban obviarse las reglas procedimentales ni que puedan desatenderse las cargas probatorias y la forma en la cual debe analizarse la litis en una segunda instancia.
+
+Máxime, cuando se tiene que el uso de la inteligencia artificial en las resoluciones jurisdiccionales implica la satisfacción de una serie de requisitos que permitan a las partes tener la certeza de que la información obtenida se manejó de manera ética y con un enfoque de derechos humanos, los cuales, en el particular, fueron desatendidos por la autoridad responsable.
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+Hechos: En diversos recursos de queja y de revisión en incidentes de suspensión interpuestos contra decisiones de Juzgados de Distrito en amparo indirecto, este Tribunal Colegiado de Circuito empleó herramientas de inteligencia artificial para calcular el monto de una garantía. Al tratarse de una práctica innovadora en procesos jurisdiccionales resultó necesario, bajo un ejercicio de autocontención, definir los parámetros para la aplicación ética y responsable de la inteligencia artificial.
+
+Criterio jurídico: La utilización de herramientas de inteligencia artificial en procesos jurisdiccionales con una perspectiva de derechos humanos, ética y responsable, exige que las personas juzgadoras observen como elementos mínimos los principios de: a) proporcionalidad e inocuidad; b) protección de datos personales; c) transparencia y explicabilidad; y d) supervisión y decisión humanas.
+
+Justificación: Ante la ausencia de regulación específica para el uso de herramientas de inteligencia artificial las personas juzgadoras deben hacer un ejercicio de autocontención adoptando lineamientos para su aplicación responsable con perspectiva de derechos humanos.
+
+Para ello pueden tomar como referencia los esfuerzos de regulación a nivel internacional, como las Directrices Éticas para una Inteligencia Artificial Fiable del Grupo de expertos de alto nivel sobre inteligencia artificial creado por la Comisión Europea; el Reglamento del Parlamento Europeo del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial; y la Recomendación sobre la ética de la inteligencia artificial de la UNESCO y sus principios éticos.
+
+Para ello, cuando utilicen herramientas de inteligencia artificial las personas juzgadoras deben cumplir con los siguientes elementos mínimos: a) la proporcionalidad e inocuidad exige que las herramientas de inteligencia artificial se utilicen únicamente en la medida necesaria y adecuada para alcanzar un fin legítimo, como por ejemplo, facilitar razonamientos numéricos sin que se alcance al razonamiento jurídico en la interpretación o aplicación de las normas; b) deben emplearlas de manera que no se comprometa la protección de datos del expediente judicial; c) la transparencia y explicabilidad imponen que la persona juzgadora no sólo informe que utiliza herramientas de inteligencia artificial, sino que exponga la metodología, los datos empleados y la forma en que se arribó al resultado, a fin de permitir que el procedimiento sea auditado y comprendido por las partes y órganos revisores; y d) la supervisión y la decisión humanas aseguran que la tecnología opere como auxiliar y no como sustituto, manteniendo la deliberación y decisión en el ámbito estrictamente jurisdiccional.
+
+La valoración de esta información le permitió al magistrado concluir que la quejosa reconoció que la póliza ******** en comento se trataba de la misma cuya firma de autorización le había solicitado su contraparte, por lo cual, atendiendo a que su naturaleza era la de una cuenta de ahorro para el pago de la educación del hijo de los litigantes (en los términos que quedó establecido a partir de la información obtenida de fuentes de internet e inteligencia artificial), debía entenderse dentro de aquellos rubros que de conformidad con las cláusulas quinta y décimo tercera del convenio, las partes acordaron que corresponderían a ****** ******** ********
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+Vistos para resolver los autos del juicio de amparo indirecto 1183/2025, promovido por ******* ****** ***** ******.
+
+ANTECEDENTES:
+
+PRIMERO. Presentación de la demanda. Por escrito depositado el veintitrés de septiembre de dos mil veinticinco, en el buzón judicial de la Oficina de Correspondencia Común de los Juzgados de Distrito en León, Guanajuato, ******* ****** ***** ******* por conducto de su mandatario judicial ***** ******* ********* ******* , promovió demanda de amparo en contra de las autoridades y actos siguientes:
+
+Autoridades responsables.
+
+Autoridad responsable. Sentido del Promoción
+
+No informe
+
+Magistrado de la Tercera Sala Civil Cierto 18713 (foja 44)
+
+1 del Supremo Tribunal de Justicia
+
+del Estado de Guanajuato.
+
+Juez del Juzgado Tercero Civil de Cierto 18366 (foja 41)
+
+2 Partido Especializado en Materia
+
+Familiar de esta ciudad.
+
+Directora de la Oficina Central de Cierto 17468 (foja 38)
+
+3 Actuarios y Oficialía de Partes
+
+Común en Materia Civil del Partido
+
+Judicial de León, Guanajuato.
+
+Acto reclamado.
+
+“Lo constituye la Resolución dictada dentro del TOCA marcado con el número ******** de fecha 29 de Agosto del año 2025 y notificada el día 1 primero del mes de Septiembre del mismo año en curso, dictada por la Autoridad señalada como Responsable”
+
+SEGUNDO. Admisión, trámite e integración del asunto. Dicha demanda se turnó a este Juzgado, donde previo desahogo de una prevención, se admitió en acuerdo de treinta de septiembre de dos mil veinticinco, con lo que quedó instaurado el juicio de amparo *********; por ello, se dio la intervención que legalmente le corresponde a la agente del Ministerio Público Federal; se requirió a las autoridades responsables su informe justificado; se ordenó el emplazamiento del tercero interesado; y se señaló fecha y hora para la audiencia constitucional, que tuvo verificativo en los términos asentados en el acta que antecede.
+
+CONSIDERACIONES:
+
+PRIMERA. Competencia. Este Juzgado Cuarto de Distrito en el Estado de Guanajuato es legalmente competente para conocer y resolver el presente juicio de amparo, conforme a los artículos 103 y 107 de la Constitución Nacional, al Acuerdo General 7/2014 que modificó el diverso 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la república mexicana; y al número, jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito; pues de conformidad con el artículo 37 de la Ley de Amparo, el acto reclamado tiene ejecución en esta ciudad, por ser donde se ventila el juicio de origen.
+
+Asimismo, lo es en razón de la materia, porque este órgano jurisdiccional al no estar especializado, tiene competencia para conocer de todas ellas, entre las que se encuentra la civil, que es sobre la que versa el presente asunto; y en razón del grado, porque en términos del artículo 107, fracción VII, de la Constitución Nacional, corresponde a los Juzgados de Distrito conocer en primera instancia de los amparos que se presenten en la vía indirecta, siendo que en ella es en la que se está substanciando este asunto.
+
+SEGUNDA. Precisión de los actos reclamados.
+
+Conforme lo establece el artículo 74, fracción I, de la Ley de Amparo, se especifica que la parte quejosa controvierte:
+
+- La resolución de veintinueve de agosto de dos mil veinticinco, dictada en el toca ******** del índice de la Tercera Sala Civil del Supremo Tribunal de Justicia del Estado de Guanajuato, mediante la cual se modificó la interlocutoria que dilucidó el incidente de ejecución de convenio derivado del juicio oral ordinario familiar **********, del Juzgado Tercero Civil de Partido Especializado en Materia Familiar, así como su ejecución.
+
+Los efectos de dicha modificación consistieron en condenar a la quejosa a que, “como consecuencia de los pactos contenidos en las cláusulas quinta y décima tercera… firme la documentación que su contrario requiere por indicaciones de la empresa de seguros, para tramitar la liberación de recursos relacionados con la póliza de mérito; lo que deberá realizar la demandada dentro del plazo de tres días a que arribe al tribunal primario testimonio de la presente resolución, de conformidad con lo dispuesto en el artículo 461 de la ley instrumental civil de esta entidad federativa”.
+
+TERCERA. Certeza de los actos reclamados. Son ciertos los actos reclamados, pues así lo reconocieron las autoridades responsables al rendir su informe justificado (folios 38, 41 y 44).
+
+Lo que se corrobora con la copia certificada del juicio de origen y del toca en el que se emitió la resolución reclamada (folios 46 a 90, tomos de prueba y dvd), las cuales tienen valor probatorio pleno en términos de los artículos 129 y 202, del supletorio Código Federal de Procedimientos Civiles.
+
+CUARTA. Antecedentes. Para un mayor entendimiento del asunto, se estima necesario relatar los antecedentes relevantes del caso.
+
+1. Juicio de origen concluido mediante convenio.
+
+El sumario natural se trata de una contienda familiar promovida por ******* ****** ***** ****** , por sí y en representación de su hijo de iniciales *****., en contra de ****** ******** *******, la cual se tramitó en la vía oral ordinaria ante el Juzgado Civil Especializado en Materia Familiar de esta ciudad, con el expediente *********** (fojas 185 y 186 del tomo de prueba I).
+
+El once de octubre de dos mil veintiuno, se dictó la sentencia correspondiente en la que se declaró la disolución del vínculo matrimonial, así como de la sociedad conyugal a la que estuvo sujeto (folios 812 a 856 del tomo de prueba II);
+
+sin embargo, previo a la resolución de los recursos de apelación que interpusieron las partes, éstas celebraron convenio ratificado ante la presencia judicial el doce de noviembre de dos mil veintiuno (ibídem, folios 950 a 960).
+
+Dicho convenio fue aprobado por la autoridad judicial en audiencia de ocho de diciembre de dos mil veintiuno, con lo cual, junto con las modificaciones establecidas en esa diligencia, adquirió la categoría de cosa juzgada (ibídem, folio 974)
+
+En la parte que interesa destacar, las partes convinieron lo siguiente:
+
+a) Ambas desistieron de los recursos de apelación que previamente interpusieron en contra de la sentencia de once de octubre anterior;
+
+b) En la cláusula QUINTA, las partes pactaron que el 100% del dinero y demás saldos que integraban las cuentas de inversión, cuentas de ahorro y fondos de ahorro para el retiro se aplicarían en favor de ****** ******** ******* *ibídem, ***** ***** ** c) En la cláusula DÉCIMA TERCERA los litigantes acordaron que, como consecuencia de la liquidación de la sociedad conyugal y como parte de la masa postganancial, se aplicaría en favor de ****** ******** ******* todos los saldos de las cuentas de ahorro, cuentas de inversión, fondos de ahorro para el retiro cuyo titular fuera el propio ******, además de su liquidación y la jubilación o pensiones mensuales que recibiera al momento de concluir su relación de trabajo, razón por la cual la quejosa no tendría derecho alguno a lo antes mencionado;
+
+En relación con estos tópicos no existió modificación en la audiencia de ocho de diciembre de dos mil veintiuno (ibídem, folio 974).
+
+2. Incidente de ejecución de convenio. Por escrito presentado en el Juzgado responsable el dieciséis de octubre de dos mil veinticuatro (ibídem, folios 1018 a 1030), ****** ******** ******* * ********* ******** ****** por conducto de su apoderado, promovieron incidente de ejecución de convenio a fin de reclamar de la ahora quejosa, entre otras prestaciones, la firma de autorización respectiva para que el primero accediera al monto asegurado con la póliza ********, en la que el citado ****** aparecía como único beneficiario.
+
+En el entendido que la negativa de la quejosa para firmar la autorización, generaba un perjuicio patrimonial a ****** ******** ******** debido a que se veía obligado a pagar con sus propios ingresos los estudios de su hijo ****** ******** ******** como un concepto adicional a los alimentos que se comprometió a enterarle en el convenio, pese a que la póliza se contrató para asegurar su educación universitaria.
+
+3. Trámite del incidente. Previo desarchivo del asunto, en auto de siete de noviembre de dos mil veinticuatro, la jueza del conocimiento dio entrada al incidente, por lo que ordenó correr traslado a la quejosa (ibídem, folio 1051).
+
+4. Incidente de nulidad improcedente. El quince de noviembre de dos mil veinticuatro (ibídem, folios 1060 a 1062), se corrió traslado a la quejosa con el incidente promovido en su contra; inconforme con esa notificación, interpuso incidente de nulidad (ibídem, fojas 1062 a 1070), el cual se declaró improcedente en la interlocutoria de veinticuatro de enero de dos mil veinticinco (ibídem, fojas 1093 a 1097), que quedó firme en auto de once de febrero de dos mil veinticinco (ibídem, folio 1103).
+
+En ese mismo acuerdo, se declaró precluido el derecho de la quejosa para contestar la vista que le fue conferida con motivo del incidente de ejecución de convenio promovido en su contra, se programó la audiencia incidental y se admitieron las pruebas ofrecidas por la parte promovente.
+
+Determinación que se modificó mediante resolución de siete de marzo de dos mil veinticinco (folios 1404 a 1410 del tomo de prueba III), para el solo efecto de establecer que se tenía a la quejosa contestando en sentido negativo la demanda incidental promovida en su contra y declarar precluido su derecho a ofrecer pruebas.
+
+5. Audiencia de juicio incidental. El veintiocho de abril de dos mil veinticinco, se celebró audiencia dentro del incidente de ejecución de convenio, en la cual se citó a las partes a oír la resolución interlocutoria correspondiente (ibídem, folio 1424).
+
+6. Resolución incidental. Mediante resolución de dieciocho de junio de dos mil veinticinco, la jueza de origen declaró improcedente el incidente de ejecución de convenio, exclusivamente en relación con la prestación relativa a la póliza ******** (ibídem, folios 1428 a 1435).
+
+Lo anterior, bajo las siguientes razones torales:
+
+a) No se acreditó la existencia de dicha póliza debido a que solamente se presentó en copia simple, la cual solo hacía fe de la certeza de su original; y, b) De acuerdo con el convenio, las partes acordaron que ****** ******** ******* se haría de los recursos correspondientes a las cuentas de inversión y de ahorro de las que fuera titular, pero no se hizo mención al tema de la póliza de seguro de vida en la que ambos litigantes eran asegurados, por lo que no podía entenderse que estuviera inmersa en los supuestos previstos en el pacto volitivo. De ahí que se dejaran a salvo los derechos del actor incidentista para que hiciera valer lo conducente en un diverso procedimiento.
+
+Dicha determinación fue aclarada en auto de treinta de junio de dos mil veinticinco (ibídem, folios 1459 y 1460).
+
+7. Acto reclamado. ****** ******** ******** a través de su apoderado, interpuso apelación contra la referida interlocutoria (folios 51 a 66 del expediente), la cual se radicó con el toca ******** de la Tercera Sala Civil del Supremo Tribunal de Justicia del Estado de Guanajuato, donde por sentencia de veintinueve de agosto de dos mil veinticinco, se modificó el fallo impugnado a fin de ordenar a la quejosa que “firme la documentación que su contrario requiere por indicaciones de la empresa de seguros, para tramitar la liberación de recursos relacionados con la póliza de mérito; lo que deberá realizar la demandada dentro del plazo de tres días a que arribe al tribunal primario testimonio de la presente resolución, de conformidad con lo dispuesto en el artículo 461 de la ley instrumental civil de esta entidad federativa”.
+
+Hasta aquí los antecedentes relevantes del caso.
+
+QUINTA. Estudio de causas de improcedencia. Al no existir causas de improcedencia que las partes hagan valer, o bien, que este órgano de control constitucional advierta de oficio y que obligue a decretar el sobreseimiento en el presente juicio, lo procedente es entrar al estudio de fondo del asunto.
+
+SEXTA. Estudio de fondo. Los conceptos de violación se consideran fundados y suficientes para conceder el amparo solicitado.
+
+Síntesis de los conceptos de violación.
+
+La quejosa refiere en sus motivos de inconformidad que la resolución reclamada vulnera sus derechos humanos establecidos en los artículos 14 y 16 Constitucionales.
+
+Lo anterior, en virtud de que para resolver la apelación la autoridad responsable tomó en consideración la información que obtuvo de una página de internet a pesar de que no fue ofrecida como prueba en primera instancia, lo que ocasionó que equiparara la naturaleza del seguro de vida correspondiente a la póliza ********* a un fondo de inversión o ahorro en favor de ****** ******** ********
+
+Con esto, considera que se vulneró lo dispuesto en el artículo 260 del Código de Procedimientos Civiles para el Estado de Guanajuato, pues en lugar de apreciar los hechos como quedaron demostrados en primera instancia, el magistrado introdujo de manera oficiosa un aspecto novedoso que no pudo estar en condiciones de controvertir en sede primigenia.
+
+Lo cual desnaturalizó el trámite de la apelación al renovarse la primera instancia para llevarse a cabo un nuevo análisis de la litis natural, perdiendo de vista que dicho recurso tenía por objeto confirmar, revocar o modificar la resolución impugnada a la luz de los agravios, sin suplir su deficiencia ni incorporar nuevas pruebas.
+
+Por otra parte, refiere que la responsable incurrió en una contradicción, pues inicialmente señaló que de acuerdo con el convenio, las partes establecieron que ****** ******** ******* tendría acceso a las cuentas de inversión, de ahorro y fondos de ahorro para el retiro de los que fuera titular; pero al final concluyó que también debería tener acceso a los recursos de la póliza de seguro de vida materia de controversia, porque en realidad se trataba de una cuenta de ahorro, a pesar de que fue contratada tanto por el mencionado ****** como por ella.
+
+De manera que al tratarse de un seguro de vida del que ambos litigantes eran titulares, no encuadraba en los supuestos acordados en el convenio y, por tanto, no debió ser condenada a la prestación que le reclamó su contraparte.
+
+Respuesta.
+
+Como se anticipó, las consideraciones previamente sintetizadas resultan fundadas.
+
+A fin de justificar esa calificativa, debe tenerse presente que la resolución reclamada fue emitida por una autoridad jurisdiccional.
+
+De ahí que se encuentre sujeta a la garantía de legalidad, que en cuanto a su fundamentación y motivación se refiere, se satisface con el estudio de lo solicitado por las partes, apoyándose en el o los preceptos jurídicos que permiten proveer de conformidad a lo peticionado y que se establezca la hipótesis que genere su emisión, así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para la emisión del acto, siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso; tal como se corrobora con las razones que informan la jurisprudencia 1a./J. 139/2005, de la Primera Sala de la Suprema Corte de Justicia de la Nación, en la que se sustentó lo siguiente:
+
+“FUNDAMENTACIÓN Y MOTIVACIÓN DE LAS RESOLUCIONES JURISDICCIONALES, DEBEN ANALIZARSE A LA LUZ DE LOS ARTÍCULOS 14 Y 16 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, RESPECTIVAMENTE. Entre las diversas garantías contenidas en el segundo párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, sustento de la garantía de audiencia, está la relativa al respeto de las formalidades esenciales del procedimiento, también conocida como de debido proceso legal, la cual se refiere al cumplimiento de las condiciones fundamentales que deben satisfacerse en el procedimiento jurisdiccional que concluye con el dictado de una resolución que dirime las cuestiones debatidas. Esta garantía obliga al juzgador a decidir las controversias sometidas a su conocimiento, considerando todos y cada uno de los argumentos aducidos en la demanda, en su contestación, así como las demás pretensiones deducidas oportunamente en el pleito, de tal forma que se condene o absuelva al demandado, resolviendo sobre todos los puntos litigiosos materia del debate. Sin embargo, esta determinación del juzgador no debe desvincularse de lo dispuesto por el primer párrafo del artículo 16 constitucional, que impone a las autoridades la obligación de fundar y motivar debidamente los actos que emitan, esto es, que se expresen las razones de derecho y los motivos de hecho considerados para su dictado, los cuales deberán ser reales, ciertos e investidos de la fuerza legal suficiente para provocar el acto de autoridad. Ahora bien, como a las garantías individuales previstas en la Carta Magna les son aplicables las consideraciones sobre la supremacía constitucional en términos de su artículo 133, es indudable que las resoluciones que emitan deben cumplir con las garantías de debido proceso legal y de legalidad contenidas en los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos. Así, la fundamentación y motivación de una resolución jurisdiccional se encuentra en el análisis exhaustivo de los puntos que integran la litis, es decir, en el estudio de las acciones y excepciones del debate, apoyándose en el o los preceptos jurídicos que permiten expedirla y que establezcan la hipótesis que genere su emisión, así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para la emisión del acto, siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso[1]”.
+
+En efecto, del citado criterio jurisprudencial se desprende que la fundamentación y motivación de una resolución jurisdiccional se encuentra en el análisis exhaustivo de lo solicitado por la partes contendientes, o de los puntos que integran la litis, es decir, en el estudio de las pretensiones o acciones y las excepciones del debate; apoyándose en el o los preceptos jurídicos en que se encuentra establecido su actuar y la hipótesis que genere su emisión; así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para su pronunciamiento, siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso.
+
+Lo anterior, puesto que la garantía de debido proceso legal, contenida en el segundo párrafo del artículo 14 Constitucional, que obliga al tribunal a decidir las controversias sometidas a su conocimiento, considerando todos y cada uno de los argumentos aducidos por las partes, de tal forma que se condene, absuelva al demandado o se determine la procedencia o improcedencia de lo solicitado, resolviendo sobre todos los puntos litigiosos materia del debate; no debe desvincularse de lo dispuesto por el primer párrafo del artículo 16 Constitucional, que impone a las autoridades la obligación de fundar y motivar debidamente los actos que emitan, esto es, que se expresen las razones de derecho y los motivos de hecho considerados para su dictado, de lo que se sigue que, en atención al principio de supremacía constitucional, a que se refiere el artículo 133 de la Carta Magna, las resoluciones que emitan deben cumplir con las garantías de debido proceso legal y de legalidad contenidas en los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Consideraciones que resultan acordes con el criterio sustentado por el Pleno de la Suprema Corte de Justicia de la Nación, en la tesis número P. CXVI/2000, que señala:
+
+“FUNDAMENTACIÓN Y MOTIVACIÓN. EL CUMPLIMIENTO A DICHA GARANTÍA TRATÁNDOSE DE RESOLUCIONES JURISDICCIONALES SE VERIFICA SIN QUE SE INVOQUEN DE MANERA EXPRESA SUS FUNDAMENTOS, CUANDO LOS RAZONAMIENTOS DE ÉSTAS CONDUZCAN A LAS NORMAS APLICADAS. La garantía de legalidad consagrada en el artículo 16 de la Constitución Federal consiste en la obligación que tiene la autoridad de fundar y motivar todo acto de molestia que se dirija a los particulares, pero su cumplimiento se verifica de manera distinta tratándose de actos administrativos y de resoluciones jurisdiccionales. Lo anterior es así, porque en el acto administrativo que afecta de manera unilateral los intereses del gobernado, se debe cumplir con la formalidad de invocar de manera precisa los fundamentos del mismo, a efecto de que esté en posibilidad de conocer el sustento jurídico del acto que le afecta, mientras que la resolución jurisdiccional presupone el debido proceso legal en que se plantea un conflicto o una litis entre las partes, en el cual el actor establece sus pretensiones apoyándose en un derecho y el demandado lo objeta mediante defensas y excepciones, constituyendo la fundamentación de la resolución el análisis exhaustivo de los puntos que integran la litis, es decir, el estudio de las acciones y excepciones del debate, sin que se requiera de la formalidad que debe prevalecer en los actos administrativos, toda vez que dentro del citado análisis se dan razonamientos que involucran las disposiciones en que se funda la resolución, aun sin citarlas de forma expresa. En consecuencia, aun cuando por regla general la autoridad emisora de una resolución jurisdiccional está obligada a fundar tal acto citando los preceptos con los que se cumpla esa exigencia, excepcionalmente, si los razonamientos de la resolución conducen a la norma aplicada, la falta de formalidad puede dispensarse, de ahí que las resoluciones jurisdiccionales cumplen con la garantía constitucional de referencia sin necesidad de invocar de manera expresa el o los preceptos que las fundan, cuando de la resolución se advierte con claridad el artículo en que se basa”.[2]
+
+Bajo ese contexto normativo, es inconcuso que toda resolución jurisdiccional está sujeta a una serie de formalidades que deben cumplirse, dentro de las cuales destacan, por un lado, diversos requisitos de forma (la claridad, precisión y debida separación de pronunciamientos) y por otro, un requisito que atiende a su objeto (la congruencia).
+
+Respecto de este último, la congruencia, puede definirse como la correlación que debe existir entre la pretensión procesal, otras peticiones y alegaciones de las partes y la actividad decisoria o resolutoria que se plasma en la determinación.
+
+Así, este principio de congruencia implica, por una parte, que las resoluciones jurisdiccionales sean coherentes, es decir, que no contengan afirmaciones que se contradigan entre sí, lo que constituye la congruencia interna.
+
+Además, consiste también en que tales decisiones se dicten de acuerdo con la pretensión planteada en la demanda o escrito respectivo y con las otras alegaciones formuladas por las partes, en relación con las pruebas ofrecidas. A este aspecto se le denomina congruencia externa.
+
+De esta manera, la congruencia externa puede vulnerarse bajo dos supuestos: por defecto, al no ser exhaustiva por no pronunciarse sobre todo lo que debió resolverse (caso de la incongruencia omisiva o cifra petita y de la incongruencia infra petita que consiste en que se resuelve menos de lo pedido); y por exceso, si se resuelve lo que no es objeto de resolución (casos de la incongruencia ultra petita o más de lo pedido, y extra petita o de cosa distinta de lo pedido).
+
+Por ello, el requisito de la congruencia presenta dos exigencias, la exhaustividad en el pronunciamiento, cuya infracción da lugar a la incongruencia por omisión y por otro lado, el deber de no exceder en el pronunciamiento los límites que derivan de la pretensión y de otras peticiones y alegaciones de las partes, cuya infracción da lugar a la incongruencia por resolver más de lo pedido o cosa distinta de lo pedido.
+
+Sobre esa base, puede concluirse que, tratándose de resoluciones emitidas por autoridades jurisdiccionales, las garantías constitucionales previstas para la protección de los derechos humanos de legalidad y acceso a la jurisdicción, consistentes en la debida fundamentación y motivación, se satisfacen cuando:
+
+a) Se atiende a la cuestión efectivamente planteada, lo que se da una vez que la resolución dilucida el punto litigioso propuesto por las partes;
+
+b) Se toman en consideración los aspectos de hecho y de derecho relevantes para la resolución del caso; y, c) La solución propuesta es consistente con cada una de las premisas invocadas, las cuales deben sustentarse en argumentos razonables.
+
+Sirve de sustento la tesis I.4o.A.39 K (10a.), emitida por el Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito, de rubro y texto siguientes:
+
+“RESOLUCIONES JURISDICCIONALES. CARACTERÍSTICAS QUE DETERMINAN SI CUMPLEN CON UNA ADECUADA FUNDAMENTACIÓN Y MOTIVACIÓN. Dentro de los diversos derechos y garantías consagrados por la Constitución Política de los Estados Unidos Mexicanos, destaca la garantía de legalidad, prevista en su artículo 16, la cual consiste en la obligación que tiene la autoridad de fundar y motivar todo acto de molestia que se dirija a los particulares. En este sentido, la Suprema Corte de Justicia de la Nación sostiene que el cumplimiento de aquélla se verifica de manera distinta tratándose de actos administrativos y de resoluciones jurisdiccionales, pues éstas la observan sin necesidad de invocar expresamente el o los preceptos que las fundan, cuando de ellas se advierte con claridad el artículo en que se basa la decisión. Como complemento de lo anterior, debe tenerse en cuenta que las resoluciones jurisdiccionales presuponen un conflicto o litis entre las partes, en el cual el demandante establece sus pretensiones, apoyándose en determinados hechos o circunstancias y razones de derecho, y el demandado lo objeta mediante defensas y excepciones, lo que obliga al juzgador a decidir las controversias sometidas a su conocimiento, analizando todos y cada uno de los argumentos aducidos por las partes, de forma que se condene o absuelva al demandado. Para llegar a esta conclusión, el juzgador debe motivar su determinación expresando las razones normativas que informen de lo decidido –ratio decidendi–, es decir, el razonamiento o principio normativo aplicable al caso que da respuesta a la quaestio iuris, en el entendido de que el razonamiento jurídico-práctico, pretende dar respuestas a preguntas o problemas acerca de lo que, en un caso determinado es debido hacer u omitir, con base en lo que dispone el ordenamiento jurídico. Por otra parte, la obligación a cargo de los órganos jurisdiccionales de motivar sus resoluciones no únicamente implica expresar argumentos explicativos del porqué se llegó a una decisión concreta, sino también demostrar que esa decisión no es arbitraria, al incorporar en ella el marco normativo aplicable, los problemas jurídicos planteados, la exposición concreta de los hechos jurídicamente relevantes, probados y las circunstancias particulares consideradas para resolver.
+
+Consecuentemente, para determinar si una resolución jurisdiccional cumple con una adecuada fundamentación y motivación, los razonamientos judiciales utilizados deben justificar la racionalidad de la decisión, con el fin de dar certeza a los gobernados a quienes se dirigen del porqué se llegó a una conclusión y la razón por la cual es la más acertada, en tanto: (i) permiten resolver el problema planteado, (ii) responden a los elementos de hecho y de derecho relevantes para el caso, y (iii) muestran si la decisión es consistente respecto de las premisas dadas, con argumentos razonables”[3].
+
+Trasladado lo anterior al caso concreto, se tiene que la autoridad responsable desatendió los principios previamente desarrollados.
+
+De inicio, debe recordarse que el acto reclamado se emitió en segunda instancia, pues dilucidó el recurso de apelación que ****** ******** ******* interpuso contra la interlocutoria de dieciocho de junio de dos mil veinticinco, que declaró improcedente el incidente de ejecución de convenio que promovió a fin de que la peticionaria le proporcionara la firma de autorización para acceder a los recursos de la póliza ********, relativa a un seguro de vida.
+
+La materia de la litis de segunda instancia, cuando se impugna una determinación incidental, está regulada en los artículos 236[4], 247[5], 258, 259 y 260[6] del Código de Procedimientos Civiles para el Estado de Guanajuato, de los cuales se desprenden las siguientes reglas:
+
+a) El objeto de la apelación es que se confirme, revoque o modifique la sentencia o el auto dictado en la primera instancia, en los puntos relativos a los agravios expresados. Solo en materia familiar y en beneficio de menores de edad o personas incapacitadas, se suplirá la deficiencia de los conceptos de impugnación;
+
+b) Los agravios deberán expresarse en el escrito en el que se interponga el recurso de trato;
+
+c) De manera excepcional podrán ofrecerse pruebas en la apelación cuando se impugne una resolución que ponga fin a un incidente, siempre y cuando: i) se trate de la documental que no se hubiese podido rendir en la primera instancia por no haber tenido conocimiento de ella (superveniente);
+
+y, ii) cualquier otra prueba que sea relativa a excepciones posteriores a la audiencia de alegatos de primera instancia o a las anteriores de las que no haya tenido conocimiento el interesado antes de dicha audiencia.
+
+d) En el supuesto de estar en condiciones de ofrecer medios de convicción, la autoridad de alzada concederá a las partes un plazo de diez días para recibirlas; y, e) Fuera de los supuestos en los que pueden ofrecerse pruebas en segunda instancia, el tribunal apreciará los hechos tal como hubiesen sido probados en sede primigenia al momento de dictar su fallo.
+
+Como puede verse, por regla general, la litis de segunda instancia se conforma solamente con los agravios que exponga la parte recurrente (los cuales serán suplidos únicamente en materia familiar en beneficio de menores y personas incapacitadas), que serán contrastados frente a la resolución impugnada en los términos en que hayan quedado acreditados los hechos en primera instancia.
+
+La excepción a esa regla se presenta cuando la determinación impugnada es una resolución interlocutoria, en la cual la persona inconforme podrá ofrecer pruebas documentales y de cualquier otra naturaleza, siempre y cuando sean supervenientes por cualquiera de los siguientes motivos: a) sea porque la constancia haya sido conocida con posterioridad a la conclusión de la primera instancia; o, b) se relacione con excepciones posteriores a la audiencia de alegatos relativa al incidente.
+
+En esos supuestos, la litis de segunda instancia se conformará por los agravios, los hechos demostrados ante el juzgado de origen, el contenido de la determinación impugnada y el eventual resultado de las pruebas que, bajo las condiciones excepcionales de procedencia, puedan ser desahogadas en alzada.
+
+En el entendido que, atendiendo a las cargas procesales de las partes, corresponderá exclusivamente al inconforme el ofrecimiento de las pruebas que estime no haya estado en condiciones de ofrecer en primera instancia por resultar supervenientes, lo cual implica no solo su anuncio, sino también la exposición de los motivos en los que pretenda justificar su admisión excepcional.
+
+Por lo que si esto último no ocurre, el magistrado se verá impedido para tomar en cuenta de manera oficiosa cualquier dato o información que provenga de fuentes ajenas a las desahogadas ante la autoridad apelada, pues ello implicaría una variación de los hechos que conforman la litis de manera injustificada.
+
+Ello, aun cuando pudiera tratarse de un asunto en el que opere la suplencia de la queja, dado que esta figura se limita a complementar las deficiencias argumentativas que pudieran revestir los agravios, lo cual constituye un aspecto diverso a la suplencia probatoria, cuyos alcances conllevan el recaudo de los medios de convicción que se consideren necesarios para resolver la controversia.
+
+De ahí que ante la falta de información útil que permita dilucidar un asunto en el que opere la suplencia de la queja, lo procedente sea la reposición del procedimiento para recabarla, no así ordenar su desahogo en la segunda instancia, tal como lo prevé el numeral 897 del Código de Procedimientos Civiles para el Estado de Guanajuato[7], aplicable a la materia familiar.
+
+Analizadas las constancias que integran el toca de origen, se advierte que el recurrente ofreció como prueba en su escrito de agravios, la documental consistente en la impresión de un comprobante de pago (folios 65 y 66) con la finalidad de acreditar el entero de una mensualidad correspondiente a los estudios universitarios de su hijo.
+
+No obstante, omitió esbozar algún tipo de razonamiento tendente a establecer la naturaleza superveniente de dicha constancia, así como su pertinencia para resolver la litis de segunda instancia. Sin que se observe el ofrecimiento de algún otro medio de convicción relacionado con la póliza ********* materia de controversia.
+
+Pese a ello, la autoridad de alzada incorporó a la resolución reclamada la consulta que llevó a cabo en la página de internet de la aseguradora que expidió dicha póliza a fin de corroborar que el seguro de vida que amparaba incluía un ahorro garantizado pensado para financiar educación o proyectos de una persona menor de edad, es decir, que cubría un ahorro para educación más que una protección por fallecimiento.
+
+Así como también hizo referencia a la consulta electrónica de una plataforma de inteligencia artificial para establecer que “el producto del ahorro en el seguro educativo GNP está diseñado y promovido para que el ahorro coincida con la edad en que el hijo o hija inicie universidad y postgrado” (folios 83 reverso y 84).
+
+Todo ello sin esbozar algún tipo de razonamiento tendente a justificar por qué consideraba que estaba facultada para acudir a esas fuentes de información pese a que la parte recurrente no las ofreció como prueba en su escrito de agravios. Tampoco hizo referencia a la modalidad bajo la cual se invocaban esos datos, esto es, como un hecho notorio o como el resultado de una búsqueda que consideró necesaria para resolver el asunto a fin de establecer la definición y alcances del seguro de vida amparado en la mencionada póliza.
+
+Es más, la responsable omitió por completo citar en su resolución las páginas de internet de las cuales obtuvo esos datos, como para que las partes estuvieran en condiciones de corroborar la veracidad de la información que invocó.
+
+Y si bien se tiene presente que la inteligencia artificial es una herramienta que puede ser utilizada por los órganos jurisdiccionales para facilitar el dictado de sus resoluciones, ello no implica que deban obviarse las reglas procedimentales ni que puedan desatenderse las cargas probatorias y la forma en la cual debe analizarse la litis en una segunda instancia.
+
+Sobre todo, cuando en el particular el dato tomado en cuenta por la autoridad responsable para emitir su resolución no se citó con la finalidad de facilitar o establecer la mecánica de la cuantificación de una prestación o el cálculo de un concepto que debía liquidar, sino que la información que obtuvo a través de fuentes de internet le permitió concluir una cuestión que no quedó plenamente establecida en la primera instancia, a saber, que la naturaleza del seguro de vida amparado en la póliza ******** era la de una cuenta de ahorro y, por tanto, debía entenderse contenida en las cláusulas quinta y décima tercera del convenio que dilucidó el juicio natural.
+
+De ahí que pueda afirmarse, como lo hizo la quejosa en sus conceptos de violación, que la responsable vulneró en su perjuicio la garantía de legalidad, pues sin emitir algún tipo de justificación de manera fundada y motivada, tomó en consideración información no desahogada en primera instancia para resolver el recurso de apelación, con lo cual se vulneraron las reglas del trámite de la alzada y el principio de conguencia por pronunciarse sobre temas ajenos a los que fueron propuestos en el escrito de agravios, en el cual solamente se ofreció como prueba un comprobante de pago expedido por una institución educativa.
+
+Máxime, cuando se tiene que el uso de la inteligencia artificial en las resoluciones jurisdiccionales implica la satisfacción de una serie de requisitos que permitan a las partes tener la certeza de que la información obtenida se manejó de manera ética y con un enfoque de derechos humanos, los cuales, en el particular, fueron desatendidos por la autoridad responsable.
+
+Se invoca como apoyo, la jurisprudencia II.2o.C. J/2 K (12a.), sustentada por el Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito[8], de rubro y texto siguientes:
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+Hechos: En diversos recursos de queja y de revisión en incidentes de suspensión interpuestos contra decisiones de Juzgados de Distrito en amparo indirecto, este Tribunal Colegiado de Circuito empleó herramientas de inteligencia artificial para calcular el monto de una garantía. Al tratarse de una práctica innovadora en procesos jurisdiccionales resultó necesario, bajo un ejercicio de autocontención, definir los parámetros para la aplicación ética y responsable de la inteligencia artificial.
+
+Criterio jurídico: La utilización de herramientas de inteligencia artificial en procesos jurisdiccionales con una perspectiva de derechos humanos, ética y responsable, exige que las personas juzgadoras observen como elementos mínimos los principios de: a) proporcionalidad e inocuidad; b) protección de datos personales; c) transparencia y explicabilidad; y d) supervisión y decisión humanas.
+
+Justificación: Ante la ausencia de regulación específica para el uso de herramientas de inteligencia artificial las personas juzgadoras deben hacer un ejercicio de autocontención adoptando lineamientos para su aplicación responsable con perspectiva de derechos humanos.
+
+Para ello pueden tomar como referencia los esfuerzos de regulación a nivel internacional, como las Directrices Éticas para una Inteligencia Artificial Fiable del Grupo de expertos de alto nivel sobre inteligencia artificial creado por la Comisión Europea; el Reglamento del Parlamento Europeo del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial; y la Recomendación sobre la ética de la inteligencia artificial de la UNESCO y sus principios éticos.
+
+Dichas referencias permiten adoptar mejores prácticas para la administración de justicia al introducir innovación tecnológica para una gobernanza administrativa judicial, preservando el núcleo de la función jurisdiccional sin afectar los derechos procesales de las partes.
+
+Para ello, cuando utilicen herramientas de inteligencia artificial las personas juzgadoras deben cumplir con los siguientes elementos mínimos: a) la proporcionalidad e inocuidad exige que las herramientas de inteligencia artificial se utilicen únicamente en la medida necesaria y adecuada para alcanzar un fin legítimo, como por ejemplo, facilitar razonamientos numéricos sin que se alcance al razonamiento jurídico en la interpretación o aplicación de las normas; b) deben emplearlas de manera que no se comprometa la protección de datos del expediente judicial; c) la transparencia y explicabilidad imponen que la persona juzgadora no sólo informe que utiliza herramientas de inteligencia artificial, sino que exponga la metodología, los datos empleados y la forma en que se arribó al resultado, a fin de permitir que el procedimiento sea auditado y comprendido por las partes y órganos revisores; y d) la supervisión y la decisión humanas aseguran que la tecnología opere como auxiliar y no como sustituto, manteniendo la deliberación y decisión en el ámbito estrictamente jurisdiccional.
+
+En diverso orden, también asiste razón a la parte quejosa cuando afirma que la autoridad responsable incurrió en una contradicción al emitir el acto reclamado.
+
+Aquí debe recordarse que la finalidad del incidente promovido por ****** ******** ******* , consistió en obtener la firma de la quejosa para que le autorizara acceder a los recursos amparados en el seguro de vida correspondiente a la póliza ********* debido a que ambos aparecían como asegurados.
+
+Lo anterior pretendió sustentarse en las cláusulas quinta y décimo tercera del convenio que dilucidó el sumario natural, las cuales fueron referenciadas en el antecedente 1 y cuya lectura le permitió al magistrado responsable establecer en la resolución reclamada que las partes acordaron que “quedara en exclusiva propiedad de ****** ******** ******* , cualquier cuenta de inversión, de ahorro y fondos de ahorro para el retiro cuyo titular fuera éste…” (folios 81 reverso y 82).
+
+Tema sobre el cual este Juzgado no estima necesario emitir mayor pronunciamiento, pues además de que no fue controvertido en la presente instancia constitucional, se considera adecuada la forma en que la responsable determinó los alcances de dichas cláusulas.
+
+Luego, el magistrado estableció que, contrario a lo resuelto en primera instancia, la existencia de la mencionada póliza debía darse por sentada a partir de su exhibición en copia simple y lo manifestado por la quejosa al desahogarse la prueba confesional a su cargo, donde reconoció que pese a no recordar el número de póliza, indicó que fue contratada por ambos litigantes, pues los dos hicieron aportaciones para su pago y, por tanto, le correspondía a cada uno la mitad de los fondos amparados, tan es así que resultaba necesaria su firma para autorizar la entrega del recurso.
+
+La valoración de esta información le permitió al magistrado concluir que la quejosa reconoció que la póliza ******** en comento se trataba de la misma cuya firma de autorización le había solicitado su contraparte, por lo cual, atendiendo a que su naturaleza era la de una cuenta de ahorro para el pago de la educación del hijo de los litigantes (en los términos que quedó establecido a partir de la información obtenida de fuentes de internet e inteligencia artificial), debía entenderse dentro de aquellos rubros que de conformidad con las cláusulas quinta y décimo tercera del convenio, las partes acordaron que corresponderían a ****** ******** ********
+
+Conclusión que se estima desacertada.
+
+De inició, porque contrario a lo afirmado por la autoridad responsable, no existen elementos suficientes que permitan identificar que la póliza ******** materia de controversia, se trata de la misma cuya existencia reconoció la parte quejosa al desahogar la prueba confesional.
+
+Ello es así, porque la copia exhibida por el actor incidentista respecto a dicho documento, pone de relieve que el beneficiario es ********* ******** *****, hijo de ambas partes, pero que el único asegurado por el 100% de la totalidad de los recursos se trata de ****** ******** ******* (folio 1044)
+
+De esta manera, no hay forma de establecer que tal producto financiero resulte ser el mismo que la quejosa reconoció haber contratado junto a su contraparte, pues ambos litigantes, tanto en la demanda incidental como al absolver posiciones, reconocieron que el contrato de seguro que suscribieron de manera conjunta se trataba de uno en el cual aparecían por partes iguales como asegurados.
+
+De ahí que las pruebas desahogadas en el incidente de origen, en realidad, resultan insuficientes para establecer que la póliza en comento se trate de la misma que el promovente ****** ******** ******* indicó en su demanda.
+
+Máxime, cuando se tiene que la peticionaria negó que el contrato que suscribió con su contraparte hubiese tenido como finalidad ahorrar recursos para garantizar el pago de los estudios universitarios de su hijo, sino que simplemente refirió que se trataba de un seguro de vida contratado por ambos.
+
+Lo que lejos de generar certeza de la coincidencia entre el documento referido por la peticionaria y la póliza ********, establece aún más incertidumbre en cuanto a que se trate del mismo documento, como lo concluyó la autoridad responsable.
+
+Pese a ello, aun si se considerara que se trataba del mismo contrato, debe señalarse que, contrario a lo asumido por la autoridad responsable, resultaría inviable ubicarlo dentro de aquellos que las partes pactaron en las cláusulas quinta y décimo tercera del convenio, corresponderían de manera exclusiva a ****** ******** *******.
+
+Ello es así, en virtud de que de acuerdo con tales porciones del convenio, al mencionado ****** le correspondería la totalidad de los recursos amparados en “cualquier cuenta de inversión, de ahorro y fondos de ahorro para el retiro cuyo titular fuera éste…”. Así lo dejó sentado la autoridad responsable en la resolución reclamada.
+
+De ahí que al concluir que la póliza ******** constituía un seguro de vida contratado por ambos litigantes, como bien lo afirma la parte quejosa en sus conceptos de violación, resulta contradictorio que la responsable considerara que los recursos que amparaba debían corresponderle en exclusiva al actor incidentista en los términos de las referidas cláusulas, cuyos alcances cubrían, en los precisos términos en que lo fijó el propio magistrado, solamente las cuentas de ahorro, inversión y fondos de ahorro para el retiro de los que fuera titular ****** ******** ********
+
+Así, válidamente puede afirmarse que con los elementos probatorios desahogados en el incidente del que derivó la interlocutoria apelada, el magistrado responsable no estuvo en condiciones de determinar en la forma en que lo hizo, que la naturaleza del contrato correspondiente a la póliza ******** correspondía a la de una cuenta de ahorro cuyo titular era el actor incidentista, a fin de condenar a la quejosa a entregarle la firma de autorización correspondiente para acceder a los recursos amparados en ella.
+
+Por lo cual, lo correcto era dejar a salvo el derecho de las partes para dilucidar su conflicto en la vía y forma que consideraran convenientes (tal como estableció la autoridad de primera instancia en la resolución apelada), pues en el presente asunto no operaba la suplencia de la queja en la apelación por no estar inmiscuidos intereses de menores o personas incapacitadas.
+
+Sin que resultara relevante determinar si el contrato de seguro amparado con dicha póliza consistía en garantizar el pago de la educación universitaria de ********* ******** *****, hijo ambos litigantes, dado que dicho rubro fue pactado en una cláusula diversa que no fue materia de estudio en la resolución reclamada.
+
+Bajo tales condiciones, al no cumplir el acto reclamado con los requisitos constitucionales antes destacados, previstos en los artículos 14 y 16 de la Carta Magna; debe concederse el amparo y la protección de la Justicia Federal, para los efectos que se precisarán en el siguiente considerando.
+
+Determinación que se hace extensiva a las consecuencias de la resolución de alzada reclamada de manera destacada, al controvertirse solamente en vía de consecuencia.
+
+SÉPTIMO. Efectos del amparo. De conformidad con el artículo 77 de la Ley de Amparo, se precisa que los efectos de la protección constitucional son para que la autoridad responsable, Magistrado de la Tercera Sala Civil del Supremo Tribunal de Justicia del Estado de Guanajuato, en el plazo de CINCO DÍAS hábiles, contado a partir de que se le notifique la firmeza de la presente resolución, proceda en los términos siguientes:
+
+1. Deje insubsistente la resolución de veintinueve de agosto de dos mil veinticinco, dictada en el toca ******** de su estadística, mediante la cual se modificó la interlocutoria que dilucidó el incidente de ejecución de convenio derivado del juicio oral ordinario familiar **********, del Juzgado Tercero Civil de Partido Especializado en Materia Familiar; y,
+
+2. Dicte otra en su lugar en la que, atendiendo a lo señalado en la sexta de las consideraciones, confirme la resolución apelada.
+
+Por lo expuesto y fundado, con apoyo además en los artículos 1º, fracción I, del 73 al 79, y 124 de la Ley de Amparo, se:
+
+RESUELVE:
+
+ÚNICO. La Justicia de la Unión ampara y protege a ******* ****** ***** ****** , contra los actos y autoridades precisados en el antecedente primero, en correlación con la segunda consideración, por los motivos y para los efectos expuestos en las últimas dos de ellas expresadas en el presente fallo.
+
+Notifíquese personalmente.
+
+Así lo resolvió y firma Paola Patricia Ugalde Almada, Jueza Cuarta de Distrito en el Estado de Guanajuato, el treinta de marzo de dos mil veintiséis, en que las labores de este juzgado lo permitieron, asistida de Felipe de Jesús Irazaba Piña, secretario de Juzgado que autoriza y da fe. Doy fe.
+
+Razón. En la misma fecha se giraron los oficios 81146 al 81148, al tenor de la minuta que se agrega. Conste.
+
+OFICIO AUTORIDADES RESPONSABLES ENVÍO MAGISTRADO DE LA TERCERA SALA CIVIL DEL 81146 SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO CIUDAD DE GUANAJUATO.
+
+JUEZ DEL JUZGADO TERCERO CIVIL DE PARTIDO 81147 ESPECIALIZADO EN MATERIA FAMILIAR DE ESTA CIUDAD.
+
+DIRECTORA DE LA OFICINA CENTRAL DE ACTUARIOS Y OFICIALÍA DE PARTES COMÚN EN 81148 MATERIA CIVIL DEL PARTIDO JUDICIAL DE LEÓN, GUANAJUATO.
+
+En los autos del juicio de amparo 1183/2025, promovido por ******* ****** ***** ******, por conducto de su mandatario judicial ***** ******* ********* *******, se dictó el acuerdo siguiente:
+
+“Vistos para resolver los autos del juicio de amparo indirecto 1183/2025, promovido por ******* ****** ***** ******.
+
+ANTECEDENTES:
+
+PRIMERO. Presentación de la demanda. Por escrito depositado el veintitrés de septiembre de dos mil veinticinco, en el buzón judicial de la Oficina de Correspondencia Común de los Juzgados de Distrito en León, Guanajuato, ******* ****** ***** ******* por conducto de su mandatario judicial ***** ******* ********* ******* , promovió demanda de amparo en contra de las autoridades y actos siguientes:
+
+Autoridades responsables.
+
+Autoridad responsable. Sentido del Promoción No informe Magistrado de la Tercera Cierto 18713 (foja 44) 1 Sala Civil del Supremo Tribunal de Justicia del Estado de Guanajuato.
+
+Juez del Juzgado Tercero Cierto 18366 (foja 41) 2 Civil de Partido Especializado en Materia Familiar de esta ciudad.
+
+Directora de la Oficina Cierto 17468 (foja 38) 3 Central de Actuarios y Oficialía de Partes Común en Materia Civil del Partido Judicial de León, Guanajuato.
+
+Acto reclamado.
+
+“Lo constituye la Resolución dictada dentro del TOCA marcado con el número ******** de fecha 29 de Agosto del año 2025 y notificada el día 1 primero del mes de Septiembre del mismo año en curso, dictada por la Autoridad señalada como Responsable”
+
+SEGUNDO. Admisión, trámite e integración del asunto. Dicha demanda se turnó a este Juzgado, donde previo desahogo de una prevención, se admitió en acuerdo de treinta de septiembre de dos mil veinticinco, con lo que quedó instaurado el juicio de amparo *********;
+
+por ello, se dio la intervención que legalmente le corresponde a la agente del Ministerio Público Federal; se requirió a las autoridades responsables su informe justificado; se ordenó el emplazamiento del tercero interesado; y se señaló fecha y hora para la audiencia constitucional, que tuvo verificativo en los términos asentados en el acta que antecede.
+
+CONSIDERACIONES:
+
+PRIMERA. Competencia. Este Juzgado Cuarto de Distrito en el Estado de Guanajuato es legalmente competente para conocer y resolver el presente juicio de amparo, conforme a los artículos 103 y 107 de la Constitución Nacional, al Acuerdo General 7/2014 que modificó el diverso 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la república mexicana; y al número, jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito; pues de conformidad con el artículo 37 de la Ley de Amparo, el acto reclamado tiene ejecución en esta ciudad, por ser donde se ventila el juicio de origen.
+
+Asimismo, lo es en razón de la materia, porque este órgano jurisdiccional al no estar especializado, tiene competencia para conocer de todas ellas, entre las que se encuentra la civil, que es sobre la que versa el presente asunto; y en razón del grado, porque en términos del artículo 107, fracción VII, de la Constitución Nacional, corresponde a los Juzgados de Distrito conocer en primera instancia de los amparos que se presenten en la vía indirecta, siendo que en ella es en la que se está substanciando este asunto.
+
+SEGUNDA. Precisión de los actos reclamados. Conforme lo establece el artículo 74, fracción I, de la Ley de Amparo, se especifica que la parte quejosa controvierte:
+
+- La resolución de veintinueve de agosto de dos mil veinticinco, dictada en el toca ******** del índice de la Tercera Sala Civil del Supremo Tribunal de Justicia del Estado de Guanajuato, mediante la cual se modificó la interlocutoria que dilucidó el incidente de ejecución de convenio derivado del juicio oral ordinario familiar **********, del Juzgado Tercero Civil de Partido Especializado en Materia Familiar, así como su ejecución.
+
+Los efectos de dicha modificación consistieron en condenar a la quejosa a que, “como consecuencia de los pactos contenidos en las cláusulas quinta y décima tercera… firme la documentación que su contrario requiere por indicaciones de la empresa de seguros, para tramitar la liberación de recursos relacionados con la póliza de mérito; lo que deberá realizar la demandada dentro del plazo de tres días a que arribe al tribunal primario testimonio de la presente resolución, de conformidad con lo dispuesto en el artículo 461 de la ley instrumental civil de esta entidad federativa”.
+
+TERCERA. Certeza de los actos reclamados. Son ciertos los actos reclamados, pues así lo reconocieron las autoridades responsables al rendir su informe justificado (folios 38, 41 y 44).
+
+Lo que se corrobora con la copia certificada del juicio de origen y del toca en el que se emitió la resolución reclamada (folios 46 a 90, tomos de prueba y dvd), las cuales tienen valor probatorio pleno en términos de los artículos 129 y 202, del supletorio Código Federal de Procedimientos Civiles.
+
+CUARTA. Antecedentes. Para un mayor entendimiento del asunto, se estima necesario relatar los antecedentes relevantes del caso.
+
+1. Juicio de origen concluido mediante convenio. El sumario natural se trata de una contienda familiar promovida por ******* ****** ***** ******, por sí y en representación de su hijo de iniciales *****., en contra de ****** ******** *******, la cual se tramitó en la vía oral ordinaria ante el Juzgado Civil Especializado en Materia Familiar de esta ciudad, con el expediente *********** (fojas 185 y 186 del tomo de prueba I).
+
+El once de octubre de dos mil veintiuno, se dictó la sentencia correspondiente en la que se declaró la disolución del vínculo matrimonial, así como de la sociedad conyugal a la que estuvo sujeto (folios 812 a 856 del tomo de prueba II); sin embargo, previo a la resolución de los recursos de apelación que interpusieron las partes, éstas celebraron convenio ratificado ante la presencia judicial el doce de noviembre de dos mil veintiuno (ibídem, folios 950 a 960).
+
+Dicho convenio fue aprobado por la autoridad judicial en audiencia de ocho de diciembre de dos mil veintiuno, con lo cual, junto con las modificaciones establecidas en esa diligencia, adquirió la categoría de cosa juzgada (ibídem, folio 974)
+
+En la parte que interesa destacar, las partes convinieron lo siguiente:
+
+a) Ambas desistieron de los recursos de apelación que previamente interpusieron en contra de la sentencia de once de octubre anterior;
+
+b) En la cláusula QUINTA, las partes pactaron que el 100% del dinero y demás saldos que integraban las cuentas de inversión, cuentas de ahorro y fondos de ahorro para el retiro se aplicarían en favor de ****** ******** ******* *ibídem, ***** ***** ** c) En la cláusula DÉCIMA TERCERA los litigantes acordaron que, como consecuencia de la liquidación de la sociedad conyugal y como parte de la masa postganancial, se aplicaría en favor de ****** ******** ******* todos los saldos de las cuentas de ahorro, cuentas de inversión, fondos de ahorro para el retiro cuyo titular fuera el propio ******, además de su liquidación y la jubilación o pensiones mensuales que recibiera al momento de concluir su relación de trabajo, razón por la cual la quejosa no tendría derecho alguno a lo antes mencionado;
+
+En relación con estos tópicos no existió modificación en la audiencia de ocho de diciembre de dos mil veintiuno (ibídem, folio 974).
+
+2. Incidente de ejecución de convenio. Por escrito presentado en el Juzgado responsable el dieciséis de octubre de dos mil veinticuatro (ibídem, folios 1018 a 1030), ****** ******** ******* * ********* ******** ****** por conducto de su apoderado, promovieron incidente de ejecución de convenio a fin de reclamar de la ahora quejosa, entre otras prestaciones, la firma de autorización respectiva para que el primero accediera al monto asegurado con la póliza ********, en la que el citado ****** aparecía como único beneficiario.
+
+Lo anterior, bajo el argumento de que dicha póliza, correspondiente a un seguro de vida, fue contratada por ****** ******** ******* para pagar los estudios universitarios de su hijo ********* ******** ***** , quien era el único beneficiario; sin embargo, como aquél y la ahora quejosa aparecían como asegurados uno y dos, resultaba necesaria la firma de autorización de ambos a fin de acceder a los fondos.
+
+En el entendido que la negativa de la quejosa para firmar la autorización, generaba un perjuicio patrimonial a ****** ******** ******** debido a que se veía obligado a pagar con sus propios ingresos los estudios de su hijo ****** ******** ******** como un concepto adicional a los alimentos que se comprometió a enterarle en el convenio, pese a que la póliza se contrató para asegurar su educación universitaria.
+
+3. Trámite del incidente. Previo desarchivo del asunto, en auto de siete de noviembre de dos mil veinticuatro, la jueza del conocimiento dio entrada al incidente, por lo que ordenó correr traslado a la quejosa (ibídem, folio 1051).
+
+4. Incidente de nulidad improcedente. El quince de noviembre de dos mil veinticuatro (ibídem, folios 1060 a 1062), se corrió traslado a la quejosa con el incidente promovido en su contra; inconforme con esa notificación, interpuso incidente de nulidad (ibídem, fojas 1062 a 1070), el cual se declaró improcedente en la interlocutoria de veinticuatro de enero de dos mil veinticinco (ibídem, fojas 1093 a 1097), que quedó firme en auto de once de febrero de dos mil veinticinco (ibídem, folio 1103).
+
+En ese mismo acuerdo, se declaró precluido el derecho de la quejosa para contestar la vista que le fue conferida con motivo del incidente de ejecución de convenio promovido en su contra, se programó la audiencia incidental y se admitieron las pruebas ofrecidas por la parte promovente.
+
+Determinación que se modificó mediante resolución de siete de marzo de dos mil veinticinco (folios 1404 a 1410 del tomo de prueba III), para el solo efecto de establecer que se tenía a la quejosa contestando en sentido negativo la demanda incidental promovida en su contra y declarar precluido su derecho a ofrecer pruebas.
+
+5. Audiencia de juicio incidental. El veintiocho de abril de dos mil veinticinco, se celebró audiencia dentro del incidente de ejecución de convenio, en la cual se citó a las partes a oír la resolución interlocutoria correspondiente (ibídem, folio 1424).
+
+6. Resolución incidental. Mediante resolución de dieciocho de junio de dos mil veinticinco, la jueza de origen declaró improcedente el incidente de ejecución de convenio, exclusivamente en relación con la prestación relativa a la póliza ******** (ibídem, folios 1428 a 1435).
+
+Lo anterior, bajo las siguientes razones torales:
+
+a) No se acreditó la existencia de dicha póliza debido a que solamente se presentó en copia simple, la cual solo hacía fe de la certeza de su original; y, b) De acuerdo con el convenio, las partes acordaron que ****** ******** ******* se haría de los recursos correspondientes a las cuentas de inversión y de ahorro de las que fuera titular, pero no se hizo mención al tema de la póliza de seguro de vida en la que ambos litigantes eran asegurados, por lo que no podía entenderse que estuviera inmersa en los supuestos previstos en el pacto volitivo. De ahí que se dejaran a salvo los derechos del actor incidentista para que hiciera valer lo conducente en un diverso procedimiento.
+
+Dicha determinación fue aclarada en auto de treinta de junio de dos mil veinticinco (ibídem, folios 1459 y 1460).
+
+7. Acto reclamado. ****** ******** ******** a través de su apoderado, interpuso apelación contra la referida interlocutoria (folios 51 a 66 del expediente), la cual se radicó con el toca ******** de la Tercera Sala Civil del Supremo Tribunal de Justicia del Estado de Guanajuato, donde por sentencia de veintinueve de agosto de dos mil veinticinco, se modificó el fallo impugnado a fin de ordenar a la quejosa que “firme la documentación que su contrario requiere por indicaciones de la empresa de seguros, para tramitar la liberación de recursos relacionados con la póliza de mérito; lo que deberá realizar la demandada dentro del plazo de tres días a que arribe al tribunal primario testimonio de la presente resolución, de conformidad con lo dispuesto en el artículo 461 de la ley instrumental civil de esta entidad federativa”.
+
+Hasta aquí los antecedentes relevantes del caso.
+
+QUINTA. Estudio de causas de improcedencia. Al no existir causas de improcedencia que las partes hagan valer, o bien, que este órgano de control constitucional advierta de oficio y que obligue a decretar el sobreseimiento en el presente juicio, lo procedente es entrar al estudio de fondo del asunto.
+
+SEXTA. Estudio de fondo. Los conceptos de violación se consideran fundados y suficientes para conceder el amparo solicitado.
+
+Síntesis de los conceptos de violación.
+
+La quejosa refiere en sus motivos de inconformidad que la resolución reclamada vulnera sus derechos humanos establecidos en los artículos 14 y 16 Constitucionales.
+
+Lo anterior, en virtud de que para resolver la apelación la autoridad responsable tomó en consideración la información que obtuvo de una página de internet a pesar de que no fue ofrecida como prueba en primera instancia, lo que ocasionó que equiparara la naturaleza del seguro de vida correspondiente a la póliza ********* a un fondo de inversión o ahorro en favor de ****** ******** ********
+
+Con esto, considera que se vulneró lo dispuesto en el artículo 260 del Código de Procedimientos Civiles para el Estado de Guanajuato, pues en lugar de apreciar los hechos como quedaron demostrados en primera instancia, el magistrado introdujo de manera oficiosa un aspecto novedoso que no pudo estar en condiciones de controvertir en sede primigenia.
+
+Lo cual desnaturalizó el trámite de la apelación al renovarse la primera instancia para llevarse a cabo un nuevo análisis de la litis natural, perdiendo de vista que dicho recurso tenía por objeto confirmar, revocar o modificar la resolución impugnada a la luz de los agravios, sin suplir su deficiencia ni incorporar nuevas pruebas.
+
+Por otra parte, refiere que la responsable incurrió en una contradicción, pues inicialmente señaló que de acuerdo con el convenio, las partes establecieron que ****** ******** ******* tendría acceso a las cuentas de inversión, de ahorro y fondos de ahorro para el retiro de los que fuera titular; pero al final concluyó que también debería tener acceso a los recursos de la póliza de seguro de vida materia de controversia, porque en realidad se trataba de una cuenta de ahorro, a pesar de que fue contratada tanto por el mencionado ****** como por ella.
+
+De manera que al tratarse de un seguro de vida del que ambos litigantes eran titulares, no encuadraba en los supuestos acordados en el convenio y, por tanto, no debió ser condenada a la prestación que le reclamó su contraparte.
+
+Respuesta.
+
+Como se anticipó, las consideraciones previamente sintetizadas resultan fundadas.
+
+A fin de justificar esa calificativa, debe tenerse presente que la resolución reclamada fue emitida por una autoridad jurisdiccional.
+
+De ahí que se encuentre sujeta a la garantía de legalidad, que en cuanto a su fundamentación y motivación se refiere, se satisface con el estudio de lo solicitado por las partes, apoyándose en el o los preceptos jurídicos que permiten proveer de conformidad a lo peticionado y que se establezca la hipótesis que genere su emisión, así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para la emisión del acto, siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso;
+
+tal como se corrobora con las razones que informan la jurisprudencia 1a./J. 139/2005, de la Primera Sala de la Suprema Corte de Justicia de la Nación, en la que se sustentó lo siguiente:
+
+“FUNDAMENTACIÓN Y MOTIVACIÓN DE LAS RESOLUCIONES JURISDICCIONALES, DEBEN ANALIZARSE A LA LUZ DE LOS ARTÍCULOS 14 Y 16 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, RESPECTIVAMENTE. Entre las diversas garantías contenidas en el segundo párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, sustento de la garantía de audiencia, está la relativa al respeto de las formalidades esenciales del procedimiento, también conocida como de debido proceso legal, la cual se refiere al cumplimiento de las condiciones fundamentales que deben satisfacerse en el procedimiento jurisdiccional que concluye con el dictado de una resolución que dirime las cuestiones debatidas. Esta garantía obliga al juzgador a decidir las controversias sometidas a su conocimiento, considerando todos y cada uno de los argumentos aducidos en la demanda, en su contestación, así como las demás pretensiones deducidas oportunamente en el pleito, de tal forma que se condene o absuelva al demandado, resolviendo sobre todos los puntos litigiosos materia del debate. Sin embargo, esta determinación del juzgador no debe desvincularse de lo dispuesto por el primer párrafo del artículo 16 constitucional, que impone a las autoridades la obligación de fundar y motivar debidamente los actos que emitan, esto es, que se expresen las razones de derecho y los motivos de hecho considerados para su dictado, los cuales deberán ser reales, ciertos e investidos de la fuerza legal suficiente para provocar el acto de autoridad. Ahora bien, como a las garantías individuales previstas en la Carta Magna les son aplicables las consideraciones sobre la supremacía constitucional en términos de su artículo 133, es indudable que las resoluciones que emitan deben cumplir con las garantías de debido proceso legal y de legalidad contenidas en los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos. Así, la fundamentación y motivación de una resolución jurisdiccional se encuentra en el análisis exhaustivo de los puntos que integran la litis, es decir, en el estudio de las acciones y excepciones del debate, apoyándose en el o los preceptos jurídicos que permiten expedirla y que establezcan la hipótesis que genere su emisión, así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para la emisión del acto, siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso[9]”.
+
+En efecto, del citado criterio jurisprudencial se desprende que la fundamentación y motivación de una resolución jurisdiccional se encuentra en el análisis exhaustivo de lo solicitado por la partes contendientes, o de los puntos que integran la litis, es decir, en el estudio de las pretensiones o acciones y las excepciones del debate; apoyándose en el o los preceptos jurídicos en que se encuentra establecido su actuar y la hipótesis que genere su emisión; así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para su pronunciamiento, siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso.
+
+Lo anterior, puesto que la garantía de debido proceso legal, contenida en el segundo párrafo del artículo 14 Constitucional, que obliga al tribunal a decidir las controversias sometidas a su conocimiento, considerando todos y cada uno de los argumentos aducidos por las partes, de tal forma que se condene, absuelva al demandado o se determine la procedencia o improcedencia de lo solicitado, resolviendo sobre todos los puntos litigiosos materia del debate; no debe desvincularse de lo dispuesto por el primer párrafo del artículo 16 Constitucional, que impone a las autoridades la obligación de fundar y motivar debidamente los actos que emitan, esto es, que se expresen las razones de derecho y los motivos de hecho considerados para su dictado, de lo que se sigue que, en atención al principio de supremacía constitucional, a que se refiere el artículo 133 de la Carta Magna, las resoluciones que emitan deben cumplir con las garantías de debido proceso legal y de legalidad contenidas en los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Consideraciones que resultan acordes con el criterio sustentado por el Pleno de la Suprema Corte de Justicia de la Nación, en la tesis número P. CXVI/2000, que señala:
+
+“FUNDAMENTACIÓN Y MOTIVACIÓN. EL CUMPLIMIENTO A DICHA GARANTÍA TRATÁNDOSE DE RESOLUCIONES JURISDICCIONALES SE VERIFICA SIN QUE SE INVOQUEN DE MANERA EXPRESA SUS FUNDAMENTOS, CUANDO LOS RAZONAMIENTOS DE ÉSTAS CONDUZCAN A LAS NORMAS APLICADAS. La garantía de legalidad consagrada en el artículo 16 de la Constitución Federal consiste en la obligación que tiene la autoridad de fundar y motivar todo acto de molestia que se dirija a los particulares, pero su cumplimiento se verifica de manera distinta tratándose de actos administrativos y de resoluciones jurisdiccionales. Lo anterior es así, porque en el acto administrativo que afecta de manera unilateral los intereses del gobernado, se debe cumplir con la formalidad de invocar de manera precisa los fundamentos del mismo, a efecto de que esté en posibilidad de conocer el sustento jurídico del acto que le afecta, mientras que la resolución jurisdiccional presupone el debido proceso legal en que se plantea un conflicto o una litis entre las partes, en el cual el actor establece sus pretensiones apoyándose en un derecho y el demandado lo objeta mediante defensas y excepciones, constituyendo la fundamentación de la resolución el análisis exhaustivo de los puntos que integran la litis, es decir, el estudio de las acciones y excepciones del debate, sin que se requiera de la formalidad que debe prevalecer en los actos administrativos, toda vez que dentro del citado análisis se dan razonamientos que involucran las disposiciones en que se funda la resolución, aun sin citarlas de forma expresa.
+
+En consecuencia, aun cuando por regla general la autoridad emisora de una resolución jurisdiccional está obligada a fundar tal acto citando los preceptos con los que se cumpla esa exigencia, excepcionalmente, si los razonamientos de la resolución conducen a la norma aplicada, la falta de formalidad puede dispensarse, de ahí que las resoluciones jurisdiccionales cumplen con la garantía constitucional de referencia sin necesidad de invocar de manera expresa el o los preceptos que las fundan, cuando de la resolución se advierte con claridad el artículo en que se basa”.[10]
+
+Bajo ese contexto normativo, es inconcuso que toda resolución jurisdiccional está sujeta a una serie de formalidades que deben cumplirse, dentro de las cuales destacan, por un lado, diversos requisitos de forma (la claridad, precisión y debida separación de pronunciamientos) y por otro, un requisito que atiende a su objeto (la congruencia).
+
+Respecto de este último, la congruencia, puede definirse como la correlación que debe existir entre la pretensión procesal, otras peticiones y alegaciones de las partes y la actividad decisoria o resolutoria que se plasma en la determinación.
+
+Así, este principio de congruencia implica, por una parte, que las resoluciones jurisdiccionales sean coherentes, es decir, que no contengan afirmaciones que se contradigan entre sí, lo que constituye la congruencia interna.
+
+Además, consiste también en que tales decisiones se dicten de acuerdo con la pretensión planteada en la demanda o escrito respectivo y con las otras alegaciones formuladas por las partes, en relación con las pruebas ofrecidas. A este aspecto se le denomina congruencia externa.
+
+De esta manera, la congruencia externa puede vulnerarse bajo dos supuestos: por defecto, al no ser exhaustiva por no pronunciarse sobre todo lo que debió resolverse (caso de la incongruencia omisiva o cifra petita y de la incongruencia infra petita que consiste en que se resuelve menos de lo pedido); y por exceso, si se resuelve lo que no es objeto de resolución (casos de la incongruencia ultra petita o más de lo pedido, y extra petita o de cosa distinta de lo pedido).
+
+Por ello, el requisito de la congruencia presenta dos exigencias, la exhaustividad en el pronunciamiento, cuya infracción da lugar a la incongruencia por omisión y por otro lado, el deber de no exceder en el pronunciamiento los límites que derivan de la pretensión y de otras peticiones y alegaciones de las partes, cuya infracción da lugar a la incongruencia por resolver más de lo pedido o cosa distinta de lo pedido.
+
+Sobre esa base, puede concluirse que, tratándose de resoluciones emitidas por autoridades jurisdiccionales, las garantías constitucionales previstas para la protección de los derechos humanos de legalidad y acceso a la jurisdicción, consistentes en la debida fundamentación y motivación, se satisfacen cuando:
+
+a) Se atiende a la cuestión efectivamente planteada, lo que se da una vez que la resolución dilucida el punto litigioso propuesto por las partes;
+
+b) Se toman en consideración los aspectos de hecho y de derecho relevantes para la resolución del caso; y, c) La solución propuesta es consistente con cada una de las premisas invocadas, las cuales deben sustentarse en argumentos razonables.
+
+Sirve de sustento la tesis I.4o.A.39 K (10a.), emitida por el Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito, de rubro y texto siguientes:
+
+“RESOLUCIONES JURISDICCIONALES. CARACTERÍSTICAS QUE DETERMINAN SI CUMPLEN CON UNA ADECUADA FUNDAMENTACIÓN Y MOTIVACIÓN. Dentro de los diversos derechos y garantías consagrados por la Constitución Política de los Estados Unidos Mexicanos, destaca la garantía de legalidad, prevista en su artículo 16, la cual consiste en la obligación que tiene la autoridad de fundar y motivar todo acto de molestia que se dirija a los particulares. En este sentido, la Suprema Corte de Justicia de la Nación sostiene que el cumplimiento de aquélla se verifica de manera distinta tratándose de actos administrativos y de resoluciones jurisdiccionales, pues éstas la observan sin necesidad de invocar expresamente el o los preceptos que las fundan, cuando de ellas se advierte con claridad el artículo en que se basa la decisión. Como complemento de lo anterior, debe tenerse en cuenta que las resoluciones jurisdiccionales presuponen un conflicto o litis entre las partes, en el cual el demandante establece sus pretensiones, apoyándose en determinados hechos o circunstancias y razones de derecho, y el demandado lo objeta mediante defensas y excepciones, lo que obliga al juzgador a decidir las controversias sometidas a su conocimiento, analizando todos y cada uno de los argumentos aducidos por las partes, de forma que se condene o absuelva al demandado. Para llegar a esta conclusión, el juzgador debe motivar su determinación expresando las razones normativas que informen de lo decidido –ratio decidendi–, es decir, el razonamiento o principio normativo aplicable al caso que da respuesta a la quaestio iuris, en el entendido de que el razonamiento jurídico-práctico, pretende dar respuestas a preguntas o problemas acerca de lo que, en un caso determinado es debido hacer u omitir, con base en lo que dispone el ordenamiento jurídico. Por otra parte, la obligación a cargo de los órganos jurisdiccionales de motivar sus resoluciones no únicamente implica expresar argumentos explicativos del porqué se llegó a una decisión concreta, sino también demostrar que esa decisión no es arbitraria, al incorporar en ella el marco normativo aplicable, los problemas jurídicos planteados, la exposición concreta de los hechos jurídicamente relevantes, probados y las circunstancias particulares consideradas para resolver. Consecuentemente, para determinar si una resolución jurisdiccional cumple con una adecuada fundamentación y motivación, los razonamientos judiciales utilizados deben justificar la racionalidad de la decisión, con el fin de dar certeza a los gobernados a quienes se dirigen del porqué se llegó a una conclusión y la razón por la cual es la más acertada, en tanto: (i) permiten resolver el problema planteado, (ii) responden a los elementos de hecho y de derecho relevantes para el caso, y (iii) muestran si la decisión es consistente respecto de las premisas dadas, con argumentos razonables”[11].
+
+Trasladado lo anterior al caso concreto, se tiene que la autoridad responsable desatendió los principios previamente desarrollados.
+
+De inicio, debe recordarse que el acto reclamado se emitió en segunda instancia, pues dilucidó el recurso de apelación que ****** ******** ******* interpuso contra la interlocutoria de dieciocho de junio de dos mil veinticinco, que declaró improcedente el incidente de ejecución de convenio que promovió a fin de que la peticionaria le proporcionara la firma de autorización para acceder a los recursos de la póliza ********, relativa a un seguro de vida.
+
+La materia de la litis de segunda instancia, cuando se impugna una determinación incidental, está regulada en los artículos 236[12], 247[13], 258, 259 y 260[14] del Código de Procedimientos Civiles para el Estado de Guanajuato, de los cuales se desprenden las siguientes reglas:
+
+a) El objeto de la apelación es que se confirme, revoque o modifique la sentencia o el auto dictado en la primera instancia, en los puntos relativos a los agravios expresados.
+
+Solo en materia familiar y en beneficio de menores de edad o personas incapacitadas, se suplirá la deficiencia de los conceptos de impugnación;
+
+b) Los agravios deberán expresarse en el escrito en el que se interponga el recurso de trato;
+
+c) De manera excepcional podrán ofrecerse pruebas en la apelación cuando se impugne una resolución que ponga fin a un incidente, siempre y cuando: i) se trate de la documental que no se hubiese podido rendir en la primera instancia por no haber tenido conocimiento de ella (superveniente); y, ii)
+
+cualquier otra prueba que sea relativa a excepciones posteriores a la audiencia de alegatos de primera instancia o a las anteriores de las que no haya tenido conocimiento el interesado antes de dicha audiencia.
+
+d) En el supuesto de estar en condiciones de ofrecer medios de convicción, la autoridad de alzada concederá a las partes un plazo de diez días para recibirlas; y, e) Fuera de los supuestos en los que pueden ofrecerse pruebas en segunda instancia, el tribunal apreciará los hechos tal como hubiesen sido probados en sede primigenia al momento de dictar su fallo.
+
+Como puede verse, por regla general, la litis de segunda instancia se conforma solamente con los agravios que exponga la parte recurrente (los cuales serán suplidos únicamente en materia familiar en beneficio de menores y personas incapacitadas), que serán contrastados frente a la resolución impugnada en los términos en que hayan quedado acreditados los hechos en primera instancia.
+
+La excepción a esa regla se presenta cuando la determinación impugnada es una resolución interlocutoria, en la cual la persona inconforme podrá ofrecer pruebas documentales y de cualquier otra naturaleza, siempre y cuando sean supervenientes por cualquiera de los siguientes motivos: a) sea porque la constancia haya sido conocida con posterioridad a la conclusión de la primera instancia; o, b) se relacione con excepciones posteriores a la audiencia de alegatos relativa al incidente.
+
+En esos supuestos, la litis de segunda instancia se conformará por los agravios, los hechos demostrados ante el juzgado de origen, el contenido de la determinación impugnada y el eventual resultado de las pruebas que, bajo las condiciones excepcionales de procedencia, puedan ser desahogadas en alzada.
+
+En el entendido que, atendiendo a las cargas procesales de las partes, corresponderá exclusivamente al inconforme el ofrecimiento de las pruebas que estime no haya estado en condiciones de ofrecer en primera instancia por resultar supervenientes, lo cual implica no solo su anuncio, sino también la exposición de los motivos en los que pretenda justificar su admisión excepcional.
+
+Por lo que si esto último no ocurre, el magistrado se verá impedido para tomar en cuenta de manera oficiosa cualquier dato o información que provenga de fuentes ajenas a las desahogadas ante la autoridad apelada, pues ello implicaría una variación de los hechos que conforman la litis de manera injustificada.
+
+Ello, aun cuando pudiera tratarse de un asunto en el que opere la suplencia de la queja, dado que esta figura se limita a complementar las deficiencias argumentativas que pudieran revestir los agravios, lo cual constituye un aspecto diverso a la suplencia probatoria, cuyos alcances conllevan el recaudo de los medios de convicción que se consideren necesarios para resolver la controversia.
+
+De ahí que ante la falta de información útil que permita dilucidar un asunto en el que opere la suplencia de la queja, lo procedente sea la reposición del procedimiento para recabarla, no así ordenar su desahogo en la segunda instancia, tal como lo prevé el numeral 897 del Código de Procedimientos Civiles para el Estado de Guanajuato[15], aplicable a la materia familiar.
+
+Analizadas las constancias que integran el toca de origen, se advierte que el recurrente ofreció como prueba en su escrito de agravios, la documental consistente en la impresión de un comprobante de pago (folios 65 y 66) con la finalidad de acreditar el entero de una mensualidad correspondiente a los estudios universitarios de su hijo.
+
+No obstante, omitió esbozar algún tipo de razonamiento tendente a establecer la naturaleza superveniente de dicha constancia, así como su pertinencia para resolver la litis de segunda instancia. Sin que se observe el ofrecimiento de algún otro medio de convicción relacionado con la póliza ********* materia de controversia.
+
+Pese a ello, la autoridad de alzada incorporó a la resolución reclamada la consulta que llevó a cabo en la página de internet de la aseguradora que expidió dicha póliza a fin de corroborar que el seguro de vida que amparaba incluía un ahorro garantizado pensado para financiar educación o proyectos de una persona menor de edad, es decir, que cubría un ahorro para educación más que una protección por fallecimiento.
+
+Así como también hizo referencia a la consulta electrónica de una plataforma de inteligencia artificial para establecer que “el producto del ahorro en el seguro educativo GNP está diseñado y promovido para que el ahorro coincida con la edad en que el hijo o hija inicie universidad y postgrado” (folios 83 reverso y 84).
+
+Todo ello sin esbozar algún tipo de razonamiento tendente a justificar por qué consideraba que estaba facultada para acudir a esas fuentes de información pese a que la parte recurrente no las ofreció como prueba en su escrito de agravios. Tampoco hizo referencia a la modalidad bajo la cual se invocaban esos datos, esto es, como un hecho notorio o como el resultado de una búsqueda que consideró necesaria para resolver el asunto a fin de establecer la definición y alcances del seguro de vida amparado en la mencionada póliza.
+
+Es más, la responsable omitió por completo citar en su resolución las páginas de internet de las cuales obtuvo esos datos, como para que las partes estuvieran en condiciones de corroborar la veracidad de la información que invocó.
+
+Y si bien se tiene presente que la inteligencia artificial es una herramienta que puede ser utilizada por los órganos jurisdiccionales para facilitar el dictado de sus resoluciones, ello no implica que deban obviarse las reglas procedimentales ni que puedan desatenderse las cargas probatorias y la forma en la cual debe analizarse la litis en una segunda instancia.
+
+Sobre todo, cuando en el particular el dato tomado en cuenta por la autoridad responsable para emitir su resolución no se citó con la finalidad de facilitar o establecer la mecánica de la cuantificación de una prestación o el cálculo de un concepto que debía liquidar, sino que la información que obtuvo a través de fuentes de internet le permitió concluir una cuestión que no quedó plenamente establecida en la primera instancia, a saber, que la naturaleza del seguro de vida amparado en la póliza ******** era la de una cuenta de ahorro y, por tanto, debía entenderse contenida en las cláusulas quinta y décima tercera del convenio que dilucidó el juicio natural.
+
+De ahí que pueda afirmarse, como lo hizo la quejosa en sus conceptos de violación, que la responsable vulneró en su perjuicio la garantía de legalidad, pues sin emitir algún tipo de justificación de manera fundada y motivada, tomó en consideración información no desahogada en primera instancia para resolver el recurso de apelación, con lo cual se vulneraron las reglas del trámite de la alzada y el principio de conguencia por pronunciarse sobre temas ajenos a los que fueron propuestos en el escrito de agravios, en el cual solamente se ofreció como prueba un comprobante de pago expedido por una institución educativa.
+
+Máxime, cuando se tiene que el uso de la inteligencia artificial en las resoluciones jurisdiccionales implica la satisfacción de una serie de requisitos que permitan a las partes tener la certeza de que la información obtenida se manejó de manera ética y con un enfoque de derechos humanos, los cuales, en el particular, fueron desatendidos por la autoridad responsable.
+
+Se invoca como apoyo, la jurisprudencia II.2o.C. J/2 K (12a.), sustentada por el Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito[16], de rubro y texto siguientes:
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+Hechos: En diversos recursos de queja y de revisión en incidentes de suspensión interpuestos contra decisiones de Juzgados de Distrito en amparo indirecto, este Tribunal Colegiado de Circuito empleó herramientas de inteligencia artificial para calcular el monto de una garantía. Al tratarse de una práctica innovadora en procesos jurisdiccionales resultó necesario, bajo un ejercicio de autocontención, definir los parámetros para la aplicación ética y responsable de la inteligencia artificial.
+
+Criterio jurídico: La utilización de herramientas de inteligencia artificial en procesos jurisdiccionales con una perspectiva de derechos humanos, ética y responsable, exige que las personas juzgadoras observen como elementos mínimos los principios de: a) proporcionalidad e inocuidad; b) protección de datos personales; c) transparencia y explicabilidad; y d) supervisión y decisión humanas.
+
+Justificación: Ante la ausencia de regulación específica para el uso de herramientas de inteligencia artificial las personas juzgadoras deben hacer un ejercicio de autocontención adoptando lineamientos para su aplicación responsable con perspectiva de derechos humanos.
+
+Para ello pueden tomar como referencia los esfuerzos de regulación a nivel internacional, como las Directrices Éticas para una Inteligencia Artificial Fiable del Grupo de expertos de alto nivel sobre inteligencia artificial creado por la Comisión Europea; el Reglamento del Parlamento Europeo del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial; y la Recomendación sobre la ética de la inteligencia artificial de la UNESCO y sus principios éticos.
+
+Dichas referencias permiten adoptar mejores prácticas para la administración de justicia al introducir innovación tecnológica para una gobernanza administrativa judicial, preservando el núcleo de la función jurisdiccional sin afectar los derechos procesales de las partes.
+
+Para ello, cuando utilicen herramientas de inteligencia artificial las personas juzgadoras deben cumplir con los siguientes elementos mínimos: a) la proporcionalidad e inocuidad exige que las herramientas de inteligencia artificial se utilicen únicamente en la medida necesaria y adecuada para alcanzar un fin legítimo, como por ejemplo, facilitar razonamientos numéricos sin que se alcance al razonamiento jurídico en la interpretación o aplicación de las normas; b) deben emplearlas de manera que no se comprometa la protección de datos del expediente judicial; c) la transparencia y explicabilidad imponen que la persona juzgadora no sólo informe que utiliza herramientas de inteligencia artificial, sino que exponga la metodología, los datos empleados y la forma en que se arribó al resultado, a fin de permitir que el procedimiento sea auditado y comprendido por las partes y órganos revisores; y d) la supervisión y la decisión humanas aseguran que la tecnología opere como auxiliar y no como sustituto, manteniendo la deliberación y decisión en el ámbito estrictamente jurisdiccional.
+
+En diverso orden, también asiste razón a la parte quejosa cuando afirma que la autoridad responsable incurrió en una contradicción al emitir el acto reclamado.
+
+Aquí debe recordarse que la finalidad del incidente promovido por ****** ******** ******* , consistió en obtener la firma de la quejosa para que le autorizara acceder a los recursos amparados en el seguro de vida correspondiente a la póliza ********* debido a que ambos aparecían como asegurados.
+
+Lo anterior pretendió sustentarse en las cláusulas quinta y décimo tercera del convenio que dilucidó el sumario natural, las cuales fueron referenciadas en el antecedente 1 y cuya lectura le permitió al magistrado responsable establecer en la resolución reclamada que las partes acordaron que “quedara en exclusiva propiedad de ****** ******** *******, cualquier cuenta de inversión, de ahorro y fondos de ahorro para el retiro cuyo titular fuera éste…” (folios 81 reverso y 82).
+
+Tema sobre el cual este Juzgado no estima necesario emitir mayor pronunciamiento, pues además de que no fue controvertido en la presente instancia constitucional, se considera adecuada la forma en que la responsable determinó los alcances de dichas cláusulas.
+
+Luego, el magistrado estableció que, contrario a lo resuelto en primera instancia, la existencia de la mencionada póliza debía darse por sentada a partir de su exhibición en copia simple y lo manifestado por la quejosa al desahogarse la prueba confesional a su cargo, donde reconoció que pese a no recordar el número de póliza, indicó que fue contratada por ambos litigantes, pues los dos hicieron aportaciones para su pago y, por tanto, le correspondía a cada uno la mitad de los fondos amparados, tan es así que resultaba necesaria su firma para autorizar la entrega del recurso.
+
+La valoración de esta información le permitió al magistrado concluir que la quejosa reconoció que la póliza ******** en comento se trataba de la misma cuya firma de autorización le había solicitado su contraparte, por lo cual, atendiendo a que su naturaleza era la de una cuenta de ahorro para el pago de la educación del hijo de los litigantes (en los términos que quedó establecido a partir de la información obtenida de fuentes de internet e inteligencia artificial), debía entenderse dentro de aquellos rubros que de conformidad con las cláusulas quinta y décimo tercera del convenio, las partes acordaron que corresponderían a ****** ******** ********
+
+Conclusión que se estima desacertada.
+
+De inició, porque contrario a lo afirmado por la autoridad responsable, no existen elementos suficientes que permitan identificar que la póliza ******** materia de controversia, se trata de la misma cuya existencia reconoció la parte quejosa al desahogar la prueba confesional.
+
+Ello es así, porque la copia exhibida por el actor incidentista respecto a dicho documento, pone de relieve que el beneficiario es ********* ******** ***** , hijo de ambas partes, pero que el único asegurado por el 100% de la totalidad de los recursos se trata de ****** ******** ******* (folio 1044)
+
+De esta manera, no hay forma de establecer que tal producto financiero resulte ser el mismo que la quejosa reconoció haber contratado junto a su contraparte, pues ambos litigantes, tanto en la demanda incidental como al absolver posiciones, reconocieron que el contrato de seguro que suscribieron de manera conjunta se trataba de uno en el cual aparecían por partes iguales como asegurados.
+
+De ahí que las pruebas desahogadas en el incidente de origen, en realidad, resultan insuficientes para establecer que la póliza en comento se trate de la misma que el promovente ****** ******** ******* indicó en su demanda.
+
+Máxime, cuando se tiene que la peticionaria negó que el contrato que suscribió con su contraparte hubiese tenido como finalidad ahorrar recursos para garantizar el pago de los estudios universitarios de su hijo, sino que simplemente refirió que se trataba de un seguro de vida contratado por ambos.
+
+Lo que lejos de generar certeza de la coincidencia entre el documento referido por la peticionaria y la póliza ********, establece aún más incertidumbre en cuanto a que se trate del mismo documento, como lo concluyó la autoridad responsable.
+
+Pese a ello, aun si se considerara que se trataba del mismo contrato, debe señalarse que, contrario a lo asumido por la autoridad responsable, resultaría inviable ubicarlo dentro de aquellos que las partes pactaron en las cláusulas quinta y décimo tercera del convenio, corresponderían de manera exclusiva a ****** ******** *******.
+
+Ello es así, en virtud de que de acuerdo con tales porciones del convenio, al mencionado ****** le correspondería la totalidad de los recursos amparados en “cualquier cuenta de inversión, de ahorro y fondos de ahorro para el retiro cuyo titular fuera éste…”. Así lo dejó sentado la autoridad responsable en la resolución reclamada.
+
+De ahí que al concluir que la póliza ******** constituía un seguro de vida contratado por ambos litigantes, como bien lo afirma la parte quejosa en sus conceptos de violación, resulta contradictorio que la responsable considerara que los recursos que amparaba debían corresponderle en exclusiva al actor incidentista en los términos de las referidas cláusulas, cuyos alcances cubrían, en los precisos términos en que lo fijó el propio magistrado, solamente las cuentas de ahorro, inversión y fondos de ahorro para el retiro de los que fuera titular ****** ******** ********
+
+Así, válidamente puede afirmarse que con los elementos probatorios desahogados en el incidente del que derivó la interlocutoria apelada, el magistrado responsable no estuvo en condiciones de determinar en la forma en que lo hizo, que la naturaleza del contrato correspondiente a la póliza ******** correspondía a la de una cuenta de ahorro cuyo titular era el actor incidentista, a fin de condenar a la quejosa a entregarle la firma de autorización correspondiente para acceder a los recursos amparados en ella.
+
+Por lo cual, lo correcto era dejar a salvo el derecho de las partes para dilucidar su conflicto en la vía y forma que consideraran convenientes (tal como estableció la autoridad de primera instancia en la resolución apelada), pues en el presente asunto no operaba la suplencia de la queja en la apelación por no estar inmiscuidos intereses de menores o personas incapacitadas.
+
+Sin que resultara relevante determinar si el contrato de seguro amparado con dicha póliza consistía en garantizar el pago de la educación universitaria de ********* ******** ***** , hijo ambos litigantes, dado que dicho rubro fue pactado en una cláusula diversa que no fue materia de estudio en la resolución reclamada.
+
+Bajo tales condiciones, al no cumplir el acto reclamado con los requisitos constitucionales antes destacados, previstos en los artículos 14 y 16 de la Carta Magna; debe concederse el amparo y la protección de la Justicia Federal, para los efectos que se precisarán en el siguiente considerando.
+
+Determinación que se hace extensiva a las consecuencias de la resolución de alzada reclamada de manera destacada, al controvertirse solamente en vía de consecuencia.
+
+SÉPTIMO. Efectos del amparo. De conformidad con el artículo 77 de la Ley de Amparo, se precisa que los efectos de la protección constitucional son para que la autoridad responsable, Magistrado de la Tercera Sala Civil del Supremo Tribunal de Justicia del Estado de Guanajuato, en el plazo de CINCO DÍAS hábiles, contado a partir de que se le notifique la firmeza de la presente resolución, proceda en los términos siguientes:
+
+1. Deje insubsistente la resolución de veintinueve de agosto de dos mil veinticinco, dictada en el toca ******** de su estadística, mediante la cual se modificó la interlocutoria que dilucidó el incidente de ejecución de convenio derivado del juicio oral ordinario familiar **********, del Juzgado Tercero Civil de Partido Especializado en Materia Familiar; y,
+
+2. Dicte otra en su lugar en la que, atendiendo a lo señalado en la sexta de las consideraciones, confirme la resolución apelada.
+
+Por lo expuesto y fundado, con apoyo además en los artículos 1º, fracción I, del 73 al 79, y 124 de la Ley de Amparo, se:
+
+RESUELVE:
+
+ÚNICO. LaJusticia de la Unión ampara y protege a ******* ****** ***** ****** , contra los actos y autoridades precisados en el antecedente primero, en correlación con la segunda consideración, por los motivos y para los efectos expuestos en las últimas dos de ellas expresadas en el presente fallo.
+
+Notifíquese personalmente.
+
+Así lo resolvió y firma Paola Patricia Ugalde Almada, Jueza Cuarta de Distrito en el Estado de Guanajuato, el treinta de marzo de dos mil veintiséis, en que las labores de este juzgado lo permitieron, asistida de Felipe de Jesús Irazaba Piña, secretario de Juzgado que autoriza y da fe.
+
+Doy fe.” Firmado electrónicamente.
+
+Lo que comunico para su conocimiento y efectos legales procedentes.
+
+“2026, Año de Margarita Maza Parada.”
+
+León, Guanajuato, a 30 de marzo de 2026
+
+Atentamente Felipe de Jesús Irazaba Piña Secretario del Juzgado Cuarto de Distrito en el Estado de Guanajuato
+
+(Firmado electrónicamente)
+
+Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+[FIRMA ELECTRÓNICA] Firmantes: FELIPE DE JESUS IRAZABA PIÑA
+
+Cadena firma:
+
+FIRMANTE Nombre: PAOLA PATRICIA UGALDE ALMADA Validez: BIEN Vigente
+
+Cadena firma:
+
+El treinta de marzo de dos mil veintiseis, el licenciado Felipe de Jesús Irazaba Piña, Secretario(a), con adscripción en el Juzgado Cuarto de Distrito en el Estado de Guanajuato, hago constar y certifico que en esta versión pública no existe información clasificada como confidencial o reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+FELIPE DE JESUS IRAZABA PIÑA 706a6620636a663200000000000000000000bf3d 15/05/26 18:00:00 PJF - Versión Pública
+[1] Novena Época. Instancia: Primera Sala. Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo XXII, Diciembre de 2005, página: 162.
+[2] Publicada en el Semanario Judicial de la Federación y su Gaceta, Novena Época, tomo XII, agosto de dos mil, en la página 143.
+[3] Localizable en la Gaceta del Semanario Judicial de la Federación. Libro 59, Octubre de 2018, Tomo III, página 2481, con registro digital 2018204,
+[4] Artículo 236. El recurso de apelación tiene por objeto que el tribunal superior confirme, revoque o modifique la sentencia o el auto dictado en la primera instancia, en los puntos relativos a los agravios expresados. En materia familiar, cuando sea en beneficio de menores o incapacitados, deberá suplirse la deficiencia de los conceptos de agravio expresados.
+[5] Artículo 247. En el escrito en que el apelante interponga el recurso, expresará los agravios que le cause la resolución apelada, y los conceptos por los que, a su juicio, se haya cometido, acompañando una copia para el expediente y las necesarias para correr traslado a la contraparte.
+[6] Artículo 258. Sólo tratándose de sentencias o de autos que pongan fin a un incidente, se admitirán a las partes pruebas en la segunda instancia, siempre que se trate de la documental que no hubieren podido rendir en la primera, por no haber tenido conocimiento de ella, y cualquier otra prueba que sea relativa a excepciones posteriores a la audiencia de alegatos de primera instancia o a las anteriores de que no haya tenido conocimiento el interesado antes de dicha audiencia. Las excepciones deberán proponerse y las pruebas ofrecerse en capítulo especial del escrito de agravios, al cual, en su caso, deberá anexarse la documental ofrecida. Artículo 259. Para recibir las pruebas a que se refiere el artículo anterior, se concederá un término de diez días. Artículo 260. Fuera de los casos del artículo 258, el tribunal se concretará, en su fallo, a apreciar los hechos tal como hubieren sido aprobados en la primera instancia.
+[7] Artículo 897. Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial, o por una violación procesal, siempre que se haya expresado como agravio y que haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores, se estime necesario el desahogo de medios probatorios.
+[8] Visible en la Gaceta del Semanario Judicial de la Federación. Libro 5, Enero de 2026, Tomo II, Volumen 1, página 599, con registro digital 2031640.
+[9] Novena Época. Instancia: Primera Sala. Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo XXII, Diciembre de 2005, página: 162.
+[10] Publicada en el Semanario Judicial de la Federación y su Gaceta, Novena Época, tomo XII, agosto de dos mil, en la página 143.
+[11] Localizable en la Gaceta del Semanario Judicial de la Federación. Libro 59, Octubre de 2018, Tomo III, página 2481, con registro digital 2018204,
+[12] Artículo 236. El recurso de apelación tiene por objeto que el tribunal superior confirme, revoque o modifique la sentencia o el auto dictado en la primera instancia, en los puntos relativos a los agravios expresados. En materia familiar, cuando sea en beneficio de menores o incapacitados, deberá suplirse la deficiencia de los conceptos de agravio expresados.
+[13] Artículo 247. En el escrito en que el apelante interponga el recurso, expresará los agravios que le cause la resolución apelada, y los conceptos por los que, a su juicio, se haya cometido, acompañando una copia para el expediente y las necesarias para correr traslado a la contraparte.
+[14] Artículo 258. Sólo tratándose de sentencias o de autos que pongan fin a un incidente, se admitirán a las partes pruebas en la segunda instancia, siempre que se trate de la documental que no hubieren podido rendir en la primera, por no haber tenido conocimiento de ella, y cualquier otra prueba que sea relativa a excepciones posteriores a la audiencia de alegatos de primera instancia o a las anteriores de que no haya tenido conocimiento el interesado antes de dicha audiencia. Las excepciones deberán proponerse y las pruebas ofrecerse en capítulo especial del escrito de agravios, al cual, en su caso, deberá anexarse la documental ofrecida. Artículo 259. Para recibir las pruebas a que se refiere el artículo anterior, se concederá un término de diez días. Artículo 260. Fuera de los casos del artículo 258, el tribunal se concretará, en su fallo, a apreciar los hechos tal como hubieren sido aprobados en la primera instancia.
+[15] Artículo 897. Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial, o por una violación procesal, siempre que se haya expresado como agravio y que haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores, se estime necesario el desahogo de medios probatorios.
+[16] Visible en la Gaceta del Semanario Judicial de la Federación. Libro 5, Enero de 2026, Tomo II, Volumen 1, página 599, con registro digital 2031640.
+PJF - Versión Pública

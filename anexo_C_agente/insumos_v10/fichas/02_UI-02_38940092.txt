@@ -1,0 +1,687 @@
+UNIDAD: UI-02
+SENTENCIA: 38940092
+ÓRGANO: Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito
+FECHA: 2025-07-31
+TIPO DE ASUNTO: Queja
+AVISO: Uso institucional UI-02 (11 sentencias): codifica el método. El resultado y el recálculo de cada sentencia se registran aparte (conteo/usos_metodo_sentencias.csv).
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+• Solución del tribunal. La sentencia modifica el monto reduciendo la garantía. Además, se aportan parámetros para el uso de la inteligencia artificial como auxiliar para realizar cálculos aritméticos y los elementos mínimos para su uso ético y responsable con perspectiva de derechos humanos.
+
+Al tomar en cuenta datos objetivos para su cálculo y con el apoyo ESTUDIO DE auxiliar de inteligencia artificial este III. 11-34 FONDO Tribunal llegó a un monto menor que el que fijó al resolutor federal.
+
+• Consideraciones sobre Inteligencia artificial aplicada a procedimientos jurisdiccionales (apartado IV.2)
+
+• Explicación metodológica del uso de la inteligencia artificial en el caso concreto (apartado IV.3)
+
+28. Ahora bien, dado el avance de las nuevas tecnologías y las tendencias emergentes en la justicia digital, este Tribunal Colegiado encuentra en la inteligencia artificial aplicada una herramienta innovadora (no obligatoria) no sólo útil para automatizar tareas administrativas, sino que también puede integrarse para facilitar el razonamiento numérico dentro de labores jurisdiccionales.
+
+IV.2 Inteligencia artificial aplicada a procesos
+
+30. En primer lugar, ante la falta de regulación del uso de la inteligencia artificial en procesos jurisdiccionales, este tribunal considera conveniente tomar en cuenta que el Grupo Independiente de Altos Expertos de Alto Nivel Sobre Inteligencia Artificial, creado por la Comisión Europea en junio de dos mil dieciocho, elaboró el documento “DIRECTRICES ÉTICAS PARA UNA INTELIGENCIA ARTIFICIAL FIABLE[12]”, indicando que la fiabilidad tiene tres componentes, esto es, la inteligencia artificial debe ser lícita, ética y robusta.
+
+prevención del daño c) equidad y d) explicablidad. También estableció que, apoyado en esos cuatro principios éticos el uso de la inteligencia artificial fiable debe cumplir siete requisitos clave: 1.
+
+32. Con las bases anteriores se expidió el Reglamento del Parlamento Europeo del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial, también conocida como Ley Europea de Inteligencia Artificial[13].
+
+[13] Disponible en: https://eur-lex.europa.eu/eli/reg/2024/1689/oj 33. Al respecto, en los esfuerzos por regular el uso de la inteligencia artificial, se advierte que existen dos vertientes de sistema, a saber: 1. El dirigido a la asistencia jurídica y 2. La de un prototipo orientado a una posible sustitución del juez, ya sea para la investigación e interpretación de hechos y de la ley; o para la aplicación del Derecho a un conjunto concreto de hechos.
+
+34. La vertiente 1, dirigida a la asistencia jurídica, constituye lo que se ha denominado “Jurimetría”, que es el proceso a través del cual la inteligencia artificial apoya y auxilia al órgano jurisdiccional para la elaboración y cálculo de porcentajes, liquidaciones, garantías o algún otro cálculo que requiera el uso de variables y constantes, en donde se parte de la base de que no se proporcionan datos sensibles, sino únicamente se indican fórmulas y las variables para que la inteligencia artificial realice en auxilio del razonamiento humano, los cálculos correspondientes.
+
+35. Bajo ese contexto, este Tribunal Colegiado en un ejercicio de autocontención acude al enfoque ético y responsable de la utilización de la inteligencia artificial, basado en derechos humanos establecidos por la UNESCO[14] tomando en consideración que la ética es una base dinámica para la evaluación y la orientación normativas de las tecnologías de inteligencia artificial. Así, contempló diez principios básicos: Proporcionalidad y no causar daño, seguridad y protección, equidad y no discriminación, sostenibilidad, derecho a la privacidad y protección de datos, supervisión y decisión humana, transparencia y explicabilidad, responsabilidad y rendición de cuentas, sensibilización y educación, gobernanza adaptativa y colaboración entre múltiples partes interesadas.
+
+[14] Al respecto consultar: Ética de la inteligencia artificial | UNESCO. Consultado el 28 de Julio de 2025 36. Con los elementos anteriores, este Tribunal Colegiado arriba a la conclusión de que tratándose de procesos jurisdiccionales, el uso ético y responsable de la inteligencia artificial con perspectiva de derechos humanos obliga a las personas juzgadoras a observar cuando menos los siguientes principios:
+
+b) Derecho a la intimidad y protección de datos. Para el uso de la inteligencia artificial en este caso no se introducen ni se comprometen datos personales del expediente, sino que se utilizan valores numéricos contenidos en bases de datos públicos.
+
+[15] En términos de la “Recomendación sobre la ética de la inteligencia artificial” de la UNESCO de 23 de noviembre de 2021 el principio de proporcionalidad se describe en los siguientes términos: “La decisión de utilizar sistemas de IA y la elección del método de IA deberían justificarse de las siguientes maneras: a) el método de IA elegido debería ser adecuado y proporcional para lograr un objetivo legítimo determinado; b) el método de IA elegido no debería vulnerar los valores fundamentales enunciados en el presente documento, en particular, su utilización no debe constituir una violación o un abuso de los derechos humanos;
+
+y c) el método de IA elegido debería ser adecuado al contexto y basarse en fundamentos científicos rigurosos. En los casos en que se entienda que las decisiones tienen un impacto irreversible o difícil de revertir o que pueden implicar decisiones de vida o muerte, la decisión final debería ser adoptada por un ser humano”. Disponible en: Recomendación sobre la ética de la inteligencia artificial - UNESCO Biblioteca Digital https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa (párrafo 25).
+
+[16] En términos de la “Recomendación sobre la ética de la inteligencia artificial” de la UNESCO de 23 de noviembre de 2021 el principio de transparencia se describe de la siguiente manera: “La transparencia y la explicabilidad de los sistemas de IA suelen ser condiciones previas fundamentales para garantizar el respeto, la protección y la promoción de los derechos humanos, las libertades fundamentales y los principios éticos. La transparencia es necesaria para que los regímenes nacionales e internacionales pertinentes en materia de responsabilidad funcionen eficazmente. La falta de transparencia también podría mermar la posibilidad de impugnar eficazmente las decisiones basadas en resultados producidos por los sistemas de IA y, por lo tanto, podría vulnerar el derecho a un juicio imparcial y a un recurso efectivo, y limita los ámbitos en los que estos sistemas pueden utilizarse legalmente”. Disponible en: Recomendación sobre la ética de la magistraturas) que la emplee en procesos jurisdiccionales debería dar cuenta de ello, indicando la manera en que se usó, los fines, objetivos y el resultado obtenido. Así, en la presente sentencia se da cuenta de la metodología y procesos empleados como se expone en un apartado posterior.
+
+d) Supervisión y decisión humanas. El uso de la inteligencia artificial en la presente sentencia se utiliza como auxiliar para realizar cálculos sin que comprometa o sustituya la decisión jurisdiccional. Solo aporta elementos para la toma de decisiones.
+
+37. Con base en los principios de proporcionalidad, protección de datos transparencia antes mencionados, este Tribunal Colegiado procede a justificar el uso de la inteligencia artificial. Para ello debe tomarse en cuenta que es una herramienta a nivel operativo y auxiliar, que en este caso no sustituye la labor jurisdiccional , por el contrario, se permite: (a) la reducción de errores humanos en cálculos como intereses moratorios, actualizaciones, compensaciones, daños, entre otros, que no son en estricto sentido propios del razonamiento jurisdiccional; (b) dar transparencia y trazabilidad al exponer cómo se llega al resultado numérico paso a paso; (c) estandarización y consistencia en los precedentes, logrando que los datos objetivos para la toma de decisiones jurisdiccionales se vuelva equitativa; y, desde luego; (d) eficiencia procesal, pues permite que los operadores judiciales centren los recursos en el estudio de la toma de decisiones jurisdiccionales y no en la elaboración de cálculos matemáticos, así como también, brinda herramientas para que los jueces de Distrito motiven las decisiones que tienen
+
+inteligencia artificial - UNESCO Biblioteca Digital https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa (párrafo 37). que ver con los montos de las garantías sin aumentar su carga laboral, lo que a la postre, facilitará la resolución de recursos.
+
+38. Así, la presente sentencia pretende ser un referente y recomendación en la adopción de mejores prácticas de administración de justicia, utilizando la inteligencia artificial de manera ética y responsable para innovar en política judicial, en la gobernanza administrativa judicial, así como participar en la mejora de procesos desde una visión institucional, la cual también es propia de los tribunales de la federación.
+
+IV.3. Diseño de la herramienta de inteligencia artificial
+
+39. Para la cuantificación del monto de garantía conforme a los daños y perjuicios previstos en la jurisprudencia del Pleno y la Primera Sala de la Suprema Corte (antes citadas), este Tribunal Colegiado implementa un procedimiento con uso de inteligencia artificial, tradicionalmente realizado de manera manual por operadores jurisdiccionales, el cual integra datos actualizados del Índice Nacional de Precios al Consumidor, la Tasa de Interés Interbancaria de Equilibrio y el tiempo probable de duración del juicio.
+
+41. Con el objeto de hacer verificable el cálculo del monto de la garantía por daños y perjuicios en supuestos análogos, este tribunal incorpora una herramienta práctica y sencilla basada en inteligencia artificial. Se trata de un prompt[17] orientador (más estandarizado) que, al ser utilizado en modelos de lenguaje como ChatGPT, entre otros, permite realizar el cálculo conforme a la metodología definida por la jurisprudencia P./J. 71/2014 (10a) de la Suprema Corte de Justicia de la Nación.
+
+42. Dicho prompt no contiene valores fijos, pues requiere que el propio operador jurisdiccional ingrese los datos del caso concreto: valor catastral del bien, duración estimada del proceso y demás variables pertinentes. La instrucción ordena acudir a fuentes oficiales (INEGI y Banco de México) para consultar en tiempo real las tasas de inflación y la Tasa de Interés Interbancaria de
+
+[17] Un prompt en inteligencia artificial es una instrucción o texto inicial que se proporciona a un modelo de IA para que genere una respuesta o resultado específico. Es la forma en que los usuarios comunican sus necesidades y deseos a la IA para obtener la información o el contenido deseado.
+
+44. Este método se implementa a través de un prompt estándar que el operador puede utilizar en modelos de lenguaje como ChatGPT, sin necesidad de cálculos manuales complejos. El prompt solicita únicamente tres datos: (i) el valor catastral del bien o bienes sujetos a garantía; (ii) los días promedio de duración del juicio de amparo indirecto y (iii) los días promedio del recurso de revisión, ambos consultados en el portal estadístico del Consejo de la Judicatura Federal[18].
+
+45. Con estos insumos, la herramienta consulta automáticamente las tasas de inflación (INEGI) y TIIE (Banxico), suma los días de ambas instancias, los convierte a meses y aplica las fórmulas jurisprudenciales para determinar los daños, perjuicios y el monto total de la garantía. El prompt es el siguiente:
+
+IV.4. Aplicación de la herramienta de inteligencia artificial
+
+46. Una vez precisado lo anterior, se procede a correr el prompt no sin antes efectuar algunas precisiones sobre los datos de origen. Se tomará como dato objetivo para el cálculo de la garantía y como sustento de ello, el valor catastral que tienen los lotes de terreno litigiosos, y que se contienen en los folios registrales que exhibió la quejosa con la demanda de amparo, los cuales reportan:
+
+50. Así con los datos de entrada (inputs) se corre el prompt en los siguientes modelos de lenguaje grandes (LLMs[19]) más comerciales y que corresponden a ChatGTP, Gemini y Grok. En el entendido en que todas son herramientas, no es necesario usarlas todas (se corren en la presente sentencia para ejemplificar el uso de la herramienta) y pueden usarse indistintamente para la obtención de datos verificables, obteniendo los siguientes resultados:
+
+[20] Consultable en ChatGPT https://chatgpt.com/ • Daños = VC × (Inflación/100) × (Meses/12)
+
+Grok[21]
+
+[21] Consultable en: https://grok.com/chat • Daños = Valor catastral × (Inflación / 100) × (Meses / 12) • Perjuicios = Valor catastral × (TIIE / 100) × (Meses / 12) • Total garantía = Daños + Perjuicios Cálculos para Lote 1 ($605,096.15):
+
+Gemini[22]
+
+[22] Consultable en: https://gemini.google.com/app PASO 5: Tabla de Resultados
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+QUEJA CIVIL: 212/2025
+
+QUEJOSA Y RECURRENTE: ******** * ****** ** ****** ****** ****** **** * ********* ************ *** *** ******** *** ***** * ****** ********* ********* **** DERIVADO DEL JUICIO DE AMPARO INDIRECTO ************* (RELACIONADA CON LA QUEJA CIVIL 211/2025)
+
+Vo. Bo.
+
+Magistrado
+
+MAGISTRADO PONENTE: JUAN JAIME GONZÁLEZ VARAS SECRETARIO: JUAN CARLOS GUERRA ÁLVAREZ
+
+Datos Generales Juez Tercero de Distrito en el Estado Autoridad recurrida de México, con residencia en
+
+Naucalpan de Juárez
+
+23 de enero de 2025 [Auto que fija Auto recurrido garantía en orden con la inscripción registral de la demanda de amparo]
+
+HECHOS RELEVANTES Y/O CONTEXTO Carátula ciudadana
+
+Las albaceas de una sucesión a bienes de una persona presentaron un amparo indirecto para defender dos terrenos que aseguran forman parte de la masa hereditaria al haberse adquirido mediante contratos de compraventa.
+
+Este amparo lo promovió la sucesión a bienes como tercera extraña, ya que busca intervenir en un juicio de usucapión (juicio de prescripción adquisitiva) donde no había sido llamada a participar. El argumento principal que se hace valer es que no se le permitió intervenir en ese juicio.
+
+Una vez admitido el amparo, la sucesión pidió que se notificara al Instituto de la Función Registral del Estado para que se inscribiera la demanda en los folios reales de los terrenos, de modo que cualquier persona que quisiera comprarlos pudiera saber que existe este litigio.
+
+Para permitir esa inscripción, el Juez del conocimiento ordenó que antes se depositara una garantía de cincuenta mil pesos por cada terreno para responder por posibles daños y perjuicios frente a terceros. El monto de la garantía es lo que se reclama en el presente recurso de queja.
+
+PROBLEMA JURÍDICO:
+
+Determinar si el juez federal al establecer el monto de la garantía en orden con la inscripción de la demanda de amparo en los folios reales de los lotes litigiosos, para responder de los daños y perjuicios que esa inscripción cause a terceros, lo hizo de forma fundada y motivada.
+
+DECISIÓN JUDICIAL Queja fundada • ¿Qué pasó? Un juez federal de manera arbitraria y sin justificación alguna fijó el monto de una garantía, la cual era necesaria para inscribir su demanda de amparo en un registro público.
+
+• ¿Qué hace la sentencia? La sentencia utiliza datos verificables (valor catastral, duración probable del juicio, inflación y tasa de interés interbancaria) para determinar un monto, el cual, en este caso concreto resultó menor al fijado arbitrariamente.
+
+• Solución del tribunal. La sentencia modifica el monto reduciendo la garantía. Además, se aportan parámetros para el uso de la inteligencia artificial como auxiliar para realizar cálculos aritméticos y los elementos mínimos para su uso ético y responsable con perspectiva de derechos humanos.
+
+Transmisión aquí Minuto 36:22
+
+Discusión del asunto Sesión pública JURISPRUDENCIA DESTACADA • Jurisprudencia 1a./J. 46/2012 (10a.) “GARANTÍA
+
+PARA LA SUSPENSIÓN DEL ACTO RECLAMADO EN AMPARO INDIRECTO. PLAZO TENTATIVO PARA EL CÁLCULO DEL TIEMPO DE DURACIÓN DEL JUICIO CUANDO SEA NECESARIO PARA FIJAR EL MONTO DE LA CAUCIÓN.”
+
+• Jurisprudencia P./J.71/2014 (10a), de rubro:
+
+“DAÑOS Y PERJUICIOS. FORMA DE FIJAR EL MONTO DE LA GARANTÍA POR ESOS CONCEPTOS AL CONCEDERSE LA SUSPENSIÓN EN EL JUICIO DE AMPARO CUANDO SE RECLAMA UNA CANTIDAD LÍQUIDA”.
+
+• Jurisprudencia 2a./J. 88/2015, de rubro:
+
+“ANOTACIÓN REGISTRAL PREVENTIVA DE LA DEMANDA DE AMPARO INDIRECTO Y DE SU AUTO ADMISORIO. REQUIERE DE PREVIA GARANTÍA BASTANTE PARA REPARAR EL DAÑO E INDEMNIZAR EL PERJUICIO QUE, EN SU CASO, SE CAUSE A TERCEROS”.
+
+ÍNDICE TEMÁTICO
+
+Apartado Criterio y decisión Págs.
+
+Se exponen los antecedentes y los I. ANTECEDENTES argumentos principales hechos valer 5-8 en el recurso de queja.
+
+Este Tribunal Colegiado es II. COMPETENCIA competente 9-10
+
+La interposición del recurso se hizo II. OPORTUNIDAD 10-11 de manera oportuna El juez federal no motivó su decisión al momento de fijar el monto de una garantía.
+
+Al tomar en cuenta datos objetivos para su cálculo y con el apoyo ESTUDIO DE auxiliar de inteligencia artificial este III. 11-34 FONDO Tribunal llegó a un monto menor que el que fijó al resolutor federal.
+
+En consecuencia, se reducir el monto de la garantía y se emite el auto correspondiente.
+
+IV. DECISIÓN Queja fundada 35 QUEJA CIVIL: 212/2025
+
+QUEJOSA Y RECURRENTE: ******** * ****** ** ****** ****** ****** **** * ********* ************ *** *** ******** *** ***** * ****** ********* ********* **** DERIVADO DEL JUICIO DE AMPARO INDIRECTO ************* (RELACIONADA CON LA QUEJA CIVIL 211/2025)
+
+Vo. Bo.
+
+Magistrado
+
+MAGISTRADO PONENTE: JUAN JAIME GONZÁLEZ VARAS SECRETARIO: JUAN CARLOS GUERRA ÁLVAREZ
+
+Toluca, Estado de México. El Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito en la sesión virtual de veintinueve de julio de dos mil veinticinco, emite la siguiente:
+
+S E N T E N C I A
+
+Mediante la cual se resuelve el recurso de queja 212/2025, interpuesto por la ******** * ****** ** ****** ****** ****** **** * ********* ************ *** *** ******** *** ***** * ****** ********* ********* ***** *** ******** ** ** ***** ********** ****** (en adelante parte quejosa, recurrente o ********** ****** la sucesión a bienes) en contra del auto de veintitrés de enero del dos mil veinticinco, dictado por el Juez Tercero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, en el juicio de amparo indirecto *************.
+
+El problema jurídico que este Tribunal Colegiado debe resolver consiste en determinar si el juez federal al establecer el monto de la garantía en orden con la inscripción de la demanda de amparo en los folios reales de los lotes litigiosos, para responder de los daños y perjuicios que esa inscripción cause a terceros, lo hizo de forma fundada y motivada, y en su caso dilucidar si asiste razón a la recurrente en cuanto aduce que dicho monto resulta excesivo.
+
+I. ANTECEDENTES Y TRÁMITE
+
+1. Juicio de origen. De la demanda de amparo se aprecia que la sucesión quejosa promovió una demanda de amparo en la cual se ostentó como tercera extraña típica con legitimación, respecto del juicio de usucapión ********, del índice del Juzgado Cuarto Civil del Distrito Judicial de Tlalnepantla, con residencia en Naucalpan de Juárez, Estado de México, seguido por **** ****** *********** ****** en contra de ***** ********* ****** , pues estima que debió ser llamada a dicho procedimiento.
+
+2. Diligencia controvertida. En la demanda constitucional se reclamó la falta de llamamiento al juicio de usucapión ********, del índice del Juzgado Cuarto Civil del Distrito Judicial de Tlalnepantla, con residencia en Naucalpan de Juárez, Estado de México.
+
+3. Amparo indirecto. La sucesión a bienes promovió un juicio de amparo indirecto, turnado al Juzgado Tercero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, registrándose con el número *************. En el amparo se señaló: • Autoridad responsable: Juez Cuarto Civil del Distrito Judicial de Tlalnepantla, con residencia en Naucalpan de Juárez, Estado de México • Acto reclamado: Falta de llamamiento al juicio de usucapión ********, del índice del Juzgado Cuarto Civil del Distrito Judicial de Tlalnepantla, con residencia en Naucalpan de Juárez, Estado de México.
+
+4. En los conceptos de violación, la sucesión quejosa sostuvo esencialmente que se viola su derecho fundamental de audiencia, porque no se le llamó al juicio de usucapión reclamado, a pesar de que ella es propietaria de los inmuebles litigados así como su titular catastral.
+
+5. Determinación recurrida. Una vez que se admitió a trámite la demanda constitucional, la sucesión quejosa por escrito de catorce de enero de dos mil veinticinco, solicitó que se girara oficio al Instituto de la Función Registral para que se sirviera inscribir la demanda de amparo en los folios reales correspondientes a los inmuebles, a efecto de terceras personas se enteraran de la demanda, en caso de que pretendieran adquirir los lotes.
+
+6. A dicha petición recayó el auto de veintitrés de enero de dos mil veinticinco, en el que el juez federal determinó que previo a que se girara el oficio solicitado para la inscripción de la demanda, la quejosa debía exhibir dentro del plazo de tres días, una garantía de $50,000.00 por cada uno de los folios registrales en los que se solicita se realizara la inscripción. Lo anterior con sustento en la tesis 2a./J. 88/2015 (registro digital 2009542) de rubro: “ANOTACIÓN REGISTRAL PREVENTIVA DE LA DEMANDA
+
+DE AMPARO INDIRECTO Y DE SU AUTO ADMISORIO. REQUIERE
+
+DE PREVIA GARANTÍA BASTANTE PARA REPARAR EL DAÑO E INDEMNIZAR EL PERJUICIO QUE, EN SU CASO, SE CAUSE A
+
+TERCEROS”[1].
+
+7. Interposición del recurso de queja. En contra de la anterior determinación[2], la sucesión a bienes interpuso recurso de queja, esto, en contra del auto de veintitrés de enero del dos mil veinticinco, dictado en el amparo indirecto *************. En dicho recurso, la inconforme sostiene esencialmente en los agravios, que el juez federal no fundó ni motivó el monto de la garantía que fijó, para que la demanda de amparo se inscriba en los folios reales correspondientes a los inmuebles defendidos en el amparo. A detalle, sostiene que:
+
+• El auto recurrido es contrario a derecho, porque el juez federal, al fijar el monto de la garantía para que la demanda de amparo fuera inscrita en los folios registrales de los inmuebles litigiosos —con el fin de responder por los daños y perjuicios que dicha inscripción pudiera ocasionar a terceros—, estableció una cantidad considerada excesiva
+
+1
+
+Décima Época. Segunda Sala. Gaceta del Semanario Judicial de la Federación, Libro 20, Julio de 2015, Tomo I, Pág. 703. Cuyo texto es el siguiente:
+
+“De acuerdo con la ejecutoria derivada de la contradicción de tesis 53/2006-SS (*), que dio origen a la jurisprudencia 2a./J. 67/2006 (**), de la Segunda Sala de la Suprema Corte de Justicia de la Nación y a lo dispuesto en los artículos 132 de la Ley de Amparo, así como 384 y 387 del Código Federal de Procedimientos Civiles, de aplicación supletoria a ésta, debe exigirse garantía bastante para reparar el daño e indemnizar el perjuicio que, en su caso, se cause a terceros, previo a la anotación registral preventiva de la demanda de amparo indirecto y de su auto admisorio en el Registro Público de la Propiedad del lugar en el que se encuentre el inmueble materia de la controversia, ya que tal medida, además de sus efectos publicitarios, en atención a los fines de la propia anotación preventiva, esto es, que se conozca que el inmueble materia de la controversia está sujeto a litigio, podría causar daños y perjuicios a la contraparte de la solicitante de la medida, en tanto tal conocimiento podría inhibir a los interesados de realizar alguna transacción respecto del inmueble de que se trata”.
+
+[2] Las consideraciones en que se sustentó el auto recurrido constan en el expediente electrónico del juicio de amparo indirecto *************, que por razones de obviedad y economía procesal no se transcriben, pero obran reproducidos y a la vista en el Sistema Integral de Seguimiento de Expedientes. de $50,000.00 (cincuenta mil pesos 00/100 moneda nacional) por cada uno de los inmuebles.
+
+• El juez omitió señalar los elementos objetivos que tomó en cuenta para fijar dicho monto, tales como la temporalidad del trámite del juicio de amparo, el valor catastral, fiscal o comercial de los inmuebles o los frutos que pudieran generar; además, argumenta que tampoco realizó operación aritmética alguna, es decir, que no motivó su decisión.
+
+• El juez federal para fijar el monto de la garantía debió tomar como base un tercio del precio que supuestamente el tercero interesado pagó en el contrato de compraventa a que hizo referencia en la demanda de usucapión, de $150,000.00 (ciento cincuenta mil pesos 00/100, moneda nacional) por los dos lotes de terreno, y ponderar que los inmuebles son lotes de terreno baldíos.
+
+• Le asiste el criterio cuyo rubro es: “SUSPENSIÓN EN AMPARO INDIRECTO. LA GARANTÍA PARA QUE SURTA EFECTOS CONTRA LA ORDEN DE ESCRITURACIÓN Y ENTREGA DE UN INMUEBLE ADJUDICADO EN REMATE DEBE FIJARSE EN FUNCIÓN DE LOS FRUTOS QUE PUDIERA PRODUCIR EL BIEN”[3].
+
+8. Turno. Por razón de turno, correspondió conocer de dicho recurso a este Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito, el cual, mediante auto de Presidencia de diecisiete de junio de dos mil veinticinco, fue admitido, por lo que se ordenó turnar los autos al Magistrado Juan Jaime González Varas para la elaboración del proyecto de resolución.
+
+[3] Registro Digital: 2029495. Instancia: Plenos Regionales. Undécima Época.
+
+Materia(s): Civil, Común. Tesis: PR.A.C.CS.J/2c (11a.) Fuente: Gaceta del Semanario Judicial de la Federación. Libro 43, Tomo II, Noviembre de 2024, página 715. Tipo: Jurisprudencia.
+
+II. COMPETENCIA
+
+9. Este Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito es legalmente competente para conocer y resolver el presente recurso de queja, de conformidad con lo dispuesto en los artículos 97 fracción I, inciso e)[4], y 98 de la Ley de Amparo; 35, fracción III, de la Ley Orgánica del Poder Judicial de la Federación publicada en el Diario Oficial de la Federación el veinte de diciembre de dos mil veinticuatro[5]; y, el punto Tercero, Apartado II, del Acuerdo General 3/2013[6], publicado en el Diario Oficial de la Federación el quince de febrero de dos mil trece, emitido por el Pleno del Consejo de la Judicatura Federal.
+
+[4] Artículo 97. El recurso de queja procede:
+
+I. En amparo indirecto, contra las siguientes resoluciones:
+
+(..)
+
+e) Las que se dicten durante la tramitación del juicio, o del incidente de suspensión, que no admitan expresamente el recurso de revisión y que por su naturaleza trascendental y grave puedan causar perjuicio a alguna de las partes, no reparable en la sentencia definitiva; así como las que con las mismas características se emitan después de dictada la sentencia en la audiencia constitucional;
+
+[5] Artículo 35. Con las salvedades a que se refiere el artículo 16 de esta Ley, son competentes los Tribunales Colegiados de Circuito para conocer: III. Del recurso de queja en los casos y condiciones establecidas en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+[6] TERCERO. La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
+
+II. SEGUNDO CIRCUITO: Los tribunales colegiados en materia penal, en materia administrativa, en materia civil y en materia de trabajo, es la establecida para los juzgados de Distrito con sede en Toluca y Naucalpan de Juárez, Estado de México; y en cuanto a los tribunales colegiados con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad.
+
+Para los tribunales unitarios con residencia en Toluca, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente. El tribunal unitario con residencia en Nezahualcóyotl, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito en el Estado de México, con sede en la referida ciudad. 10. Lo anterior, debido a que se interpuso contra un auto dictado por la titular de un juzgado de distrito que tiene su residencia en el ámbito territorial en que este órgano colegiado ejerce jurisdicción.
+
+III. OPORTUNIDAD
+
+11. El término para la interposición de la queja, que es de cinco días, se encuentra previsto en el artículo 98 de la Ley de Amparo[7];
+
+mismo que debe computarse conforme a lo dispuesto en el numeral 22 de la propia ley[8], del cual se advierte que los plazos contarán por días hábiles y comenzarán a correr a partir del día siguiente en que surta efectos la notificación.
+
+12. En las constancias del amparo indirecto *************, del cual deriva el presente recurso de queja, se advierte que el auto impugnado fue notificado electrónicamente el viernes veinticuatro de enero de dos mil veinticinco, por lo que surtió efectos en esa data.
+
+13. En consecuencia, el plazo de cinco días para la interposición del recurso transcurrió del veintisiete al treinta y uno de enero de dos mil veinticinco, sin contar el veinticinco y veintiséis de enero de esa anualidad, los cuáles fueron inhábiles por haber sido sábado y domingo respectivamente. Lo anterior, con fundamento en el artículo 19 de la Ley de Amparo y el diverso 229 de la Ley Orgánica del Poder Judicial de la Federación[9].
+
+[7] Artículo 98. El plazo para la interposición del recurso de queja es de cinco días, con las excepciones siguientes:
+
+I. De dos días hábiles, cuando se trate de suspensión de plano o provisional; y II. En cualquier tiempo, cuando se omita tramitar la demanda de amparo.
+
+[8] Artículo 22. Los plazos se contarán por días hábiles, comenzarán a correr a partir del día siguiente al en que surta sus efectos la notificación y se incluirá en ellos el del vencimiento, inclusive para las realizadas en forma electrónica a través del uso de la Firma Electrónica, salvo en materia penal, en donde se computarán de momento a momento.
+
+Correrán para cada parte desde el día siguiente a aquél en que para ella hubiese surtido sus efectos la notificación respectiva.
+
+[9] Artículo 19. Son días hábiles para la promoción, substanciación y resolución de los juicios de amparo todos los del año, con excepción de los sábados y domingos, 14. Por tanto, si el recurso de queja se interpuso electrónicamente el treinta de enero del dos mil veinticinco, como consta en el escrito de agravios, ello ocurrió dentro del plazo señalado en el precepto 98 de la Ley de Amparo, y por ende de forma oportuna.
+
+IV. ESTUDIO
+
+15. La litis en el presente asunto, se constriñe a decidir si el juez federal al establecer el monto de la garantía en orden con la inscripción de la demanda de amparo en los folios reales de los lotes litigiosos, lo hizo de forma fundada y motivada, y en su caso dilucidar si asiste razón a la recurrente en cuanto aduce que dicho monto resulta excesivo.
+
+16. Los agravios se estiman fundados en cuanto el juez de Distrito no motivó el monto de la garantía, pues lo fijó sin explicación metodológica, parámetro objetivo o referencia alguna.
+
+17. En principio se destaca que el juez federal en el auto recurrido determinó, que previo a que se girara el oficio solicitado para la inscripción registral de la demanda de amparo, la sucesión quejosa debía exhibir dentro del plazo de tres días, una garantía de $50,000.00 (cincuenta mil pesos 00/100, moneda nacional) por cada uno de los folios registrales en los que se solicita se realizara la inscripción.
+
+uno de enero, cinco de febrero, veintiuno de marzo, uno y cinco de mayo, catorce y dieciséis de septiembre, doce de octubre, veinte de noviembre y veinticinco de diciembre, así como aquellos en que se suspendan las labores en el órgano jurisdiccional ante el cual se tramite el juicio de amparo, o cuando no pueda funcionar por causa de fuerza mayor.
+
+Artículo 229. En los órganos del Poder Judicial de la Federación, se considerarán como días inhábiles los sábados y domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 14 y 16 de septiembre y 20 de noviembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la ley. 18. De lo expuesto se aprecia que tal y como lo expone la recurrente, el resolutor federal para fijar la garantía a efecto de responder por los daños y perjuicios que la inscripción de la demanda de amparo pudiera ocasionar a terceros, en $50,000.00 (cincuenta mil pesos 00/100, moneda nacional) por cada uno de los folios registrales, o sea por cada lote de terreno, no motivó dicha decisión, pues no expuso elemento alguno que le permitiera arribar a dicho monto.
+
+19. Para determinar lo conducente, este Tribunal Colegiado estructurará la presente sentencia en los siguientes ejes fundamentales:
+
+• Elementos por considerar para el cálculo de una garantía en el juicio de amparo conforme a la jurisprudencia (apartado IV.1)
+
+• Consideraciones sobre Inteligencia artificial aplicada a procedimientos jurisdiccionales (apartado IV.2)
+
+• Explicación metodológica del uso de la inteligencia artificial en el caso concreto (apartado IV.3)
+
+• Aplicación de la herramienta al caso concreto (apartado IV.4).
+
+20. Los aspectos relatados que conducen a declarar el presente recurso de queja fundado se desarrollan a continuación:
+
+* * *
+
+IV.1 Elementos por considerar para el cálculo de la
+
+garantía conforme a la jurisprudencia
+
+21. En principio, para fijar el monto de la garantía a efecto de responder por los daños y perjuicios que la inscripción de la demanda de amparo pudiera ocasionar a terceros, debe tomarse en cuenta que la inconforme solicitó al juez federal dicha inscripción con el objetivo de que terceras personas se enteraran de la demanda en caso de que pretendieran adquirir los lotes.
+
+22. En esos términos, la propia quejosa recurrente en el presente recurso de queja vinculó la pretendida inscripción de la demanda de amparo con inhibir la posible celebración de alguna compraventa en relación con los dos lotes de terreno litigiosos.
+
+23. Sobre el tema, la Segunda Sala de la Suprema Corte de Justicia de la Nación emitió la jurisprudencia 2a./J. 88/2015 (registro digital 2009542) de rubro y texto siguientes:
+
+“ANOTACIÓN REGISTRAL PREVENTIVA DE LA DEMANDA DE AMPARO INDIRECTO Y DE SU AUTO ADMISORIO. REQUIERE DE PREVIA GARANTÍA BASTANTE PARA REPARAR EL DAÑO E INDEMNIZAR EL PERJUICIO QUE, EN SU CASO, SE
+
+CAUSE A TERCEROS”[10].
+
+De acuerdo con la ejecutoria derivada de la contradicción de tesis 53/2006-SS (*), que dio origen a la jurisprudencia 2a./J. 67/2006 (**), de la Segunda Sala de la Suprema Corte de Justicia de la Nación y a lo dispuesto en los artículos 132 de la Ley de Amparo, así como 384 y 387 del Código Federal de Procedimientos Civiles, de aplicación supletoria a ésta, debe exigirse garantía bastante para reparar el daño e indemnizar el perjuicio que, en su caso, se cause a terceros, previo a la anotación registral preventiva de la demanda de amparo indirecto y de su auto admisorio en el Registro Público de la Propiedad del lugar en el que se encuentre el inmueble materia de la controversia, ya que tal medida, además de sus efectos publicitarios, en atención a los fines de la propia anotación preventiva, esto es, que se conozca que el inmueble materia de la
+
+[10]Décima Época. Segunda Sala. Gaceta del Semanario Judicial de la Federación, Libro 20, Julio de 2015, Tomo I, Pág. 703. controversia está sujeto a litigio, podría causar daños y perjuicios a la contraparte de la solicitante de la medida, en tanto tal conocimiento podría inhibir a los interesados de realizar alguna transacción respecto del inmueble de que se trata.”
+
+Nota: (*) La parte conducente de la ejecutoria relativa a la contradicción de tesis 53/2006-SS citada, aparece publicada en el Semanario Judicial de la Federación y su Gaceta, Novena Época, Tomo XXIV, julio de 2006, página 491.
+
+(**) La tesis de jurisprudencia 2a./J. 67/2006 citada, aparece publicada en el Semanario Judicial de la Federación y su Gaceta, Novena Época, Tomo XXIII, mayo de 2006, página 278, con el rubro: "ANOTACIÓN REGISTRAL PREVENTIVA DE LA DEMANDA DE AMPARO Y SU AUTO ADMISORIO.
+
+ES POSIBLE DECRETAR ESA MEDIDA CAUTELAR EN EL EXPEDIENTE PRINCIPAL DEL JUICIO DE GARANTÍAS EN LA VÍA INDIRECTA, A PETICIÓN DEL INTERESADO."
+
+24. Del criterio anterior se advierte que la garantía en estos casos debe ser “bastante”; sin embargo, no se aporta una metodología clara. Así, aunque en el caso no se trata de una garantía para la suspensión en amparo ni de una cantidad líquida, se puede acudir de manera orientadora a la jurisprudencia del Pleno de la Suprema Corte de Justicia de la Nación, P./J.71/2014 (10a), de rubro: “DAÑOS Y PERJUICIOS. FORMA DE FIJAR EL MONTO DE
+
+LA GARANTÍA POR ESOS CONCEPTOS AL CONCEDERSE LA
+
+SUSPENSIÓN EN EL JUICIO DE AMPARO CUANDO SE RECLAMA
+
+UNA CANTIDAD LÍQUIDA”[11]. El criterio jurisprudencial es el
+
+siguiente:
+
+“DAÑOS Y PERJUICIOS. FORMA DE FIJAR EL MONTO DE LA GARANTÍA POR ESOS CONCEPTOS AL CONCEDERSE LA SUSPENSIÓN EN EL JUICIO DE AMPARO CUANDO SE RECLAMA UNA CANTIDAD LÍQUIDA.
+
+Los daños y perjuicios ocasionados por la concesión de la suspensión en el juicio de amparo están representados por la pérdida o menoscabo que al tercero le ocasionaría no disponer,
+
+[11] Registro Digital: 2008219. Instancia: Pleno. Décima Época. Materia(s): Común.
+
+Tesis: P./J.71/2014 (11a.) Fuente: Gaceta del Semanario Judicial de la Federación.
+
+Libro 14, Tomo I, Enero de 2015, página 5. Tipo: Jurisprudencia durante el tiempo que dure aquél, de las prerrogativas que le confiere la sentencia o laudo reclamado; en tal contexto, si el otorgamiento de la suspensión tiene por objeto impedir la ejecución de una condena en cantidad líquida a favor del tercero, el daño radica en la pérdida del poder adquisitivo con relación a dicha cantidad, en el lapso probable que tardaría la resolución del juicio; esto es, el poder adquisitivo se genera o demerita en función de la inflación en el país, dato que es posible advertir y cuantificar mediante el Índice Nacional de Precios al Consumidor que el Banco de México publica mensualmente en el Diario Oficial de la Federación; en consecuencia, para calcular los posibles daños en el caso, deberá tomarse como referencia el porcentaje inflacionario del tiempo que el juzgador considera que podría durar el juicio a la fecha en que se decrete la garantía, en virtud de que no es posible computar la variación porcentual que para los meses futuros llegue a obtenerse de tal factor. Por otro lado, por lo que ve a los perjuicios, que son las ganancias lícitas que obtendría el tercero de tener bajo su dominio el monto de la condena durante el tiempo estimado por el juzgador para la resolución del juicio, el cual equivale al rendimiento que en el mismo plazo produciría el citado monto, conforme a una tasa de interés que refleje el valor del dinero, ese parámetro sería la Tasa de Interés Interbancaria de Equilibrio (TIIE) a plazo de 28 días, que puede constatarse en la publicación que se hace en el Diario Oficial de la Federación.”
+
+25. En dicho criterio jurisprudencial se estableció esencialmente que el daño radica en la pérdida del poder adquisitivo con relación a la cantidad líquida de condena, en el lapso probable que tardaría la resolución del juicio de amparo, producto del proceso inflacionario, dato que es posible advertir y cuantificar mediante el Índice Nacional de Precios al Consumidor que el Banco de México publica mensualmente en el Diario Oficial de la Federación, y que por ende para calcular los posibles daños deberá tomarse como referencia el porcentaje inflacionario del tiempo que el juzgador considera que podría durar el juicio a la fecha en que se decrete la garantía. 26. Asimismo se anotó que en lo concerniente a los perjuicios, esto es, las ganancias lícitas que obtendría el tercero de tener bajo su dominio el monto de la condena durante el tiempo estimado por el juzgador para la resolución del juicio, el cual equivale al rendimiento que en el mismo plazo produciría el citado monto, conforme a una tasa de interés que refleje el valor de ese dinero, ese parámetro sería la Tasa de Interés Interbancaria de Equilibrio (TIIE) a plazo de veintiocho días, la cual puede constatarse en la publicación que se hace en el Diario Oficial de la Federación.
+
+27. Sobre otro de los elementos que se han utilizado como datos objetivos para el cálculo de garantías (aunque en materia de suspensión del acto como medida cautelar) se encuentra la jurisprudencia sustentada por la Primera Sala de la Suprema Corte de Justicia de la Nación, Décima Época, registro: 2001334, de rubro y texto siguientes:
+
+“GARANTÍA PARA LA SUSPENSIÓN DEL ACTO RECLAMADO EN AMPARO INDIRECTO. PLAZO TENTATIVO PARA EL CÁLCULO DEL TIEMPO DE DURACIÓN DEL JUICIO CUANDO SEA NECESARIO PARA FIJAR EL MONTO DE LA CAUCIÓN.
+
+Atento a lo dispuesto en los artículos 124 y 125 de la Ley de Amparo, la suspensión del acto reclamado en el amparo indirecto está condicionada a que la quejosa otorgue una garantía bastante para reparar la posible afectación patrimonial que con dicha figura jurídica se pudiera causar al tercero perjudicado en el caso de que no se obtenga una sentencia protectora, y para ello puede resultar necesario calcular, en cada caso, un plazo probable para la tramitación y resolución del juicio, ello ante la imposibilidad de previsión legal y jurisprudencial de fijar un plazo fijo, pues no todos los asuntos revisten el mismo grado de dificultad y no todos los órganos jurisdiccionales se encuentran en iguales condiciones de operatividad. Sin embargo, tal imposibilidad no implica que no pueda establecerse un plazo tentativo que derive de un parámetro objetivo, constituido éste por los resultados de operatividad de los órganos jurisdiccionales, pues con tales resultados puede calcularse el tiempo promedio de resolución de los amparos indirectos en una época y en un Circuito determinados. En ese entendido, debe atenderse a los datos estadísticos que maneja la Dirección General de Estadística Judicial del Consejo de la Judicatura Federal, respecto del tiempo promedio de resolución de los juicios de amparo indirecto en ambas instancias, y a fin de fijar el plazo en meses calendario, por ser ésta la costumbre en la práctica judicial en este tema, procede dividir esa cantidad entre treinta, que son los días promedio que tienen los meses del año, lo que dará un total calculado en meses, que serán los que deben considerarse como plazo tentativo para la conclusión del juicio, y la estimación de si ese plazo es adecuado, insuficiente o excesivo para cada caso particular, es parte de la facultad de quien decida sobre la suspensión, facultad que deberá ejercerse de manera adecuada, racional y lógica, con base en una apreciación de las circunstancias propias del caso concreto, atendiendo -entre otros- a la naturaleza de la violación y a las características intrínsecas del asunto, como lo son la dificultad jurídica y la complejidad de los temas que involucra; si han sido abordados previamente o si son novedosos.”
+
+28. Ahora bien, dado el avance de las nuevas tecnologías y las tendencias emergentes en la justicia digital, este Tribunal Colegiado encuentra en la inteligencia artificial aplicada una herramienta innovadora (no obligatoria) no sólo útil para automatizar tareas administrativas, sino que también puede integrarse para facilitar el razonamiento numérico dentro de labores jurisdiccionales.
+
+29. Sobre este aspecto, a continuación, se desarrollan los elementos que justifican el uso de la herramienta en la presente decisión jurisdiccional en el entendido de que, en lo subsecuente, constituirá un precedente que podrá ser citado en futuras sentencias como hecho notorio.
+
+IV.2 Inteligencia artificial aplicada a procesos
+
+jurisdiccionales
+
+30. En primer lugar, ante la falta de regulación del uso de la inteligencia artificial en procesos jurisdiccionales, este tribunal considera conveniente tomar en cuenta que el Grupo Independiente de Altos Expertos de Alto Nivel Sobre Inteligencia Artificial, creado por la Comisión Europea en junio de dos mil dieciocho, elaboró el documento “DIRECTRICES ÉTICAS PARA UNA INTELIGENCIA ARTIFICIAL FIABLE[12]”, indicando que la fiabilidad tiene tres componentes, esto es, la inteligencia artificial debe ser lícita, ética y robusta.
+
+31. Sobre esa línea, el grupo independiente señaló que existen cuatro principios éticos: a) respeto de la autonomía humana; b)
+
+prevención del daño c) equidad y d) explicablidad. También estableció que, apoyado en esos cuatro principios éticos el uso de la inteligencia artificial fiable debe cumplir siete requisitos clave: 1.
+
+Acción y supervisión humanas; 2. Solidez técnica y seguridad; 3.
+
+Gestión de la privacidad y de los datos; 4. Transparencia; 5.
+
+Diversidad, no discriminación y equidad; 6. Bienestar social ambiental; y, 7. Rendición de cuentas.
+
+32. Con las bases anteriores se expidió el Reglamento del Parlamento Europeo del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial, también conocida como Ley Europea de Inteligencia Artificial[13].
+
+[12] Directrices éticas para una IA fiable | Configurar el futuro digital de Europa. Disponible en: https://digitalstrategy.ec.europa.eu/es/library/ethics-guidelines-trustworthy-ai Consultado el 28 de Julio de 2025.
+
+[13] Disponible en: https://eur-lex.europa.eu/eli/reg/2024/1689/oj 33. Al respecto, en los esfuerzos por regular el uso de la inteligencia artificial, se advierte que existen dos vertientes de sistema, a saber: 1. El dirigido a la asistencia jurídica y 2. La de un prototipo orientado a una posible sustitución del juez, ya sea para la investigación e interpretación de hechos y de la ley; o para la aplicación del Derecho a un conjunto concreto de hechos.
+
+34. La vertiente 1, dirigida a la asistencia jurídica, constituye lo que se ha denominado “Jurimetría”, que es el proceso a través del cual la inteligencia artificial apoya y auxilia al órgano jurisdiccional para la elaboración y cálculo de porcentajes, liquidaciones, garantías o algún otro cálculo que requiera el uso de variables y constantes, en donde se parte de la base de que no se proporcionan datos sensibles, sino únicamente se indican fórmulas y las variables para que la inteligencia artificial realice en auxilio del razonamiento humano, los cálculos correspondientes.
+
+35. Bajo ese contexto, este Tribunal Colegiado en un ejercicio de autocontención acude al enfoque ético y responsable de la utilización de la inteligencia artificial, basado en derechos humanos establecidos por la UNESCO[14] tomando en consideración que la ética es una base dinámica para la evaluación y la orientación normativas de las tecnologías de inteligencia artificial. Así, contempló diez principios básicos: Proporcionalidad y no causar daño, seguridad y protección, equidad y no discriminación, sostenibilidad, derecho a la privacidad y protección de datos, supervisión y decisión humana, transparencia y explicabilidad, responsabilidad y rendición de cuentas, sensibilización y educación, gobernanza adaptativa y colaboración entre múltiples partes interesadas.
+
+[14] Al respecto consultar: Ética de la inteligencia artificial | UNESCO. Consultado el 28 de Julio de 2025 36. Con los elementos anteriores, este Tribunal Colegiado arriba a la conclusión de que tratándose de procesos jurisdiccionales, el uso ético y responsable de la inteligencia artificial con perspectiva de derechos humanos obliga a las personas juzgadoras a observar cuando menos los siguientes principios:
+
+a) Proporcionalidad e inocuidad[15]. El uso de sistemas de IA en este caso no va más allá de lo necesario, sino que se utiliza como una herramienta para alcanzar un objetivo legítimo como el de le facilitar razonamientos numéricos.
+
+b) Derecho a la intimidad y protección de datos. Para el uso de la inteligencia artificial en este caso no se introducen ni se comprometen datos personales del expediente, sino que se utilizan valores numéricos contenidos en bases de datos públicos.
+
+c) Transparencia y explicabilidad[16]. Uno de los principios más importantes, porque toda persona juzgadora (jueces o
+
+[15] En términos de la “Recomendación sobre la ética de la inteligencia artificial” de la UNESCO de 23 de noviembre de 2021 el principio de proporcionalidad se describe en los siguientes términos: “La decisión de utilizar sistemas de IA y la elección del método de IA deberían justificarse de las siguientes maneras: a) el método de IA elegido debería ser adecuado y proporcional para lograr un objetivo legítimo determinado; b) el método de IA elegido no debería vulnerar los valores fundamentales enunciados en el presente documento, en particular, su utilización no debe constituir una violación o un abuso de los derechos humanos;
+
+y c) el método de IA elegido debería ser adecuado al contexto y basarse en fundamentos científicos rigurosos. En los casos en que se entienda que las decisiones tienen un impacto irreversible o difícil de revertir o que pueden implicar decisiones de vida o muerte, la decisión final debería ser adoptada por un ser humano”. Disponible en: Recomendación sobre la ética de la inteligencia artificial - UNESCO Biblioteca Digital https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa (párrafo 25).
+
+[16] En términos de la “Recomendación sobre la ética de la inteligencia artificial” de la UNESCO de 23 de noviembre de 2021 el principio de transparencia se describe de la siguiente manera: “La transparencia y la explicabilidad de los sistemas de IA suelen ser condiciones previas fundamentales para garantizar el respeto, la protección y la promoción de los derechos humanos, las libertades fundamentales y los principios éticos. La transparencia es necesaria para que los regímenes nacionales e internacionales pertinentes en materia de responsabilidad funcionen eficazmente. La falta de transparencia también podría mermar la posibilidad de impugnar eficazmente las decisiones basadas en resultados producidos por los sistemas de IA y, por lo tanto, podría vulnerar el derecho a un juicio imparcial y a un recurso efectivo, y limita los ámbitos en los que estos sistemas pueden utilizarse legalmente”. Disponible en: Recomendación sobre la ética de la magistraturas) que la emplee en procesos jurisdiccionales debería dar cuenta de ello, indicando la manera en que se usó, los fines, objetivos y el resultado obtenido. Así, en la presente sentencia se da cuenta de la metodología y procesos empleados como se expone en un apartado posterior.
+
+d) Supervisión y decisión humanas. El uso de la inteligencia artificial en la presente sentencia se utiliza como auxiliar para realizar cálculos sin que comprometa o sustituya la decisión jurisdiccional. Solo aporta elementos para la toma de decisiones.
+
+37. Con base en los principios de proporcionalidad, protección de datos transparencia antes mencionados, este Tribunal Colegiado procede a justificar el uso de la inteligencia artificial. Para ello debe tomarse en cuenta que es una herramienta a nivel operativo y auxiliar, que en este caso no sustituye la labor jurisdiccional , por el contrario, se permite: (a) la reducción de errores humanos en cálculos como intereses moratorios, actualizaciones, compensaciones, daños, entre otros, que no son en estricto sentido propios del razonamiento jurisdiccional; (b) dar transparencia y trazabilidad al exponer cómo se llega al resultado numérico paso a paso; (c) estandarización y consistencia en los precedentes, logrando que los datos objetivos para la toma de decisiones jurisdiccionales se vuelva equitativa; y, desde luego; (d) eficiencia procesal, pues permite que los operadores judiciales centren los recursos en el estudio de la toma de decisiones jurisdiccionales y no en la elaboración de cálculos matemáticos, así como también, brinda herramientas para que los jueces de Distrito motiven las decisiones que tienen
+
+inteligencia artificial - UNESCO Biblioteca Digital https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa (párrafo 37). que ver con los montos de las garantías sin aumentar su carga laboral, lo que a la postre, facilitará la resolución de recursos.
+
+38. Así, la presente sentencia pretende ser un referente y recomendación en la adopción de mejores prácticas de administración de justicia, utilizando la inteligencia artificial de manera ética y responsable para innovar en política judicial, en la gobernanza administrativa judicial, así como participar en la mejora de procesos desde una visión institucional, la cual también es propia de los tribunales de la federación.
+
+IV.3. Diseño de la herramienta de inteligencia artificial
+
+39. Para la cuantificación del monto de garantía conforme a los daños y perjuicios previstos en la jurisprudencia del Pleno y la Primera Sala de la Suprema Corte (antes citadas), este Tribunal Colegiado implementa un procedimiento con uso de inteligencia artificial, tradicionalmente realizado de manera manual por operadores jurisdiccionales, el cual integra datos actualizados del Índice Nacional de Precios al Consumidor, la Tasa de Interés Interbancaria de Equilibrio y el tiempo probable de duración del juicio.
+
+40. Esta herramienta permite realizar el cálculo conforme a las fórmulas previstas por el Pleno y explicar cada paso del resultado, garantizando su verificabilidad y congruencia con la motivación exigida por el artículo 16 constitucional. El procedimiento técnico y la fórmula se explica de la siguiente manera:
+
+Procedimiento técnico y fórmula
+
+Variables:
+
+Valor catastral del bien (VC)
+
+Inflación proyectada anual (I%)
+
+Tasa de interés anualizada TIIE (T%) Tiempo estimado del juicio en meses (M)
+
+Fórmula base (proporcional al tiempo): Daños = VC × (I% × M / 12)
+
+Perjuicios = VC × (T% × M / 12)
+
+Total garantía = Daños + Perjuicios
+
+41. Con el objeto de hacer verificable el cálculo del monto de la garantía por daños y perjuicios en supuestos análogos, este tribunal incorpora una herramienta práctica y sencilla basada en inteligencia artificial. Se trata de un prompt[17] orientador (más estandarizado) que, al ser utilizado en modelos de lenguaje como ChatGPT, entre otros, permite realizar el cálculo conforme a la metodología definida por la jurisprudencia P./J. 71/2014 (10a) de la Suprema Corte de Justicia de la Nación.
+
+42. Dicho prompt no contiene valores fijos, pues requiere que el propio operador jurisdiccional ingrese los datos del caso concreto: valor catastral del bien, duración estimada del proceso y demás variables pertinentes. La instrucción ordena acudir a fuentes oficiales (INEGI y Banco de México) para consultar en tiempo real las tasas de inflación y la Tasa de Interés Interbancaria de
+
+[17] Un prompt en inteligencia artificial es una instrucción o texto inicial que se proporciona a un modelo de IA para que genere una respuesta o resultado específico. Es la forma en que los usuarios comunican sus necesidades y deseos a la IA para obtener la información o el contenido deseado.
+
+Equilibrio (TIIE) vigentes, aplicando las fórmulas establecidas en la jurisprudencia para calcular los daños y perjuicios.
+
+43. Con este mecanismo, cualquier persona juzgadora puede obtener una tabla explicativa y auditable que muestre, paso a paso, cómo se cuantifica la garantía. De esta manera, se preserva la función jurisdiccional en su núcleo esencial, a la vez que se refuerza la motivación y transparencia del fallo, en consonancia con el principio de justicia digital y los estándares de motivación reforzada previstos en el artículo 16 constitucional.
+
+44. Este método se implementa a través de un prompt estándar que el operador puede utilizar en modelos de lenguaje como ChatGPT, sin necesidad de cálculos manuales complejos. El prompt solicita únicamente tres datos: (i) el valor catastral del bien o bienes sujetos a garantía; (ii) los días promedio de duración del juicio de amparo indirecto y (iii) los días promedio del recurso de revisión, ambos consultados en el portal estadístico del Consejo de la Judicatura Federal[18].
+
+45. Con estos insumos, la herramienta consulta automáticamente las tasas de inflación (INEGI) y TIIE (Banxico), suma los días de ambas instancias, los convierte a meses y aplica las fórmulas jurisprudenciales para determinar los daños, perjuicios y el monto total de la garantía. El prompt es el siguiente:
+
+Condúcete como un asistente jurídico especializado en cálculos de montos de garantía conforme a la jurisprudencia P./J.
+
+71/2014 (10a) de la Suprema Corte de Justicia de la Nación.
+
+[18] Para consultar los indicadores, se debe ingresar a la página web https://www.dgej.cjf.gob.mx/paginas/informacionRelevante.htm?pageNam e=informacion%2Findicadores.htm, posteriormente, seleccionar la opción “Estadística Judicial” y elegir la opción “Indicadores”; en donde se introducen los rubros: año estadístico (2024, por ser el último); tipo de órgano (Juzgado de Distrito o Tribunales Colegiados), nivel de indicadores (seleccionar productividad) e indicadores (duración en días de los asuntos JD/Juicios de Amparo Indirecto para el caso de Juzgado de Distrito y de amparo en revisión para el caso de Tribunales Colegiados).
+
+Objetivo: Calcular el monto aproximado de una garantía por daños (inflación) y perjuicios (TIIE) para uno o varios bienes en un juicio de amparo.
+
+PASO 1: Solicita estos datos al usuario:
+
+- Valor catastral de cada bien (en pesos). - Días promedio del juicio de amparo indirecto (consultado en el portal del CJF).
+
+- Días promedio del recurso de revisión (consultado en el portal del CJF).
+
+PASO 2: Consulta automáticamente:
+
+- Inflación anual proyectada (INEGI).
+
+- Tasa de Interés Interbancaria de Equilibrio anualizada (Banxico).
+
+PASO 3: Calcula duración total en meses:
+
+- Suma los días que te proporcionó el usuario tanto para el juicio de amparo indirecto como para el recurso de revisión y divide entre 30.
+
+PASO 4: Aplica la fórmula jurisprudencial: - Daños = Valor catastral × (Inflación / 100) × (Meses / 12)
+
+- Perjuicios = Valor catastral × (TIIE / 100) × (Meses / 12)
+
+- Total = Daños + Perjuicios
+
+PASO 5: Presenta una tabla con columnas:
+
+Bien/Lote | Valor Catastral | Daños (inflación) | Perjuicios (TIIE) | Total Garantía
+
+PASO 6: Explica en párrafos cómo obtuviste el resultado:
+
+Describe método, menciona fuentes oficiales (INEGI, Banxico, CJF) y las tasas aplicables
+
+IV.4. Aplicación de la herramienta de inteligencia artificial
+
+46. Una vez precisado lo anterior, se procede a correr el prompt no sin antes efectuar algunas precisiones sobre los datos de origen. Se tomará como dato objetivo para el cálculo de la garantía y como sustento de ello, el valor catastral que tienen los lotes de terreno litigiosos, y que se contienen en los folios registrales que exhibió la quejosa con la demanda de amparo, los cuales reportan:
+
+• Para el **** *** ******* **** ******* ***** *** ***** ** ********* ** ******* ****** ** ******, el monto de $605,096.15.
+
+• Para el **** *** ******* **** ******* ***** *** ***** ** ********* ** ******* ****** ** ******, la cantidad de $631,098.00.
+
+47. Se toman dichos valores por ser los que pudieran fijarse en una eventual posible compraventa. Así, desde este primer momento, se descarta el agravio de la sucesión a bienes que propone tomar en cuenta el precio que el actor del juicio de origen refirió fue fijado en el contrato de compraventa por el que adquirió los lotes, de $150,000.00 (ciento cincuenta mil pesos 00/100, moneda nacional).
+
+48. La conclusión anterior se sustenta en que se trata de un dato no verificable, y porque, incluso, no es un elemento que objetivamente revele el valor de los inmuebles, por haber sido estipulado en su caso por los contratantes. En cambio, su valor catastral constituye un elemento plenamente objetivo y, por ende, útil para fijar la garantía.
+
+49. Por lo que hace a la probable duración del juicio de amparo indirecto, siendo indicativo para ello la Estadística del Consejo de la Judicatura Federal, se toma en consideración la página web https://www.dgej.cjf.gob.mx/paginas/informacionRelevante.ht m?pageName=informacion%2Findicadores.htm.
+
+Posteriormente, seleccionar la opción “Estadística Judicial” y elegir la opción “Indicadores”; en donde se introducen los rubros:
+
+año estadístico (2024, por ser el último); tipo de órgano (Juzgado de Distrito/ Tribunal Colegiado de Circuito), nivel de indicadores (seleccionar productividad) e indicadores (duración en días de los asuntos JD/Juicios de Amparo Indirecto y /AR Amparos en Revisión). Teniendo como resultado los siguientes datos de entrada:
+
+• Juicios de amparo indirecto: 75.2 días (correspondientes al Juzgado Tercero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez).
+
+• Amparos en revisión 62.26 (correspondientes a este Tribunal Colegiado).
+
+50. Así con los datos de entrada (inputs) se corre el prompt en los siguientes modelos de lenguaje grandes (LLMs[19]) más comerciales y que corresponden a ChatGTP, Gemini y Grok. En el entendido en que todas son herramientas, no es necesario usarlas todas (se corren en la presente sentencia para ejemplificar el uso de la herramienta) y pueden usarse indistintamente para la obtención de datos verificables, obteniendo los siguientes resultados:
+
+Chat GTP[20]
+
+Se presentan los resultados tal como fueron arrojados
+
+PASO 2: Tasas oficiales consultadas • Inflación anual (INEGI): 4.32 % en junio 2025 • TIIE a 28 días: 8.2741 % (dato al 24 de julio 2025: “TIIE a 4 semanas”)
+
+PASO 3: Duración en meses • Días: 75.2 (juicio de amparo) + 62.26 (revisión) = 137.46 días. • En meses: 137.46 / 30 ≈ 4.58 meses.
+
+PASO 4: Cálculos por lote Fórmulas:
+
+[19] Un LLM (Large Language Model) comercial es un modelo de lenguaje grande desarrollado por una empresa y ofrecido como un producto o servicio, generalmente a través de una API (interfaz de programación de aplicaciones) o una plataforma específica
+
+[20] Consultable en ChatGPT https://chatgpt.com/ • Daños = VC × (Inflación/100) × (Meses/12)
+
+• Perjuicios = VC × (TIIE/100) × (Meses/12)
+
+• Total Garantía = Daños + Perjuicios
+
+Garantía Lote Valor Perjuicios
+
+Daños (4.32 %) Total Catastral (8.274 %)
+
+≈ $605,096.15 ≈ $605,096.15 × .0432 × × .08274 × $29,075 1 $605,096.15
+
+(4.58/12) = (4.58/12) = $9,970 $19,105 ≈ $631,098.00 ≈ $631,098.00 × .0432 × × .08274 × $31,006 2 $631,098.00
+
+(4.58/12) = (4.58/12) = $10,396 $20,610
+
+➡￿ Total combinado de garantía (ambos lotes): ≈ $60,081 MXN.
+
+PASO 6: Explicación del método 1. Se sumaron los días que me proporcionaste (75.2 + 62.26 = 137.46) y se dividió entre 30 para obtener la duración en meses (≈4.58).
+
+2. Se aplicó la fórmula de la jurisprudencia SCJN:
+
+o Para Daños, se utilizó la inflación anual actual del 4.32 %.
+
+o Para Perjuicios, se aplicó la TIIE a 28 días del 8.2741 %.
+
+o Cada tasa se prorrateó ligándola a los 4.58 meses sobre un periodo anual (Meses/12).
+
+3. Se multiplicó cada tasa proporcional por el valor catastral de cada lote y se sumaron los resultados para obtener el total por lote.
+
+Grok[21]
+
+Se presentan los resultados tal como fueron arrojados
+
+Paso 1: Consulta de tasas • Inflación anual proyectada (INEGI, 2025): Según datos del Fondo Monetario Internacional (FMI) y otras fuentes, la inflación proyectada para 2025 en México es de aproximadamente 3.2% anual.bbva.comes.statista.com • Tasa de Interés Interbancaria de Equilibrio (TIIE) anualizada (Banxico, 2025): La TIIE a 28 días más reciente reportada por Banxico es de 10.50% (tras recortes recientes). Para este cálculo, se usará esta tasa como referencia anualizada.bbva.com Paso 2: Cálculo de la duración total en meses • Días totales = 75.2 (juicio de amparo indirecto) + 62.26 (recurso de revisión) = 137.46 días • Meses = 137.46 ÷ 30 = 4.582 meses Paso 3: Aplicación de la fórmula jurisprudencial La fórmula para calcular la garantía es:
+
+[21] Consultable en: https://grok.com/chat • Daños = Valor catastral × (Inflación / 100) × (Meses / 12) • Perjuicios = Valor catastral × (TIIE / 100) × (Meses / 12) • Total garantía = Daños + Perjuicios Cálculos para Lote 1 ($605,096.15):
+
+• Daños = $605,096.15 × (3.2 / 100) × (4.582 / 12) = $605,096.15 × 0.032 × 0.381833 = $7,388.73 • Perjuicios = $605,096.15 × (10.5 / 100) × (4.582 / 12) = $605,096.15 × 0.105 × 0.381833 = $24,263.08 • Total garantía = $7,388.73 + $24,263.08 = $31,651.81 Cálculos para Lote 2 ($631,098.00):
+
+• Daños = $631,098.00 × (3.2 / 100) × (4.582 / 12) = $631,098.00 × 0.032 × 0.381833 = $7,706.34 • Perjuicios = $631,098.00 × (10.5 / 100) × (4.582 / 12) = $631,098.00 × 0.105 × 0.381833 = $25,297.20 • Total garantía = $7,706.34 + $25,297.20 = $33,003.54 Paso 4: Presentación de resultados Calculo_Garantia_Amparo.md Cálculo de Garantía por Daños y Perjuicios
+
+Valor Daños Perjuicios Total Bien/Lote
+
+Catastral (Inflación) (TIIE) Garantía Lote 1 $605,096.15 $7,388.73 $24,263.08 $31,651.81 Lote 2 $631,098.00 $7,706.34 $25,297.20 $33,003.54
+
+Paso 5: Explicación del método El cálculo se realizó siguiendo la jurisprudencia P./J. 71/2014 (10a) de la Suprema Corte de Justicia de la Nación. Se utilizaron los valores catastrales proporcionados ($605,096.15 y $631,098.00) y los días promedio del juicio de amparo indirecto (75.2 días) y del recurso de revisión (62.26 días), sumando un total de 137.46 días, equivalentes a 4.582 meses (dividiendo entre 30 días por mes).
+
+La inflación anual proyectada de 3.2% se obtuvo de proyecciones para 2025 del Fondo Monetario Internacional (FMI) y fuentes como BBVA México, basadas en datos del Instituto Nacional de Estadística y Geografía (INEGI). La TIIE anualizada de 10.50% se tomó de los reportes más recientes del Banco de México (Banxico), que indican recortes recientes en la tasa de referencia.bbva.comes.statista.combbva.com La fórmula jurisprudencial se aplicó para cada lote, calculando daños con la tasa de inflación (3.2%) y perjuicios con la TIIE (10.5%), ajustadas por la duración en meses dividida entre 12. Los resultados se presentan en una tabla clara para cada lote, mostrando el valor catastral, los daños, los perjuicios y el total de la garantía requerida.
+
+Gemini[22]
+
+Se presentan los resultados tal como fueron arrojados
+
+Gracias por proporcionar los datos. Ahora, procederé con el cálculo.
+
+Cálculo de Garantía A continuación, se presenta la tabla con el cálculo de la garantía para cada lote, considerando los daños (inflación) y perjuicios (TIIE). Valores Proporcionados por el Usuario:
+
+• Lote 1: $605,096.15 • Lote 2: $631,098.00 • Días promedio del juicio de amparo indirecto: 75.2 días • Días promedio del recurso de revisión: 62.26 días PASO 2: Consulta Automática de Tasas (Actualizado al 23 de julio de 2025):
+
+• Inflación anual proyectada (INEGI): Para el cálculo se utilizará la inflación anual de mayo de 2025, que fue del 4.42%.
+
+• Tasa de Interés Interbancaria de Equilibrio (TIIE) anualizada (Banxico): Se considera la TIIE a 28 días para el 23 de julio de 2025, que es del 8.2540%.
+
+PASO 3: Cálculo de la Duración Total en Meses:
+
+• Días totales del proceso = Días amparo indirecto + Días recurso de revisión • Días totales del proceso = 75.2 + 62.26 = 137.46 días • Duración total en meses = Días totales del proceso / 30 • Duración total en meses = 137.46 / 30 = 4.582 meses PASO 4: Aplicación de la Fórmula Jurisprudencial:
+
+A continuación, se aplican las fórmulas para cada lote:
+
+• Fórmulas:
+
+o Daños = Valor catastral × (Inflación / 100) × (Meses / 12)
+
+o Perjuicios = Valor catastral × (TIIE / 100) × (Meses / 12)
+
+o Total = Daños + Perjuicios Lote 1: $605,096.15 • Daños (inflación): $605,096.15 × (4.42 / 100) × (4.582 / 12) = $605,096.15 × 0.0442 × 0.3818 = $10,219.01 • Perjuicios (TIIE): $605,096.15 × (8.2540 / 100) × (4.582 / 12) = $605,096.15 × 0.08254 × 0.3818 = $19,080.37 • Total Lote 1: $10,219.01 + $19,080.37 = $29,299.38 Lote 2: $631,098.00 • Daños (inflación): $631,098.00 × (4.42 / 100) × (4.582 / 12) = $631,098.00 × 0.0442 × 0.3818 = $10,659.86 • Perjuicios (TIIE): $631,098.00 × (8.2540 / 100) × (4.582 / 12) = $631,098.00 × 0.08254 × 0.3818 = $19,905.74 • Total Lote 2: $10,659.86 + $19,905.74 = $30,565.60
+
+[22] Consultable en: https://gemini.google.com/app PASO 5: Tabla de Resultados
+
+Total Bien/Lote Valor Daños Perjuicios
+
+Garantía Catastral (inflación) (TIIE)
+
+$29,299.38 Lote 1 $605,096.15 $10,219.01 $19,080.37
+
+$30,565.60 Lote 2 $631,098.00 $10,659.86 $19,905.74 Exportar a Hojas de cálculo
+
+PASO 6: Explicación de los Resultados El cálculo del monto aproximado de la garantía por daños y perjuicios se realizó conforme a la jurisprudencia P./J. 71/2014 (10a) de la Suprema Corte de Justicia de la Nación.
+
+Primero, se solicitó el valor catastral de cada bien (Lote 1: $605,096.15 y Lote 2: $631,098.00), así como la duración promedio en días de un juicio de amparo indirecto (75.2 días) y el recurso de revisión (62.26 días), datos que el usuario obtuvo del portal del Consejo de la Judicatura Federal (CJF).
+
+En segundo lugar, se procedió a la consulta automática de los indicadores económicos relevantes. La inflación anual proyectada utilizada es del 4.42%, la cual corresponde al último dato disponible del Índice Nacional de Precios al Consumidor (INPC) publicado por el INEGI para mayo de 2025. Para la Tasa de Interés Interbancaria de Equilibrio (TIIE) anualizada, se consultó el Banco de México (Banxico), obteniendo la TIIE a 28 días del 23 de julio de 2025, que es del 8.2540%.
+
+Posteriormente, se determinó la duración total del juicio en meses, sumando los días promedio del amparo indirecto y el recurso de revisión (137.46 días) y dividiendo el total entre 30 días para obtener 4.582 meses.
+
+Finalmente, se aplicó la fórmula jurisprudencial para calcular los daños y perjuicios para cada lote. Los daños se calcularon multiplicando el valor catastral por la tasa de inflación anual y la proporción de meses de duración del juicio con respecto a un año. Los perjuicios se obtuvieron de manera similar, pero utilizando la TIIE. La suma de ambos componentes resultó en el monto total de la garantía para cada bien, como se detalla en la tabla anterior. Este método busca ofrecer una estimación de la afectación patrimonial (daños por inflación) y el costo de oportunidad del dinero (perjuicios por la TIIE) durante el tiempo que se estima durará el proceso judicial.
+
+51. Tomando en consideración los cálculos efectuados conforme a la jurisprudencia P./J. 71/2014 (10ª) del Pleno de la Suprema Corte de Justicia de la Nación, se advierte que los montos estimados para la fijación de garantía por daños y perjuicios oscilaron entre aproximadamente $59,800 (cincuenta y nueve mil ochocientos pesos 00/100 moneda nacional) y $64,600 (sesenta y cuatro mil seiscientos pesos 00/100 moneda nacional) en total por ambos lotes, dependiendo de la tasa de inflación y de la Tasa de Interés Interbancaria de Equilibrio (TIIE) empleadas en cada metodología de referencia. El promedio resultante de dichas estimaciones asciende a aproximadamente $61,500 (sesenta y un mil quinientos pesos 00/100 moneda nacional).
+
+52. Si bien este promedio refleja un cálculo ponderado entre los diferentes escenarios posibles, considerando que además las variables empleadas no son definitivas pues dependen de muchos factores y variables, se estima procedente redondear el monto de la garantía a una cifra cerrada que facilite su cumplimiento y control. En este sentido, la fijación en $60,000 por ambos lotes (sesenta mil pesos 00/100 moneda nacional) permite establecer un parámetro claro para el depósito respectivo, evitando fracciones que dificulten su ejecución sin afectar la suficiencia del importe.
+
+53. Este redondeo se justifica además por el margen reducido de variación entre las estimaciones obtenidas y porque el monto resultante continúa siendo proporcional respecto del valor catastral de los bienes afectados y del tiempo estimado de duración del juicio. De este modo, se garantiza que el importe sea razonable para cubrir los posibles daños y perjuicios derivados de la pretendida inscripción de la demanda de amparo.
+
+54. En consecuencia, se determina fijar la garantía en la cantidad de $60,000 por ambos lotes (sesenta mil pesos 00/100 moneda nacional) por considerar que dicha suma equilibra adecuadamente la protección del interés de la quejosa y los derechos de los terceros, cumpliendo con los fines previstos en la Ley de Amparo y con el criterio establecido por el máximo tribunal del país. 55. Finalmente, no pasa inadvertido, que, en el caso, desde que se presentó la demanda de amparo, veintidós de noviembre de dos mil veinticuatro, a julio de dos mil veinticinco, han pasado casi siete meses sin que se resuelva de fondo el asunto; sin embargo, no se está en el caso de realizar ajustes al tiempo promedio de resolución porque el cálculo de posibles daños y perjuicios se debe determinar a partir de la inscripción de la demanda de amparo en el Registro Público y no como en aquellos asuntos en los cuales se determina el monto de una garantía para otorgar una suspensión en amparo.
+
+* * *
+
+Modificación del auto
+
+56. Por lo antes expuesto, acorde al artículo 103 de la Ley de Amparo[23], que dispone que en caso de resultar fundado el recurso de queja, deba dictarse el proveído que corresponda, sin necesidad de reenvío, este Tribunal procede a cumplimentarlo. Se modifica en lo conducente, el auto dictado el veintitrés de enero de dos mil veinticinco, y se procede a determinar en lo que respecta a la garantía, lo siguiente:
+
+[…]
+
+2. Requerimiento de garantía Ahora bien, previo a girar el oficio que solicita el promovente para la inscripción de la demanda de amparo, deberá exhibir, conforme al artículo 297, fracción II del Código Federal de Procedimientos Civiles, dentro del plazo de tres días, una garantía por la cantidad de $60,000 (sesenta mil pesos 00/100 moneda
+
+[23] Artículo 103. En caso de resultar fundado el recurso se dictará la resolución que corresponda sin necesidad de reenvío, salvo que la resolución implique la reposición del procedimiento. En este caso, quedará sin efecto la resolución recurrida y se ordenará al que la hubiere emitido dictar otra, debiendo precisar los efectos concretos a que deba sujetarse su cumplimiento. nacional) por los dos registros de los folios en los que se solicita la inscripción de la demanda de amparo.
+
+Para determinar el monto de la garantía exigible en este asunto, se siguió la metodología prevista en la jurisprudencia P./J. 71/2014 (10ª) del Pleno de la Suprema Corte de Justicia de la Nación y 1a./J. 46/2012 (10a.) de la Primera Sala, que establece la fórmula para calcular los posibles daños y perjuicios derivados de la suspensión con base en los valores catastrales de los bienes afectados, la tasa de inflación y la Tasa de Interés Interbancaria de Equilibrio (TIIE); y con base en el criterio de la Primera Sala, el tiempo probable de duración del juicio. Esta metodología permite cuantificar de manera objetiva la afectación patrimonial y el costo financiero del proceso durante su tramitación.
+
+En primer lugar, se utilizaron los valores catastrales de los dos bienes ofrecidos en garantía y se consideró el tiempo estimado de duración del juicio de amparo indirecto y del recurso de revisión, el cual asciende a 137.46 días, equivalente a 4.58 meses. Con este dato se prorratearon las tasas anuales vigentes a efecto de reflejar únicamente el periodo en el que se mantendría la medida cautelar.
+
+Posteriormente, se aplicaron las tasas económicas oficiales más recientes: inflación anual publicada por el Instituto Nacional de Estadística y Geografía (INEGI) y la TIIE a 28 días emitida por el Banco de México. Se realizaron los cálculos correspondientes para cada lote, separando la estimación de los daños (por inflación) y de los perjuicios (por TIIE) y sumando ambos para obtener el monto total de garantía individual y global.
+
+Del análisis comparativo de los resultados obtenidos bajo esta fórmula se desprendió un rango aproximado de entre $59,800 y $64,600 pesos para ambos bienes en conjunto, con un promedio cercano a $61,500 pesos. Atendiendo a este promedio y a criterios de razonabilidad y operatividad judicial, se fijó la garantía en $60,000 pesos, cifra que cubre adecuadamente los posibles daños y perjuicios y facilita el cumplimiento de la medida sin imponer una carga excesiva a la parte quejosa.
+
+[…]
+
+Por lo expuesto y fundado, se,
+
+R E S U E L V E
+
+ÚNICO. Se declara FUNDADO el recurso de queja interpuesto por la ******** * ****** ** ****** ****** ****** **** * ********* ************ *** *** ******** *** ***** * ****** ********* ********* ***** *** ******** ** ** ********** ****** ***** ********** ******* contra el auto de veintitrés de enero del dos mil veinticinco, dictado por el Juez Tercero de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, en el juicio de amparo indirecto *************.
+
+Notifíquese con testimonio de esta resolución, y de ser el caso, vuelvan los autos a su lugar de origen, en su oportunidad archívese como asunto concluido, previas las anotaciones pertinentes en el libro de gobierno correspondiente.
+
+Así, por unanimidad de votos de los Señores Magistrados, Presidente José Antonio Rodríguez Rodríguez, Juan Carlos Ortega Castro, y Juan Jaime González Varas, lo resolvió el Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito, siendo ponente el tercero de los nombrados.
+
+Firman los Señores Magistrados y el Secretario de Acuerdos Licenciado Armando Gil Montes de Oca, quien da fe.
+
+MAGISTRADO PRESIDENTE
+
+JOSÉ ANTONIO RODRÍGUEZ RODRÍGUEZ MAGISTRADO
+
+JUAN CARLOS ORTEGA CASTRO
+
+MAGISTRADO PONENTE
+
+JUAN JAIME GONZÁLEZ VARAS
+
+SECRETARIO DE ACUERDOS
+
+LICENCIADO ARMANDO GIL MONTES DE OCA
+
+El secretario de acuerdos hace constar y - - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - -- -C E R T I F I C A: - - - - - - - - -- - - - - - - - - - Que ésta es la última
+
+foja correspondiente a la ejecutoria pronunciada el veintinueve de julio de
+
+dos mil veinticinco, en la queja civil 212/2025, interpuesta por la ******** *
+
+****** ** ****** ****** ****** **** * ********* ************ *** ***
+
+******** *** ***** * ****** ********* ********* ***** *** ******** ** ** ********** ****** ***** ********** ******* en la cual se declara fundado el
+
+recurso.
+
+Asimismo, el suscrito Secretario de Acuerdos del Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito, HACE CONSTAR: que la presente ejecutoria de la queja civil 212/2025 se firmó de manera electrónica, el treinta y uno de julio de dos mil veinticinco, dentro del término que señala el artículo 184 de la Ley de Amparo; lo anterior de conformidad con el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que abroga los acuerdos de contingencia por COVID-19 y reforma, adiciona y deroga diversas disposiciones relativas a la utilización de medios electrónicos y soluciones digitales como ejes rectores del nuevo esquema de trabajo en las áreas administrativas y órganos jurisdiccionales, y con fundamento en el artículo 22 del Acuerdo General 12/2020, del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite del expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo.- Doy fe.
+
+EL SECRETARIO DE ACUERDOS
+
+LICENCIADO ARMANDO GIL MONTES DE OCA
+
+Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+[FIRMA ELECTRÓNICA] Firmantes: Armando Gil Montes de Oca
+
+Cadena firma:
+
+FIRMANTE Nombre: JUAN JAIME GONZALEZ VARAS Validez: BIEN Vigente
+
+Cadena firma:
+
+FIRMANTE Nombre: JUAN CARLOS ORTEGA CASTRO Validez: BIEN Vigente
+
+Cadena firma:
+
+FIRMANTE Nombre: JOSE ANTONIO RODRIGUEZ RODRIGUEZ Validez: BIEN Vigente
+
+Cadena firma:
+
+El treinta de julio de dos mil veinticinco, el licenciado Juan Carlos Guerra Alvarez, Secretario(a), con adscripción en el Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito, hago constar y certifico que en esta versión pública no existe información clasificada como confidencial o reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública. Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+Armando Gil Montes de Oca 706a6620636a6632000000000000000000002085 15/05/26 18:00:00 PJF - Versión Pública
+PJF - Versión Pública

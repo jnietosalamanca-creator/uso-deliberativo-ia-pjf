@@ -1,0 +1,268 @@
+UNIDAD: 40479724
+SENTENCIA: 40479724
+ÓRGANO: Segundo Tribunal Colegiado en Materias Penal y Administrativa del Décimo Séptimo Circuito
+FECHA: 2025-11-12
+TIPO DE ASUNTO: Queja
+AVISO: (ninguno)
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+[17] Audio que se generó con base en una aplicación de inteligencia artificial, derivado del texto proporcionado por este Tribunal Colegiado contenido en esta sentencia. Al respecto, se comparte el criterio contenido en la tesis II.2o.C.9 K (11a.), registro digital 2031010, de rubro: «INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.»
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+AMPARO EN REVISIÓN ADMINISTRATIVO 475/2025.
+
+RECURRENTE: ***** **** ****** ********** MAGISTRADO PONENTE: RAFAEL RIVERA DURÓN.
+
+SECRETARIO: OSMAR ABRAHAM LARA PIÑÓN.
+
+Chihuahua, Chihuahua; acuerdo del Segundo Tribunal Colegiado en Materias Penal y Administrativa del Decimoséptimo Circuito, correspondiente al día doce de noviembre de dos mil veinticinco.
+
+SENTENCIA recaída al recurso de queja administrativa 475/2025, en audiencia celebrada de forma remota, en términos del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que abroga los acuerdos de contingencia por COVID-19 y reforma, adiciona y deroga diversas disposiciones relativas a la utilización de medios electrónicos y soluciones digitales como ejes rectores del nuevo esquema de trabajo en las áreas administrativas y órganos jurisdiccionales del propio Consejo.
+
+I. DEMANDA DE AMPARO INDIRECTO Y SUSPENSIÓN PROVISIONAL 1. Mediante escrito presentado el 5 de noviembre de 2025, ***** **** ****** ********* promovió demanda de amparo indirecto contra actos de la persona titular de la Secretaría del Bienestar en Chihuahua, en esta ciudad, consistentes en (i) la omisión de dar respuesta a la solicitud que presentó el 4 de junio de 2025, así como (ii) la inminente negativa de otorgarle una pensión no contributiva para personas con discapacidad visual, por el mismo monto de la otorgada a personas adultas mayores.
+
+2. Dicha demanda fue radicada por el Juzgado Decimoprimero de Distrito en el Estado de Chihuahua, bajo el expediente 2628/2025, y en auto de 7 de noviembre de 2025 emitido en el incidente de suspensión, la Jueza de Distrito, por un lado, negó la suspensión provisional y, por otro, la concedió en los siguientes términos:
+
+3. Primero, precisó que de ser procedente la medida cautelar, corresponde a la juzgadora fijar los efectos de la misma, conforme a la jurisprudencia P./J. 4/2019 (10a.) de rubro: «SUSPENSIÓN. EL JUZGADOR PUEDE CONCEDERLA PARA EFECTOS Y CONSECUENCIAS DISTINTAS DE LAS PROPUESTAS POR EL QUEJOSO, PERO NO POR ACTOS NO RECLAMADOS EN LA DEMANDA.»
+
+4. Luego, negó la suspensión por lo que refiere al acto reclamado consistente en la inminente negativa de otorgar al quejoso una pensión no contributiva para personas con discapacidad visual por el mismo monto de la otorgada a personas adultas mayores, al estimar que se trata de un acto futuro y de realización incierta supeditado a una eventual respuesta a su solicitud de pensión.
+
+5. Por otro lado, estimó procedente la concesión de la medida cautelar por lo que refiere al diverso acto reclamado consistente en la omisión de dar respuesta a la solicitud que presentó el 4 de junio de 2025, el estimar acreditada la apariencia del bueno derecho dado que la responsable ha retrasado el pronunciamiento sobre la petición del otorgamiento de la pensión no contributiva para personas con discapacidad presentada por el quejoso.
+
+6. Ello, a la luz del artículo 21 de la Ley General para la Inclusión de las Personas con Discapacidad, que establece que la Secretaría de Desarrollo Social ––actualmente Secretaría del Bienestar–– garantizará el derecho de las personas con discapacidad de acceder a las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza, entre los cuales se encuentran los programas sociales reconocidos en el artículo 4° constitucional. 7. Por ello, la juzgadora estimó que, sin prejuzgar sobre el fondo del asunto, la apariencia del buen derecho del quejoso implica, al menos, la obtención de una respuesta a su petición.
+
+8. En consecuencia, la juzgadora de amparo concedió la suspensión provisional a la parte quejosa para efecto de que la persona Titular de la Secretaría del Bienestar en Chihuahua provea lo que en derecho corresponda respecto de la solicitud que presentó la persona quejosa el 4 de junio de 2025.
+
+9. Finalmente, la Jueza precisó que la suspensión no puede tener por efecto que de inmediato le sea proporcionada la pensión pretendida, pues dicha solicitud debe desahogarse administrativamente ante la autoridad correspondiente, quien, entre sus facultades legales y reglamentarias, deberá determinar si es apta o no para recibir el apoyo social peticionado; aunado a que el Juzgado de Distrito no puede sustituirse a las funciones de aquella, ni prejuzgar sobre el fondo del asunto.
+
+II. RECURSO DE QUEJA Y COMPETENCIA DE ESTE TRIBUNAL 10. Inconforme con los efectos de la suspensión, el 1
+
+licenciado ***** ******** *****, en su carácter de autorizado de ***** **** ****** ********* , interpuso el presente recurso de queja, el cual fue admitido por este Tribunal Colegiado en auto de 11 de noviembre de 2025, bajo el toca 475/2025 y, en ese mismo proveído fue turnado a la ponencia del Magistrado Rafael Rivera Durón, a fin de que formulara el presente proyecto de sentencia.
+
+11. Por otra parte, este Segundo Tribunal Colegiado en Materias Penal y Administrativa del Decimoséptimo Circuito[2], con sede en esta ciudad, resulta legalmente competente para conocer del presente recurso de queja, conforme a los artículos 97, fracción I, inciso b), 98, fracción I, 99 y 101, segundo párrafo, de la Ley de Amparo y 35, fracción III, de la Ley Orgánica del Poder Judicial de la Federación, toda vez que se recurre un auto dictado por un Juzgado de Distrito con sede en esta ciudad —donde este órgano colegiado ejerce jurisdicción—, en el que se concedió la suspensión provisional en un juicio de amparo indirecto en materia administrativa.
+
+III. OPORTUNIDAD 12. El auto impugnado fue notificado a la parte
+
+[1] Carácter que tiene acreditado en el juicio de amparo del que deriva el incidente de suspensión de origen.
+
+[2] Integrado por los Magistrados Amílcar Asael Estrada Sánchez, Rafael Rivera Durón y el secretario en funciones de Magistrado Irving Armando Anchondo Anchondo. quejosa recurrente mediante lista el 10 de noviembre de 2025, y surtió efectos el día hábil siguiente, de conformidad con el artículo 31, fracción II, de la Ley de Amparo, por lo que el plazo transcurrió del 12 al 13 de noviembre de 2025, de ahí que si el escrito de agravios fue presentado electrónicamente[3] desde el 10 de noviembre de 2025, es inconcuso que se interpuso oportunamente, pues ello ocurrió incluso antes[4] de que iniciara el plazo de 2 días hábiles, previsto en el artículo 98, fracción I, de la Ley de Amparo.
+
+IV. TÉCNICA DE ESTUDIO, OBJETO Y MATERIA 13. En el presente apartado es necesario precisar que este recurso de queja se resolverá bajo el principio de suplencia de la queja deficiente, previsto en el artículo 79, fracción VII, de la Ley de Amparo, toda vez que la parte quejosa es una persona con discapacidad visual[5], por lo que la procedencia de dicha figura busca asegurar que las condiciones desfavorables en que se encuentran determinados grupos
+
+[3] En términos de la tesis 2a. XXIII/2018 (10a.) de la Segunda Sala de la Suprema Corte de Justicia de la Nación, registro digital 2016527, de rubro: «PROMOCIONES ELECTRÓNICAS EN EL JUICIO DE AMPARO. LA FECHA DE PRESENTACIÓN DE ÉSTAS ES LA DE ENVÍO AL PORTAL DE SERVICIOS EN LÍNEA DEL PODER JUDICIAL DE LA FEDERACIÓN.»
+
+[4] Al respecto, se comparte el criterio contenido en la jurisprudencia VII.2o.T. J/70 L (10a.) del Segundo Tribunal Colegiado en Materia de Trabajo del Séptimo Circuito, registro digital 2022755, de rubro: «RECURSO DE QUEJA. SU INTERPOSICIÓN ANTES DE QUE INICIE EL CÓMPUTO DEL PLAZO PREVISTO EN LA FRACCIÓN I DEL ARTÍCULO 98 DE LA LEY DE AMPARO ES OPORTUNA, AL NO INFRINGIR NI SOBREPASAR AQUÉL.»
+
+[5] Según las manifestaciones bajo protesta de decir verdad que realizó en su demanda de amparo, así como la Credencial Nacional para Personas con Discapacidad que adjuntó a la misma. sociales en nuestro país no se traduzcan, a su vez, en desventajas procesales y de acceso a la tutela jurisdiccional efectiva.
+
+14. Apoya lo anterior, la tesis 2a. L/2020 (10a.) de la entonces Segunda Sala de la Suprema Corte de Justicia de la Nación, Décima Época de la Gaceta del Semanario Judicial de la Federación, registro digital 2022415, que dice:
+
+«SUPLENCIA DE LA QUEJA DEFICIENTE. DEBE APLICARSE EN FAVOR DE LAS PERSONAS CON DISCAPACIDAD, EN TÉRMINOS DEL ARTÍCULO 79, FRACCIÓN VII, DE LA LEY DE AMPARO.
+
+… Criterio jurídico: La Segunda Sala del Alto Tribunal determina que es procedente suplir la queja deficiente en favor de las personas con discapacidad, en términos de la fracción VII del artículo 79 de la Ley de Amparo, misma que prevé su actualización en beneficio de quienes, "por sus condiciones de ... marginación se encuentren en clara desventaja social para su defensa en el juicio".
+
+Justificación: Lo anterior, pues la finalidad de la fracción normativa en cita consiste en asegurarse de que las condiciones desfavorables en que se encuentran determinados grupos sociales en nuestro país no se traduzcan, a su vez, en desventajas procesales y de acceso a la tutela jurisdiccional efectiva. En ese sentido, la suplencia de la queja opera en favor de las personas con discapacidad, al pertenecer a uno de los grupos histórica y socialmente más vulnerables del país. Máxime cuando ello resulta congruente por los compromisos internacionales de mejorar la situación de las personas con discapacidad, a través de la adopción de medidas positivas para reducir las desventajas estructurales que padecen tales personas. En ese sentido, es evidente que un trato jurisdiccional preferente resulta del todo justificado en tratándose de personas con discapacidad; de ahí que no sólo se debe atender a sus peticiones y reclamos prescindiendo de la exigibilidad de ciertos tecnicismos o formalismos, sino que, al suplir la queja deficiente, los tribunales deben coadyuvar a “dar voz” a quienes frecuentemente no son escuchados por su condición de vulnerabilidad.» 15. Delimitado lo anterior, la presente sentencia tiene por objeto analizar la regularidad legal del auto recurrido —bajo el principio de suplencia de la queja deficiente[6]—, en el que se concedió la suspensión provisional a la parte quejosa, en lo relativo a la fijación de los efectos de la suspensión provisional a fin de que la Secretaría del Bienestar se pronuncie sobre la solicitud de pensión para personas con discapacidad.
+
+16. Por otro lado, es necesario precisar que del expediente electrónico de origen se obtiene que si bien la audiencia incidental estaba señalada para las 10:15 horas del 13 de noviembre de 2025, lo cierto es que hasta este momento no se desprende que el Juzgado de Distrito, en su caso, haya diferido o celebrado la citada audiencia, de ahí que subsiste la materia en el presente recurso de queja y, por ende, este órgano colegiado procede a resolver el presente medio de impugnación de naturaleza urgente.
+
+V. ESTUDIO[7]
+
+[6] En el entendido de que dicha suplencia únicamente se plasmará en la sentencia cuando redunde en un beneficio para la parte quejosa, en términos de la diversa jurisprudencia 2a./J. 67/2017 (10a.), de la Segunda Sala del Alto Tribunal, registro digital 2014703, de rubro: «SUPLENCIA DE LA QUEJA DEFICIENTE. SÓLO DEBE EXPRESARSE SU APLICACIÓN EN LA SENTENCIA CUANDO DERIVE EN UN BENEFICIO PARA EL QUEJOSO O RECURRENTE (LEY DE AMPARO VIGENTE HASTA EL 2 DE ABRIL DE 2013).»
+
+[7] El cual se realiza con base en las constancias que obran en el expediente electrónico del juicio de amparo indirecto de origen, en términos del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que abroga los acuerdos de contingencia por Covid-19 y reforma, adiciona y deroga diversas disposiciones relativas a la utilización de medios electrónicos y soluciones digitales como ejes rectores del nuevo esquema de 17. La parte quejosa recurrente alegó en su único agravio, en esencia, que en el presente asunto está de por medio la subsistencia del quejoso, por lo que es imperante la concesión de la suspensión como un anticipo de la sentencia de amparo conforme al principio apariencia de buen derecho, dado que precisamente está de por medio el mínimo vital de la persona con discapacidad.
+
+18. Por tal motivo, solicitó la modificación de la medida cautelar para que se conceda la suspensión provisional al quejoso con efectos de tutela anticipada, con base en el principio pro persona reconocido en el artículo 1° constitucional.
+
+19. Dichos agravios son parcialmente fundados —suplidos en su deficiencia en lo que haga falta—, en razón de lo siguiente:
+
+20. En principio, se valida la negativa parcial de la suspensión por lo que refiere a la inminente negativa de otorgar al quejoso una pensión no contributiva para personas con discapacidad visual por el mismo monto de la otorgada a personas adultas mayores, ya que —tal y como sostuvo la Jueza de Distrito— se trata de un acto futuro y de realización incierta —en virtud de que su realización no es segura, por depender de la conducta que asuma la autoridad responsable—
+
+trabajo en las áreas administrativas y órganos jurisdiccionales del propio Consejo. respecto del cual no procede la suspensión.
+
+21. No obstante lo anterior, lo parcialmente fundado de los agravios del quejoso deriva de lo siguiente:
+
+22. Como se adelantó, el quejoso ***** **** ****** ********* manifestó bajo protesta de decir verdad contar con una discapacidad visual, por lo que promovió el juicio de amparo de origen contra (i) la omisión de la Secretaría del Bienestar en Chihuahua, en esta ciudad, en responder la solicitud de pensión para personas con discapacidad que presentó el 4 de junio de 2025, así como (ii) la inminente negativa de otorgarle una pensión no contributiva para personas con discapacidad visual, por el mismo monto de la otorgada a personas adultas mayores.
+
+23. Luego, en el auto recurrido la Jueza de Distrito concedió la suspensión provisional para efecto de que la Secretaría del Bienestar en Chihuahua provea lo que en derecho corresponda respecto de la citada solicitud.
+
+24. Delimitado lo anterior, el artículo 4° constitucional[8] establece que la Federación y las entidades federativas garantizarán la entrega de una pensión no contributiva a las personas con discapacidad permanente
+
+[8] «Artículo 4o.-… La Federación y las entidades federativas garantizarán la entrega de una pensión no contributiva a las personas con discapacidad permanente menores de sesenta y cinco años, en los términos que fije la ley.» menores de 65 años, en los términos que fije la ley.
+
+25. Atento lo anterior, el 22 de enero de 2025 se publicó en el Diario Oficial de la Federación[9] el Acuerdo por el que se emiten las Reglas de Operación del Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente, para el ejercicio fiscal 2025, emitido por la Secretaría de Bienestar
+
+26. Así, el objetivo general[10] de dicho Acuerdo consiste en contribuir a mejorar el ingreso monetario de los hogares de las personas mexicanas con discapacidad permanente de niñas, niños, adolescentes y jóvenes de 0 a 29 años de edad y personas de 30 y hasta un día antes de cumplir los 65 años de edad, que (i) habiten en municipios y localidades indígenas o afromexicanas o en municipios o localidades con alto o muy alto grado de marginación, o (ii) personas de 30 y hasta un día antes de cumplir los 65 años de edad que residan en una entidad federativa cuyo gobierno haya firmado el Convenio para la Universalización de la Pensión para personas con discapacidad permanente. Ello, mediante un apoyo económico[11] de $1,600.00 pesos mensuales (pagaderos
+
+[9]https://www.gob.mx/cms/uploads/attachment/file/969447/RO_PPBPDP_2025_01_22.p df [10] Artículo 2.1
+
+[11] 3.5.1 Apoyos Económicos El monto del apoyo será de $1,600.00 (Mil seiscientos pesos 00/100 M.N.) mensuales pagaderos bimestralmente, de acuerdo con el Presupuesto de Egresos de la Federación autorizado para el ejercicio fiscal 2025, el cual se actualizará a partir del bimestralmente).
+
+27. Para lo cual, se exigen los siguientes requisitos[12]: (1) acta de nacimiento; (2) documento de Identificación vigente; (3) Clave Única de Registro de Población «CURP»; (4) certificado y/o constancia médica que acredite la discapacidad permanente emitido por alguna institución pública del sector salud federal, estatal o municipal; (5) comprobante de domicilio o constancia de residencia de la autoridad local; y (6)
+
+Formato de Registro Personas con Discapacidad debidamente llenado.
+
+28. De igual manera, el punto 3.6.1 del citado Acuerdo[13] reconoce que todas las personas derechohabientes de la pensión tienen derecho a recibir información de manera clara y oportuna.
+
+29. Mientras que los incisos c) y d), del punto 4.1 del Acuerdo dispone[14] que se informará a la persona solicitante o a su adulto auxiliar, el resultado de su solicitud de
+
+año 2026, para aquellas personas incorporadas en el Padrón de Beneficiarios y que no se encuentren en algún supuesto de retención, suspensión, o baja de acuerdo con lo establecido en las presentes Reglas de Operación.
+
+[12] 3.3 Criterios de Elegibilidad y Requisitos de Acceso [13] 3.6.1 Derechos Las Personas Derechohabientes de la Pensión tienen derecho a: a) Recibir información de manera clara y oportuna.
+
+[14] 4. Operación 4.1 Proceso El proceso para la atención a las personas solicitantes será de acuerdo con lo siguiente:
+
+… c) Se informará a la persona solicitante o a su adulto auxiliar, el resultado de su solicitud de incorporación al Programa, en un plazo máximo de dos meses a la captura del trámite por las Delegaciones de Programas para el Desarrollo a partir de su solicitud en los Módulos de Atención o través de la Línea de Bienestar establecidos en el numeral 6.2 Solicitudes de Información de las presentes Reglas de Operación. incorporación al Programa, en un plazo máximo de 2 meses a la captura del trámite por las Delegaciones de Programas para el Desarrollo a partir de su solicitud en los Módulos de Atención; y, en caso de validación del registro, se iniciará el proceso de entrega del medio de pago por medio de tarjeta bancaria.
+
+30. Luego, en la especie se estima acreditada la apariencia del buen derecho[15] del quejoso dado que (i) manifestó bajo protesta de decir verdad tener una discapacidad visual; y adjuntó a su demanda de amparo (ii) la solicitud de pensión para personas con discapacidad presentada ante la Secretaría de Bienestar desde el 4 de junio de 2025, sin que obre constancia en torno a su respuesta una vez que transcurrieron en demasía los 2 meses que para tal efecto tenía la autoridad responsable; copia de su Credencial Nacional para Personas con Discapacidad (folio ******), emitida por la Secretaría de Salud, en la que se desprende su Clave Única de Registro de Población «CURP», teléfono y domicilio.
+
+31. En esa tesitura, si bien se coincide con la Jueza en torno a que la suspensión no puede tener por efecto que de inmediato le sea proporcionada la pensión pretendida pues corresponde a la autoridad administrativa verificar el
+
+[15] Véase la jurisprudencia 2a./J. 204/2009 de la Segunda Sala de la Suprema Corte de Justicia de la Nación, registro digital 165659, de rubro: «SUSPENSIÓN. PARA DECIDIR SOBRE SU OTORGAMIENTO EL JUZGADOR DEBE PONDERAR SIMULTÁNEAMENTE LA APARIENCIA DEL BUEN DERECHO CON EL PERJUICIO AL INTERÉS SOCIAL O AL ORDEN PÚBLICO.» cumplimiento de los requisitos para su procedencia; lo cierto es que se estima, respetuosamente, que los efectos de la suspensión provisional se fijaron en forma vaga e imprecisa, lo que pudiera implicar dejar al quejoso recurrente en un estado de indefensión al subsistir la falta de respuesta de la solicitud en cuestión, -al tratarse de un acto negativo (omisión de responder solicitud de pensión) con efectos positivos (retrasar pago de pensión, de ser procedente)- pues (i) no se prevé un plazo para que la autoridad cumpla la suspensión; (ii) no contiene un apercibimiento en caso de incumplimiento; (iii) no establece que, de ser procedente la solicitud, la autoridad deberá de pagar la pensión por discapacidad al quejoso; ni (iv) a partir de cuándo debe pagarse dicha pensión.
+
+32. En esa tesitura —en suplencia de la queja deficiente—, lo procedente es modificar los efectos de la suspensión provisional, a fin de fijar en forma precisa cómo debe actuar la autoridad responsable a fin de tutelar en forma anticipada y restitutoria los derechos de la parte quejosa.
+
+33. Al respecto, se comparte, por analogía, el criterio contenido en la tesis I.20o.A.42 A (11a.) del Vigésimo Tribunal Colegiado en Materia Administrativa del Primer Circuito, registro digital 2030317, que dice:
+
+«SUSPENSIÓN PROVISIONAL EN AMPARO INDIRECTO. PROCEDE CONTRA LA OMISIÓN DE PAGO CORRESPONDIENTE AL PROGRAMA PENSIÓN PARA EL BIENESTAR DE LAS PERSONAS CON DISCAPACIDAD PERMANENTE.»
+
+Hechos: Una persona con discapacidad permanente reconocida por los servicios de salud pública del Gobierno de la Ciudad de México, promovió amparo indirecto contra la omisión de pago de diversos bimestres del Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente. La persona juzgadora otorgó la suspensión provisional solicitada para el efecto de que se reanudara el pago periódico de su pensión hasta que se emitiera una resolución sobre los folios de aclaración o corrección levantados por aquélla, al estimar que no se contravienen disposiciones de orden público ni se sigue perjuicio al interés social.
+
+Criterio jurídico: Este Tribunal Colegiado de Circuito determina que procede la suspensión provisional en el amparo indirecto contra la omisión de pago correspondiente al Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente.
+
+Justificación: El apoyo económico objeto del programa referido persigue finalidades de orden público e interés social, como lo son el mejoramiento de la situación de protección social de la población en condiciones de vulnerabilidad, particularmente al padecer una discapacidad permanente, lo cual es consistente con el décimo cuarto párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, en relación con la obligación del Estado de garantizar la entrega de apoyos económicos en los términos que fijen las leyes, a las personas pertenecientes a grupos vulnerables, como son aquellas con discapacidades permanentes. Por ello, la medida cautelar no sigue perjuicio al interés social ni contraviene disposiciones de orden público, por lo que se actualiza el requisito previsto en el artículo 128, fracción II, de la Ley de Amparo para su otorgamiento.»
+
+34. Sin que la presente determinación inobserve la jurisprudencia 2a./J. 22/2023 (11a.) de la entonces Segunda Sala del Alto Tribunal, registro digital 2026730, de rubro: «SUSPENSIÓN DEL ACTO RECLAMADO CON EFECTOS RESTITUTORIOS. PARÁMETROS QUE DEBE TOMAR EN CUENTA EL JUZGADOR AL ANALIZAR LA POSIBILIDAD DE CONCEDERLA ANTE LA EVENTUALIDAD DE QUE, CON ELLO, SE DEJE SIN MATERIA EL JUICIO DE AMPARO EN LO PRINCIPAL», dado que, por un lado, se trata de un beneficio transitorio posible de ser retrotraído mediante la interrupción del pago de la pensión en caso de obtener sentencia desfavorable en el juicio de amparo; y, por otro lado, no queda sin materia el juicio principal, pues subsiste la causa de pedir del quejoso, con base en la cual se analizará —incluso ex officio[16]— la regularidad constitucional del Acuerdo que prevé los requisitos para acceder a dicha pensión, así como que el monto sea menor al que reciben las personas adultas mayores.
+
+VI. DECISIÓN Y EFECTOS DE LA SUSPENSIÓN PROVISIONAL 35. Es parcialmente fundado el presente recurso de queja interpuesto por el autorizado del quejoso y, por ende, se modifican los efectos de la suspensión provisional en los siguientes términos:
+
+36. «Se concede la suspensión provisional al quejoso ***** **** ****** ********* , a fin de que la autoridad responsable Delegación de la Secretaría del Bienestar en Chihuahua, dentro del plazo de 24 horas, realice lo siguiente:
+
+[16] De conformidad con la jurisprudencia P./J. 2/2022 (11a.) del Pleno del Alto Tribunal, registro digital 2024159, de rubro: «CONTROL DE REGULARIDAD CONSTITUCIONAL. CONTENIDO Y ALCANCE DEL DEBER DE LOS ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACIÓN DE REALIZARLO AL CONOCER JUICIOS DE AMPARO DIRECTO E INDIRECTO [ABANDONO DE LAS TESIS AISLADAS P. IX/2015 (10a.) Y P. X/2015 (10a.)].»
+
+- Se pronuncie respecto a la procedencia o improcedencia de la solicitud del quejoso para obtener una a «Pensión para el Bienestar de las Personas con Discapacidad Permanente», presentada desde el 4 de junio de 2025.
+
+- Para lo cual deberá analizar la solicitud y anexos a fin de, en su caso, obtener la totalidad de los requisitos que exige el Acuerdo por el que se emiten las Reglas de Operación del Programa Pensión para el Bienestar de las Personas con Discapacidad Permanente, para el ejercicio fiscal 2025.
+
+- De ser procedente, tome de manera inmediata todas las medidas necesarias para proceder al pago de la pensión al quejoso, a partir de la fecha de su solicitud.
+
+Bajo apercibimiento que en caso de incumplimiento, o no informar su impedimento legal, se harán efectivos los medios de apremio y sanciones que prevé el Título Quinto de la Ley de Amparo.»
+
+VII. VERSIÓN ALTERNA EN AUDIO[17] MEDIANTE LENGUAJE SIMPLE Y DIRECTO
+
+37. Tal y como se señaló en la presente sentencia, la demanda de amparo de origen fue promovida por una persona que aduce tener una discapacidad; por tanto, emítase una resolución complementaria bajo un lenguaje simple y directo, así como una versión en audio[18], a fin de garantizarle un acceso pleno a las sentencias emitidas por el Poder Judicial
+
+[17] Audio que se generó con base en una aplicación de inteligencia artificial, derivado del texto proporcionado por este Tribunal Colegiado contenido en esta sentencia. Al respecto, se comparte el criterio contenido en la tesis II.2o.C.9 K (11a.), registro digital 2031010, de rubro: «INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.»
+
+[18] Al respecto, se comparte el criterio contenido en la tesis II.3o.T.7 L (11a.) del Tercer Tribunal Colegiado en Materia de Trabajo del Segundo Circuito, registro digital 2028081, de rubro: «PERSONAS CON DISCAPACIDAD VISUAL. EL TRIBUNAL COLEGIADO DE CIRCUITO QUE CONOZCA DEL JUICIO DE AMPARO DIRECTO QUE PROMUEVAN, DEBE REALIZAR LOS AJUSTES RAZONABLES PARA FACILITARLES EL PLENO CONOCIMIENTO DE LAS CONSECUENCIAS JURÍDICAS QUE DERIVAN DE LA SENTENCIA CORRESPONDIENTE.» de la Federación.
+
+38. Apoya lo anterior, por analogía, la tesis 1a.
+
+CCCXXXIX/2013 (10a.) de la Primera Sala de la Suprema Corte de Justicia de la Nación, Décima Época de la Gaceta del Semanario Judicial de la Federación, registro digital 2005141, de rubro: «SENTENCIA CON FORMATO DE LECTURA FÁCIL.
+
+EL JUEZ QUE CONOZCA DE UN ASUNTO SOBRE UNA PERSONA CON DISCAPACIDAD INTELECTUAL, DEBERÁ DICTAR UNA RESOLUCIÓN COMPLEMENTARIA BAJO DICHO FORMATO.»
+
+39. Formato complementario de lectura fácil que se realiza en los siguientes términos:
+
+«Hola ***** ****. Este resumen es para explicarte de forma sencilla lo que decidió este Tribunal sobre tu caso.
+
+Tú presentaste una demanda de amparo porque la Secretaría del Bienestar en Chihuahua no te ha respondido la solicitud que hiciste desde el 4 de junio de 2025 para recibir una pensión para personas con discapacidad visual, y además temes que te la nieguen.
+
+El Juzgado de Distrito revisó tu caso y te concedió una suspensión provisional, pero solo para que la Secretaría te conteste tu solicitud, no para que de inmediato te paguen la pensión, de ser procedente.
+
+Como no estuviste de acuerdo con esos límites, tu abogado presentó una queja ante este Tribunal Colegiado, argumentando que tu situación afecta tu mínimo vital, es decir, tu derecho a vivir con lo necesario para subsistir, por lo que debía protegerse tu caso de forma más efectiva.
+
+Este Tribunal Colegiado revisó tu asunto y te dio parcialmente la razón. Confirmó que todavía no puede ordenarse el pago automático de la pensión (porque eso se decide en un trámite administrativo), pero modificó la suspensión para que la autoridad actúe de manera más rápida y clara.
+
+En nuestra decisión, el Tribunal ordenó lo siguiente: ✓ La Secretaría del Bienestar debe, en un plazo máximo de 24 horas, resolver tu solicitud de pensión presentada el 4 de junio de 2025.
+
+✓ La autoridad debe revisar tus documentos y, si cumples con los requisitos, empezar a pagarte la pensión desde la fecha en que la solicitaste.
+
+✓ Si no cumple o no explica legalmente por qué no puede hacerlo, el Tribunal puede imponerle multas y sanciones.
+
+En resumen, ya no pueden dejarte sin respuesta. Si cumples los requisitos, la Secretaría debe autorizarte y pagarte la pensión que solicitaste, y hacerlo de inmediato, pues es un derecho humano que está previsto en el artículo 4° de nuestra Constitución.»
+
+40. Para lo cual —en vía de asuste razonable[19]—, se comisiona al actuario judicial adscrito a este órgano colegiado para que notifique personalmente a la parte quejosa la presente sentencia, le corra traslado con la versión complementaria en lenguaje sencillo y dé lectura de la misma directamente a ***** **** ****** *********.
+
+41. Al respecto, se comparte el criterio contenido en la tesis II.1o.A.3 K (11a.) del Primer Tribunal Colegiado en Materia Administrativa del Segundo Circuito, registro digital 2030439, de rubro: «SENTENCIA EN FORMATO ACCESIBLE. SU EMISIÓN, LECTURA Y EXPLICACIÓN EN EL JUICIO DE AMPARO CONSTITUYEN AJUSTES AL PROCEDIMIENTO
+
+[19] De conformidad con la jurisprudencia 1a./J. 163/2022 (11a.) de la entonces Primera Sala del Alto Tribunal, registro digital 2025638, de rubro: «DERECHOS DE LAS PERSONAS CON DISCAPACIDAD. DIFERENCIA ENTRE AJUSTES RAZONABLES Y AJUSTES DE PROCEDIMIENTO.»
+
+PARA QUE LAS PERSONAS CON DISCAPACIDAD ACCEDAN A LA JUSTICIA EN CONDICIONES DE IGUALDAD.»
+
+Por lo expuesto y fundado, este Tribunal Colegiado,
+
+RESUELVE:
+
+ÚNICO. Se declara parcialmente fundado el presente recurso de queja.
+
+Publíquese, notifíquese y personalmente a la parte quejosa; envíese testimonio de esta resolución al Juzgado de Distrito en el Estado, con residencia en esta ciudad y, en su oportunidad, archívese el expediente[20].
+
+Así, lo resolvió el Segundo Tribunal Colegiado en Materias Penal y Administrativa del Decimoséptimo Circuito, por unanimidad de votos de los Magistrados Amílcar Asael Estrada Sánchez y Rafael Rivera Durón, así como el Secretario en funciones de Magistrado Irving Armando Anchondo Anchondo, siendo presidente el citado en primer término y ponente el segundo de los nombrados, quienes firman electrónicamente el doce de noviembre de dos mil veinticinco, en unión con la Secretaria de Acuerdos Ana Karina García Villa, quien autoriza
+
+[20] El texto íntegro de las tesis invocadas en este fallo, se localizan a través del siguiente código QR: y da fe.
+
+MAGISTRADO PRESIDENTE:
+
+AMÍLCAR ASAEL ESTRADA SÁNCHEZ (Firma electrónica)
+
+MAGISTRADO PONENTE:
+
+RAFAEL RIVERA DURÓN.
+
+(Firma electrónica)
+
+SECRETARIO EN FUNCIONES DE MAGISTRADO IRVING ARMANDO ANCHONDO ANCHONDO (Firma electrónica)
+
+SECRETARIA DE ACUERDOS:
+
+ANA KARINA GARCÍA VILLA.
+
+(Firma electrónica)
+
+18625 y 18636
+
+RAZÓN: La presente foja corresponde a la parte final de la resolución de doce de noviembre de dos mil veinticinco, dictada en el Recurso de Revisión Administrativo 475/2025. Conste.
+
+Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+[FIRMA ELECTRÓNICA] Firmantes: ANA KARINA GARCIA VILLA
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Número de serie:
+
+[FIRMA ELECTRÓNICA] Firmantes: AMÍLCAR ASAEL ESTRADA SÁNCHEZ
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Número de serie:
+
+[FIRMA ELECTRÓNICA] Firmantes: IRVING ARMANDO ANCHONDO ANCHONDO
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Número de serie:
+
+[FIRMA ELECTRÓNICA] Firmantes: Rafael Rivera Durón
+
+Cadena firma:
+
+Emisor del respondedor: Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+Número de serie:
+
+El doce de noviembre de dos mil veinticinco, el licenciado Osmar Abraham Lara Piñon, Secretario(a), con adscripción en el Segundo Tribunal Colegiado en Materias Penal y Administrativa del Décimo Séptimo Circuito, hago constar y certifico que en términos de lo previsto en los artículos 108 y 113 de la Ley Federal de Trasparencia y Acceso a la Información Pública, esta versión pública suprime toda aquella información considerada legalmente como reservada o confidencial, que encuadra en el ordenamiento mencionado. Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+A A ANA KARINA GARCIA VILLA 706a6620636a663200000000000000000001a5a4 15/05/26 18:00:00 PJF - Versión Pública
+ANA KARINA GARCIA VILLA 706a6620636a663200000000000000000001a5a4 15/05/26 18:00:00 PJF - Versión Pública
+PJF - Versión Pública

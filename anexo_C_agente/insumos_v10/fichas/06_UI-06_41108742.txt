@@ -1,0 +1,688 @@
+UNIDAD: UI-06
+SENTENCIA: 41108742
+ÓRGANO: Juzgado Primero de Distrito en el Estado de Guanajuato
+FECHA: 2026-07-30
+TIPO DE ASUNTO: Amparo Indirecto
+AVISO: Uso institucional UI-06 (3 sentencias con el mismo machote): codifica la declaración una sola vez.
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+[1] Denominación con la que rindieron sus informes. ADRIANA MORALES PADILLA 706a6620636a6633000000000000000000004c17 26-08-26 14:55:24 PJF - Versión Pública [2] Resolución que es elaborada con la asistencia de una inteligencia artificial que tiene como única finalidad sintetizar documentos complejos, así como bajo la supervisión y ajustes que Adriana Morales Padilla, secretaria de este juzgado, realizó con apegó a los parámetros mínimos propuestos en la jurisprudencia II.2o.C. J/2 K (12a.), con número de registro digital 2031640, de rubro “INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS”. [3] “Artículo 12 Los pueblos interesados deberán tener protección contra la violación de sus derechos, y poder iniciar procedimientos legales, sea personalmente o bien por conducto de sus organismos representativos, para asegurar el respeto efectivo de tales derechos. Deberán tomarse medidas para garantizar que los miembros de dichos pueblos puedan comprender y hacerse comprender en procedimientos legales, facilitándoles si fuere necesario, intérpretes u otros medios eficaces.” [4] Adoptado en la ciudad de Ginebra, Suiza, el 27 de junio de 1989; aprobado por la Cámara de Senadores del Congreso de la Unión el 11 de julio de 1990; y, publicado en el Diario Oficial de la Federación el 24 de enero de 1991. [5] Artículo 2o. La Nación Mexicana es única e indivisible, basada en la grandeza de sus pueblos y culturas. (…) A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para: (…) XI. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales con respeto a los preceptos de esta Constitución. [6] “Artículo 79. La autoridad que conozca del juicio de amparo deberá suplir la deficiencia de los conceptos de violación o agravios, en los casos siguientes: (…) VII. En cualquier materia, en favor de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para su defensa en el juicio.” [7] Diario Oficial de la Federación. (2024). Decreto por el que se reforman, adicionan y derogan diversas disposiciones del artículo 2º de la Constitución Política de los Estados Unidos Mexicanos, en materia de Pueblos y Comunidades Indígenas y Afromexicanos. Recuperado de: https://www.gob.mx/cms/uploads/attachment/file/947760/DOF-2024-09-30-VES SG.pdf [8] “Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo. A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto. Tercero. El Congreso de la Unión, en un plazo de ciento ochenta días, contados a partir de la entrada en vigor de este Decreto, debe expedir la ley general de la materia y armonizar el marco jurídico de las leyes que correspondan, para adecuarlo al contenido del presente Decreto. Cuarto. El Poder Ejecutivo Federal debe realizar las reformas a las disposiciones administrativas aplicables, para asegurar el respeto y la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en el presente instrumento; lo anterior, en un plazo de ciento ochenta días contados a partir de la entrada en vigor de la ley general que refiere el presente Decreto. Quinto. Las autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, deben realizar las adecuaciones normativas que aseguren las características de la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, en el marco de la unidad nacional en los términos que establece esta Constitución, así́ como su reconocimiento como sujetos de derecho público y el respeto irrestricto a sus derechos; lo anterior, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.” [9]https://congreso-gto.s3.amazonaws.com/uploads/dictamen/archivo/6779/6613-141.pdf [10]https://www.gob.mx/cms/uploads/attachment/file/984032/2025_03_13_Lineamientos_componente_in d_gena.pdf?utm_source [11] https://faispiam2026.bienestar.gob.mx/FAISPIAM2026.bienestar/Pdf/GUANAJUATO.pdf [12] https://www.gob.mx/bienestar/prensa/secretaria-de-bienestar-publica-lista-de-pueblos-y- comunidades-indigenas-y-afromexicanas-que-ejerceran-recursos-de-manera-directa-del- fondo-de-aportaciones-a-la-infraestructura-social? La suscrita secretaria del Juzgado Primero de Distrito en el Estado de Guanajuato, con sede en Guanajuato, CERTIFICO Y HAGO CONSTAR que: la presente sentencia, relativa al juicio de amparo 143/2026-VIII-E, coincide fiel y exactamente, tanto en su versión electrónica, como en su versión física que se glosa al expediente el día de hoy treinta de julio de dos mil veintiséis. Doy fe. Adriana Morales Padilla.  ADRIANA MORALES PADILLA 706a6620636a6633000000000000000000004c17 26-08-26 14:55:24 PJF - Versión Pública PJF - Versión Pública
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+S E N T E N C I A:
+
+VISTOS para resolver en sentencia, los autos del juicio de amparo143/2026–VIII; promovido por la “************ ******** ***** ** *** ********* ***********” de las veintidós comunidades indígenas: 1. ****** *** ****, 2. ** *****, 3. ** ****, 4. **********, 5. ****** ** *******, 6. **** ** *** ******, 7. ***** *****, 8. ** *******, 9. ** ********, 10. *** ********, 11. ****** ****, 12. ******** *** ****, 13. ***** ********, 14. ***********, 15. ****** ** *******, 16. ** *********, 17. *** *****, 18. ** *******, 19. ******** ** *********, 20. ** **********, 21. **** ****** ** ***********, **** ****** **, todas representadas por sus delegados.
+
+RESULTANDO
+
+PRIMERO. Presentación de la demanda de amparo. Por escrito depositado en el buzón judicial de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Guanajuato, con sede en esta ciudad, el doce de febrero de dos mil veintiséis, **** ***** ******** ********* en su carácter de Delegado de la comunidad ****** *** ***** y otras comunidades, presentaron demanda de amparo en contra de las autoridades y por el acto que enseguida se precisan:
+
+Autoridades responsables[1]:
+
+a) Gobernadora del Estado de Guanajuato.
+
+b) Congreso del Estado de Guanajuato.
+
+Acto reclamado:
+
+“1.- Del H. Congreso Del Estado de Guanajuato, se reclama la APROBACIÓN del PRESUPUESTO GENERAL DE EGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL 2026, publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 30 de diciembre de 2025, por no incluir partida presupuestal destinada a los pueblos y comunidades Indígenas tal como lo refiere el Artículo 2 inciso B, penúltimo párrafo de la CPEUM.
+
+2.- De la Gobernadora Constitucional del Estado Libre y Soberano de Guanajuato ***** ******* ****** ***** **** se reclama la INICIATIVA de Ley del Presupuesto General de Egresos del Estado de Guanajuato para el Ejercicio Fiscal 2026, publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 30 de diciembre de 2025, por SER OMISA en incluir partida presupuestal destinada a los pueblos y comunidades Indígenas tal como lo refiere el Artículo 2 inciso B, penúltimo párrafo de la CPEUM.
+
+Asimismo, se reclama la publicación del decreto correspondiente.
+
+De ambas autoridades se reclama la omisión de realizar las adecuaciones normativas necesarias a fin de destinar partidas presupuestales destinadas a los pueblos y comunidades indígenas. Con dicha omisión, ambas autoridades omiten dar operatividad y materializar su obligación de determinar asignaciones presupuestales para los pueblos y comunidades indígenas, para que sean administradas directamente por estos.” (sic)
+
+SEGUNDO. Trámite de la demanda. La demanda de amparo se turnó a este Juzgado Primero de Distrito, y se admitió a trámite el dieciséis de febrero de dos mil veintiséis (fojas 117 a 120), instaurándose así el juicio de amparo 143/2026-VIII;
+
+y previó desahogo de prevención el veintiséis de febrero siguiente (fojas 163 y 164), se admitió a trámite, se solicitó a las autoridades responsables su informe justificado, se dio a la agente del Ministerio Público de la Federación adscrita a este juzgado la intervención que legalmente le correspondía, y se señaló fecha y hora para la audiencia constitucional, la cual se desahogó, previos diferimientos, al tenor del acta que antecede.
+
+TERCERO. Formato de lectura fácil. A fin de garantizar el derecho humano a la tutela judicial efectiva, en su vertiente de acceso a la justicia de manera clara y comprensible, para la comunicación efectiva y accesible de la sentencia por parte del justiciable, se ordena la emisión de un formato de lectura fácil[2].
+
+“SENTENCIAS EN FORMATO DE LECTURA ACCESIBLE Y SENCILLA. DEBEN EMITIRSE CUANDO INTERVENGAN PERSONAS O GRUPOS EN SITUACIÓN DE VULNERABILIDAD, ASÍ COMO EN OTROS SUPUESTOS DE TRASCENDENCIA. Hechos: Una persona promovió juicio agrario en el que reclamó el reconocimiento como sucesora de los derechos agrarios de una persona ejidataria fallecida. El Tribunal Unitario Agrario dictó sentencia en la que la reconoció como sucesora de los derechos agrarios. Por su parte, la hija del ejidatario promovió amparo indirecto y el Juzgado de Distrito le concedió la protección constitucional para el efecto de que fuera llamada al juicio agrario. El procedimiento fue repuesto y durante su sustanciación la actora principal falleció. El Tribunal Agrario dictó una segunda sentencia en la que determinó que ante la muerte de la actora principal se extinguió el beneficio legal que la colocaba en primer orden de preferencia para suceder en los derechos agrarios por su calidad de esposa del ejidatario, y que dicho beneficio se actualizaba en favor de la demandada principal, en su carácter de concubina supérstite. Contra esa determinación el causahabiente de la actora principal promovió amparo indirecto, al considerar que se vulnera el principio de imparcialidad, pues se resolvió sobre prestaciones no reclamadas.
+
+Criterio jurídico: Las sentencias en formato de lectura accesible y sencilla deben emitirse en los asuntos en los que intervengan personas o grupos en situación de vulnerabilidad u otros supuestos relevantes, así como en los casos que, por su naturaleza, revistan especial trascendencia.
+
+Justificación: Si bien es cierto que en el sistema jurídico mexicano los formatos de sentencias de lectura accesible y sencilla tuvieron su origen en un asunto relativo a los derechos de una persona con discapacidad, lo cierto es que en la actualidad dichos formatos no se encuentran limitados a ese grupo de personas. La extinta Primera Sala de la Suprema Corte de Justicia de la Nación, al resolver el amparo en revisión 159/2013, emitió por primera vez una sentencia en formato de lectura fácil en un asunto relacionado con los derechos de una persona con discapacidad. Posteriormente, la extinta Segunda Sala del Alto Tribunal, mediante el Acuerdo General 1/2019, amplió la procedencia de este tipo de sentencias a los casos en los que se encuentren involucrados derechos de personas o grupos en situación de vulnerabilidad, e incluso previó otros supuestos, como aquellos en los que, en atención a las características y condiciones sociales de alguna o algunas de las partes, se estime necesario su uso. Así, tomando en cuenta dicho Acuerdo, la Suprema Corte en la versión vigente del Protocolo para Juzgar con perspectiva de Infancia y Adolescencia señaló que si bien ha desarrollado diversos criterios orientadores para la elaboración de sentencias en formato de lectura fácil tratándose de personas con discapacidad, algunos de ellos resultan aplicables de manera general a otros grupos en situación de vulnerabilidad que requieren la emisión de este tipo de resoluciones, como ocurre en los casos de niñas, niños y adolescentes. Con base en este parámetro y en la doctrina relativa a la lectura fácil, la determinación de emitir una sentencia en versión de lectura accesible y sencilla debe sustentarse en la valoración del caso concreto, en atención a la situación de vulnerabilidad de una persona o grupo, a las características y condiciones sociales específicas de las personas involucradas, o bien, a la relevancia o trascendencia del asunto. De manera enunciativa, dichas sentencias deberán emitirse, entre otros supuestos, cuando: a) intervengan niñas, niños y adolescentes; b) se encuentren involucradas personas con discapacidad; c) participen personas migrantes o sujetas a protección internacional; d) estén presentes personas, comunidades o pueblos indígenas; e) se advierta que las personas involucradas presentan características y condiciones sociales específicas que así lo ameriten; o f) se trate de casos de especial importancia o trascendencia para el país. Lo anterior en el entendido de que si bien este tipo de sentencias surgió históricamente en asuntos relacionados con personas con discapacidad, ello no implica que la emisión de resoluciones en formato de lectura accesible y sencilla deba obedecer a la presunción de que las personas involucradas presentan alguna discapacidad. Por el contrario, la lectura fácil en las sentencias constituye una herramienta que reconoce la diversidad y promueve el acceso efectivo a la justicia, al permitir que las personas comprendan el contenido y el alcance de las decisiones judiciales que inciden en su esfera jurídica. De este modo, dicho mecanismo favorece la igualdad y la inclusión social, por lo que las autoridades jurisdiccionales deben transitar hacia un modelo de justicia accesible para cualquier persona que, por encontrarse en una situación jurídicamente relevante, requiera que la resolución se emita en un formato de lectura accesible y sencilla."
+
+En la inteligencia, que el contenido de los formatos de sentencia de lectura fácil, sencilla y accesible, tienen como única finalidad hacer del conocimiento de las partes lo resuelto en un juicio, a fin de garantizar la accesibilidad de las personas a la información que les permita no sólo el goce sino el conocimiento pleno de los derechos humanos y las libertades fundamentales de que son titulares.
+
+CONSIDERANDO
+
+PRIMERO. Competencia. Este Juzgado Primero de Distrito en el Estado de Guanajuato, con residencia en la ciudad del mismo nombre, es competente para conocer y resolver el presente juicio, con fundamento en el artículo 107, Constitucional;
+
+33, fracción IV, 35, 37, primer párrafo, y 107, todos de la Ley de Amparo; 46 de la Ley Orgánica del Poder Judicial de la Federación; y Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, la jurisdicción territorial y especialización por materia de los Tribunales Colegiados de Circuito, los Tribunales Colegiados de Apelación y los Juzgados de Distrito; toda vez que el acto reclamado tiene repercusión en el presente distrito.
+
+SEGUNDO. Legitimación y representación. El artículo 12[3] del Convenio 169[4], emitido por la OIT de la ONU, sobre Pueblos Indígenas y Tribales en Países Independientes, establece, en lo conducente, que los pueblos deberán tener protección contra la violación de sus derechos, y poder iniciar procedimientos legales, sea personalmente o bien por conducto de sus organismos representativos, para asegurar el respeto efectivo de tales derechos y que deberán tomarse medidas para garantizar que los miembros de dichos pueblos puedan comprender y hacerse comprender en los procedimientos legales, facilitándoles, si fuere necesario, intérpretes u otros medios eficaces.
+
+El artículo 2°, apartado A, fracción XI[5], de la Constitución Política de los Estados Unidos Mexicanos reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para acceder plenamente a la jurisdicción del Estado, además dispone que, para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y sus especificidades culturales, respetando los preceptos de la Constitución General de la República.
+
+La Primera Sala de la SCJN, al resolver el amparo en revisión 631/2012, en sesión de 8 de mayo de 2013, interpretó el derecho humano de acceso a la justicia para las comunidades o pueblos indígenas, derivado de los artículos 12 del Convenio 169, emitido por la OIT de la ONU, sobre Pueblos Indígenas y Tribales en Países Independientes; y, 2, apartado A, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos; y, sostuvo que:
+
+i. Ese derecho deriva de la situación de vulnerabilidad en la que se encuentran las comunidades y los pueblos indígenas; y, del reconocimiento de su autonomía.
+
+ii. Garantiza a los pueblos, a las comunidades indígenas y a sus integrantes el acceso pleno a la jurisdicción.
+
+iii. Ese derecho permite que cualquier integrante de una comunidad o de un pueblo indígena pueda instar a la autoridad jurisdiccional para la defensa de los derechos humanos colectivos, con independencia de que se trate o no de sus representantes.
+
+Este criterio se plasmó en la tesis aislada 1a. CCXXXV/2013 (10a.), emitida por la extinta Primera Sala de la Suprema Corte de Justicia de la Nación, publicada en el Semanario Judicial de la Federación y su Gaceta Libro XXIII, Agosto de 2013, Tomo I, página 735, con número de registro digital 2004169, de rubro:
+
+“COMUNIDADES Y PUEBLOS INDÍGENAS. CUALQUIERA DE SUS INTEGRANTES PUEDE PROMOVER JUICIO DE AMPARO EN DEFENSA DE LOS DERECHOS FUNDAMENTALES COLECTIVOS.”
+
+De las constancias que obran en autos, se advierte que las personas quejosas manifestaron pertenecer a la comunidad originaria de “************ ******** ***** ** *** ********* ***********” y se autoadscribieron como integrantes de las comunidades indígenas Otomí, conforme a lo dispuesto por los artículos 2° de la Constitución Política de los Estados Unidos Mexicanos, 1° del Convenio 169 de la Organización Internacional del Trabajo, así como por los estándares interpretativos contenidos en el Protocolo para Juzgar con Perspectiva Intercultural.
+
+Dicho precepto constitucional reconoce que la conciencia de identidad indígena es el elemento fundamental para determinar la calidad de persona o comunidad indígena, y que dicha identidad no está sujeta a verificación, acreditación o certificación administrativa alguna, bastando la manifestación de autoadscripción individual o colectiva.
+
+En esa línea, la Suprema Corte ha sostenido que “es indígena toda persona que se autorreconozca como tal” y que “el ejercicio de los derechos reconocidos en el artículo 2° constitucional recae sobre quienes así se reconozcan, sin que sea exigible una carga probatoria adicional”.
+
+En concordancia con el Protocolo mencionado, el juzgador debe presumir la buena fe de la autoadscripción y reconocerla sin estereotipos, evitando limitarla a rasgos como el idioma, la vestimenta o la ubicación rural, pues la identidad se configura también por elementos históricos, culturales y territoriales.
+
+Asimismo, debe tenerse presente que la autoadscripción puede ser colectiva, cuando se reivindica una pertenencia común a un pueblo, comunidad o territorio, lo cual es precisamente el caso de las y los quejosos, quienes actúan en defensa de recursos naturales situados dentro del ámbito cultural y territorial de su comunidad.
+
+En consecuencia, este órgano jurisdiccional reconoce la autoadscripción indígena de los quejosos, por lo que el presente asunto debe ser analizado con perspectiva intercultural, conforme al mandato del artículo 1° constitucional y al principio pro persona.
+
+Sin que esto equivalga a una declaración judicial en el sentido de que los quejosos realmente pertenecen a dicha comunidad, dado que solo se reconocen para los efectos del presente juicio de amparo, los derechos consagrados en el artículo 2° de Constitución Política de los Estados Unidos Mexicanos.
+
+Sustenta lo anterior, la tesis jurisprudencial 1a./J. 57/2022 (11a.) emitida por la entonces Primera Sala de la Suprema Corte de Justicia de la Nación, publicada en el Semanario Judicial de la Federación, Libro 14, Junio de 2022, Tomo V, página 4016, con registro digital 2024732, de rubro y texto siguientes:
+
+“AUTOADSCRIPCIÓN INDÍGENA. NO ES NECESARIO DEMOSTRARLA A TRAVÉS DE DOCUMENTOS OFICIALES O QUE EXISTA UN REGISTRO O RECONOCIMIENTO PREVIO DE LAS AUTORIDADES PARA SU IDENTIFICACIÓN.
+
+Hechos: En un juicio de amparo indirecto la Juez de Distrito reconoció a una comunidad quejosa el carácter de indígena por virtud de su autoadscripción; sin embargo, la tercero interesada argumentó que debió demostrarse que, con anterioridad al juicio de amparo, se ostentaba con dicha calidad y que la autoridad hubiese reconocido su existencia.
+
+Criterio jurídico: La Primera Sala de la Suprema Corte de Justicia de la Nación determina que la autoadscripción indígena se basa en la conciencia de identidad, por lo cual no es necesario demostrarla a través de documentos oficiales o que exista un registro o reconocimiento previo de las autoridades.
+
+Justificación: La protección y el reconocimiento de las comunidades y pueblos indígenas deriva directamente de los tratados internacionales y del artículo 2o. constitucional, que establecen claramente que es la conciencia de la identidad indígena el criterio fundamental para determinar a quiénes se les debe considerar y aplicar las disposiciones sobre pueblos indígenas. Por ello, su reconocimiento no se refiere a formalidades y requisitos legales, sino a sus condiciones históricas, modo de vida y organización, cosmovisión, usos y costumbres, entre otros aspectos. De ahí que su existencia no puede sujetarse a documentos oficiales, o que se necesite un registro o reconocimiento de las autoridades para contar con tal calidad, pues ello constituiría una violación grave a la libre determinación de los grupos indígenas y sus integrantes, reconocida en el artículo 2o. constitucional.”
+
+La fracción XI del Artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, establece la obligación de garantizar intérprete y defensa adecuada en los procedimientos donde participen personas o comunidades indígenas.
+
+Dicha garantía debe analizarse conforme a las circunstancias concretas del caso, a fin de determinar si existe una restricción real al derecho de acceso a la justicia.
+
+En el presente asunto, se advierte de autos que las personas quejosas comparecieron, mediante escrito firmado en español, sin que manifestaran desconocer el idioma, ni la necesidad de que se les garantizara un traductor o intérprete.
+
+Aunado a que, designaron autorizado en términos amplios del artículo 12 de la Ley de Amparo, y han recibido notificaciones electrónicas durante toda la secuela procesal, lo que demuestra la comprensión suficiente del procedimiento y que cuentan con capacidad de comunicación con el órgano jurisdiccional.
+
+En ese contexto, no se actualiza vulneración al derecho de defensa adecuada ni a la asistencia lingüística, pues el deber judicial de proveer intérprete o defensor culturalmente competente se activa cuando existan indicios objetivos de barreras lingüísticas o culturales que obstaculicen la participación efectiva de la persona indígena, lo que no se advierte en autos.
+
+Por tanto, la ausencia de designación de intérprete y defensor especializado no genera irregularidad procesal, toda vez que los quejosos no la solicitaron, ni se evidenció obstáculo comunicativo o de comprensión, y contaron con representación jurídica válida conforme al artículo 12 de la Ley de Amparo.
+
+Orienta lo antes precisado, la tesis jurisprudencial 1a./J. 91/2022 (11a.) emitida por la entonces Primera Sala de la Suprema Corte de Justicia de la Nación, publicada en la Gaceta del Semanario Judicial de la Federación. Libro 15, Julio de 2022, Tomo II, página 1933, con número de registro digital 2024911, de texto y rubro siguientes:
+
+“DERECHO DE TODA PERSONA A SER RECONOCIDA COMO PARTE DE UNA COMUNIDAD INDÍGENA. LA AUTOADSCRIPCIÓN COMO INTEGRANTE DE UNA COMUNIDAD INDÍGENA QUE REALIZA UNA PERSONA HASTA LA DEMANDA DE AMPARO DIRECTO REQUIERE QUE EL TRIBUNAL COLEGIADO ANALICE SI ES POSIBLE DETONAR EN SU FAVOR LOS DERECHOS RECONOCIDOS EN EL ARTÍCULO 2o. DE LA CONSTITUCIÓN POLÍTICA DEL PAÍS.
+
+Hechos: En un procedimiento penal de corte tradicional se dictó sentencia condenatoria por el delito de despojo, la cual fue confirmada en segunda instancia. Inconforme con esa determinación, la persona sentenciada promovió amparo directo en cuya demanda se autoadscribió como miembro de una comunidad indígena y señaló que, de acuerdo con sus usos y costumbres, no era posible que cometiera el ilícito que se le atribuyó. El Tribunal Colegiado negó el amparo sin tomar en consideración la manifestación efectuada por la parte quejosa sobre su autoadscripción a una comunidad indígena, por lo que no analizó si era posible detonar en favor de la persona sentenciada los derechos reconocidos en el artículo 2o. de la Constitución Política del país.
+
+Criterio jurídico: Si una persona se autoadscribe como integrante de una comunidad indígena en cualquier procedimiento judicial, incluso hasta la presentación de la demanda de amparo directo, aunque no se hubiera autoadscrito durante el procedimiento, ello obliga al Tribunal Colegiado a pronunciarse sobre los derechos que tiene reconocidos en el artículo 2o.
+
+de la Constitución Política del país.
+
+Justificación: El artículo 2o., apartado A, de la Constitución Política del país reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación, y en consecuencia, a su autonomía, así como el derecho de acceso a la jurisdicción del Estado.
+
+Para garantizar esos derechos se deberán tomar en cuenta las costumbres y especificidades culturales en todos los procesos en los que participen individual o colectivamente, así como el derecho a ser asistidos por intérpretes y defensores que conozcan su lengua y cultura, sin hacer distinción sobre su aplicación en alguna etapa procesal específica o algún procedimiento en particular. En ese sentido, esta Primera Sala ha definido la autoadscripción como el acto voluntario de personas o comunidades que teniendo un vínculo cultural, histórico, político, lingüístico o de otro tipo, deciden identificarse como miembros de un pueblo indígena reconocido por el Estado. En concordancia con lo anterior, si la autoadscripción es una manifestación de identidad y pertenencia cultural con la finalidad de acceder a la jurisdicción del Estado, en todo tipo de juicio o procedimiento en el que sean parte las personas indígenas, individual o colectivamente, se deben tomar en cuenta sus costumbres y especificidades culturales, y en todo tiempo deberán ser asistidas por intérpretes y defensores que tengan conocimiento de su lengua y cultura. De esa forma, si es hasta el juicio de amparo directo en que la parte quejosa se autodetermina como persona indígena ante la autoridad jurisdiccional o solicita ser asistida por un defensor y un intérprete, el Tribunal Colegiado está obligado a atender esa manifestación y a valorar su condición de persona indígena, pues no debe tomar en cuenta el momento procesal en que ocurre esta autoadscripción, por lo que deberá valorar dicha condición y detonar en su favor las prerrogativas previstas en el artículo 2o., apartado A, fracción VIII, de la Constitución Política del país, así como considerar las especificidades culturales y costumbres de las personas y comunidades indígenas en el trámite y resolución del juicio de amparo directo.
+
+Sin perjuicio de ello, este órgano jurisdiccional ha tenido presente el carácter indígena de las personas quejosas y ha desarrollado el presente análisis con perspectiva intercultural, garantizando la interpretación más favorable de los derechos de acceso a la justicia, a la identidad y a la igualdad sustantiva, en cumplimiento de los artículos 1° y 2° constitucionales, así como del Convenio 169 de la Organización Internacional del Trabajo.
+
+TERCERO. Materia del juicio de amparo. De conformidad con lo establecido en el artículo 74, fracción I, de la Ley de Amparo, y de la lectura integral del escrito inicial de demanda, se precisa que en la presente instancia constitucional los quejosos reclaman:
+
+ACTOS RECLAMADOS AUTORIDADES RESPONSABLES
+
+1. La aprobación de la Ley del Congreso del Estado de Presupuesto General de Egresos del Guanajuato.
+
+Estado de Guanajuato para el ejercicio fiscal 2026, publicada el treinta de diciembre de dos mil veinticinco, en cuanto omitió establecer una partida presupuestal destinada a los pueblos y comunidades indígenas, pese a lo previsto en el artículo 2°, apartado B, penúltimo párrafo, de la Constitución Federal.
+
+2. La iniciativa de la Ley del Gobernadora del Estado de Presupuesto General de Egresos del Guanajuato.
+
+Estado de Guanajuato para el ejercicio fiscal 2026, por haber sido omisa en proponer una partida presupuestal destinada a los pueblos y comunidades indígenas.
+
+La omisión de realizar las Ambas autoridades adecuaciones normativas necesarias para dar cumplimiento al mandato previsto en el artículo 2, apartado B, de la Constitución Política de los Estados Unidos Mexicanos.
+
+CUARTO. Existencia de los actos reclamados. Es cierta la omisión que se reclama del Congreso y de la Gobernadora del Estado de Guanajuato, a pesar de que dichas autoridades lo hayan negado al rendir su respectivo informe justificado, porque al ser una omisión la que se reclama, no basta con la simple negativa para desvirtuar su existencia.
+
+Para dar claridad a lo anterior, conviene precisar que dentro de la clasificación de los actos reclamados en un juicio de amparo, por el tipo de conducta que despliega la autoridad, se encuentran los actos positivos y los actos negativos.
+
+Los primeros implican una conducta de hacer, mientras que los segundos constituyen la omisión o abstención de la autoridad;
+
+de tal suerte que los primeros representan un despliegue de actos que se materializan en el mundo fáctico, y los segundos son la antítesis de los anteriores, la evidencia de la abstención de la autoridad.
+
+Sobre este punto es aplicable la tesis de la Segunda Sala de la Suprema Corte de Justicia de la Nación, con registro 316826, que se cita a continuación:
+
+“ACTO RECLAMADO, NATURALEZA DEL (ACTOS POSITIVOS Y NEGATIVOS).
+
+Debe tenerse presente que no es lo mismo el carácter o naturaleza que el sentido del acto reclamado. Porque el acto es de naturaleza o de carácter negativo cuando consiste en una conducta omisiva, esto es, en una abstención, en dejar de hacer lo que la ley ordena; en tanto que es de naturaleza o de carácter positivo cuando consiste en una conducta comisiva, esto es, en una acción, en hacer lo que la ley ordena. por su parte, el sentido de los actos de naturaleza negativa o positiva puede ser igualmente negativo o positivo. La abstención de la autoridad puede redundar en una prohibición, o en no dictar un mandamiento imperativo, y, así, la omisión tendrá sentido positivo o negativo en la afectación del interés jurídico del quejoso, El acto comisivo de la autoridad, asimismo, puede redundar en conceder o negar lo que se pide, lo cual le dará su sentido positivo o negativo; pero basta que el acto sea resolutorio o decisivo para que no pueda calificarse como omisivo, es decir, de naturaleza o de carácter negativo.”
+
+Es importante mencionar que la precisión de la existencia de un acto positivo frente a la de un acto negativo adquiere matices propios en cada caso, mientras la existencia del primero debe demostrarla quien afirma que existe, en la segunda, no se puede imponer dicha carga a quien alega la existencia de un acto negativo por omisión, ya que no sería factible acreditar que la autoridad no ha hecho o se ha abstenido de hacer algo (acto negativo).
+
+Sobre esta base, debe decirse que la negativa de la existencia del acto reclamado negativo (por omisión), constituye sólo una expresión sobre la existencia de aquél, pero la carga de acreditar este último presupuesto tiene reglas especiales que atienden a la naturaleza del acto, es decir, si es negativo o positivo.
+
+Cuando el acto reclamado es de naturaleza positiva, implica que el quejoso afirma que la autoridad responsable desplegó una acción que se materializó en el mundo fáctico y jurídico, pero si la autoridad responsable niega esto último (haber realizado el acto que se le imputa), dicha expresión implica una negativa simple; y, en ese supuesto, el quejoso tendría la carga de acreditar su afirmación de que la autoridad desplegó la acción.
+
+No sucede lo mismo cuando el quejoso señala como acto reclamado una conducta negativa por omisión, porque en este supuesto si la autoridad responsable niega la existencia de esa omisión, dicha negativa no es simple porque lleva implícita la afirmación de que sí desplegó una conducta y, por ende, no incurrió en la omisión o abstención que se le atribuye.
+
+Por ese motivo la doctrina y la jurisprudencia han coincidido en señalar que la negativa simple del acto reclamado libera a quien la emite del deber de probarla, ya que lógicamente, no es factible demostrar lo que se ha negado; de tal suerte que la carga de probar recae en la parte contraria, quien debe demostrar la conducta de hacer que atribuye a la autoridad, cuya existencia debe ser demostrada por quien la afirma.
+
+No ocurre así cuando la negativa del acto no es simple sino calificada, porque dicho supuesto importa una afirmación, entonces quien la produce tiene la carga de justificarla.
+
+Las anteriores precisiones encuentran su origen en la regla que prevé el artículo 82 del Código Federal de Procedimientos Civiles, de aplicación supletoria a la Ley de Amparo, que establece que el que niega sólo está obligado a probar, entre otras hipótesis, cuando la negación envuelva la afirmación expresa de un hecho; por tanto, si es el caso de que en un juicio de amparo se reclame un acto que por su naturaleza es negativo, y a quien se le atribuye lo niega; entonces, no corresponde al quejoso demostrar la existencia de ese acto debido a que, ciertamente, no se encuentra en la posibilidad de probar la omisión o la abstención de su contraria.
+
+Ahora bien, la Primera Sala de la Suprema Corte de Justicia de la Nación, al resolver el amparo en revisión 1359/2015, estableció cómo debe ser entendido un acto reclamado que consiste en una “omisión”; al respecto sostuvo que para que se configure una omisión en el ámbito jurídico es imprescindible que exista el deber de realizar una conducta y que alguien haya incumplido con esa obligación.
+
+Sirve de apoyo a las consideraciones expuestas, la tesis de la Primera Sala de la Suprema Corte de Justicia de la Nación, cuyo rubro y texto son los siguientes:
+
+“CONCEPTO DE OMISIÓN COMO ACTOS DE AUTORIDAD. Desde un punto de vista conceptual, la simple inactividad no equivale a una omisión. En el ámbito jurídico, para que se configure una omisión es imprescindible que exista el deber de realizar una conducta y que alguien haya incumplido con esa obligación. En este sentido, las autoridades no sólo pueden afectar a los ciudadanos a partir de la realización de actos positivos, sino también a través de actos negativos u omisiones.”
+
+Para determinar a quién corresponde probar actos de esta naturaleza, debe considerarse que los actos omisivos se componen de dos aspectos:
+
+1. La obligación de actuar.
+
+2. La inexistencia de la actuación a la que está obligada la autoridad, o su legalidad.
+
+El primer extremo tiene sustento en las condiciones jurídicas aplicables al caso en concreto, y el segundo, debe ser combatido por la autoridad responsable, en términos del artículo 82 del Código Federal de Procedimientos Civiles, de aplicación supletoria a la Ley de Amparo, que establece como regla general que el que afirma está obligado a probar.
+
+La obligación de actuar
+
+Al respecto, se estima que en el caso se cumple el primero de los requisitos para acreditar la existencia de la omisión que se reclama.
+
+Es así, ya que del contenido integral de la demanda se advierte que los quejosos reclaman la existencia de una omisión de las autoridades responsables de no incluir partida presupuestal en la aprobación de la Ley del Presupuesto General de Egresos del Estado de Guanajuato para el Ejercicio Fiscal de 2026 destinada a los pueblos y comunidades indígenas tal y como lo estipuló el artículo 2° apartado B, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos; asimismo la omisión de realizar las adecuaciones normativas necesarias a fin de destinar partidas presupuestales para tal fin.
+
+Ahora, tratándose de omisiones la obligación de actuar de la autoridad encuentra su origen en un mandato legal, ya sea por estar ordenado en la propia constitución, en los tratados internacionales de los que es parte el Estado Mexicano, o en una ley diversa.
+
+Sirve por analogía la tesis I.4o.A.24 K (10a.) del Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito, publicada en la Gaceta del Semanario Judicial de la Federación, libro 1, diciembre de dos mil trece, tomo II, página 1133, de contenido siguiente:
+
+“INCONSTITUCIONALIDAD POR OMISIÓN LEGISLATIVA. ELEMENTOS QUE DEBEN ACREDITARSE PARA SU CONFIGURACIÓN. Para declarar la inconstitucionalidad por omisión legislativa, el juzgador deberá revisar que: a) exista un mandato normativo expreso (de la Constitución, de un tratado internacional o de una ley), luego de la declaración en la norma "programática", en la que se establece un derecho fundamental dotado de contenido y alcance, requiera de complementación "operativa" en las leyes o acciones conducentes; b) se configure la omisión del cumplimiento de tal obligación por parte del legislador o funcionario competente de cualquiera de los órganos públicos; y, c) la omisión produzca la violación de un derecho o garantía.”
+
+De lo anterior se puede afirmar que para acreditar la obligación de la autoridad, cuando se reclama una omisión, es necesario que:
+
+1. Exista un mandato normativo expreso (de la Constitución, de un tratado internacional o de una ley); y 2. Ese mandato obliga con toda claridad y precisión a una autoridad a expedir una disposición de carácter general.
+
+En ese contexto, el pasado treinta de septiembre de dos mil veinticuatro, se publicó en el Diario Oficial de la Federación la reforma al precepto 2º de la Constitución Política de los Estados Unidos Mexicanos, en la cual en su artículo quinto transitorio impuso a las autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, realizar las adecuaciones normativas que aseguren las características de la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, en un plazo de ciento ochenta días.
+
+De lo anterior es posible concluir que el Congreso de la Unión impuso a la Gobernadora y al Congreso, ambos del Estado de Guanajuato, realizar las adecuaciones necesarias a su legislación interna, conforme al contenido de la reforma constitucional.
+
+Por tanto, hasta este punto, se debe tener por demostrada la obligación de actuar de las responsables, puesto que existe un mandato normativo expreso y dicho mandato les impone con toda claridad y precisión expedir una disposición de carácter general.
+
+Incumplimiento de la obligación.
+
+En consecuencia, se tiene por acreditada la existencia de los actos reclamados, consistentes en la omisión atribuida a las autoridades responsables de incorporar una asignación presupuestal específica para los pueblos y comunidades indígenas en el Presupuesto General de Egresos del Estado de Guanajuato para el ejercicio fiscal 2026, así como la ausencia de las adecuaciones normativas que, a juicio de la parte quejosa, resultaban necesarias para hacer efectivo el mandato previsto en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
+
+Lo anterior se establece exclusivamente para efectos de la procedencia del estudio de fondo, sin prejuzgar, en este apartado, sobre la constitucionalidad o inconstitucionalidad de dicha omisión, cuestión que será analizada en el considerando correspondiente.
+
+Además, al rendir sus informes justificados las responsables formularon manifestaciones de las que se desprende que efectivamente no han cumplido tal mandato constitucional, las cuales constituyen una confesión expresa y espontánea, que hace prueba plena de la existencia del acto reclamado, en términos de los artículos 95 y 200 del Código Federal de Procedimientos Civiles, de aplicación supletoria a la Ley de Amparo, de conformidad con su numeral 2º.
+
+De ahí que deba tenerse por existente la omisión reclamada, ya que ha quedado demostrado que las responsables no han dado cumplimiento a sus obligaciones reglamentarias.
+
+QUINTO. Improcedencia del juicio. El análisis de las causas de improcedencia representa una cuestión de orden público y de estudio preferente, de conformidad con el artículo 62 de la Ley de Amparo. En el caso, no se advierte de manera oficiosa la actualización de alguna de ellas, por lo que se procede al estudio de las que hicieron valer las autoridades responsables.
+
+En el caso concreto, el Congreso del Estado de Guanajuato (fojas 173 a 191), señaló que se actualiza las causales de improcedencia previstas en el numeral 61, fracción XII, de la Ley de Amparo, porque la omisión reclamada no existe, dado que el mandato constitucional contenido en el artículo 2 apartado B, penúltimo párrafo y su régimen transitorio, no se aprecia ni se deprende la exigencia, ni la imposición de obligación legislativa alguna, para que el Congreso del Estado de Guanajuato, deba realizar adecuaciones normativas a la Ley de Presupuesto General de Egresos del Estado de Guanajuato para el Ejercicio Fiscal 2026, a fin de destinar partidas presupuestales a los pueblos y comunidades indígenas.
+
+De ahí que, ante la falta de un mandato normativo expreso no genera perjuicio alguno a los promoventes, por ende, existe una falta de interés jurídico, legitimo o simple.
+
+Esa propuesta debe desestimarse ya que tales argumentos se relacionan con la existencia de la omisión reclamada, que ya fue analizada en el considerando cuarto de esta sentencia, específicamente al establecer que existe la obligación de actuar por parte de las responsables y que a la fecha no se ha verificado tal mandato, lo que además será estudiado además en función del fondo de este juicio.
+
+Aunado a ello, contrariamente a lo señalado por la responsable, se considera infundada tal propuesta porque los quejosos sí cuentan con interés legítimo para promover el presente juicio, en función de lo siguiente:
+
+El artículo 61, fracción XII, de la Ley de Amparo, señala:
+
+“Artículo 61. El juicio de amparo es improcedente:
+
+[…]
+
+XII. Contra actos que no afecten los intereses jurídicos o legítimos del quejoso, en los términos establecidos en la fracción I del artículo 5o. de la presente Ley, y contra normas generales que requieran de un acto de aplicación posterior al inicio de su vigencia; […]”
+
+Para mejor entendimiento de lo anterior, es necesario destacar que los artículos 107, fracción I, constitucional; 5º, fracción I, y 6º de la Ley de Amparo, disponen:
+
+“Artículo 107. Todas las controversias de que habla el artículo 103 de esta Constitución, con excepción de aquella en materia electoral, se sujetarán a los procedimientos y formas del orden jurídico que determine la ley reglamentaria, de acuerdo con las bases siguientes:
+
+I. El juicio de amparo se seguirá siempre a instancia de parte agraviada, teniendo tal carácter quien aduce ser titular de un derecho o de un interés legítimo individual o colectivo, siempre que alegue que el acto reclamado viola los derechos reconocidos por esta Constitución y con ello se afecte su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico […]”
+
+“Artículo 5. Son parte en el juicio de amparo:
+
+I. El quejoso, teniendo tal carácter quien aduce ser titular de un derecho subjetivo o de un interés legítimo individual o colectivo, siempre que alegue que la norma, acto u omisión reclamados violan los derechos previstos en el artículo 1o. de la presente Ley y con ello se produzca una afectación real y actual a su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico.
+
+El interés simple, en ningún caso, podrá invocarse como interés legítimo. La autoridad pública no podrá invocar interés legítimo.
+
+[…]”
+
+“Artículo 6. El juicio de amparo puede promoverse por la persona física o moral a quien afecte la norma general o el acto reclamado, en términos de la fracción I del artículo 5o. de esta Ley. El quejoso podrá hacerlo por sí, por su representante legal o por su apoderado, o por cualquier persona en los casos previstos en esta Ley.
+
+[…]”
+
+Notas distintivas del interés jurídico y legítimo El origen del interés jurídico se contempla en la fracción I, del artículo 107, constitucional. Dicha figura se establece como un principio básico del juicio de amparo, porque como medio de control constitucional, aquél se debe seguir siempre a instancia de parte agraviada.
+
+De esta forma, como presupuesto del juicio de amparo se tiene que una persona podrá solicitar legítimamente la protección de la justicia federal, en los casos en que cuente con un derecho que haya sido infringido por actos de alguna autoridad. Con esta afirmación se pueden desprender los supuestos que integran el interés jurídico, a saber:
+
+a) La existencia y titularidad de un derecho contemplado por la ley; y, b) El resentimiento de un agravio, perjuicio, menoscabo u ofensa en ese derecho, proveniente de un acto de autoridad.
+
+En tales supuestos, el interés jurídico necesario para impugnar mediante el juicio de amparo un acto autoritario se encuentra en el perjuicio que éste ocasione en uno o varios derechos legítimamente tutelados por el orden jurídico, lo que faculta a su titular para acudir ante el órgano jurisdiccional demandando el cese de esa violación. Ese derecho protegido por el ordenamiento legal objetivo es lo que constituye el interés jurídico, que la ley de la materia toma en cuenta para la procedencia del juicio de amparo.
+
+Por su parte, el interés legítimo también se prevé en los artículos constitucionales y legales citados en párrafos precedentes; luego, para entender ese concepto es necesario acudir a las consideraciones que emitió el Pleno de la Suprema Corte de Justicia de la Nación, al resolver la contradicción de tesis 111/2013, de su índice, que se sintetizan a continuación.
+
+En primer término, se precisaron los extremos del interés – en su acepción jurídica, que se refiere a un vínculo entre cierta esfera legal y una acción encaminada a su protección, en virtud del cual, se solicita a la autoridad competente que ejerza sus facultades de conocimiento y resolución en torno a dicha acción–, tanto el simple como el jurídico.
+
+Del primero se dijo que implica el reconocimiento de una legitimación para cualquier individuo, por el solo hecho de ser miembro de la comunidad concerniente a todos los integrantes de la sociedad, por lo que el grado de intensidad en la esfera jurídica no resulta cualificado, personal o directo.
+
+En el segundo, según se explicó, consiste en la afectación a la esfera jurídica se encuentra referida a una cualidad específica: la titularidad de un derecho subjetivo.
+
+Establecido lo anterior, se consideró, a manera de aproximación inicial, que el interés legítimo es un punto intermedio entre el interés jurídico y el interés simple, ya que no se exige acreditar la afectación a un derecho subjetivo, pero tampoco significa que cualquier persona pueda promover la acción. Así, el interés legítimo solamente requiere de una afectación a la esfera jurídica entendida en un sentido amplio, ya sea porque dicha intromisión es directa, o porque el agravio deriva de una situación particular que la persona tiene en el orden jurídico.
+
+Además, que esa figura implica un vínculo entre una persona y una pretensión, de tal forma que la anulación del acto que se reclama produce un beneficio o efecto positivo en su esfera jurídica, ya sea actual o futuro, pero cierto. Sin embargo, esta titularidad potencial de una ventaja o utilidad jurídica requiere de un interés actual y real, no hipotético, ya que ello se encontraría referido a un interés simple.
+
+Se agregó que mediante este interés legítimo, el demandante se encuentra en una situación jurídica identificable, surgida por una relación específica con el objeto de la pretensión que aduce, ya sea por una circunstancia personal o por una regulación sectorial o grupal, y si bien dicha situación es diferenciada al interés del resto de la sociedad, lo cierto es que no requiere provenir de una facultad otorgada expresamente por el orden jurídico, es decir, tal situación goza de una lógica jurídica propia e independiente de alguna conexión o derivación con derechos subjetivos.
+
+En cualquier caso, se enfatizó por el Máximo Interprete Constitucional, que resulta pertinente la acreditación del interés legítimo en el procedimiento correspondiente, ya que no depende de una manifestación del interesado, es decir, la sola afirmación de éste, porque el hecho de que el interés legítimo implique un nivel de afectación menor al exigido en el interés jurídico no significa que no deba demostrarse.
+
+Por otra parte, también requiere precisarse que aunque este tipo de interés sirve de manera especial para la protección de intereses colectivos y, por tanto, ha resultado adecuado para justificar la legitimación a entidades de base asociativa, lo cierto es que tal función no resulta exclusiva, sino que la posición especial en el ordenamiento jurídico, también puede referirse a una persona en particular. Esto es, si bien en una situación jurídica concreta pueden concurrir el interés colectivo y el interés legítimo, lo cierto es que tal asociación no es absoluta e indefectible.
+
+Finalmente concluyó, que las notas distintivas del interés legítimo son las siguientes:
+
+a) Implica la existencia de un vínculo entre ciertos derechos fundamentales y una persona que comparece en el proceso.
+
+b) El vínculo no requiere de una facultad otorgada expresamente por el orden jurídico, es decir, la persona con interés se encuentra en aptitud de expresar un agravio diferenciado al resto de los integrantes de la sociedad, al tratarse de un interés cualificado, actual, real y jurídicamente relevante.
+
+c) Consiste en una categoría diferenciada y más amplia que el interés jurídico, pero tampoco se trata de un interés genérico de la sociedad como ocurre con el interés simple. Es decir, implica el acceso a los tribunales competentes ante posibles lesiones jurídicas a intereses jurídicamente relevantes y, por ende, protegidos. En otras palabras, debe existir un vínculo con una norma jurídica, pero basta que esta prevea un derecho objetivo, por lo que no se exige acreditar la afectación a un derecho subjetivo, pero tampoco implica que cualquier persona pueda promover la acción.
+
+d) La concesión del amparo se traduciría en un beneficio jurídico en favor del quejoso, es decir, un efecto positivo en su esfera jurídica ya sea actual o futuro pero cierto, que no puede ser lejanamente derivado, sino resultado inmediato de la resolución que en su caso llegue a dictarse.
+
+e) Debe existir una afectación a la esfera jurídica del quejoso en un sentido amplio, apreciada bajo un parámetro de razonabilidad y no sólo como una simple posibilidad, esto es, una lógica que debe guardar el vínculo entre la persona y la afectación aducida.
+
+f) Así, el quejoso tiene un interés propio distinto del de cualquier otro gobernado, consistente en que los poderes públicos actúen de conformidad con el ordenamiento jurídico, cuando con motivo de tales fines se incide en el ámbito de dicho interés propio.
+
+g) La situación jurídica identificable, surge por una relación específica con el objeto de la pretensión que se aduce, ya sea por una circunstancia personal o por una regulación sectorial.
+
+h) Si bien en una situación jurídica concreta pueden concurrir el interés colectivo o difuso y el interés legítimo, lo cierto es que tal asociación no es absoluta e indefectible.
+
+i) Debido a su configuración normativa, la categorización de todas las posibles situaciones y supuestos del interés legítimo, deberá ser producto de la labor cotidiana de los juzgadores de amparo al aplicar dicha figura jurídica.
+
+j) Finalmente, el interés debe responder a la naturaleza del proceso del cual forma parte, es decir, el interés legítimo requiere ser armónico con la dinámica y alcances del juicio de amparo, consistentes en la protección de los derechos fundamentales de las personas.
+
+Las consideraciones anteriores dieron lugar a la jurisprudencia P./J. 50/2014 (10a.), consultable en la Gaceta del Semanario Judicial de la Federación, libro 12, noviembre de dos mil catorce, tomo I, página 60, del tenor literal siguiente:
+
+“INTERÉS LEGÍTIMO. CONTENIDO Y ALCANCE PARA EFECTOS DE LA PROCEDENCIA DEL JUICIO DE AMPARO (INTERPRETACIÓN DEL ARTÍCULO 107, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS). A consideración de este Tribunal Pleno de la Suprema Corte de Justicia de la Nación, el párrafo primero de la fracción I del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, establece que tratándose de la procedencia del amparo indirecto - en los supuestos en que no se combatan actos o resoluciones de tribunales-, quien comparezca a un juicio deberá ubicarse en alguno de los siguientes dos supuestos: (I) ser titular de un derecho subjetivo, es decir, alegar una afectación inmediata y directa en la esfera jurídica, producida en virtud de tal titularidad; o (II) en caso de que no se cuente con tal interés, la Constitución ahora establece la posibilidad de solamente aducir un interés legítimo, que será suficiente para comparecer en el juicio. Dicho interés legítimo se refiere a la existencia de un vínculo entre ciertos derechos fundamentales y una persona que comparece en el proceso, sin que dicha persona requiera de una facultad otorgada expresamente por el orden jurídico, esto es, la persona que cuenta con ese interés se encuentra en aptitud de expresar un agravio diferenciado al resto de los demás integrantes de la sociedad, al tratarse de un interés cualificado, actual, real y jurídicamente relevante, de tal forma que la anulación del acto que se reclama produce un beneficio o efecto positivo en su esfera jurídica, ya sea actual o futuro pero cierto. En consecuencia, para que exista un interés legítimo, se requiere de la existencia de una afectación en cierta esfera jurídica -no exclusivamente en una cuestión patrimonial-, apreciada bajo un parámetro de razonabilidad, y no sólo como una simple posibilidad, esto es, una lógica que debe guardar el vínculo entre la persona y la afectación aducida, ante lo cual, una eventual sentencia de protección constitucional implicaría la obtención de un beneficio determinado, el que no puede ser lejanamente derivado, sino resultado inmediato de la resolución que en su caso llegue a dictarse. Como puede advertirse, el interés legítimo consiste en una categoría diferenciada y más amplia que el interés jurídico, pero tampoco se trata del interés genérico de la sociedad como ocurre con el interés simple, esto es, no se trata de la generalización de una acción popular, sino del acceso a los tribunales competentes ante posibles lesiones jurídicas a intereses jurídicamente relevantes y, por ende, protegidos. En esta lógica, mediante el interés legítimo, el demandante se encuentra en una situación jurídica identificable, surgida por una relación específica con el objeto de la pretensión que aduce, ya sea por una circunstancia personal o por una regulación sectorial o grupal, por lo que si bien en una situación jurídica concreta pueden concurrir el interés colectivo o difuso y el interés legítimo, lo cierto es que tal asociación no es absoluta e indefectible; pues es factible que un juzgador se encuentre con un caso en el cual exista un interés legítimo individual en virtud de que, la afectación o posición especial frente al ordenamiento jurídico, sea una situación no sólo compartida por un grupo formalmente identificable, sino que redunde también en una persona determinada que no pertenezca a dicho grupo. Incluso, podría darse el supuesto de que la afectación redunde de forma exclusiva en la esfera jurídica de una persona determinada, en razón de sus circunstancias específicas. En suma, debido a su configuración normativa, la categorización de todas las posibles situaciones y supuestos del interés legítimo, deberá ser producto de la labor cotidiana de los diversos juzgadores de amparo al aplicar dicha figura jurídica, ello a la luz de los lineamientos emitidos por esta Suprema Corte, debiendo interpretarse acorde a la naturaleza y funciones del juicio de amparo, esto es, buscando la mayor protección de los derechos fundamentales de las personas.”
+
+Ahora bien, en el caso en concreto los quejosos reclaman la omisión de no incluir partida presupuestal en la aprobación de la Ley del Presupuesto General de Egresos del Estado de Guanajuato para el Ejercicio Fiscal de 2026 destinada a los pueblos y comunidades indígenas tal y como lo estipuló el numeral 2° apartado B, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos; asimismo la omisión de realizar las adecuaciones normativas necesarias a fin de destinar partidas presupuestales para tal fin.
+
+En ese sentido, los quejosos acreditaron que ser miembros de la “************ ******** ***** ** *** ********* ***********” de las veintidós comunidades indígenas: 1. ****** *** ****, 2. ** *****, 3. ** ****, 4. **********, 5. ****** ** *******, 6. **** ** *** ******, 7. ***** *****, 8. ** *******, 9. ** ********, 10. *** ********, 11. ****** ****, 12.
+
+******** *** ****, 13. ***** ********, 14. ***********, 15.
+
+****** ** *******, 16. ** *********, 17. *** *****, 18. ** *******, 19. ******** ** *********, 20. ** **********, 21.
+
+**** ****** ** ***********, **** ****** **, todas representadas por sus delegados
+
+En esas condiciones, si para acreditarse el interés legítimo para reclamar la omisión del Congreso y de la Gobernadora, ambos del Estado de Guanajuato, de la omisión de no incluir partida presupuestal en la aprobación la Ley del Presupuesto General de Egresos del Estado de Guanajuato para el Ejercicio Fiscal de 2026 destinada a los pueblos y comunidades indígenas, es que la posible emisión de esas leyes pueda incidir, de manera real y jurídicamente relevante, en la esfera de derechos (indirecta y objetiva) de los quejosos.
+
+Así, toda vez que se aprecia que tienen una posición diferenciada del resto de la población, es decir, que no solo tienen el interés simple de que las autoridades cumplan sus obligaciones, sino en una especial situación en el orden jurídico, como lo es, que pertenecen a comunidades indígenas; por tanto, es posible afirmar que los promoventes del amparo para efectos del presente juicio de amparo cuentan con interés legítimo para promover este juicio.
+
+SEXTO. Estudio
+
+✓ Síntesis de los conceptos de violación.
+
+Es innecesaria la transcripción de los conceptos de violación que hace valer la parte quejosa, en virtud de que la Ley de Amparo no establece obligación en ese sentido.
+
+Lo anterior, cobra sustento en la jurisprudencia 58/2010, sustentada por la Segunda Sala de la Suprema Corte de Justicia de la Nación, que puede leerse en la página 830, del Tomo XXXI, mayo de 2010, en el Semanario Judicial de la Federación y su Gaceta, de rubro: “CONCEPTOS DE VIOLACIÓN O AGRAVIOS.
+
+PARA CUMPLIR CON LOS PRINCIPIOS DE CONGRUENCIA Y EXHAUSTIVIDAD EN LAS SENTENCIAS DE AMPARO ES INNECESARIA SU TRANSCRIPCIÓN.”.
+
+Los quejosos sostienen, en esencia, que las autoridades responsables vulneraron los derechos reconocidos en el artículo 2°, apartado B, fracción II y penúltimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, al aprobar, presentar y publicar el Presupuesto General de Egresos del Estado de Guanajuato para el ejercicio fiscal 2026, sin prever asignaciones presupuestales específicas destinadas a los pueblos y comunidades indígenas. Afirman que el Congreso del Estado y la Titular del Poder Ejecutivo Local incurrieron, además, en una omisión legislativa y administrativa al no realizar las adecuaciones normativas necesarias para hacer operativa la reforma constitucional de treinta de septiembre de dos mil veinticuatro, con lo cual impidieron que las comunidades indígenas accedan a recursos públicos y los administren directamente conforme a su derecho de libre determinación y autonomía. Señalan que dicha omisión desconoce el mandato constitucional y los artículos transitorios de la reforma, pese a que transcurrió el plazo otorgado para armonizar el marco jurídico, lo que, a su juicio, constituye una violación continua a sus derechos colectivos, a la igualdad sustantiva, al desarrollo integral y al reconocimiento como sujetos de derecho público, al privarlos de los recursos presupuestales que constitucionalmente les corresponden.
+
+RESPUESTA A LOS MOTIVOS DE INCONFORMIDAD.
+
+Los anteriores argumentos en suplencia de la deficiencia de la queja, prevista en el artículo 79, fracción VII, de la Ley de Amparo[6], son esencialmente fundados y suficientes para conceder el amparo y la protección de la Justicia Federal solicitados. Se explica.
+
+Los quejosos reclaman del Congreso y de la Gobernadora, ambos del Estado de Guanajuato la omisión de no haber incluido la partida presupuestal en Ley del Presupuesto General de Egresos del Estado de Guanajuato para el Ejercicio Fiscal de 2026, destinadas a pueblos y comunidades indígenas para que fueran administradas y ejercidas directamente por estos, por ende, no dieron cumplimiento como lo ordena el artículo 1° de la Constitución Política del Estado Libre y Soberano de Guanajuato, así como al numeral 2 apartado B, penúltimo párrafo de la Constitución Federal.
+
+En ese tenor, para la resolución del presente asunto, se debe primero determinar si esa omisión existe y además constituye una de ejercicio obligatorio o una de ejercicio potestativo, así como si se trata de una relativa o de una absoluta.
+
+Ahora bien, el treinta de septiembre de dos mil veinticuatro, se reformó el precepto 2º de la Constitución Política de los Estados Unidos Mexicanos[7], cuyo texto, en la parte que interesa, establece lo siguiente:
+
+“Art. 2o. La Nación Mexicana es única e indivisible, basada en la grandeza de sus pueblos y culturas.
+
+(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+La Nación tiene una composición pluricultural y multiétnica sustentada originalmente en sus pueblos indígenas, que son aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio nacional; y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas.
+
+(REFORMADO, D.O.F. 14 DE AGOSTO DE 2001)
+
+La conciencia de su identidad indígena deberá́ ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre pueblos indígenas.
+
+(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+Son comunidades integrantes de un pueblo indígena, aquellas que forman una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos.
+
+(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+El derecho de los pueblos indígenas a la libre determinación se ejercerá́ en un marco constitucional de autonomía que asegure la unidad nacional. Para el reconocimiento de los pueblos y comunidades indígenas se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción.
+
+(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+Se reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
+
+(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE AGOSTO DE 2001)
+
+Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
+
+[...]
+
+(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024) B. La Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos.
+
+(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024) Para tal efecto, dichas autoridades tienen la obligación de:
+
+(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE SEPTIEMBRE DE 2024) I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
+
+(ADICIONADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+La ley establecerá́ los mecanismos que faciliten la organización y desarrollo de las
+
+economías de los pueblos y comunidades indígenas, y reconocerá́ el trabajo comunitario como parte de su organización social y cultural.
+
+(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos.
+
+(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+XV. Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos de la fracción XIII del Apartado A del presente artículo. (REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)
+
+La Cámara de Diputados del Congreso de la Unión, las legislaturas de las entidades federativas y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así́ como las formas y procedimientos, para que los pueblos y comunidades indígenas la administren y ejerzan conforme a las leyes de la materia.
+
+(REFORMADO, D.O.F. 14 DE AGOSTO DE 2001)
+
+Sin perjuicio de los derechos aquí́ establecidos a favor de los indígenas, sus
+
+comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá́ en lo conducente los mismos derechos tal y como lo establezca la ley.”
+
+[...].”
+
+(Énfasis añadido)
+
+Con esta reforma, el Constituyente buscó fortalecer el reconocimiento de los sistemas normativos y especificidades culturales de los pueblos y comunidades indígenas y afromexicanos; asimismo, por primera vez, se reconoce a los pueblos y comunidades indígenas y afromexicanas como sujetos de derechos público con personalidad jurídica y patrimonio propio y se les otorga la capacidad de administrar de forma directa asignaciones presupuestales.
+
+Además, en los artículos Tercero, Cuarto y Quinto transitorios de la reforma constitucional otorgaron al Congreso de la Unión, un plazo de ciento ochenta días, contados a partir de la entrada en vigor de este Decreto, para expedir la ley general de la materia y armonizar el marco jurídico de las leyes que correspondan, para adecuarlo al contenido del referido decreto;
+
+asimismo, al Poder Ejecutivo Federal para que realizara las reformas a las disposiciones administrativas aplicables y asegurar el respeto y la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas y, por último, para que las autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, realizaran las adecuaciones normativas que aseguren las características de la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanos[8].
+
+Como ya se referenció, en el transitorio primero de dicha reforma, se estableció que la entrada en vigor de dichas disposiciones sería a partir del día siguiente de su publicación; y, en el diverso transitorio quinto se ordenó a las legislaturas de las entidades federativas realizar las adecuaciones normativas necesarias para cumplir con el decreto legislativo de referencia, para lo cual les otorgó un plazo de ciento ochenta días posteriores a su entrada en vigor.
+
+De esta manera si en el artículo quinto transitorio de la reforma constitucional, el Poder Reformador de la Constitución estableció textualmente que en un plazo de ciento ochenta días siguientes a la publicación del Decreto (treinta de septiembre de dos mil veinticuatro) se debían de realizar las adecuaciones normativas que aseguren las características de la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, por lo que es claro que se estableció un mandato expreso a los congresos de los diversos estados, por lo que se trata de una competencia de ejercicio obligatorio.
+
+En ese sentido, la extinta Segunda Sala de la Suprema Corte de Justicia de la Nación resolvió el amparo en revisión 782/2024, en la que estableció lo siguiente:
+
+“62. En estas condiciones, esta Segunda Sala determina, en cuanto a la cuestión propiamente constitucional planteada que dio lugar a la apertura de la revisión, que conforme el texto actual del artículo 2o. constitucional no existe la supuesta invasión a la hacienda municipal cuando alguna comunidad indígena asentada en el territorio en el que ejerce su gobierno el Ayuntamiento respectivo, le demanda la entrega de recursos presupuestales para administrarlos directamente, pues en el párrafo segundo, de la fracción XV del Apartado B del referido precepto constitucional, expresamente se estableció́ que la Cámara de Diputados del Congreso de la Unión, las legislaturas de las entidades federativas y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así́ como las formas y procedimientos, para que los pueblos y comunidades indígenas las administren y ejerzan conforme a las leyes de la materia.
+
+63. En segundo lugar, como parte de la cuestión de interés excepcional desde el punto de vista constitucional, esta Segunda Sala también determina que mientras el Congreso de la Unión no cumpla con el mandato de expedir la legislación necesaria para saber con certeza cómo habrán de cumplir con esa obligación los ayuntamientos, este deber de los órganos de gobierno municipales se sustituye –durante ese lapso– con la asignación de los correspondientes recursos que la Cámara de Diputados determine anualmente, en ejercicio de sus facultades en materia de programación del gasto público, y conforme los montos que se establezcan en el Presupuesto de Egresos de la Federación respectivo en beneficio directo de los pueblos indígenas y comunidades afromexicanas.
+
+64. En tercer lugar, como el artículo 2o. constitucional tampoco especifica qué tipo podrán administrar directamente dichos pueblos y comunidades, ni cómo serán etiquetados, calendarizados y fiscalizados, entre otras cuestiones de índole administrativa, mientras no se expida la legislación necesaria por el Congreso de la Unión, el manejo de tales aspectos son responsabilidad del Poder Ejecutivo Federal, quien además se ha hecho cargo de instrumentar los procedimientos para dispersar los recursos respectivos, ya que las evidentes necesidades económicas de esos sectores de la población tampoco pueden quedar a expensas de la actividad del legislador secundario.”
+
+Con base en lo anterior, la extinta Segunda Sala efectuó una interpretación del alcance del artículo 2° de la Constitución Política de los Estados Unidos Mexicanos y precisó que el derecho de los pueblos y comunidades indígenas y afromexicanas a recibir y administrar directamente los recursos presupuestales constituye una disposición de eficacia inmediata, cuya operatividad no puede quedar supeditada a la expedición de la legislación secundaria correspondiente.
+
+En dicha ejecutoria, se sostuvo que, si bien el Congreso de la Unión conserva la obligación de expedir la legislación general que establezca las formas, procedimientos y mecanismos para el ejercicio directo de tales recursos, la ausencia de esa regulación no tiene como efecto suspender, limitar o diferir la eficacia del mandato constitucional. Por el contrario, mientras esa normativa es emitida, las autoridades públicas, dentro del ámbito de sus respectivas competencias, conservan el deber de adoptar las medidas jurídicas, administrativas y presupuestales necesarias para hacer efectivo el derecho reconocido directamente por la Constitución.
+
+En esa línea argumentativa, la Segunda Sala reconoció que, durante ese periodo de transición normativa, corresponde a las autoridades competentes instrumentar las acciones indispensables para garantizar que los pueblos y comunidades indígenas y afromexicanas no vean impedido el ejercicio de sus derechos constitucionales por la sola ausencia de regulación secundaria, pues admitir lo contrario equivaldría a supeditar la eficacia de una norma constitucional directamente aplicable a la inactividad del legislador.
+
+● MEDIDAS IMPLEMENTADAS POR EL ESTADO DE GUANAJUATO PARA LA ARMONIZACIÓN DEL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+En ese contexto, se advierte que, con motivo de la reforma constitucional en materia de derechos de los pueblos y comunidades indígenas y afromexicanas, las autoridades responsables, llevaron a cabo diversas actuaciones encaminadas a armonizar el marco jurídico local con un nuevo mandato constitucional.
+
+ El dieciséis de enero de dos mil veinticinco, la Gobernadora del Estado de Guanajuato, se celebró el Convenio entre el Gobierno de México y los Gobiernos de las entidades Federativas para la creación del componente indígena del Fondo de Aportaciones para la Infraestructura Social (FAIS), el cual celebraron por una parte el Ejecutivo Federal, por conducto de la Presidente de los Estados Unidos Mexicanos, asistida por la Secretaria del Bienestar; y por otra parte, los Gobiernos de las Entidades Federativas de la República mexicana, el cual tuvo como finalidad la creación del componente indígena del Fondo de Aportaciones para la Infraestructura Social, en el que se estipuló que al menos el 10% de los recursos del FAIS se destinaría a los Pueblos y Comunidades Indígenas y Afromexicanas, para su administración y ejercicio directo, con la finalidad de contribuir a reducir los rezagos en infraestructura social.
+
+Además, se estableció que para garantizar la transparencia en el uso de los recursos, éstos serán transferidos de manera directa a los pueblos y comunidades indígenas, asimismo, las transferencias serían coordinadas por la Secretaría del Bienestar, a partir de lo establecido en el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los Lineamientos que para tal efecto se publiquen.
+
+ El veinticuatro de marzo de dos mil veinticinco, se presentó ante el Congreso del Estado de Guanajuato los dictámenes formulados por los diputados para reformar los párrafos séptimo, octavo y noveno; y adicionar un párrafo séptimo, noveno y décimo al artículo 1° de la Constitución Política para el Estado de Guanajuato[9].
+
+ Posteriormente, el diecinueve de mayo de dos mil veinticinco, se publicó en el Periódico Oficial del Gobierno del Estado de Guanajuato, el Decreto Legislativo Número 65, que expidió la Sexagésima Sexta Legislatura Constitucional del Congreso del Estado Libre y Soberano de Guanajuato, mediante el cual se reformaron y adicionaron diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guanajuato, en la que se estableció lo siguiente:
+
+“ARTICULO 1. En el Estado de Guanajuato todas las personas gozan de los derechos humanos y de las garantías para su protección reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como en los consagrados por esta Constitución y sus Leyes Reglamentarias, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece.
+
+(ADICIONADO, P.O. 19 DE MAYO DE 2025)
+
+Esta Constitución reconoce a los pueblos y comunidades indígenas y afromexicanas como parte de la composición pluricultural y multiétnica del estado.
+
+(ADICIONADO, P.O. 19 DE MAYO DE 2025)
+
+Esta Constitución reconoce el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+
+(REFORMADO, P.O. 19 DE MAYO DE 2025) Son pueblos indígenas, aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio nacional; conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas.
+
+(REFORMADO, P.O. 19 DE MAYO DE 2025) Son comunidades integrantes de un pueblo indígena, las que formen una unidad social, económica y cultural, asentadas en el estado y que reconocen autoridades propias de acuerdo con sus sistemas normativos.
+
+(ADICIONADO, P.O. 19 DE MAYO DE 2025) Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladados, asentados en el estado desde la época colonial, con formas propias de organización social, económica, política y cultural, y que afirma su existencia como colectividades culturalmente diferenciadas.
+
+(REFORMADO, P.O. 19 DE MAYO DE 2025) Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y autonomía, en los términos y condiciones que determine la Ley de la materia; así como de los pueblos y comunidades afromexicanas cualquiera que sea su autodeterminación, tomando en cuenta los principios generales del artículo 2o, Apartado A, fracciones I, III, IV, VI, VII, VIII, IX, XI, XII y XIII de la Constitución Federal y criterios etnolingüísticos físicos, de asentamientos físicos y autoadscripción.
+
+(ADICIONADO, P.O. 19 DE MAYO DE 2025) Se reconoce a Los pueblos y comunidades indígenas y afromexicanas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
+
+En los transitorios de dicha publicación se estipuló lo siguiente:
+
+“Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Congreso del Estado deberá llevar a cabo dentro del término de 180 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto y en los términos de la Ley General que al efecto expida el Congreso de la Unión en la materia, las adecuaciones a fin establecer en la legislación estatal las disposiciones que satisfagan los extremos de la presente reforma para garantizar los derechos de los pueblos y comunidades indígenas y afromexicanas en los siguientes rubros:
+
+1. A la protección de su identidad cultural, modos de vida, expresiones espirituales, patrimonio cultural material e inmaterial, propiedad intelectual colectiva; así como a su inclusión en la producción y registros de información, estadísticas y encuestas oficiales, para lo cual, las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
+
+2. A desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio; así como a la garantía por parte del Estado del acceso a la salud intercultural y al reconocimiento de las personas, incluidos saberes y prácticas.
+
+3. A una atención adecuada para niñas, niños y adolescentes en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos, respecto del acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo.
+
+4. A ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística.
+
+5. A que el Sistema de Planeación Democrática del Desarrollo de la Entidad garantice el derecho al desarrollo integral de las personas indígenas con pleno respeto a su autonomía, basado en sus formas de organización económica, social y cultural, con respecto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables.
+
+6. A que en el Presupuesto de Egresos del Estado se establezcan asignaciones presupuestales destinadas a pueblos y comunidades indígenas que serán administradas y ejercidas directamente por estos de acuerdo con la Ley en la materia, observando criterios compensatorios, equitativos, justos y proporcionales.”
+
+(Énfasis añadido)
+
+ En cumplimiento a dicho mandato constitucional, el treinta de octubre de dos mil veinticinco, se publicó en el Periódico Oficial del Gobierno del Estado de Guanajuato, el decreto Legislativo Número 85, mediante el cual se reformaron y adicionaron diversas disposiciones de la Ley para la Protección de los Pueblos y Comunidades Indígenas y Afromexicanas en el Estado de Guanajuato; de igual manera, se reformaron y adicionaron diversas porciones normativas a fin de armonizar el ordenamiento local con las disposiciones constitucionales contenidas en el precepto 2 de la Constitución Política de los Estados Unidos Mexicanos.
+
+● Medidas implementadas por la Federación para la instrumentación del artículo 2° de la Constitución Federal.
+
+Fondo de Aportaciones para la Infraestructura Social de Pueblos Indígenas y Afromexicanos (FAISPIAM)
+
+Es importante mencionar que a nivel federal, este reconocimiento se da a través del Fondo de Aportaciones para la Infraestructura Social de Pueblos Indígenas y Afromexicanos (FAISPIAM)
+
+El trece de marzo de dos mil veinticinco[10], la Secretaria del Bienestar publicó en el Diario Oficial de la Federación el Acuerdo por el que se emiten los “Lineamientos del componente indígena del Fondo de Aportaciones para la Infraestructura Social” con el objetivo de responder a la necesidad de garantizar que los recursos públicos lleguen directamente a quienes más lo necesitan, destinando el 10% de estos recursos a los pueblos y comunidades indígenas.
+
+Asimismo, se establecieron los principios para la operación del FAISPIAM:
+
+“Los recursos del FAISPIAM deberán asignarse a los pueblos y comunidades indígenas y afromexicanas bajo criterios compensatorios, equitativos, justos y proporcionales, conforme a lo establecido en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Los recursos deberán administrarse bajo los principios de eficacia, eficiencia, economía, transparencia y honradez establecidos en el artículo 134 de la Constitución. Los recursos provienen de los impuestos que pagamos todas y todos los mexicanos, y por ello deberán utilizarse para mejorar las condiciones de vida de las personas que habitan en las comunidades indígenas y afromexicanas del territorio nacional.
+
+Los recursos deberán sujetarse al principio de anualidad presupuestaria, por lo que deberán planearse y ejecutarse en el año correspondiente.”
+
+Además, en el rubro de operación del FAISPIAM, 2.3 estableció lo siguiente:
+
+“2.3 Distribución del FAISPIAM La Secretaría de Bienestar realizará el cálculo para la distribución del componente FAISPIAM considerando criterios compensatorios, equitativos, justos y proporcionales, los cuales serán administrados y ejercidos directamente por los pueblos y comunidades indígenas y afromexicanas.
+
+Las ministraciones de los recursos del FAISPIAM se realizarán en los meses de abril, julio y octubre, a través de la SHCP de manera directa y sin intermediarios a los Comités de Administración de los Pueblos y Comunidades Indígenas y Afromexicanas.”
+
+De lo transcrito, se desprende que el recurso que se destina en el Presupuesto de Egresos de la Federación, se establece que se tiene que administrar bajo los criterios compensatorios, equitativos, justos y proporcionales, además de estar sujetos a criterios de anualidad, por lo que deberán planearse y ejecutarse en el año correspondiente. Además dicho recurso se entregará de manera directa y sin intermediarios a los Comités de Administración de los Pueblos y Comunidades Indígenas y Afromexicanas.
+
+De esta manera el recurso asignado a los pueblos y comunidades indígenas se entrega de forma directa y sin intermediarios, con esto se les garantiza la autonomía a ejercer dicho recurso y administrarlo mediante un plan de trabajo que los mismos pueblos y comunidades elaboran conforme a las necesidades de cada uno.
+
+Así es como el recurso se gestiona al interior de los pueblos y comunidades indígenas mediante la conformación de asambleas comunitarias, en donde se focalizan cuáles son las necesidades de las diferentes comunidades, para después proceder a establecer los comités de administración y de vigilancia, además de establecer un plan de trabajo en el que se definan cuáles son las prioridades que se tienen que atender.
+
+Los comités de administración y de vigilancia integrados por personas de la comunidad indígena elegidas en asamblea juegan los papeles más importantes para la asignación del presupuesto, toda vez que tienen la responsabilidad del recurso: ejercerlo mediante el Comité de Administración haciendo cumplir los proyectos elegidos en asamblea comunitaria, mientras que rendir cuentas a la comunidad completa y dar seguimiento, es atribución del Comité de Vigilancia.
+
+El FAISPIAM, va en concordancia de hacer cumplir los derechos de los pueblos y comunidades indígenas, el simple hecho de representarlos con una partida presupuestaria otorgada de forma directa, compete a garantizarles su derecho a la autonomía, además de reconocerlos plenamente como sujetos de derechos público con capacidad jurídica y patrimonio propio, patrimonio que construyen en el día a día, no solo en creencias y tradiciones milenarias, también para salvaguardar su integridad y herencia para las futuras generaciones.
+
+Luego, para dar cumplimiento a los “Lineamientos del componente indígena del Fondo de Aportaciones para la Infraestructura Social” del uno al treinta de abril de dos mil veinticinco, se realizaron las asambleas en los pueblos y comunidades indígenas para elegir al Comité de Administración que ejecutarían los recursos destinados a obras de infraestructura básica y el Comité de Vigilancia. Comités tendrán la responsabilidad de administrar y ejecutar los recursos del fondo, así como supervisar y dar seguimiento a los proyectos, asegurando que el uso de los recursos responda a las necesidades y aspiraciones de la comunidad.
+
+En ese sentido, la Cámara de Diputados estableció en el numeral 24 del Presupuesto de Egresos de la Federación para el ejercicio 2026, las reglas y los recursos económicos que debían desarrollarse para lograr la participación efectiva y directa de los pueblos y comunidades indígenas y afromexicanas en la gestión y aplicación en forma directa de los recursos del presupuesto que corresponden a esa población con forme a las disposiciones para la operación de los programas que la Administración Pública Federal emprenda, todo ello con apoyo técnico del Instituto Nacional de los Pueblos Indígenas, contando además con la intervención que corresponda del Consejo Nacional de Pueblos Indígenas, en los siguientes términos:
+
+“Capítulo VI De los derechos y el desarrollo integral, intercultural y sostenible de los pueblos y comunidades indígenas y afromexicanas
+
+Artículo 24. El ejercicio de las erogaciones para la implementación de los derechos y el desarrollo integral, intercultural y sostenible de los pueblos y comunidades indígenas y afromexicanas a que se refiere el Anexo 10 del presente Decreto, se dirigirá al cumplimiento de los derechos y de las obligaciones que señala el artículo 20. de la Constitución Política de los Estados Unidos Mexicanos.
+
+Para tal efecto, de conformidad con los artículos 42, fracción VII, y 77 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las Dependencias y Entidades, al ejecutar dichas erogaciones y emitir reglas de operación o, en su caso, lineamientos, se ajustarán a lo siguiente:
+
+I. Las disposiciones para la operación de los programas que la Administración Pública Federal desarrolle en la materia deben considerar la participación efectiva y directa de los pueblos y comunidades indígenas afromexicanas. Tendrán el apoyo técnico del Instituto Nacional de los Pueblos Indígenas, contando con la intervención que corresponda del Consejo Nacional de Pueblos Indígenas;
+
+II. En la ejecución de los programas se deben garantizar el reconocimiento de los pueblos y comunidades indígenas y afromexicanas como sujetos de derecho público, de conformidad con sus sistemas normativos y con base en sus formas de organización económica, social y cultural;
+
+III. El Ejecutivo Federal, por sí o a través de sus Dependencias y Entidades, podrá celebrar convenios de coordinación con los gobiernos de las entidades federativas, así como formalizar convenios de concertación de acciones con los municipios, pueblos y comunidades indígenas y afromexicanas o, en su caso, otros instrumentos jurídicos que para tal efecto se celebren, para proveer la mejor observancia de las previsiones del presente artículo. Cuando corresponda, los recursos a los que se refiere este artículo podrán ser transferidos directamente a los pueblos, municipios y comunidades indígenas y afromexicanas, de conformidad con los convenios que para tal efecto se celebren en términos de las disposiciones aplicables.
+
+La entidad federativa correspondiente participará en el ámbito de sus atribuciones en los convenios o instrumentos jurídicos antes señalados, exclusivamente para que los recursos que se transfieran conforme a lo establecido en el presente párrafo, sean registrados por la entidad federativa en su Cuenta Pública;
+
+IV. Las reglas de operación o lineamientos de los programas operados por las Dependencias y Entidades que atiendan a los pueblos y comunidades indígenas y afromexicanas, deben contener disposiciones que faciliten su acceso a los programas y procurarán reducir los trámites y requisitos existentes;
+
+V. En los programas de infraestructura se dará preferencia a las obras priorizadas en los Planes de Justicia y de Desarrollo Regional, y otros procesos de planeación regional, así como a la conclusión de obras iniciadas en ejercicios anteriores, y obras de mantenimiento y reconstrucción;
+
+VI. Se buscará la inclusión financiera de los pueblos y comunidades indígenas y afromexicanas mediante programas de la banca de desarrollo, y,
+
+VIl. Las Dependencias y Entidades que tengan recursos considerados en el Anexo 10 del presente Decreto, deben observar los criterios que emita el Instituto Nacional de los Pueblos Indígenas para la implementación seguimiento de los programas incluidos, así como las opiniones de mejora que, en su caso, emita.
+
+Asimismo, el Instituto Nacional de los Pueblos Indígenas integrará la valoración de resultados que, en su caso, realicen los pueblos y comunidades indígenas y afromexicanas a nivel regional, respecto de la ejecución de los recursos, su focalización, perspectiva de género, derechos indígenas y afromexicanos y pertinencia cultural, y cumpla con lo dispuesto en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.”
+
+Además, del Anexo 10 titulado “EROGACIONES PARA LA IMPLEMENTACIÓN DEL DESARROLLO INTEGRAL, INTERCULTURAL Y SOSTENIBLE DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS (PESOS)”, se advierte que en dicho presupuesto de egresos para el Ejercicio Fiscal de 2026, se previó una suma de $234,782,496,929.00 (doscientos treinta y cuatro billones setecientos ochenta y dos mil millones cuatrocientos noventa y seis mil novecientos veintinueve pesos 00/100 moneda nacional), asimismo en Anexo 11 “Ramo 33”, “Aportaciones Federales para Entidades Federativas y Municipios” se destinó $95,139,696,685 (noventa y cinco billones, ciento treinta y nueve millones novecientos noventa y seis mil seiscientos ochenta y cinco pesos 00/100 M.N.) lo cual comprende que para el rubro de FAIS (fondo de aportaciones para la estructura social) Municipal y de las Demarcaciones Territoriales del Distrito Federal se consignó la cantidad de $68,246,396,117 (sesenta y ocho billones doscientos cuarenta y seis millones trescientos noventa y seis mil ciento diecisiete pesos 00/100 M.N.).
+
+Asimismo, el quince de enero de dos mil veintiséis, la Secretaria del Bienestar publicó en el Diario Oficial de la Federación, el acuerdo “por el que se dan a conocer las variables y fuentes de información para apoyar a las entidades federativas en la aplicación de la fórmula de distribución del Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal para el ejercicio fiscal 2026” en el cual se predestinó para Guanajuato el FAIS 2026 lo siguiente:
+
+NO CVE ENT ENTIDAD FISE FAISMUN FAIS 11 11 Guanajuato 387,143,229 2,806,725,278 3,193,868,507
+
+En ese sentido, para el Estado de Guanajuato el monto destinado al fondo indígena (componente no distribuible) fue de $319,386,850.70 (trescientos diecinueve millones trescientos ochenta y seis mil ochocientos cincuenta pesos 70/100 M.N.), el cual equivale al 10% del monto total del FAIS Guanajuato.
+
+El veintisiete de abril de dos mil veintiséis, se publicó en el Diario Oficial de la Federación el “ACUERDO por el que se emiten los Lineamientos del Componente Indígena y Afromexicano del Fondo de Aportaciones para la Infraestructura Social”, el cual tiene como objetivo el financiamiento de obras, acciones sociales básicas e inversiones que beneficien directamente a la población indígena y afromexicanas.
+
+● ANÁLISIS DE LAS ACCIONES IMPLEMENTADAS POR EL ESTADO DE GUANAJUATO PARA DAR CUMPLIMIENTO AL MANDATO CONSTITUCIONAL EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS.
+
+Ahora bien, de lo anteriormente las autoridades responsables han cumplido de manera progresiva con el mandato constitucional por lo siguiente:
+
+El veinticinco de noviembre de dos mil veinticinco, la Titular del Poder Ejecutivo del Estado, presentó al Congreso local la iniciativa de Ley de Ingresos para el Estado de Guanajuato para el ejercicio fiscal 2026, en la cual en la parte conducente se señaló:
+
+“Para las aportaciones federales, al ser gasto programable, se utilizó como base el monto establecido en el PPEF 2026 ajustando con base en la información observada para 2025 y la estimación de cierre, teniendo así, un monto estimado de 43 mil 463 MDP con un aumento de 7 por ciento anual. Para el caso particular del Fondo de Aportaciones para la Infraestructura Social (FAIS) se descontó el 10% del componente indígena.”
+
+Lo cual se concatena con el informe justificado por parte de la Gobernadora del Estado de Guanajuato, indicó que en la iniciativa del Presupuesto de Egresos estatal para el ejercicio 2026, se contempló que los recursos de fondo indígena en Guanajuato le fueron transferidos a la Federación una vez retenido el 10% correspondiente al recurso convenido, los cuales ascienden a un total de $3,495,102,690.00 (tres billones, cuatrocientos noventa y cinco millones ciento dos mil seiscientos noventa pesos 00/100 M.N.).
+
+Luego dicha iniciativa fue discutida y aprobada por el Pleno del Congreso el diecisiete de diciembre siguiente.
+
+Ahora bien, del convenio de dieciséis de enero de dos mil veinticinco, celebrado FAISPIAM por la Gobernadora del Estado, la titular del Poder Ejecutivo Federal y la Secretaria del Bienestar, el monto retenido del 10% por parte de la Federación, les fueron entregados directa y sin intermediarios a los Comités de Administración de los Pueblos y Comunidades Indígenas y Afromexicanas, tal y como se estableció en los “Lineamientos del componente indígena del Fondo de Aportaciones para la Infraestructura Social”.
+
+En esa línea argumentativa, de acuerdo a las fuentes de información de acceso público relativas al Fondo de Aportaciones para la Infraestructura Social de los Pueblos y Comunidades Indígenas y Afromexicanas (FAISPIAM) 2026[11], a las comunidades quejosas les fueron asignados recursos de forma directa[12], tal y como se observa en los renglones marcados con los números 51 a 72 en las siguientes imágenes:
+
+De acuerdo con esta información, se desprende que la Federación ha asignado recursos económicos para que sean administrados directamente por las veintidós comunidades de Tierra Blanca para el ejercicio Fiscal 2026.
+
+Ahora bien, de la presentación de la demanda, los disidentes se duelen de una omisión total por parte Congreso y la Gobernadora, ambos del Estado de Guanajuato de ser omisos en incluir una partida presupuestal destinada a los pueblos y comunidades indígenas, así como de realizar las adecuaciones normativas necesarias como lo ordena el numeral 2° de la Constitución Federal.
+
+De ahí que, del análisis integral del Presupuesto General de Egresos del Estado de Guanajuato para el ejercicio fiscal 2026, de la iniciativa presentada por la Titular del Poder Ejecutivo Estatal y del decreto aprobado por el Congreso del Estado, se advierte que, si bien es cierto, dichos instrumentos no contemplaron una partida presupuestal específica destinada a los pueblos y comunidades indígenas para su administración directa, también lo es que tal circunstancia, por sí sola, no permite concluir la existencia de una omisión constitucional absoluta.
+
+Lo anterior es así, porque de las constancias que obran en autos y de la información oficial de acceso público se desprende que, durante el propio ejercicio fiscal 2026, las comunidades indígenas quejosas fueron incorporadas al esquema de distribución del Componente Indígena y Afromexicano del Fondo de Aportaciones para la Infraestructura Social (FAISPIAM), mediante el cual la Federación les asignó recursos públicos para su administración directa, previa observancia del procedimiento previsto en los lineamientos correspondientes.
+
+En efecto, la Federación determinó la distribución de los recursos del citado fondo y estableció un mecanismo para que éstos fueran entregados directamente a las comunidades indígenas, mediante la celebración de asambleas comunitarias, la integración de Comités de Administración y de Vigilancia y el cumplimiento de los requisitos previstos en la normativa aplicable, de manera que las comunidades quejosas resultaron beneficiarias de dichos recursos durante el ejercicio fiscal 2026.
+
+Así, aun cuando el Presupuesto General de Egresos del Estado de Guanajuato no previó una asignación presupuestal específica con cargo al erario estatal, lo cierto es que de las aportaciones federales realizadas al Estado de Guanajuato se descontó el 10% del componente indígena, para que las comunidades recibieran esos recursos públicos para su administración directa provenientes del componente indígena del FAISPIAM.
+
+Por tanto, no puede sostenerse que durante el ejercicio fiscal 2026 las comunidades indígenas quejosas hubieran permanecido privadas de toda asignación presupuestal para su desarrollo, pues quedó acreditado que recibieron recursos federales destinados precisamente a materializar el derecho reconocido en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos. Ello, sin perjuicio de que la discusión relativa a la suficiencia de las medidas adoptadas por el Estado de Guanajuato deba analizarse de manera independiente, atendiendo al ámbito competencial de las autoridades responsables y al carácter progresivo de implementación de la reforma constitucional.
+
+No obstante lo anterior, este órgano jurisdiccional estima que las acciones emprendidas por las autoridades responsables únicamente acreditan un cumplimiento parcial del mandato previsto en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, pues, si bien han desplegado diversas medidas tendentes a la armonización normativa e implementación progresiva de la reforma constitucional, de las constancias que obran en autos no se advierte que tales actuaciones hubieran sido dadas a conocer de manera suficiente y culturalmente adecuada a los pueblos y comunidades indígenas involucrados.
+
+En ese contexto, aun cuando del estudio realizado en apartados precedentes este órgano jurisdiccional concluyó que las autoridades responsables han desplegado diversas acciones tendentes a la implementación gradual del mandato previsto en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, lo cierto es que de las constancias que integran el presente juicio no se advierte que tales actuaciones hubieran sido oportunamente comunicadas a las comunidades indígenas promoventes de una manera clara, accesible, culturalmente pertinente y suficiente, que les permitiera conocer el estado que guarda el proceso de armonización normativa y presupuestaria derivado de la reforma constitucional de treinta de septiembre de dos mil veinticuatro.
+
+En efecto, la eficacia de los derechos reconocidos a los pueblos y comunidades indígenas no se satisface únicamente con la adopción de medidas legislativas, administrativas o presupuestarias por parte del Estado, sino que exige que dichas actuaciones sean puestas en conocimiento de sus destinatarios de forma adecuada, pues sólo así éstos pueden comprender el alcance de las acciones implementadas, ejercer plenamente su derecho de participación y, en su caso, formular las observaciones, propuestas o mecanismos de defensa que estimen pertinentes para la protección de sus derechos colectivos.
+
+En esa medida, este órgano jurisdiccional estima que la obligación de las autoridades no se agota con la emisión de reformas constitucionales, modificaciones legales, programas administrativos o instrumentos presupuestarios, sino que comprende también el deber de informar de manera efectiva a los pueblos y comunidades indígenas acerca de las acciones emprendidas para dar cumplimiento al nuevo modelo constitucional, particularmente cuando tales medidas inciden directamente en el ejercicio de su derecho a la libre determinación, autonomía y administración directa de recursos públicos.
+
+Por ello, en suplencia de la deficiencia de la queja, prevista en el artículo 79, fracción VII, de la Ley de Amparo, y atendiendo al deber reforzado de tutela que el orden constitucional reconoce a los pueblos y comunidades indígenas, este órgano jurisdiccional considera que las autoridades responsables debieron hacer del conocimiento de las comunidades promoventes las acciones legislativas, administrativas y presupuestarias que han venido desarrollando para implementar la reforma constitucional, explicando de manera comprensible el estado de avance del proceso de armonización, las medidas ya ejecutadas, las que se encuentran en curso y aquellas cuya implementación aún depende de actuaciones posteriores dentro del ámbito competencial de los distintos órdenes de gobierno.
+
+De ahí que resulten esencialmente fundados los conceptos de violación expuestos por los quejosos, y lo procedente es conceder el amparo y protección constitucionales para los efectos que se señalarán en el siguiente considerando.
+
+SÉPTIMO. Efectos de la sentencia. Conforme lo establece el artículo 74, fracción V, de la Ley de Amparo, se precisa que los efectos de la concesión consisten en que, una vez que cause ejecutoria la presente sentencia, la Gobernadora y el Congreso, ambos del Estado de Guanajuato, en su respectivo ámbito de competencia, deberán:
+
+a) Hacer del conocimiento de las comunidades quejosas, mediante mecanismos culturalmente adecuados, claros, accesibles y suficientes, las acciones legislativas, administrativas y presupuestarias que se han implementado y aquellas que se encuentren en proceso de ejecución para dar cumplimiento a la reforma constitucional publicada el treinta de septiembre de dos mil veinticuatro, a fin de garantizar su derecho a contar con información oportuna y a participar de manera efectiva en el proceso de implementación del nuevo régimen constitucional.
+
+Lo anterior no implica que este órgano jurisdiccional determine el contenido específico que deba tener la iniciativa o el Presupuesto General de Egresos del Estado, ni el monto de las asignaciones presupuestales o el mecanismo mediante el cual deban administrarse los recursos públicos, pues tales determinaciones corresponden al ámbito de configuración constitucionalmente reservado a los Poderes Ejecutivo y Legislativo.
+
+Por lo expuesto y fundado, con apoyo además en los artículos 1º, fracción I, del 73 al 79, y 124 de la Ley de Amparo, y en cumplimiento al derecho a la información, se emite la siguiente:
+
+Hola, soy Luz Adriana Rico Páez Jueza del Juzgado Primero de Distrito en el Estado de Guanajuato. Aquí nos encargamos de estudiar el problema que nos plantearon mediante su demanda, Les escribo en este espacio para explicarles la decisión que tomamos sobre su demanda de amparo.
+
+Quiero comenzar reconociendo el esfuerzo que hicieron al acudir a este juzgado. Sabemos que todos invirtieron tiempo y energía para defender los derechos de las veintidós comunidades que forman la Congregación Indígena Otomí de San Ildefonso Cieneguilla del municipio de Tierra Blanca, Guanajuato. Es muy importante y valioso que participen para cuidar a sus pueblos y comunidades.
+
+¿Cuál fue el problema que nos plantearon?
+
+Ustedes acudieron a nosotros para decirnos que la Gobernadora y el Congreso del Estado de Guanajuato fueron omisos en incluir dinero específico (una partida presupuestal) en el año 2026 para que sus comunidades lo administraran directamente. Esto es un derecho que está escrito en la Constitución Federal desde el 30 de septiembre de 2024.
+
+También nos comentaron que estas autoridades no habían hecho los cambios necesarios en las leyes locales del estado para cumplir con esa misma regla constitucional.
+
+¿Qué descubrí al revisar su caso?
+
+Estudié su situación con mucho cuidado y revisé los documentos que enviaron la Gobernadora y el Congreso del Estado de Guanajuato. Ahí me di cuenta de dos cosas muy importantes:
+
+1. Que del dinero federal destinado al Estado de Guanajuato para 2026, Sí se reservó una parte para que fuera manejado directamente por ustedes a través de sus asambleas y comités. Este dinero se destina a un programa que se llama FAISPIAM (Fondo de Aportaciones para la Infraestructura Social los Pueblos y Comunidades Indígenas y Afro mexicanas).
+
+2. Las autoridades del Estado sí están haciendo cambios en las leyes, poco a poco, para ajustarlas a lo que pide la Constitución Federal en materia de Pueblos y comunidades Indígenas.
+
+A pesar de que descubrimos que sí hay dinero y que sí se están cambiando las leyes, me di cuenta de que la Gobernadora y el Congreso omitieron algo muy importante: El platicar con ustedes e informar de manera clara lo que están haciendo para dar cumplimiento a la reforma.
+
+Ustedes tienen derecho a saber exactamente qué pasos están dando las autoridades para proteger y garantizar sus derechos, y esa información se las debieron entregar de una forma que sea comprensible y que respete su cultura. Al no hacerlo, no les permitieron participar plenamente.
+
+Mi decisión para solucionar el problema
+
+Por esta falta de comunicación, decidí concederles el amparo.
+
+Esto significa que he ordenado a la Gobernadora y al Congreso del Estado de Guanajuato que hagan lo siguiente:
+
+• Deben acercarse a ustedes y hacer de su conocimiento todas las acciones (leyes, trámites y presupuestos) que han hecho y que están haciendo para cumplir con la reforma de la Constitución.
+
+• Tienen que entregarles esta información utilizando mecanismos que respeten su cultura, que sean claros, sencillos y suficientes.
+
+El objetivo de esta orden es asegurar que ustedes tengan toda la información a tiempo, para que puedan participar de manera efectiva en las decisiones que afectan a sus pueblos y comunidades.
+
+Nuestro compromiso con ustedes Finalmente, quiero recordarles que este juzgado sigue siendo un espacio seguro y siempre estará disponible para ustedes si la situación de sus derechos cambia, si las autoridades no cumplen, o si necesitan que los acompañemos y escuchemos de nuevo.
+
+Por lo expuesto, fundado y con apoyo, además, en los artículos 73, 74, 75, 124 y relativos de la Ley de Amparo,
+
+SE RESUELVE
+
+ÚNICO. La Justicia de la Unión ampara y protege a la “************ ******** ***** ** *** ********* ***********”
+
+de las veintidós comunidades indígenas: 1. ****** *** ****, 2. ** *****, 3. ** ****, 4. **********, 5. ****** ** *******, 6.
+
+**** ** *** ******, 7. ***** *****, 8. ** *******, 9. ** ********, 10. *** ********, 11. ****** ****, 12. ******** *** ****, 13. ***** ********, 14. ***********, 15. ****** ** *******, 16. ** *********, 17. *** *****, 18. ** *******, 19.
+
+******** ** *********, 20. ** **********, 21. **** ****** ** ***********, **** ****** **, contra la omisión reclamada al Congreso y a la Gobernadora, ambos del Estado de Guanajuato, en los términos y para los efectos señalados en el considerando séptimo de esta sentencia, respectivamente.
+
+Notifíquese.
+
+Así lo resolvió y firma, Luz Adriana Rico Páez, Jueza Primero de Distrito en el Estado de Guanajuato, ante Adriana Morales Padilla, Secretaria que autoriza y da fe; hasta hoy treinta de julio de dos mil veintiséis, fecha en que lo permitieron las labores de este Juzgado.
+
+JUICIO DE AMPARO 143/2026-VIII-E. 52.
+
+Así lo resolvió y firma Luz Adriana Rico Páez, J. Jesús Arroyo Ponce, treinta de julio de dos mil veintiséis, JUICIO DE AMPARO 143/2026-VIII-E. 53.
+
+JUZGADO PRIMERO DE DISTRITO EN EL ESTADO DE GUANAJUATO
+
+CARRETERA CUATRO CARRILES GUANAJUATO-SILAO, GLORIETA SANTA FE NO. 5, EDIFICIO A, 1ER. PISO COL. YERBABUENA GUANAJUATO, GTO. Correo Institucional: 1jdo16cto@oaj.gob.mx
+
+SECCIÓN AMPARO JUICIO DE AMPARO 143/2026-VIII-E
+
+OFICIO 11030 GOBERNADORA DEL ESTADO DE GUANAJUATO. (AUTORIDAD RESPONSABLE).
+
+OFICIO 11031 CONGRESO DEL ESTADO DE GUANAJUATO. (AUTORIDAD RESPONSABLE).
+
+Por vía de notificación, para su conocimiento y efectos legales del caso, con el presente remito a usted copia certificada de la sentencia pronunciada el día de HOY, en el juicio de amparo anotado al margen, promovido por las personas quienes se ostentan como delegados de las Comunidades Indígenas de la “************ ******** ****** ** *** ********* ** ***********”.
+
+A T E N T A M E N T E GUANAJUATO, GUANAJUATO, 30 DE JULIO DE 2026 “2026, AÑO DE MARGARITA MAZA PARADA”
+
+ADRIANA MORALES PADILLA SECRETARIA DEL JUZGADO PRIMERO DE DISTRITO EN EL ESTADO DE GUANAJUATO
+
+Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+[FIRMA ELECTRÓNICA] Firmantes: ADRIANA MORALES PADILLA; LUZ ADRIANA RICO PAEZ
+
+Cadena firma: El treinta y uno de julio de dos mil veintiseis, la licenciada Adriana Morales Padilla, Secretario(a), con adscripción en el Juzgado Primero de Distrito en el Estado de Guanajuato, hago constar y certifico que en esta versión pública no existe información clasificada como confidencial o reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública. Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+[1] Denominación con la que rindieron sus informes.
+ADRIANA MORALES PADILLA 706a6620636a6633000000000000000000004c17 26-08-26 14:55:24 PJF - Versión Pública
+[2] Resolución que es elaborada con la asistencia de una inteligencia artificial que tiene como única finalidad sintetizar documentos complejos, así como bajo la supervisión y ajustes que Adriana Morales Padilla, secretaria de este juzgado, realizó con apegó a los parámetros mínimos propuestos en la jurisprudencia II.2o.C. J/2 K (12a.), con número de registro digital 2031640, de rubro “INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS”.
+[3] “Artículo 12 Los pueblos interesados deberán tener protección contra la violación de sus derechos, y poder iniciar procedimientos legales, sea personalmente o bien por conducto de sus organismos representativos, para asegurar el respeto efectivo de tales derechos. Deberán tomarse medidas para garantizar que los miembros de dichos pueblos puedan comprender y hacerse comprender en procedimientos legales, facilitándoles si fuere necesario, intérpretes u otros medios eficaces.”
+[4] Adoptado en la ciudad de Ginebra, Suiza, el 27 de junio de 1989; aprobado por la Cámara de Senadores del Congreso de la Unión el 11 de julio de 1990; y, publicado en el Diario Oficial de la Federación el 24 de enero de 1991.
+[5] Artículo 2o. La Nación Mexicana es única e indivisible, basada en la grandeza de sus pueblos y culturas. (…) A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para: (…) XI. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales con respeto a los preceptos de esta Constitución.
+[6] “Artículo 79. La autoridad que conozca del juicio de amparo deberá suplir la deficiencia de los conceptos de violación o agravios, en los casos siguientes: (…) VII. En cualquier materia, en favor de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para su defensa en el juicio.”
+[7] Diario Oficial de la Federación. (2024). Decreto por el que se reforman, adicionan y derogan diversas disposiciones del artículo 2º de la Constitución Política de los Estados Unidos Mexicanos, en materia de Pueblos y Comunidades Indígenas y Afromexicanos. Recuperado de: https://www.gob.mx/cms/uploads/attachment/file/947760/DOF-2024-09-30-VES SG.pdf
+[8] “Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo. A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto. Tercero. El Congreso de la Unión, en un plazo de ciento ochenta días, contados a partir de la entrada en vigor de este Decreto, debe expedir la ley general de la materia y armonizar el marco jurídico de las leyes que correspondan, para adecuarlo al contenido del presente Decreto. Cuarto. El Poder Ejecutivo Federal debe realizar las reformas a las disposiciones administrativas aplicables, para asegurar el respeto y la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en el presente instrumento; lo anterior, en un plazo de ciento ochenta días contados a partir de la entrada en vigor de la ley general que refiere el presente Decreto. Quinto. Las autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, deben realizar las adecuaciones normativas que aseguren las características de la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, en el marco de la unidad nacional en los términos que establece esta Constitución, así́ como su reconocimiento como sujetos de derecho público y el respeto irrestricto a sus derechos; lo anterior, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.” [9]https://congreso-gto.s3.amazonaws.com/uploads/dictamen/archivo/6779/6613-141.pdf [10]https://www.gob.mx/cms/uploads/attachment/file/984032/2025_03_13_Lineamientos_componente_in d_gena.pdf?utm_source
+[11] https://faispiam2026.bienestar.gob.mx/FAISPIAM2026.bienestar/Pdf/GUANAJUATO.pdf
+[12] https://www.gob.mx/bienestar/prensa/secretaria-de-bienestar-publica-lista-de-pueblos-y- comunidades-indigenas-y-afromexicanas-que-ejerceran-recursos-de-manera-directa-del- fondo-de-aportaciones-a-la-infraestructura-social? La suscrita secretaria del Juzgado Primero de Distrito en el Estado de Guanajuato, con sede en Guanajuato, CERTIFICO Y HAGO CONSTAR que: la presente sentencia, relativa al juicio de amparo 143/2026-VIII-E, coincide fiel y exactamente, tanto en su versión electrónica, como en su versión física que se glosa al expediente el día de hoy treinta de julio de dos mil veintiséis. Doy fe. Adriana Morales Padilla.
+ ADRIANA MORALES PADILLA 706a6620636a6633000000000000000000004c17 26-08-26 14:55:24 PJF - Versión Pública
+PJF - Versión Pública

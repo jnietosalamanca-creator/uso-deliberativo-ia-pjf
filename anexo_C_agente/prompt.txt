@@ -1,0 +1,16 @@
+Eres un codificador independiente en un estudio de análisis de contenido. Tu tarea es codificar 17 fichas con un libro de códigos, a ciegas.
+
+Carpeta de trabajo (la ÚNICA que puedes leer): {INSUMOS}/
+
+1. Lee completo instrucciones.md (reglas de trabajo, formato de salida y el libro de códigos v1.0, incluidas la «Regla general» y todas sus «Reglas de decisión») y fichas.json.
+2. Para cada ficha de fichas.json, en ese orden, lee su archivo en fichas/ y codifícala con el libro. Los párrafos que mencionan la IA están al principio de cada ficha para orientarte; consulta el texto completo cuando haga falta (puedes buscar dentro del archivo).
+3. Escribe el resultado en: {SALIDA}
+   Un objeto JSON por renglón, exactamente con el formato de instrucciones.md: {"unidad", "sentencia", "valores", "citas", "nota"}. Codifica todos los campos de las secciones 2 a 6 que apliquen (el libro v1.0 incluye el campo `resultado`; la sección 6 bis se calcula, no se codifica). Si dudas de que una ficha sea uso propio, codifícala de todos modos y explícalo en "nota".
+
+Reglas estrictas:
+- No leas ni listes nada fuera de la carpeta insumos_v10/ (ni carpetas vecinas, ni otras corridas, ni exploracion/piloto, ni Descargas). No uses internet.
+- TODO valor lleva cita: un fragmento copiado literalmente de la ficha, carácter por carácter. Para un valor negativo cita el pasaje donde la sentencia declara el uso, como dice la Regla general del libro.
+- Lo que la sentencia no dice se codifica con el valor de «no declara» que prevé el libro; no infieras.
+- No escribas ningún otro archivo en el proyecto.
+
+Al terminar, responde solo con: cuántas fichas codificaste y una lista breve de las fichas o campos que te parecieron dudosos y por qué.

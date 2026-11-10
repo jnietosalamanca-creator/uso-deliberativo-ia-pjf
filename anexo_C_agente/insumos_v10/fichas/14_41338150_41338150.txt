@@ -1,0 +1,711 @@
+UNIDAD: 41338150
+SENTENCIA: 41338150
+ÓRGANO: Décimo Tribunal Colegiado en Materia Civil del Primer Circuito
+FECHA: 2026-04-22
+TIPO DE ASUNTO: Amparo Directo
+AVISO: (ninguno)
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+A fin de realizar los cómputos relativos a días hábiles e inhábiles este Tribunal hizo uso de herramientas de inteligencia artificial, ello bajo estricticos lineamientos éticos y supervisión humana, conforme a la jurisprudencia II.2o.C. J/2 K (12a.), de rubro:
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+► Jurisprudencia II.2o.C. J/1 K (12a.). INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. CONSTITUYE UNA HERRAMIENTA VÁLIDA PARA CALCULAR EL MONTO DE LAS GARANTÍAS QUE SE FIJEN EN LOS JUICIOS DE AMPARO.
+
+2031640. INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+procesal a fin de logar el emplazamiento. Además, con uso de inteligencia artificial, existen indicios suficientes de que no transcurrieron más de 120 días hábiles para la caducidad.
+
+18. Para tal efecto, este Tribunal seguirá la siguiente metodología: a) en primer lugar se exponen parámetros sobre fundamentación y motivación de resoluciones judiciales; b) la figura de la caducidad de la instancia; c) parámetros para el uso ético y responsable de inteligencia artificial en procesos jurisdiccionales; y, d) solución del caso.
+
+C. Uso responsable de inteligencia artificial.
+
+29. A fin de establecer un parámetro entre los días hábiles transcurridos durante la inactividad procesal, este tribunal hace uso de inteligencia artificial, la cual constituye una herramienta innovadora que puede incorporarse a los procesos para facilitar el razonamiento numérico dentro de labores
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES.
+
+Criterio jurídico: Las herramientas de inteligencia artificial pueden emplearse válidamente en procesos jurisdiccionales para calcular el monto de las garantías que se fijen en los juicios de amparo, en el entendido de que su utilización no sustituye la labor de las personas juzgadoras, sino que facilitan y eficientizan la administración de justicia.
+
+Justificación: Ante el avance de las nuevas tecnologías y las tendencias emergentes de justicia digital, la inteligencia artificial es una herramienta innovadora que puede incorporarse a los procesos para facilitar el razonamiento numérico dentro de labores jurisdiccionales.
+
+El uso de herramientas de inteligencia artificial en estos casos se justifica porque permite: a) reducir errores humanos en dichos cálculos; b) dar transparencia y trazabilidad al exponer cómo se obtiene el resultado paso a paso; c) generar consistencia y estandarización en los precedentes y en la fijación de los montos de las garantías; y d) mejorar la eficiencia procesal, al liberar tiempo para el análisis sustantivo del caso y facilitar la motivación de las decisiones judiciales.
+
+30. Así, dado el avance de las nuevas tecnologías y las tendencias emergentes en la justicia digital, este Tribunal Colegiado encuentra en la inteligencia artificial aplicada una herramienta innovadora (no obligatoria) no sólo útil para automatizar tareas administrativas, sino que también puede integrarse para facilitar el razonamiento numérico dentro de labores jurisdiccionales[13]. Sirve de apoyo la jurisprudencia II.2o.C. J/2 K (12a.), de rubro y texto:
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+Hechos: En diversos recursos de queja y de revisión en incidentes de suspensión interpuestos contra decisiones de Juzgados de Distrito en amparo indirecto, este Tribunal Colegiado de Circuito empleó herramientas de inteligencia artificial para calcular el monto de una garantía. Al tratarse de una práctica innovadora en procesos jurisdiccionales resultó necesario, bajo un ejercicio de autocontención, definir los parámetros para la aplicación ética y responsable de la inteligencia artificial.
+
+Criterio jurídico: La utilización de herramientas de inteligencia artificial en procesos jurisdiccionales con una perspectiva de derechos humanos, ética y responsable, exige que las personas juzgadoras observen como elementos mínimos los principios de: a) proporcionalidad e inocuidad; b) protección de datos personales; c) transparencia y explicabilidad; y d) supervisión y decisión humanas.
+
+http://sise.cjf.gob.mx/SVP/word1.aspx?arch=103/0103000038940092002.pdf_1&sec=Juan_Car los_Guerra_Alvarez&svp=1 Justificación: Ante la ausencia de regulación específica para el uso de herramientas de inteligencia artificial las personas juzgadoras deben hacer un ejercicio de autocontención adoptando lineamientos para su aplicación responsable con perspectiva de derechos humanos.
+
+Para ello pueden tomar como referencia los esfuerzos de regulación a nivel internacional, como las Directrices Éticas para una Inteligencia Artificial Fiable del Grupo de expertos de alto nivel sobre inteligencia artificial creado por la Comisión Europea; el Reglamento del Parlamento Europeo del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial; y la Recomendación sobre la ética de la inteligencia artificial de la UNESCO y sus principios éticos.
+
+Para ello, cuando utilicen herramientas de inteligencia artificial las personas juzgadoras deben cumplir con los siguientes elementos mínimos: a) la proporcionalidad e inocuidad exige que las herramientas de inteligencia artificial se utilicen únicamente en la medida necesaria y adecuada para alcanzar un fin legítimo, como por ejemplo, facilitar razonamientos numéricos sin que se alcance al razonamiento jurídico en la interpretación o aplicación de las normas; b) deben emplearlas de manera que no se comprometa la protección de datos del expediente judicial; c) la transparencia y explicabilidad imponen que la persona juzgadora no sólo informe que utiliza herramientas de inteligencia artificial, sino que exponga la metodología, los datos empleados y la forma en que se arribó al resultado, a fin de permitir que el procedimiento sea auditado y comprendido por las partes y órganos revisores; y d) la supervisión y la decisión humanas aseguran que la tecnología opere como auxiliar y no como sustituto, manteniendo la deliberación y decisión en el ámbito estrictamente jurisdiccional[14].
+
+31. Con los elementos anteriores, este Tribunal Colegiado sostiene que tratándose de procesos jurisdiccionales, el uso ético y responsable de la inteligencia artificial con perspectiva de derechos humanos obliga a las
+
+b) Derecho a la intimidad y protección de datos. Para el uso de la inteligencia artificial en este caso no se introducen ni se comprometen datos personales del expediente, sino que se utilizan valores numéricos contenidos en bases de datos públicos.
+
+d) Supervisión y decisión humanas. El uso de la inteligencia artificial en la presente sentencia se utiliza
+
+[15] En términos de la “Recomendación sobre la ética de la inteligencia artificial” de la UNESCO de 23 de noviembre de 2021 el principio de proporcionalidad se describe en los siguientes términos: “La decisión de utilizar sistemas de IA y la elección del método de IA deberían justificarse de las siguientes maneras: a) el método de IA elegido debería ser adecuado y proporcional para lograr un objetivo legítimo determinado; b) el método de IA elegido no debería vulnerar los valores fundamentales enunciados en el presente documento, en particular, su utilización no debe constituir una violación o un abuso de los derechos humanos; y c) el método de IA elegido debería ser adecuado al contexto y basarse en fundamentos científicos rigurosos. En los casos en que se entienda que las decisiones tienen un impacto irreversible o difícil de revertir o que pueden implicar decisiones de vida o muerte, la decisión final debería ser adoptada por un ser humano”. Disponible en: Recomendación sobre la ética de la inteligencia artificial - UNESCO Biblioteca Digital https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa (párrafo 25). como auxiliar para realizar cálculos sin que comprometa o sustituya la decisión jurisdiccional. Solo aporta elementos para la toma de decisiones
+
+32. Con base en los principios de proporcionalidad, protección de datos transparencia antes mencionados, este Tribunal Colegiado procede a justificar el uso de la inteligencia artificial.
+
+34. La presente sentencia pretende ser un referente y recomendación en la adopción de mejores prácticas de administración de justicia, utilizando la inteligencia artificial de manera ética y responsable para innovar en política judicial, en la gobernanza administrativa judicial, así como participar en la mejora de procesos desde una visión institucional. La cual también es propia de los tribunales de la federación.
+
+D. Caso concreto. 35. Para calcular los días inhábiles conforme a las leyes aplicables al procedimiento, este Tribunal Colegiado implementa un procedimiento con uso de inteligencia artificial, tradicionalmente realizado de manera manual por operadores jurisdiccionales, el cual integra los días calendario [días naturales] y los días que conforme a la ley no pueden realizarse actuaciones judiciales [días inhábiles], a fin de obtener los días efectivamente transcurridos entre determinada fecha y otra en la que si pueden tener lugar actos procesales [días hábiles].
+
+37. Con el objeto de hacer verificable el cálculo de los días de inactividad procesal, este tribunal incorpora una herramienta práctica y sencilla basada en inteligencia artificial. Se trata de un prompt[16] orientador (más estandarizado) que, al ser utilizado en modelos de lenguaje como ChatGPT, Gemini, entre otros, permite realizar el cálculo sencillo conforme a la metodología utilizada por órganos judiciales para realizar cómputos procesales.
+
+38. Este método se implementa a través de un prompt estándar que el operador puede utilizar en modelos de lenguaje sin necesidad de cálculos manuales complejos. El prompt solicita únicamente tres datos: (i)
+
+39. El prompt es el siguiente:
+
+[16] Un prompt en inteligencia artificial es una instrucción o texto inicial que se proporciona a un modelo de IA para que genere una respuesta o resultado específico. Es la forma en que los usuarios comunican sus necesidades y deseos a la IA para obtener la información o el contenido deseado.
+
+40. Así con los datos de entrada se corre el prompt en los siguientes modelos de lenguaje grandes (LLMs[17]) más comerciales y que corresponden a ChatGTP y Gemini. En el entendido de que puede existir un universo de herramientas de “IA” y no es necesario usarlas todas (se corren en la presente sentencia para ejemplificar el uso de la herramienta) y pueden usarse indistintamente
+
+[18] https://chatgpt.com/ Concepto Días TOTAL INHÁBILES 96 días
+
+Gemini[19] Se presentan los resultados tal como fueron arrojados
+
+[19] https://gemini.google.com/app Mes Días Inhábiles / Periodos de Suspensión Noviembre 1, 2 y 17 (Conmemoración de la Revolución 2025 Mexicana).
+
+41. Tomando en consideración los cálculos anteriores obtenemos que los días hábiles transcurridos entre el ocho de julio de dos mil veinticinco [última actuación que impulsó el juicio] y el cinco de febrero de dos mil veintiséis [promoción que dio impulso procesal] de manera orientadora tenemos un total de ciento catorce o ciento quince días hábiles[20]. Es decir, con datos de inteligencia artificial e información verificable sobre días inhábiles[21], se puede presumir que no transcurrieron los ciento veinte días previstos en el artículo 1076 del
+
+[20] El modelo de IA Gemini presenta un día de desfase respecto del modelo de ChatGPT, en virtud de que no tomó en cuenta como inhábil del doce de septiembre de dos mil veinticinco, considerado no laborable en el calendario de labores del Tribunal Superior de Justicia de la Ciudad de México. Lo que hace patente la necesidad de supervisión humana en este tipo de procedimientos automatizados.
+
+42. Los datos arrojados por modelos de inteligencia artificial, que incluso arrojan un día de diferencia, se supervisan por este órgano colegiado a través del calendario oficial del Tribunal Superior de Justicia de la Ciudad de México a través de su página de internet oficial[22], de donde se obtienen lo siguiente:
+
+44. Si bien esta fecha no fue considerada por las herramientas de inteligencia artificial, se debe a que no fue incluida manualmente en el prompt. Sin embargo, por situaciones extraordinarias, esa data tampoco debe computarse en el plazo relativo a la caducidad, por lo que se suma un día inhábil al cálculo ya realizado.
+
+46. Al constatarse que la autoridad responsable no motivó ni fundamentó suficientemente la decisión para decretar la caducidad de la instancia, y existir indicios suficientes aportados por inteligencia artificial para presumir que no transcurrieron los cientos veinte días hábiles en términos del artículo 1076 del Código de Comercio para tal efecto, lo procedente es conceder el amparo al quejoso para los siguientes efectos:
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+seis de mayo de dos mil veintiséis
+
+AMPARO DIRECTO CIVIL: 170/2026
+
+QUEJOSO: **** ******** ******* ******** ****** JUICIO EJECUTIVO MERCANTIL ORAL ********
+
+Vo. Bo.
+
+Magistrado
+
+MAGISTRADO PONENTE: JUAN JAIME GONZÁLEZ VARAS SECRETARIO: RICARDO MARTÍNEZ HERRERA
+
+DATOS GENERALES Autoridad Juzgado Primero de lo Civil de Proceso responsable Oral de la Ciudad de México.
+
+La emitida el 10 de febrero de 2026 Resolución
+
+[que decretó la caducidad de la reclamada
+
+instancia por inactividad procesal].
+
+HECHOS RELEVANTES Y/O CONTEXTO Una persona moral, por conducto de su representante, suscribió un pagaré en favor de una persona física. La deudora incumplió con el pago, por lo que el acreedor promovió un juicio ejecutivo mercantil para reclamar el pago.
+
+Durante se realizaron diversas diligencias a fin de emplazar a la parte demandada, sin que se lograra localizarla. Posteriormente, la actora solicitó se giraran oficios a diversas dependencias para investigar el domicilio de la demandada. No obstante, la jueza del conocimiento advirtió inactividad procesal por un tiempo prolongado [más de 120 días] y decretó la caducidad de la instancia.
+
+Inconforme, el demandante promovió juicio de amparo directo donde plantea que la decisión de declarar la caducidad no estaba fundada y motivada, en virtud de que en el juicio existen promociones que impulsaron el procedimiento.
+
+PROBLEMA JURÍDICO:
+
+Determinar si fue correcto que la jueza responsable decretara la caducidad de la instancia al considerar que habían transcurrido más de 120 días sin que se diera impulso al procedimiento.
+
+DECISIÓN JUDICIAL CONCEDE EL AMPARO (vicios de fondo)
+
+Este Tribunal Colegiado concluye que la resolución de caducidad de la instancia fue ilegal, en virtud de que la parte actora sí presentó escritos para dar impulso procesal a fin de logar el emplazamiento. Aunado a que la autoridad responsable no justificó suficientemente su decisión al no establecer un cómputo relativo al transcurso de más de 120 días hábiles de inactividad procesal. Mientras que la “última actuación que dio impulso” tomada como referencia en realidad no debió ser considerara como tal, pues hubo otros actos posteriores que impulsaron el procedimiento. Lo que denota falta de fundamentación y motivación.
+
+A fin de realizar los cómputos relativos a días hábiles e inhábiles este Tribunal hizo uso de herramientas de inteligencia artificial, ello bajo estricticos lineamientos éticos y supervisión humana, conforme a la jurisprudencia II.2o.C. J/2 K (12a.), de rubro:
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+Discusión del asunto Transmisión aquí:
+
+Sesión pública ordinaria https://apps.cjf.gob.mx/BVS/Transmision
+
+Biblioteca?clave=224737
+
+Minuto: 01:41:20
+
+JURISPRUDENCIA DESTACADA
+
+► Jurisprudencia 1a./J. 139/2005. Registro digital: 176546.
+
+FUNDAMENTACIÓN Y MOTIVACIÓN DE LAS RESOLUCIONES JURISDICCIONALES, DEBEN ANALIZARSE A LA LUZ DE LOS ARTÍCULOS 14 Y 16 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, RESPECTIVAMENTE.
+
+► Tesis 1a. CIV/2011. Registro digital: 161901.
+
+CADUCIDAD. EL ARTÍCULO 1076 DEL CÓDIGO DE COMERCIO NO VULNERA EL DERECHO DE ACCESO A LA JUSTICIA TUTELADO EN EL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+
+► Tesis 1a./J. 42/2006. Registro digital: 174541.
+
+CADUCIDAD DE LA INSTANCIA EN MATERIA MERCANTIL. EL TÉRMINO PARA QUE OPERE DEBE COMENZAR A COMPUTARSE A PARTIR DEL DÍA SIGUIENTE A AQUEL EN QUE SURTE EFECTOS LA NOTIFICACIÓN DE LA ÚLTIMA RESOLUCIÓN DICTADA EN EL JUICIO.
+
+► Jurisprudencia II.2o.C. J/1 K (12a.). INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. CONSTITUYE UNA HERRAMIENTA VÁLIDA PARA CALCULAR EL MONTO DE LAS GARANTÍAS QUE SE FIJEN EN LOS JUICIOS DE AMPARO.
+
+► Jurisprudencia II.2o.C. J/2 K (12a.). Registro digital:
+
+2031640. INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+ÍNDICE TEMÁTICO
+
+Apartado Criterio y decisión Págs. I. Este apartado narra los hechos ANTECEDENTES Y relevantes del caso y secuela 2-11 TRÁMITE procesal del juicio oral mercantil de
+
+origen II. Este Tribunal Colegiado es 11-13 COMPETENCIA
+
+competente III. La promoción del amparo es 13-14 OPORTUNIDAD
+
+oportuna IV. Los conceptos de violación relativos
+
+al indebido estudio de la caducidad son fundados y suficientes para conceder la protección constitucional solicitada, 14-34 en virtud de que la parte actora sí ESTUDIO DE
+
+presentó escritos para dar impulso FONDO
+
+procesal a fin de logar el emplazamiento. Además, con uso de inteligencia artificial, existen indicios suficientes de que no transcurrieron más de 120 días hábiles para la caducidad.
+
+V. Concede el amparo por vicios de 34-36 DECISIÓN
+
+fondo.
+
+AMPARO DIRECTO CIVIL: 170/2026
+
+QUEJOSO: **** ******** ******* ******** ****** DERIVADO DEL JUICIO EJECUTIVO MERCANTIL ORAL ********
+
+Vo. Bo.
+
+Magistrado
+
+MAGISTRADO PONENTE: JUAN JAIME GONZÁLEZ VARAS SECRETARIO: RICARDO MARTÍNEZ HERRERA
+
+Ciudad de México. El Décimo Tribunal Colegiado en Materia Civil del Primer Circuito, en la sesión ordinaria virtual de veintidós de abril de dos mil veintiséis, emite la siguiente:
+
+S E N T E N C I A
+
+Mediante la cual se resuelve el juicio de amparo directo número D.C. 170/2026, promovido por **** ******** ******* ******** ******, por su propio derecho, en contra de la resolución que puso fin al juicio de diez de febrero de dos mil veintiséis, dictada por la Jueza Primero de lo Civil de Proceso Oral de la Ciudad de México en el juicio ejecutivo mercantil oral ******** , mediante el cual decretó la caducidad de la instancia.
+
+El problema jurídico que este Tribunal Colegiado debe resolver consiste en determinar si fue jurídicamente correcto que la jueza responsable decretara la caducidad de la instancia, al considerar que habían transcurrido más de ciento veinte días sin que se diera impulso al procedimiento mercantil de origen.
+
+I. ANTECEDENTES Y TRÁMITE
+
+1. Suscripción de un título de crédito. De los hechos narrados en en escrito inicial de demanda se obtiene que el seis de julio de dos mil diecisiete, la persona moral ***** *** ******* ******** ******* ** ******* ******** suscribió un pagaré por la cantidad de $************ ***** ******** ********** *** ***** ****** ****** ********* en favor de **** ******** ******* ******** ******. En el título de crédito se pactó un interés moratorio del 6% (seis por ciento)
+
+mensual sobre la cantidad consignada, con fecha de vencimiento al seis de agosto de dos mil diecisiete.
+
+2. Demanda inicial. Ante la supuesta falta de pago, el seis de agosto de dos mil veinte, **** ******** ******* ******** ******* por su propio derecho, demandó en la vía ejecutiva oral mercantil de ***** *** ******* ******** ******* ** ******* ******** , a fin de que se condenara a la demandada a:
+
+“[…]
+
+a)El pago de $************ ***** ******** ********** *** *****
+
+****** ***** con motivo del adeudo consignado en el pagaré suscrito en fecha 6 de julio de 2017.
+
+b) El pago de los intereses moratorios al 6% (seis por ciento)
+
+mensual sobre la cantidad consignada en el pagaré base de la acción y los que se generen hasta su total liquidación.
+
+c) El Impuesto al Valor Agregado (IVA) cantidad que deberá ser
+
+liquidada en ejecución de sentencia.
+
+d) El pago de gastos y costas.
+
+[…]”
+
+3. Admisión. Por razón de turno correspondió conocer de la demanda a la Jueza Primero de lo Civil de Proceso Oral de la Ciudad de México, registrándola con el número de expediente ********. Por acuerdo de doce de agosto de dos mil veinte, se admitió a trámite la demanda y ordenó emplazar a la demandada para que diera contestación a la demanda enderezada en su contra.
+
+4. Exhorto. En atención a que el domicilio de la demandada ***** *** ******* ******** ******* ** ******* ******** se encontraba fuera de la jurisdicción de dicha juzgadora, ordenó girar exhorto al Juez competente en ************ ****** ** ****** , para que en su auxilio procediera a emplazarla; asimismo, la previno para que señalara domicilio en esta Ciudad de México para oír y recibir notificaciones.
+
+5. Requerimiento de pago, embargo y emplazamiento. Cabe hacer mención que mediante diligencias de catorce de septiembre y dos de diciembre, ambas de dos mil veintidós, practicadas por el secretario actuario adscrito al Juzgado Segundo Civil de ******, ****** ** ****** , se procedió al requerimiento de pago, embargo y emplazamiento de la demandada. Las cuales se declararon nulas porque no se practicaron conforme a las formalidades requeridas por el artículo 1394 del Código de Comercio.
+
+6. Pese a que se realizaron las diligencias a fin de emplazar a la parte demandada, sin que se lograra localizarla, el cinco de febrero de dos mil veintiséis **** ******** ******* ******** ****** solicitó ante la autoridad responsable actualizar oficios a diversas dependencias a fin de verificar si en sus bases de datos tenían registrado algún domicilio, con el propósito de que se pudiera realizar la diligencia de requerimiento de pago, embargo y emplazamiento.
+
+7. Caducidad de la instancia. Ante la promoción anterior, el diez de febrero de dos mil veintiséis, la Jueza Primero de lo Civil de Proceso Oral de esta Ciudad dictó resolución que puso fin al juicio mediante la caducidad de la instancia. Ello al considera que habían transcurrido ciento veinte días sin que se impulsara el procedimiento, siendo la última promoción que dio impulso procesal el acuerdo del diez de abril de dos mil veinticuatro. La parte conducente de dicha resolución es la siguiente:
+
+“[…]
+
+Ciudad de México a diez de febrero de dos mil veintiséis.
+
+Agréguese a sus autos el escrito de la apoderada de la parte actora, y vista la certificación que antecede, tomando en consideración que después de haberse hecho una revisión minuciosa de las actuaciones, se advierte que la última actuación judicial tendiente a dar impulso procesal al procedimiento, consiste en el acuerdo del diez de abril de dos mil veinticuatro (foja 349), lapso en el que transcurrieron más de ciento veinte días, sin que se diera impuso al procedimiento; por lo tanto, SE DECRETA LA CADUCIDAD DE LA INSTANCIA, ya que ésta opera de pleno derecho, convirtiendo en ineficaces las actuaciones del juicio y volviendo las cosas al estado que tenían antes de la presentación de la demanda, de conformidad con el artículo 1076 incisos a) y b) del Código de Comercio.
+
+Sin que pase desapercibido para la suscrita que de constancias de autos se adviertan diversas promociones; sin embargo, el resultado es que la actora no ha realizado actos que pudieran derivar en el emplazamiento de la demandada, ya que ha devuelto diversas minutas selladas de los oficios ordenados; e inclusive en proveído del ocho de julio de dos mil veinticinco (foja 391), se ordenó la actualización del oficio dirigido al ********* ******** *** ****** ******, sin que a la fecha en que se dicta el presente acuerdo, éste haya sido recepcionado, por lo que es notoria la falta de interés jurídico.
+
+Sirve de apoyo a la anterior determinación, la jurisprudencia con los siguientes datos de identificación: Suprema Corte de Justicia de la Nación, Registro digital: 177685, Instancia: Primera Sala, Novena Época, Materias(s): Civil, Tesis: 1ª./J. 72/2005. Fuente: Semanario Judicial de la Federación y su Gaceta. Tomo XXII, Agosto de 2005, página 47, Tipo: Jurisprudencia, bajo el rubro y texto siguiente:
+
+CADUCIDAD DE LA INSTANCIA. LAS PROMOCIONES DE LAS PARTES SON APTAS PARA INTERRUMPIR EL PLAZO PARA QUE OPERE, CUANDO SON OPORTUNAS Y ACORDES CON LA ETAPA PROCESAL EN LA QUE SE PRESENTAN. La Primera Sala de la Suprema Corte de la Nación en la tesis jurisprudencial 1a./J. 1/96 de rubro: "CADUCIDAD DE LA INSTANCIA SÓLO ES SUSCEPTIBLE DE INTERRUPCIÓN A TRAVÉS DE PROMOCIONES QUE TIENDAN A IMPULSAR EL PROCEDIMIENTO Y NO CON CUALQUIER ESCRITO (LEGISLACIÓN PROCESAL DEL DISTRITO FEDERAL).", sostuvo que las promociones que pueden impulsar el procedimiento son aquellas que revelan o expresan el deseo o voluntad de las partes de mantener viva la instancia, esto es, aquellas que tuvieran como consecuencia activar el procedimiento y excitar al órgano jurisdiccional a continuar hasta el dictado de la sentencia. Por ello, para que pueda demostrarse el interés de las partes en impulsar o continuar el procedimiento, es necesario que, además de las características mencionadas, la promoción sea coherente con la correspondiente secuela procesal, es decir, que la pretensión contenida en esa promoción sea posible atendiendo al contexto procesal en que se presenta; en consecuencia, las promociones en las que se solicita que se inicie una etapa procesal o se realice un acto procesal, cuando aquélla ya concluyó o éste ya se realizó, no son oportunas ni coherentes con la secuela procesal, porque de acuerdo al principio de preclusión que rige en los procedimientos civiles y mercantiles, no puede reiniciarse o volverse a una etapa procesal que ya quedó cerrada. Por lo anterior, esa clase de promociones no interrumpen el plazo para que opere la caducidad de la instancia pues no demuestran el interés de las partes por continuar con el procedimiento hasta su resolución, sino por el contrario, lo retrasan.
+
+Contradicción de tesis 50/2005-PS. Entre las sustentadas por el Primer Tribunal Colegiado del Vigésimo Circuito y Tercer Tribunal Colegiado en Materia Civil del Tercer Circuito. 15 de junio de 2005. Cinco votos. Ponente: José Ramón Cossío Díaz. Secretario: Fernando A. Casasola Mendoza.
+
+Tesis de jurisprudencia 72/2005. Aprobada por la Primera Sala de este Alto Tribunal, en sesión de fecha quince de junio de dos mil cinco.
+
+Asimismo, cobra aplicabilidad la jurisprudencia con los datos: Suprema Corte de Justicia de la Nación, Registro digital: 200432, Instancia: Primera Sala, Novena Época, Materias(s):
+
+Común, Tesis: 1ª./J. 1/96, Fuente: Semanario Judicial de la Federación y su Gaceta: Tomo III, Enero de 1996, página 9, Tipo: Jurisprudencia, cuyo rubro y texto es el siguiente:
+
+CADUCIDAD DE LA INSTANCIA. SOLO ES SUSCEPTIBLE DE INTERRUPCIÓN A TRAVÉS DE PROMOCIONES QUE TIENDAN A IMPULSAR EL PROCEDIMIENTO Y NO CON CUALQUIER ESCRITO.
+
+(LEGISLACIÓN PROCESAL DEL DISTRITO FEDERAL).
+
+Para que se interrumpa la caducidad será necesario un acto procesal de las partes que manifieste su deseo o su voluntad de continuar el procedimiento, acto que, cabe subrayar, deberá ser de aquellos que la doctrina califica de impulso procesal, esto es, que tienen el efecto de hacer progresar el juicio. Lo dicho se explica no sólo en función de lo que sanciona la ley, o sea, la inactividad procesal de las partes, que de suyo revela el desinterés en que se continúe con el asunto y que se llegue a dictar sentencia, a modo tal que si las partes o alguna de ellas tiene interés en que no opere la caducidad, necesariamente habrá de asumir la conducta procesal correspondiente, a saber: impulsar el juicio mediante la promoción respectiva. También se advierte que la naturaleza de esta última, como puede verse de la exposición de motivos del legislador deberá ser tal que tenga el efecto de conducir o encauzar el juicio hasta llegar a su fin natural. En efecto, la modalidad de la reforma entonces planteada fue también en el sentido de impedir la interrupción del término de la caducidad con promociones frívolas o improcedentes, sino sólo con aquellas que revelaran o expresaran el deseo o voluntad de las partes de mantener viva la instancia, esto es, que tuvieran como consecuencia activar el procedimiento y excitar al órgano jurisdiccional a continuar hasta dictar sentencia.
+
+Además, debe tenerse en cuenta que el impulso del proceso por los litigantes no es un deber; es sencillamente una carga en el sentido técnico procesal del vocablo, carga que pesa sobre los contendientes. Sobre el particular, los procesalistas distinguen poder, deber y carga. Por el primero se crean situaciones jurídicas;
+
+por el deber se establece la necesidad insoslayable de seguir determinada conducta para satisfacer un interés ajeno a un con sacrificio del propio. Se tiene una carga cuando la ley fija el acto o actos que hay que efectuar como condición para que se desencadenen los efectos favorables al propio interesado quien, para que el proceso no se extinga y se mantenga vivo, es condición que promueva. Así las cosas, no obsta para lo hasta aquí sostenido que el artículo 137 bis no determine la naturaleza de las promociones que puedan interrumpir la caducidad de la instancia, toda vez que dicho carácter deriva de los derechos de acción y contradicción que competen a las partes, esto es, de las facultades que como cargas procesales tienen de activar el procedimiento para poder llevarlo hasta su terminación si quieren conseguir un resultado favorable, de tal manera que si no la realizan no podrán obtener lo que buscan. De entre dichas cargas es la del impulso procesal a la que se refiere la norma en comento al aludir a las promociones de las partes, que consiste en la actividad necesaria para que el proceso siga adelante a través de los distintos estadios que lo componen y que es consecuencia del principio dispositivo que domina el procedimiento civil ordinario, el cual se enuncia diciendo que el ejercicio de la acción, su desarrollo a través del proceso, los límites mismos de la acción y la propia actividad del Juez, se regulan por la voluntad de las partes contendientes. Por tanto, no es cierto que baste la promoción de cualquier escrito para interrumpir la caducidad de la instancia y que no importe su contenido siendo más que suficiente que se dirija al expediente por cualquiera de las partes.
+
+Contradicción de tesis 12/95. Entre las sustentadas por el Séptimo y Tercer Tribunales Colegiados en Materia Civil del Primer Circuito. 29 de noviembre de 1995. Cinco votos. Ponente: Juan N. Silva Meza. Secretario: Iram García García.
+
+Tesis de Jurisprudencia 1/96. Aprobada por la Primera Sala de este alto tribunal, en sesión de veintinueve de noviembre de mil novecientos noventa y cinco, por unanimidad de cinco votos de los Ministros: presidente Juventino V. Castro y Castro, Humberto Román Palacios, José de Jesús Gudiño Pelayo, Juan N. Silva Meza y Olga Sánchez Cordero de García Villegas.
+
+Y finalmente, se cita la jurisprudencia publicada en el Semanario Judicial de la Federación y su Gaceta. Época: Novena Época. Registro: 184348. Tomo XVII, Mayo de 2003. Pág. 149, que a la letra dice: “CADUCIDAD DE LA INSTANCIA EN MATERIA MERCANTIL. OPERA DESDE EL PRIMER AUTO QUE SE DICTE EN EL JUICIO AUNQUE NO SE HAYA EMPLAZADO AL DEMANDADO. El artículo 1076 del Código de Comercio señala que la caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo y hasta la citación para oír sentencia, cuando hayan transcurrido ciento veinte días contados a partir del día siguiente a aquel en que surtió efectos la notificación de la última resolución judicial dictada, y que no hubiere promoción de cualquiera de las partes, dando impulso al procedimiento para su trámite, solicitando la continuación para la conclusión del mismo. La expresión "cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo", indudablemente atañe a cualquier momento procesal dentro de una instancia, la cual da inicio con la presentación de la demanda; por lo que es evidente que la caducidad de la instancia puede operar desde el primer auto que se dicte en ésta, y no a partir de que se emplace al demandado, pues ningún dispositivo de la legislación mercantil exige esa actuación procesal para que opere esta figura, ya que en todo caso, ese requisito será necesario para la integración de la litis, pero la falta de ésta, de manera alguna releva al actor de mantener viva la instancia”.
+
+Por tanto, se ordena devolver al accionante los documentos exhibidos con el escrito inicial de demanda, por lo que entréguense por conducto de las personas autorizadas para tal efecto, previa razón que por su recibo obre en autos, de conformidad con el artículo 1380 del Código de Comercio.
+
+Ahora bien, con fundamento en lo establecido en los artículos 30, 34, 35 y 36 del REGLAMENTO DE LOS SISTEMAS INSTITUCIONALES DE ARCHIVOS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, entréguese en su oportunidad, el presente expediente con sus respectivas constancias, al Archivo Judicial para su baja documental, debidamente clasificado en inventario con la descripción “PARA SU BAJA”.
+
+Por los que mediante acuerdo, NOTIFÍQUESE POR BOLETÍN JUDICIAL, A LA PERSONA PROMOVENTE O PROMOVENTES Y/O SUJETOS DEL PROCEDIMIENTO, que una vez transcurrido el término de NOVENTA DÍAS NATURALES, de la publicación que al efecto se lleve a cabo del presente, se procederá a la baja de los documentos base o de prueba, así como del expediente con sus cuadernos que se hayan formado con motivo de la acción ejercitada; de ahí que, se conmina al o los interesados, para que dentro del plazo concedido, soliciten la devolución de los referidos documentos.
+
+Por otra parte, se instruye al (a) C. Secretario (a) de Acuerdos, para que, previa remisión del presente expediente, cuadernos y constancias para su baja documental al Archivo Judicial, deberá certificar las copias de las constancias necesarias para la existencia de un legajo de expediente de baja, de conformidad con la Ley Orgánica del Poder Judicial de la Ciudad de México.
+
+Bajo dicho contexto, se le indica a la parte actora que no es factible acordar de conformidad su petición. NOTIFÍQUESE.
+
+8. Premisas relevantes del acto reclamado. En la resolución reclamada la jueza consideró, entre otras cosas, lo siguiente:
+
+• La jueza responsable decreta la caducidad de la instancia por considerar que transcurrieron más de ciento veinte días, la cual implica que el procedimiento se tenga por terminado debido a la supuesta falta de actividad procesal por parte de las partes durante el tiempo establecido por la ley.
+
+• Que no pasaba desapercibido para la responsable que de autos se advertían diversas promociones, sin embargo la actora “no había realizado actos que pudieran derivar en el emplazamiento de la demandada”, por lo que era notoria la falta de interés jurídico.
+
+9. Demanda de amparo. Inconforme con la anterior resolución el actor **** ******** ******* ******** ******, por su propio derecho, promovió un juicio de amparo directo en el que plantea no estar conforme con que la autoridad responsable decretara la caducidad de la instancia, determinando que era contrario a derecho. En los conceptos de violación el quejoso plantea lo siguiente:
+
+• Argumenta que el acto emitido por la autoridad responsable vulnera los artículos 16 y 17 Constitucionales, los cuales establecen que ninguna persona puede ser molestada en su persona, bienes o derechos sin un mandamiento escrito debidamente fundado y motivado por una autoridad competente, y que toda persona tiene derecho a una justicia pronta y efectiva.
+
+• Que la resolución recurrida carecía de una adecuada fundamentación y motivación, lo cual afectaba sus intereses, ya que toda sentencia debía estar sustentada en la ley, tal como lo establece el Código de Comercio, considerando que la autoridad responsable actuó de forma incorrecta al emitir la resolución.
+
+• Que aunque no cualquier promoción procesal interrumpe el plazo para que opere dicha caducidad, ciertas actuaciones sí lo hacen cuando contribuyen a mantener activo el procedimiento. Entre ellas se incluye la designación de nuevos abogados patronos, ya que este tipo de promociones permite que el proceso continúe y que las partes puedan seguir actuando dentro del juicio.
+
+• Menciona un criterio sostenido por la Suprema Corte de Justicia de la Nación, el cual establece que escritos como la autorización de representantes o abogados sí pueden interrumpir el término para la caducidad, pues ayudan a mantener vigente la instancia y facilitan el desarrollo del proceso judicial. El criterio es el número VI.2o.C.9 C (11a.), de rubro: “CADUCIDAD DE LA
+
+INSTANCIA. EL ESCRITO DE DESIGNACIÓN DE NUEVOS ABOGADOS PATRONOS EN UN INCIDENTE DE NULIDAD DE ACTUACIONES INTERRUMPE EL TÉRMINO PARA QUE OPERE (LEGISLACIÓN DEL ESTADO DE PUEBLA)”.
+
+• Que el auto que se impugna violó el principio de tutela judicial, debido a que se promovió un escrito mediante el cual solicitaba la actualización de oficios ordenados en autos, con el objetivo de obtener el domicilio del demandado para emplazarlo, por lo cual el interés jurídico quedaba en evidencia, sin que la responsable declarara caducidad anterior a la promoción que fue ingresada. • La jueza del conocimiento aplicó incorrectamente el artículo 1076 del Código de Comercio, omitiendo valorar actuaciones que sí interrumpían la caducidad, lo que configura indebida motivación material. Además no analizó el contexto procesal ni justificó por qué el auto de ocho de julio de dos mil veinticinco no constituía impulso procesal.
+
+• Dice el quejoso que es procedente se le otorgue el amparo a efectos de que sea revocado el auto impugnado, en el cual se haga un análisis exhaustivo de la situación jurídica en la que se encuentra el juicio natural, a efecto de que haga una mejor valoración del asunto, determinando dar continuidad al juicio.
+
+10. Admisión. Del juicio de amparo directo correspondió conocer a este Décimo Tribunal Colegiado en Materia Civil del Primer Circuito con el número de expediente D.C. 170/2026. Por acuerdo de veintitrés de marzo de dos mil veintiséis, el Magistrado Presidente lo admitió a trámite y notificó al Agente del Ministerio Público de la Federación adscrito, quien no formuló pedimento alguno.
+
+11. Turno. Por acuerdo de veinticinco de marzo de dos mil veintiséis, se turnaron los autos a la ponencia del Magistrado Juan Jaime González Varas, para la elaboración del proyecto respectivo.
+
+II. COMPETENCIA
+
+12. Este Décimo Tribunal Colegiado en Materia Civil del Primer Circuito es legalmente competente para conocer y por ende resolver del presente juicio de amparo de conformidad con los artículos 103, fracción I[1], y 107, fracción III, inciso a), primer párrafo, de la Constitución Política de los Estados Unidos Mexicanos[2]; 170, fracción I, de la Ley de Amparo[3]; 35, fracción I inciso c), 210 y 211 de la actual Ley Orgánica del Poder Judicial de la Federación[4]; publicada en el Diario Oficial de la
+
+[1] Artículo 103. Los Tribunales de la Federación resolverán toda controversia que se suscite I. Por normas generales, actos u omisiones de la autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por esta Constitución, así como por los tratados internacionales de los que el Estado Mexicano sea parte;
+
+[2] Artículo 107. Las controversias de que habla el artículo 103 de esta Constitución, con excepción de aquellas en materia electoral, se sujetarán a los procedimientos que determine la ley reglamentaria, de acuerdo con las bases siguientes:
+
+(…)
+
+III. Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo solo procederá en los casos siguientes: a) Contra sentencias definitivas, laudos o resoluciones que pongan fin al juicio, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte las defensas del quejoso trascendiendo al resultado del fallo.
+
+(…)
+
+[3] Artículo 170. El juicio de amparo directo procede:
+
+I. Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, dictadas por tribunales judiciales, administrativos, agrarios o del trabajo, ya sea que la violación se cometa en ellos, o que cometida durante el procedimiento, afecte las defensas de la persona quejosa trascendiendo al resultado del fallo.
+
+Se entenderá por sentencias definitivas o laudos, los que decidan el juicio en lo principal; por resoluciones que pongan fin al juicio, las que sin decidirlo en lo principal lo den por concluido. En materia penal, las sentencias condenatorias, absolutorias y de sobreseimiento, podrán ser impugnadas por la víctima u persona ofendida del delito.
+
+Para la procedencia del juicio deberán agotarse previamente los recursos ordinarios que se establezcan en la ley de la materia, por virtud de los cuales aquellas sentencias definitivas o laudos y resoluciones puedan ser modificados o revocados, salvo el caso en que la ley permita la renuncia de los recursos.
+
+Cuando dentro del juicio surjan cuestiones sobre constitucionalidad de normas generales que sean de reparación posible por no afectar derechos sustantivos ni constituir violaciones procesales relevantes, sólo podrán hacerse valer en el amparo directo que proceda contra la resolución definitiva.
+
+Para efectos de esta Ley, el juicio se inicia con la presentación de la demanda. En materia penal el proceso comienza con la audiencia inicial ante el Juez o Jueza de control;
+
+[4] Artículo 35. Con las salvedades a que se refiere el artículo 16 de esta Ley, son competentes los Tribunales Colegiados de Circuito para conocer:
+
+I. De los juicios de amparo directo contra sentencias definitivas, laudos o contra resoluciones que pongan fin al juicio por violaciones cometidas en ellas o durante la secuela del procedimiento, cuando se trate:
+
+(…)
+
+c) En materia civil o mercantil, de sentencias o resoluciones respecto de las que no proceda el recurso de apelación, de acuerdo con las leyes que las rigen, o de sentencias o resoluciones dictadas en apelación en juicios del orden común o federal, y
+
+Artículo 210. Para los efectos de esta Ley, el territorio de la República se dividirá en el número de circuitos y regiones que mediante acuerdos generales determine el Órgano de Administración Judicial.
+
+En cada uno de los circuitos el Órgano de Administración Judicial establecerá mediante acuerdos generales, el número de Tribunales Colegiados de Circuito, Colegiados de Apelación y de Juzgados de Distrito, así como su especialización y límites territoriales. En cada región funcionará un pleno regional con jurisdicción sobre los circuitos que le correspondan.
+
+Federación el veinte de diciembre de dos mil veinticuatro; y, los puntos Primero y Tercero, Apartado II, del Acuerdo General 3/2013[5], publicado en el Diario Oficial de la Federación el quince de febrero de dos mil trece, emitido por el extinto Pleno del Consejo de la Judicatura Federal.
+
+13. Lo anterior, debido a que se promovió contra una resolución que puso fin al juicio[6], dictada por una autoridad que tiene su residencia en el ámbito territorial en que este órgano colegiado ejerce jurisdicción.
+
+III. OPORTUNIDAD
+
+14. La demanda de amparo se promovió oportunamente, ya que la resolución reclamada se notificó el once de febrero de dos mil veintiséis, y surtió sus efectos al día siguiente[7]. De esa manera, el plazo de quince días
+
+Artículo 211. Cada uno de los circuitos a que se refiere el artículo anterior comprenderá los distritos judiciales cuyo número y límites territoriales determine el Órgano de Administración Judicial mediante acuerdos generales.
+
+[5] PRIMERO. El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente:
+
+I.PRIMER CIRCUITO: Ciudad de México.
+
+[…]
+
+TERCERO. La jurisdicción territorial de los tribunales colegiados de circuito y de apelación es la que enseguida se indica:
+
+I. PRIMER CIRCUITO: Distrito Federal.
+
+[6] Sirve de apoyo la tesis XVII.2o.10 K (11a.), de rubro: AMPARO DIRECTO. PROCEDE TANTO CONTRA EL AUTO QUE DECRETA LA CADUCIDAD DE LA INSTANCIA, COMO EL DIVERSO QUE DESECHA EL RECURSO DE REVOCACIÓN INTENTADO EN SU CONTRA, DICTADOS EN UN JUICIO EJECUTIVO MERCANTIL ORAL.
+
+[7] Ver tesis 1a./J. 25/2017 (10a.), de rubro y texto: “JUICIO ORAL MERCANTIL. EL CÓMPUTO DEL PLAZO PARA PROMOVER AMPARO DIRECTO CONTRA LA SENTENCIA DEFINITIVA DICTADA EN LA AUDIENCIA, INICIA EL DÍA SIGUIENTE AL EN QUE SURTA EFECTOS LA NOTIFICACIÓN A LAS PARTES. De la interpretación armónica, sistemática y funcional de los artículos 17, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos; 18 de la Ley de Amparo y 1390 bis-8, 1390 bis-10, 1390 bis-39, 1390 bis-22 y 1075 del Código de Comercio, se advierte que la notificación de la sentencia definitiva dictada en la audiencia del juicio oral se tiene por realizada en ese mismo acto y surte efectos al día siguiente, por lo que el tribunal de amparo debe tomar como inicio del plazo para promover el juicio constitucional iniciado en contra de ese fallo, el día siguiente al en que surta efectos la notificación tenida por hecha en la audiencia […]”. Tesis publicada en la Gaceta del Semanario Judicial de la Federación, Libro 43, Junio de 2017, Tomo I, página 544, Registro digital: 2014496. previsto en el artículo 17 de la Ley de Amparo transcurrió del trece de febrero al cinco de marzo de dos mil veintiséis; descontándose para efectos del cómputo relativo los días catorce, quince, veintiuno, veintidós, veintiocho de febrero y primero de marzo de dicho año, por haber sido inhábiles conforme a los artículos 19 de la Ley de Amparo[8], 229 de la Ley Orgánica del Poder Judicial de la Federación.
+
+15. Por tanto, si la demanda se presentó el cinco de marzo de dos mil veintiséis, su presentación es oportuna.
+
+IV. ESTUDIO
+
+16. De la causa de pedir se advierte que el quejoso pretende demostrar que fue incorrecto que la autoridad responsable decretara la caducidad de la instancia ya que no fundamentó ni motivo suficientemente su resolución. Aunado a que existen constancias que dieron impulso al proceso, específicamente promociones relacionadas con gestiones para lograr el emplazamiento.
+
+[8] Ley de Amparo.
+
+Artículo 19. Son días hábiles para la promoción, substanciación y resolución de los juicios de amparo todos los del año, con excepción de los sábados y domingos, uno de enero, cinco de febrero, veintiuno de marzo, uno y cinco de mayo, catorce y dieciséis de septiembre, doce de octubre, veinte de noviembre y veinticinco de diciembre, así como aquellos en que se suspendan las labores en el órgano jurisdiccional ante el cual se tramite el juicio de amparo, o cuando no pueda funcionar por causa de fuerza mayor.
+
+LOPJF Artículo 229. En los órganos del Poder Judicial de la Federación, se considerarán como días inhábiles los sábados y domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 14 y 16 de septiembre y 20 de noviembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la ley.
+
+LFT Artículo 74. Son días de descanso obligatorio:
+
+[…]
+
+III. El tercer lunes de marzo en conmemoración del 21 de marzo; 17. Dichos conceptos de violación son fundados y suficientes para que este Tribunal Colegiado de Circuito conceda la protección constitucional solicitada.
+
+18. Para tal efecto, este Tribunal seguirá la siguiente metodología: a) en primer lugar se exponen parámetros sobre fundamentación y motivación de resoluciones judiciales; b) la figura de la caducidad de la instancia; c) parámetros para el uso ético y responsable de inteligencia artificial en procesos jurisdiccionales; y, d) solución del caso.
+
+A. Deber de fundar y motivar las resoluciones. 19. En primer lugar, en términos generales, la obligación de fundar y motivar debidamente los actos de autoridad se refiere a que se expresen las razones de derecho y los motivos de hecho considerados para su dictado, los cuales deberán ser reales, ciertos e investidos de la fuerza legal suficiente para provocar el acto de autoridad.
+
+20. Así, la fundamentación y motivación de una resolución jurisdiccional se encuentra en el análisis exhaustivo de los puntos que integran la litis, es decir, en el estudio de las acciones y excepciones del debate. Apoyándose en él o los preceptos jurídicos que permiten expedirla y que establezcan la hipótesis que genere su emisión, así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para la emisión del acto. Siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso. Así lo establece la jurisprudencia 1a./J. 139/2005, de rubro y texto:
+
+FUNDAMENTACIÓN Y MOTIVACIÓN DE LAS RESOLUCIONES JURISDICCIONALES, DEBEN ANALIZARSE A LA LUZ DE LOS ARTÍCULOS 14 Y 16 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, RESPECTIVAMENTE. Entre las diversas garantías contenidas en el segundo párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, sustento de la garantía de audiencia, está la relativa al respeto de las formalidades esenciales del procedimiento, también conocida como de debido proceso legal, la cual se refiere al cumplimiento de las condiciones fundamentales que deben satisfacerse en el procedimiento jurisdiccional que concluye con el dictado de una resolución que dirime las cuestiones debatidas. Esta garantía obliga al juzgador a decidir las controversias sometidas a su conocimiento, considerando todos y cada uno de los argumentos aducidos en la demanda, en su contestación, así como las demás pretensiones deducidas oportunamente en el pleito, de tal forma que se condene o absuelva al demandado, resolviendo sobre todos los puntos litigiosos materia del debate. Sin embargo, esta determinación del juzgador no debe desvincularse de lo dispuesto por el primer párrafo del artículo 16 constitucional, que impone a las autoridades la obligación de fundar y motivar debidamente los actos que emitan, esto es, que se expresen las razones de derecho y los motivos de hecho considerados para su dictado, los cuales deberán ser reales, ciertos e investidos de la fuerza legal suficiente para provocar el acto de autoridad. Ahora bien, como a las garantías individuales previstas en la Carta Magna les son aplicables las consideraciones sobre la supremacía constitucional en términos de su artículo 133, es indudable que las resoluciones que emitan deben cumplir con las garantías de debido proceso legal y de legalidad contenidas en los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos. Así, la fundamentación y motivación de una resolución jurisdiccional se encuentra en el análisis exhaustivo de los puntos que integran la litis, es decir, en el estudio de las acciones y excepciones del debate, apoyándose en el o los preceptos jurídicos que permiten expedirla y que establezcan la hipótesis que genere su emisión, así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para la emisión del acto, siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso[9].
+
+B. Caducidad de la instancia. 21. Ahora bien, en este caso estamos frente a una resolución que puso fin al procedimiento de origen, mediante la caducidad de la instancia. Cabe decir que dicha figura es una manera de concluir un juicio sin llegar al dictado de la sentencia, derivado de la actividad procesal de las partes. Incluso, la Suprema Corte de Justicia de la Nación ha tenido la oportunidad de pronunciarse sobre constitucionalidad en el amparo directo en revisión 2474/2010, del cual derivó la tesis 1a. CIV/2011, de rubro y texto:
+
+CADUCIDAD. EL ARTÍCULO 1076 DEL CÓDIGO DE COMERCIO NO VULNERA EL DERECHO DE ACCESO A LA JUSTICIA TUTELADO EN EL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS. La caducidad regulada en el artículo 1076 del Código de Comercio, no vulnera el derecho de acceso a la justicia tutelado en el artículo 17 de la Constitución Federal, por el hecho de decretarla cuando el actor deja de impulsar el procedimiento en cualquiera de sus etapas procesales. Lo anterior es así, ya que es una consecuencia de la propia conducta de quien en determinado momento inició un procedimiento de naturaleza mercantil, y posteriormente desatendió los plazos y términos previamente fijados por el legislador. En este sentido, si la caducidad genera que la parte actora no pueda continuar con su procedimiento por inactividad procesal en un periodo transcurrido de ciento veinte días contados a partir del día siguiente a aquel en que surtió efectos la notificación de la última resolución judicial, ello no significa que el Estado deje de asumir su deber de procurar el acceso a la justicia, toda vez que dicha condición es una forma de garantizar las
+
+[9] Publicada en el Semanario Judicial de la Federación y su Gaceta, Tomo XXII, Diciembre de 2005, página 162, registro digital: 176546. formalidades del procedimiento, mismas que deben ser respetadas por los órganos jurisdiccionales[10].
+
+22. Para este tribunal, el hecho de que dicha figura procesal tenga anclaje constitucional no exime a las autoridades jurisdiccionales de satisfacer los principios de motivación y fundamentación cuando consideran que se ha actualizado la caducidad de la instancia.
+
+23. En el presente caso, la autoridad responsable determinó –de forma dogmática– que la última actuación judicial tendiente a dar impulso procesal al procedimiento en el juicio de origen consistía en el acuerdo del diez de abril de dos mil veinticuatro [foja 349 del juicio de origen], mediante el cual se giraron oficios a diversas dependencias, con la finalidad de indagar sobre el domicilio de la parte demandada para lograr el emplazamiento.
+
+24. No obstante, la jueza responsable no explicó por qué ese acuerdo fue el último que dio impulso procesal.
+
+Si bien adujo que existían otras constancias, la jueza estimó que la actora no había realizado actos que pudieran derivar en el emplazamiento de la demandada.
+
+25. Contrariamente a esa determinación, este tribunal advierte que después de la fecha destacada por la jueza natural [diez de abril de dos mil veinticuatro] el actor presentó la promoción veinticinco de noviembre de dos mil veinticuatro, devolviendo el oficio 617
+
+[10] Semanario Judicial de la Federación y su Gaceta. Tomo XXXIII, Junio de 2011, página 170, Registro digital: 161901 debidamente diligenciado, relativo a la investigación del domicilio de la demanda [foja 364 del juicio de origen]. La promoción de diez de enero dos mil veinticinco, por medio de la cual devolvió una minuta emitida con la finalidad de logar el emplazamiento [foja 381]. La promoción de doce de junio de dos mil veinticinco, por medio de la cual solicitó tener por agotado el procedimiento ante diversas autoridades para localizar el domicilio de la demanda, así como la solitud de nuevos oficios para diversa autoridad [foja 388 a 389. Finalmente, el acuerdo de ocho de julio de dos mil veinticinco, mediante el cual se ordenó actualizar oficios a fin de continuar con la búsqueda de domicilio de la demanda [foja 391]. En dicho acuerdo la jueza del conocimiento determinó:
+
+“[…]
+
+Ciudad de México a ocho de julio de dos mil veinticinco Agréguese a sus autos el escrito… […]
+
+Por último, sin lugar a tener por agotado el domicilio proporcionado por el Instituto Mexicano del Seguro Social mediante oficio *************** de fecha ocho de febrero de dos mil veintitrés (a foia 253), en virtud que cuenta con datos para ser ubicado el mismo, aunado que mediante proveído de fecha diez de abril de dos mil veinticuatro se ordenó girar nuevamente oficio a dicho instituto y mediante auto de veintisiete de noviembre del dos mil veinticuatro se ordenó la actualización del oficio ordenado, sin que el mismo haya sido diligenciado, en esas consideraciones actualícese el oficio ordenado al INSTITUTO MEXICANO DEL SEGURO SOCIAL en término de lo ordenado en proveído de diez de abril de dos mil veinticuatro-NOTIFIQUESE. Lo proveyó y firma la C. Juez Interina Primero Civil de Proceso Oral, Maestra Micaela de la Peña Méndez, ante la C. Secretaria de Acuerdos Maestra Carolina Neri Sánchez, con quien actúa y da fe. DOY FE”.
+
+26. Para este tribunal, todas las actuaciones anteriores tienden a impulsar el proceso mediante solicitudes para actualizar oficios o tener agotado el procedimiento de búsqueda de domicilio de la demandada. 27. Sin embargo, esos actos procesales no fueron tomados en cuenta por la autoridad responsable para el cómputo de los ciento veinte días para decretar la caducidad.
+
+Computo que incluso es inexistente, ya que no hay en el expediente un cálculo sobre los días hábiles e inhábiles que transcurrieron entre la “última actuación” que dio impulso procesal y la fecha que operó la caducidad de la instancia. Lo que denota falta de motivación y fundamentación; lo cual, por sí mismo, sería suficiente para conceder la protección por ausencia de esos requisitos el acto reclamado.
+
+28. No obstante, este tribunal también advierte indicios suficientes para afirmar que entre último acuerdo que dio impulso al proceso [consistente en la resolución de ocho de julio de dos mil veinticinco], y la fecha en que se solicitó actualizar los oficios para continuar con la búsqueda de domicilio de la demandada [cinco de febrero de dos mil veintiséis], no transcurrieron los ciento veinte días hábiles necesarios para que operara dicha caducidad, términos del artículo 1076 del Código de Comercio[11], el cual establece que en ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales, salvo los casos de
+
+[11] Artículo 1076. En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales, salvo los casos de excepción que se señalen por la ley.
+
+La caducidad de la instancia operará de pleno derecho, por lo cual es de orden público, irrenunciable y no puede ser materia de convenios entre las partes. Tal declaración podrá ser de oficio, o a petición de parte, cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo y hasta la citación para oír sentencia, en aquellos casos en que concurran las siguientes circunstancias:
+
+a) Que hayan transcurrido 120 días contados a partir del día siguiente a aquel en que
+
+surtió efectos la notificación de la última resolución judicial dictada, y
+
+b) Que no hubiere promoción de cualquiera de las partes, dando impulso al
+
+procedimiento para su trámite, solicitando la continuación para la conclusión del mismo. excepción que se señalen por la ley. Sirve de apoyo, en lo conducente, la tesis 1a./J. 42/2006, de rubro y texto:
+
+CADUCIDAD DE LA INSTANCIA EN MATERIA MERCANTIL. EL TÉRMINO PARA QUE OPERE DEBE COMENZAR A COMPUTARSE A PARTIR DEL DÍA SIGUIENTE A AQUEL EN QUE SURTE EFECTOS LA NOTIFICACIÓN DE LA ÚLTIMA RESOLUCIÓN DICTADA EN EL JUICIO. El artículo 1076 del Código de Comercio establece que la caducidad de la instancia opera cuando sin que medie promoción de las partes impulsando el procedimiento "hayan transcurrido 120 días contados a partir del día siguiente a aquel en que surtió efectos la notificación de la última resolución judicial dictada". Ahora bien, como dicha disposición es clara y no da lugar a dudas respecto de su sentido, debe interpretarse literalmente, acorde con el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, e incluso interpretándola en forma sistemática con otras normas del Código de Comercio se advierte que es necesario notificar la última resolución, pues de acuerdo con los artículos 1075 y 1077 de dicho Código, las resoluciones judiciales deben notificarse y sólo cuando ello ocurre pueden comenzar a computarse los términos judiciales que la ley señala. En esa virtud, se concluye que si no se notifica la última resolución no puede operar la caducidad, porque no se presenta la condición legal para que comience el plazo, es decir, no existe fecha cierta para iniciar el cómputo a fin de decretar la inactividad procesal por más de ciento veinte días y considerar que la instancia ha caducado[12].
+
+C. Uso responsable de inteligencia artificial.
+
+29. A fin de establecer un parámetro entre los días hábiles transcurridos durante la inactividad procesal, este tribunal hace uso de inteligencia artificial, la cual constituye una herramienta innovadora que puede incorporarse a los procesos para facilitar el razonamiento numérico dentro de labores
+
+[12] Semanario Judicial de la Federación y su Gaceta. Tomo XXIV, Agosto de 2006, página 72, Registro digital: 174541 jurisdiccionales. Al respecto, es aplicable la tesis de jurisprudencia II.2o.C. J/1 K (12a.), de contenido:
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES.
+
+CONSTITUYE UNA HERRAMIENTA VÁLIDA PARA CALCULAR EL MONTO DE LAS GARANTÍAS QUE SE FIJEN EN LOS JUICIOS DE AMPARO.
+
+Hechos: Diversas personas interpusieron recursos de queja y de revisión en el incidente de suspensión para impugnar el monto de las garantías fijadas por Juzgados de Distrito al acordar diferentes asuntos. Consideraron que su determinación carecía de parámetros objetivos o que no se tomaron en cuenta las características personales y capacidad económica de la persona quejosa para fijarlas.
+
+Criterio jurídico: Las herramientas de inteligencia artificial pueden emplearse válidamente en procesos jurisdiccionales para calcular el monto de las garantías que se fijen en los juicios de amparo, en el entendido de que su utilización no sustituye la labor de las personas juzgadoras, sino que facilitan y eficientizan la administración de justicia.
+
+Justificación: Ante el avance de las nuevas tecnologías y las tendencias emergentes de justicia digital, la inteligencia artificial es una herramienta innovadora que puede incorporarse a los procesos para facilitar el razonamiento numérico dentro de labores jurisdiccionales.
+
+La jurisprudencia exige parámetros para calcular las garantías que deben fijarse en los juicios de amparo, lo que exige operaciones como la actualización de valores, la aplicación de tasas de interés y la ponderación de lapsos procesales. Estas actividades, aunque necesarias para la motivación de una resolución judicial, no forman parte del núcleo decisorio jurisdiccional, sino que constituyen labores auxiliares susceptibles de apoyo tecnológico.
+
+El uso de herramientas de inteligencia artificial en estos casos se justifica porque permite: a) reducir errores humanos en dichos cálculos; b) dar transparencia y trazabilidad al exponer cómo se obtiene el resultado paso a paso; c) generar consistencia y estandarización en los precedentes y en la fijación de los montos de las garantías; y d) mejorar la eficiencia procesal, al liberar tiempo para el análisis sustantivo del caso y facilitar la motivación de las decisiones judiciales.
+
+Este mecanismo, recomendable desde una visión institucional de los tribunales que adoptan mejores prácticas para la administración de justicia, permite a las personas juzgadoras obtener datos auditables que muestran de manera transparente cómo se cuantifica una garantía. De esta forma se preserva el núcleo esencial de la función jurisdiccional, a la vez que se refuerza la motivación y transparencia del fallo, en consonancia con un principio de justicia digital y los estándares de motivación previstos en el artículo 16 de la Constitución Federal.
+
+30. Así, dado el avance de las nuevas tecnologías y las tendencias emergentes en la justicia digital, este Tribunal Colegiado encuentra en la inteligencia artificial aplicada una herramienta innovadora (no obligatoria) no sólo útil para automatizar tareas administrativas, sino que también puede integrarse para facilitar el razonamiento numérico dentro de labores jurisdiccionales[13]. Sirve de apoyo la jurisprudencia II.2o.C. J/2 K (12a.), de rubro y texto:
+
+INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+Hechos: En diversos recursos de queja y de revisión en incidentes de suspensión interpuestos contra decisiones de Juzgados de Distrito en amparo indirecto, este Tribunal Colegiado de Circuito empleó herramientas de inteligencia artificial para calcular el monto de una garantía. Al tratarse de una práctica innovadora en procesos jurisdiccionales resultó necesario, bajo un ejercicio de autocontención, definir los parámetros para la aplicación ética y responsable de la inteligencia artificial.
+
+Criterio jurídico: La utilización de herramientas de inteligencia artificial en procesos jurisdiccionales con una perspectiva de derechos humanos, ética y responsable, exige que las personas juzgadoras observen como elementos mínimos los principios de: a) proporcionalidad e inocuidad; b) protección de datos personales; c) transparencia y explicabilidad; y d) supervisión y decisión humanas.
+
+[13] Consideraciones que fueron sustentadas por el Segundo Tribunal Colegiado en Materia Civil del Segundo Circuito, en el recurso de queja 212/2025, resuelto en sesión de veintinueve de julio de dos mil veinticinco. Ponente: Magistrado Juan Jaime González Varas. Consultable en versión pública en el siguiente enlace:
+
+http://sise.cjf.gob.mx/SVP/word1.aspx?arch=103/0103000038940092002.pdf_1&sec=Juan_Car los_Guerra_Alvarez&svp=1 Justificación: Ante la ausencia de regulación específica para el uso de herramientas de inteligencia artificial las personas juzgadoras deben hacer un ejercicio de autocontención adoptando lineamientos para su aplicación responsable con perspectiva de derechos humanos.
+
+Para ello pueden tomar como referencia los esfuerzos de regulación a nivel internacional, como las Directrices Éticas para una Inteligencia Artificial Fiable del Grupo de expertos de alto nivel sobre inteligencia artificial creado por la Comisión Europea; el Reglamento del Parlamento Europeo del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial; y la Recomendación sobre la ética de la inteligencia artificial de la UNESCO y sus principios éticos.
+
+Dichas referencias permiten adoptar mejores prácticas para la administración de justicia al introducir innovación tecnológica para una gobernanza administrativa judicial, preservando el núcleo de la función jurisdiccional sin afectar los derechos procesales de las partes.
+
+Para ello, cuando utilicen herramientas de inteligencia artificial las personas juzgadoras deben cumplir con los siguientes elementos mínimos: a) la proporcionalidad e inocuidad exige que las herramientas de inteligencia artificial se utilicen únicamente en la medida necesaria y adecuada para alcanzar un fin legítimo, como por ejemplo, facilitar razonamientos numéricos sin que se alcance al razonamiento jurídico en la interpretación o aplicación de las normas; b) deben emplearlas de manera que no se comprometa la protección de datos del expediente judicial; c) la transparencia y explicabilidad imponen que la persona juzgadora no sólo informe que utiliza herramientas de inteligencia artificial, sino que exponga la metodología, los datos empleados y la forma en que se arribó al resultado, a fin de permitir que el procedimiento sea auditado y comprendido por las partes y órganos revisores; y d) la supervisión y la decisión humanas aseguran que la tecnología opere como auxiliar y no como sustituto, manteniendo la deliberación y decisión en el ámbito estrictamente jurisdiccional[14].
+
+31. Con los elementos anteriores, este Tribunal Colegiado sostiene que tratándose de procesos jurisdiccionales, el uso ético y responsable de la inteligencia artificial con perspectiva de derechos humanos obliga a las
+
+[14] Gaceta del Semanario Judicial de la Federación. Libro 5, Enero de 2026, Tomo II, Volumen 1, página 599, Registro digital: 2031640. Queja 212/2025. 29 de julio de 2025. Unanimidad de votos de los Magistrados José Antonio Rodríguez Rodríguez, Juan Carlos Ortega Castro y Juan Jaime González Varas. Ponente: Juan Jaime González Varas. Secretario: Juan Carlos Guerra Álvarez personas juzgadoras a observar cuando menos los siguientes principios:
+
+a) Proporcionalidad e inocuidad[15]. El uso de sistemas de IA en este caso no va más allá de lo necesario, sino que se utiliza como una herramienta para alcanzar un objetivo legítimo como el de le facilitar razonamientos numéricos.
+
+b) Derecho a la intimidad y protección de datos. Para el uso de la inteligencia artificial en este caso no se introducen ni se comprometen datos personales del expediente, sino que se utilizan valores numéricos contenidos en bases de datos públicos.
+
+c) Transparencia y explicabilidad16. Uno de los principios más importantes, porque toda persona juzgadora (jueces o magistraturas) que la emplee en procesos jurisdiccionales debería dar cuenta de ello, indicando la manera en que se usó, los fines, objetivos y el resultado obtenido. Así, en la presente sentencia se da cuenta de la metodología y procesos empleados como se expone en un apartado posterior.
+
+d) Supervisión y decisión humanas. El uso de la inteligencia artificial en la presente sentencia se utiliza
+
+[15] En términos de la “Recomendación sobre la ética de la inteligencia artificial” de la UNESCO de 23 de noviembre de 2021 el principio de proporcionalidad se describe en los siguientes términos: “La decisión de utilizar sistemas de IA y la elección del método de IA deberían justificarse de las siguientes maneras: a) el método de IA elegido debería ser adecuado y proporcional para lograr un objetivo legítimo determinado; b) el método de IA elegido no debería vulnerar los valores fundamentales enunciados en el presente documento, en particular, su utilización no debe constituir una violación o un abuso de los derechos humanos; y c) el método de IA elegido debería ser adecuado al contexto y basarse en fundamentos científicos rigurosos. En los casos en que se entienda que las decisiones tienen un impacto irreversible o difícil de revertir o que pueden implicar decisiones de vida o muerte, la decisión final debería ser adoptada por un ser humano”. Disponible en: Recomendación sobre la ética de la inteligencia artificial - UNESCO Biblioteca Digital https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa (párrafo 25). como auxiliar para realizar cálculos sin que comprometa o sustituya la decisión jurisdiccional. Solo aporta elementos para la toma de decisiones
+
+32. Con base en los principios de proporcionalidad, protección de datos transparencia antes mencionados, este Tribunal Colegiado procede a justificar el uso de la inteligencia artificial.
+
+33. Para ello debe tomarse en cuenta que es una herramienta a nivel operativo y auxiliar, que en este caso no sustituye la labor jurisdiccional , por el contrario, se permite:
+
+a) La reducción de errores humanos en cálculos como intereses moratorios, actualizaciones, compensaciones, daños, entre otros, que no son en estricto sentido propios del razonamiento jurisdiccional;
+
+b) Dar transparencia y trazabilidad al exponer cómo se llega al resultado numérico paso a paso;
+
+c) Estandarización y consistencia en los precedentes, logrando que los datos objetivos para la toma de decisiones jurisdiccionales se vuelva equitativa; y, desde luego;
+
+d) Eficiencia procesal, pues permite que los operadores judiciales centren los recursos en el estudio de la toma de decisiones jurisdiccionales y no en la elaboración de cálculos matemáticos, así como también, brinda herramientas para que los jueces de Distrito motiven las decisiones que tienen que ver con cómputos procesales sin aumentar su carga laboral, lo que a la postre, facilitará la resolución de recursos.
+
+34. La presente sentencia pretende ser un referente y recomendación en la adopción de mejores prácticas de administración de justicia, utilizando la inteligencia artificial de manera ética y responsable para innovar en política judicial, en la gobernanza administrativa judicial, así como participar en la mejora de procesos desde una visión institucional. La cual también es propia de los tribunales de la federación.
+
+D. Caso concreto. 35. Para calcular los días inhábiles conforme a las leyes aplicables al procedimiento, este Tribunal Colegiado implementa un procedimiento con uso de inteligencia artificial, tradicionalmente realizado de manera manual por operadores jurisdiccionales, el cual integra los días calendario [días naturales] y los días que conforme a la ley no pueden realizarse actuaciones judiciales [días inhábiles], a fin de obtener los días efectivamente transcurridos entre determinada fecha y otra en la que si pueden tener lugar actos procesales [días hábiles].
+
+36. Esta herramienta permite realizar el cálculo conforme a los días del año [hábiles e inhábiles] y explicar cada paso del resultado, garantizando su verificabilidad y congruencia con la motivación exigida por el artículo 16 constitucional. El procedimiento técnico se explica de la siguiente manera:
+
+Procedimiento
+
+Variables:
+
+Días calendario o días naturales (DN)
+
+Días inhábiles (DI) [son aquellos en los que no puedan tener lugar
+
+actuaciones judiciales- Art. 1076 C.Co]
+
+Última actuación procesal (UA)
+
+Operación matemática: Días que resultan de restar los días inhábiles a los días calendario o días naturales a partir de la última actuación procesal hasta la reanudación del juicio.
+
+Resultado esperado: Número días hábiles de inactividad en el juicio (DH) para efectos de la caducidad [debiendo existir al menos 120 días
+
+hábiles].
+
+37. Con el objeto de hacer verificable el cálculo de los días de inactividad procesal, este tribunal incorpora una herramienta práctica y sencilla basada en inteligencia artificial. Se trata de un prompt[16] orientador (más estandarizado) que, al ser utilizado en modelos de lenguaje como ChatGPT, Gemini, entre otros, permite realizar el cálculo sencillo conforme a la metodología utilizada por órganos judiciales para realizar cómputos procesales.
+
+38. Este método se implementa a través de un prompt estándar que el operador puede utilizar en modelos de lenguaje sin necesidad de cálculos manuales complejos. El prompt solicita únicamente tres datos: (i)
+
+los días calendario transcurridos entre la última actuación procesal y la solicitud de reanudación del juicio; (ii) los días que se consideran inhábiles conforme a la ley (iii) Los días que se consideran inhábiles conforme al calendario de la labores del Tribunal Superior de Justicia de la Ciudad de México y la Ley Federal del Trabajo.
+
+39. El prompt es el siguiente:
+
+[16] Un prompt en inteligencia artificial es una instrucción o texto inicial que se proporciona a un modelo de IA para que genere una respuesta o resultado específico. Es la forma en que los usuarios comunican sus necesidades y deseos a la IA para obtener la información o el contenido deseado.
+
+Condúcete como un asistente jurídico especializado en cálculos procesales en materia mercantil, conforme a las leyes y códigos procesales mexicanos. Toma en cuenta que los días sábado y domingo son considerados inhábiles.
+
+Objetivo: calcular los días naturales y los días hábiles transcurridos entre una fecha y otra.
+
+PASO 1: Solicita estos datos al usuario:
+
+- Día de la última actuación que dio impuso al procedimiento.
+
+- Día de la promoción que reanudó el juicio o impulsó el juicio.
+
+PASO 2: Consulta automáticamente:
+
+- Los días naturales transcurridos entre esas fechas - Los días inhábiles existentes, tomando en cuenta que son inhábiles sábados y domingos.
+
+PASO 3: Consulta automáticamente:
+
+- Los días que son inhábiles conforme a la Ley Federal del Trabajo y conforme al calendario de labores del Tribunal Superior de justicia de la Ciudad de México, indicando qué días fueron.
+
+PASO 4: Informa los días hábiles que transcurrieron entre la fechas proporcionadas por el usuario [última actuación y solicitud para reanudar el procedimiento], descontando todos los días inhábiles de los pasos 2 y 3.
+
+PASO 5: Explica la metodología.
+
+40. Así con los datos de entrada se corre el prompt en los siguientes modelos de lenguaje grandes (LLMs[17]) más comerciales y que corresponden a ChatGTP y Gemini. En el entendido de que puede existir un universo de herramientas de “IA” y no es necesario usarlas todas (se corren en la presente sentencia para ejemplificar el uso de la herramienta) y pueden usarse indistintamente
+
+[17] Un LLM (Large Language Model) comercial es un modelo de lenguaje grande desarrollado por una empresa y ofrecido como un producto o servicio, generalmente a través de una API (interfaz de programación de aplicaciones) o una plataforma específica. para la obtención de datos verificables. De lo anterior se obtuvieron los siguientes resultados:
+
+Chat GTP[18]
+
+Se presentan los resultados tal como fueron arrojados 1. Datos base • Última actuación: 8 de julio de 2025 • Inicio del cómputo: 9 de julio de 2025 • Promoción que impulsa el procedimiento: 5 de febrero de 2026
+
+📅 2. Días naturales transcurridos Del 9 de julio de 2025 al 5 de febrero de 2026:
+
+👉 212 días naturales
+
+🚫 3. Días inhábiles identificados A) Sábados y domingos 👉 60 días
+
+B) Días festivos oficiales (Ley Federal del Trabajo)
+
+• 16 de septiembre de 2025 • 17 de noviembre de 2025 • 25 de diciembre de 2025 • 1 de enero de 2026 • 2 de febrero de 2026 👉 5 días
+
+C) Días inhábiles por calendario judicial (Tribunal Superior de Justicia de la Ciudad de México)
+
+📌 Vacaciones de verano 2025 Del 16 de julio al 1 de agosto de 2025 👉 13 días hábiles convertidos en inhábiles
+
+📌 Vacaciones de invierno 2025–2026 Del 15 de diciembre de 2025 al 6 de enero de 2026 👉 15 días hábiles convertidos en inhábiles
+
+📌 Días inhábiles adicionales por acuerdo • 12 de septiembre de 2025 • 15 de septiembre de 2025 • 31 de octubre de 2025 👉 3 días
+
+📊 4. Total de días inhábiles Concepto Días Sábados y domingos 60 Festivos LFT 5 Vacaciones verano 13 Vacaciones invierno 15 Inhábiles adicionales 3
+
+[18] https://chatgpt.com/ Concepto Días TOTAL INHÁBILES 96 días
+
+5. Días hábiles transcurridos 👉 212 - 96 = 116 días hábiles
+
+⚖￿ 6. Resultado jurídico 👉 Han transcurrido 116 días hábiles
+
+7. Metodología aplicada 1. Se excluyó el día inicial (8 de julio de 2025)
+
+2. Se contabilizaron los días naturales completos 3. Se identificaron y descontaron:
+
+o Sábados y domingos o Días festivos obligatorios o Periodos vacacionales del tribunal o Días inhábiles adicionales por acuerdo 4. Se evitó duplicar días coincidentes 5. Se obtuvo el total de días hábiles efectivos
+
+📌 Conclusión 👉 116 días hábiles transcurridos entre ambas fechas
+
+Gemini[19] Se presentan los resultados tal como fueron arrojados
+
+Dictamen de Cómputo Procesal Periodo de análisis: Del 9 de julio de 2025 al 5 de febrero de 2026.
+
+1. Cuantificación de Días Naturales Entre la última actuación (08/07/2025) y la promoción que impulsó el juicio (05/02/2026), han transcurrido:
+
+• Total: 212 días naturales.
+
+2. Identificación de Días Inhábiles (Sábados y Domingos) Se contabilizan los fines de semana comprendidos en el periodo, los cuales no corren para términos procesales:
+
+• Total: 60 días (Sábados y domingos).
+
+• 3. Días Inhábiles por Ley y Calendario Judicial (TSJCDMX) Se descuentan los días de descanso obligatorio (Ley Federal del Trabajo) y los periodos vacacionales del Tribunal Superior de Justicia de la Ciudad de México, evitando duplicar días que ya coinciden con fines de semana: Mes Días Inhábiles / Periodos de Suspensión
+
+Del 15 al 31 (Primer periodo vacacional Julio 2025
+
+TSJCDMX).
+
+Septiembre
+
+15 y 16 (Conmemoración de la Independencia).
+
+[19] https://gemini.google.com/app Mes Días Inhábiles / Periodos de Suspensión Noviembre 1, 2 y 17 (Conmemoración de la Revolución 2025 Mexicana).
+
+Del 16 al 31 (Segundo periodo vacacional Diciembre 2025 TSJCDMX).
+
+Enero 2026 Del 1 al 6 (Continuación de vacaciones de invierno).
+
+2 (En conmemoración del Aniversario de la Febrero 2026 Constitución).
+
+4. Resultado: Días Hábiles Transcurridos Tras restar el total de días inhábiles y periodos de suspensión a los días naturales:
+
+Total de días hábiles: 115 días.
+
+5. Metodología Aplicada El cálculo se rige por los siguientes principios de la materia procesal mercantil en México:
+
+• Principio de Inicio de Término: De acuerdo con el Art. 1075 del Código de Comercio, los términos judiciales empiezan a correr el día siguiente a aquel en que surte efectos la notificación. Por ello, el conteo inicia el 9 de julio de 2025.
+
+• Regla de Habilitación de Días: Los términos procesales se computan exclusivamente en días hábiles. Se han excluido sábados y domingos por disposición legal, así como los días en que el Tribunal suspende labores por ley o por periodos vacacionales oficiales.
+
+41. Tomando en consideración los cálculos anteriores obtenemos que los días hábiles transcurridos entre el ocho de julio de dos mil veinticinco [última actuación que impulsó el juicio] y el cinco de febrero de dos mil veintiséis [promoción que dio impulso procesal] de manera orientadora tenemos un total de ciento catorce o ciento quince días hábiles[20]. Es decir, con datos de inteligencia artificial e información verificable sobre días inhábiles[21], se puede presumir que no transcurrieron los ciento veinte días previstos en el artículo 1076 del
+
+[20] El modelo de IA Gemini presenta un día de desfase respecto del modelo de ChatGPT, en virtud de que no tomó en cuenta como inhábil del doce de septiembre de dos mil veinticinco, considerado no laborable en el calendario de labores del Tribunal Superior de Justicia de la Ciudad de México. Lo que hace patente la necesidad de supervisión humana en este tipo de procedimientos automatizados.
+
+[21] Artículo 74 de la Ley Federal del Trabajo, Calendario oficial de labores, acuerdos generales.
+
+Código de Comercio para efectos decretar la caducidad de la instancia.
+
+42. Los datos arrojados por modelos de inteligencia artificial, que incluso arrojan un día de diferencia, se supervisan por este órgano colegiado a través del calendario oficial del Tribunal Superior de Justicia de la Ciudad de México a través de su página de internet oficial[22], de donde se obtienen lo siguiente:
+
+[22] https://www.poderjudicialcdmx.gob.mx/calendarios/ 43. Además de los días inhábiles oficiales tomados en cuenta conforme a los calendarios anteriores, pudieron existir situaciones extraordinarias que no permitieron el desarrollo de actividades jurisdiccionales. Por ejemplo, constituye un hecho notorio para este tribunal el aviso de catorce de noviembre de dos mil veinticinco, por el cual la Secretaría Ejecutiva del Órgano de Administración Judicial de la Ciudad de México informó al público en general que, por causas de fuerza mayor, en esa fecha no correrían plazos procesales[23].
+
+44. Si bien esta fecha no fue considerada por las herramientas de inteligencia artificial, se debe a que no fue incluida manualmente en el prompt. Sin embargo, por situaciones extraordinarias, esa data tampoco debe computarse en el plazo relativo a la caducidad, por lo que se suma un día inhábil al cálculo ya realizado.
+
+[23] https://www.poderjudicialcdmx.gob.mx/wpcontent/uploads/AVISO_ACUERDO_V_20_2025.pdf 45. Todos estos elementos robustecen la conclusión de que la autoridad responsable no fundamentó ni motivó suficientemente su determinación, en virtud de que no realizó un cálculo respecto de los días hábiles e inhábiles transcurridos entre la última actuación que dio impulso procesal y la promoción para continuar el procedimiento. Lo que lleva a este tribunal a conceder el amparo solicitado por el quejoso.
+
+V. DECISIÓN Y EFECTOS
+
+46. Al constatarse que la autoridad responsable no motivó ni fundamentó suficientemente la decisión para decretar la caducidad de la instancia, y existir indicios suficientes aportados por inteligencia artificial para presumir que no transcurrieron los cientos veinte días hábiles en términos del artículo 1076 del Código de Comercio para tal efecto, lo procedente es conceder el amparo al quejoso para los siguientes efectos:
+
+a) La autoridad responsable deje sin efectos la resolución reclamada.
+
+b) Dicte otra en la que tome en consideración que la última actuación que dio impulso al procedimiento fue el acuerdo de ocho de julio de dos mil veinticinco, mediante la cual ordenó actualizar oficios para indagar el domicilio de la parte demandada.
+
+c) De manera fundada y motivada determine si a partir de la fecha indicada, hasta la promoción de cinco de febrero de dos mil veinticinco, transcurrieron más de ciento veinte días.
+
+Indicando de manera razonada los días hábiles e inhábiles tomados en cuenta.
+
+d) De no haber transcurrido los días necesarios para la caducidad, continúe con el procedimiento, acordando favorablemente la última promoción que dio impulso procesal.
+
+Por lo expuesto y fundado, se
+
+RESUELVE:
+
+ÚNICO. La justicia de la unión ampara y protege a **** ******** ******* ******** ****** en contra de la resolución que puso fin al juicio de diez de febrero de dos mil veintiséis, dictada por la Jueza Primero de lo Civil de Proceso Oral de la Ciudad de México, en los autos del juicio ejecutivo mercantil oral ********, para los efectos precisados en el último apartado de esta ejecutoria.
+
+Notifíquese con testimonio de esta resolución, y de ser el caso, vuelvan los autos a su lugar de origen, en su oportunidad archívese como asunto concluido, previas las anotaciones pertinentes en el libro de gobierno correspondiente.
+
+Así, por unanimidad de votos del Magistrado Juan Jaime González Varas, como Presidente, la Magistrada Ma. Luz Silva Santillán y el Secretario en funciones de Magistrado Jesús Julio Hinojosa Cerón, lo resolvió el Pleno del Décimo Tribunal Colegiado en Materia Civil del Primer Circuito, siendo ponente el primero de los nombrados, en sesión ordinaria virtual celebrada el veintidós de abril de dos mil veintiséis, ante el Secretario de Tribunal Ricardo Martínez Herrera, que autoriza y da fe.
+
+El presente asunto se firma el seis de mayo de dos mil veintiséis, en términos del artículo 188 de la Ley de Amparo, por el Magistrado Juan Jaime González Varas, como Presidente, la Magistrada Ma. Luz Silva Santillán y el Secretario en funciones de Magistrado Jesús Julio Hinojosa Cerón, conforme al Acuerdo General AG-POAJ-008/2025, denominado Acuerdo General del Pleno del Órgano de Administración Judicial por el que se adscribieron a las personas Electas en el Proceso Electoral Extraordinario a diversos cargos del Poder Judicial de la Federación 2024-2025 y se Comisionan, Reubican y Readscriben, a personas funcionarias de los Órganos Jurisdiccionales, se designan, y en su caso, prorrogan a personas Secretarias en Funciones de Personas Juzgadoras aprobado en sesión de doce de septiembre de dos mil veinticinco y sus anexos correspondientes, dentro del término que señala el artículo 184, segundo párrafo de la mencionada Ley de Amparo, de manera electrónica con fundamento en el artículo 3 de la misma ley, y los numerales 3, fracciones I y III, 26 Ter, del Acuerdo General 12/2020 del entonces Pleno del Consejo de la Judicatura Federal, que reglamenta la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del entonces Consejo; considerando Décimo, párrafo tercero, así como de los arábigos 52 Octies, 252 y 263, del Acuerdo General del extinto Pleno del Consejo de la Judicatura Federal, que abroga los acuerdos de contingencia por COVID-19 y reforma, adiciona y deroga diversas disposiciones relativas a la utilización de medios electrónicos y soluciones digitales como ejes rectores del nuevo esquema de trabajo en las áreas administrativas y órganos jurisdiccionales del entonces Consejo, publicado en el Diario Oficial de la Federación el veintiocho de octubre de dos mil veintidós, y que entró en vigor el día siete de noviembre del mismo año, ante el Secretario que da fe, como se advierte de la evidencia criptográfica que se anexa a continuación, misma que equivale a la firma autógrafa.
+
+MAGISTRADO PRESIDENTE Y PONENTE (FIRMADO ELECTRÓNICAMENTE)
+
+JUAN JAIME GONZÁLEZ VARAS
+
+MAGISTRADA
+
+(FIRMADO ELECTRÓNICAMENTE)
+
+MA. LUZ SILVA SANTILLÁN SECRETARIO EN FUNCIONES DE MAGISTRADO
+
+(FIRMADO ELECTRÓNICAMENTE)
+
+JESÚS JULIO HINOJOSA CERÓN
+
+SECRETARIO DE TRIBUNAL
+
+(FIRMADO ELECTRÓNICAMENTE)
+
+LIC. RICARDO MARTÍNEZ HERRERA
+
+En términos de lo previsto en el artículo 115 de la Ley General de Transparencia y Acceso a la Información Pública, en esta versión pública se suprime la información considerada legalmente como reservada o confidencial que encuadra en esos supuestos normativos.
+
+Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+[FIRMA ELECTRÓNICA] Firmantes: RICARDO MARTINEZ HERRERA; JUAN JAIME GONZALEZ VARAS; MA. LUZ SILVA SANTILLÁN; JESÚS JULIO HINOJOSA CERÓN
+
+Cadena firma: El seis de mayo de dos mil veintiseis, el licenciado Ricardo Martínez Herrera , Secretario(a), con adscripción en el Décimo Tribunal Colegiado en Materia Civil del Primer Circuito, hago constar y certifico que en esta versión pública no existe información clasificada como confidencial o reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública. Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+RICARDO MARTINEZ HERRERA 706a6620636a663300000000000000000000439d 18/08/26 11:49:38 PJF - Versión Pública
+PJF - Versión Pública

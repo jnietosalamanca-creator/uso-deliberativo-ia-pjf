@@ -1,0 +1,955 @@
+UNIDAD: UI-03
+SENTENCIA: 36735907
+ÓRGANO: Décimo Tribunal Colegiado en Materia Civil del Primer Circuito
+FECHA: 2025-12-03
+TIPO DE ASUNTO: Amparo Directo
+AVISO: Uso institucional UI-03 (5 sentencias con el mismo machote): codifica la declaración una sola vez.
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+*Nota: El resumen de hechos y la síntesis de decisión judicial para esta carátula fueron elaborados mediante el uso de inteligencia artificial a través de la aplicación chatgpt: https://chatgpt.com. Siempre con la más estricta supervisión humana del secretario proyectista y sin comprometer datos personales conforme a la tesis II.2o.C.9 K (11a.), con registro digital: 2031010, de rubro: INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+doce de diciembre de dos mil veinticinco
+
+AMPARO DIRECTO CIVIL: 615/2024 QUEJOSAS: **** ******* ******** ******** *********** ** ***** ********* ***** ********** **** ******, ***** ******** ** ******** ******** * ******** ******** ** ******** *********** ** ***** ** ********** y *********** ******** ******* ** ******* ********* ******** ********** ** ****** ********* ******* ******** (PARTE ACTORA Y DEMANDADA EN RECONVENCIÓN)
+
+TERCERA INTERESADA Y ADHERENTE: ********* *********** *** ********* ******** ** *************** ******** ** ******* ******** (PARTE DEMANDADA Y ACTORA EN RECONVENCIÓN) DERIVADO DE LOS TOCA DE APELACIÓN ***/2023/5 Y ***/2023/6
+
+Vo. Bo.
+
+Magistrado
+
+MAGISTRADO PONENTE: JUAN JAIME GONZÁLEZ VARAS SECRETARIO: RICARDO MARTÍNEZ HERRERA
+
+DATOS GENERALES La Primera Sala Civil del Tribunal Superior de Justicia de la Ciudad de Autoridades México [ordenadora] y el Juzgado responsables Cuadragésimo Sexto de lo Civil de Proceso Escrito de la Ciudad de México [ejecutora].
+
+La emitida el 24 de septiembre de 2024 [por medio de la cual la sala Sentencia reclamada responsable modificó parcialmente el fallo de primera instancia y declaró que el contrato de apertura de crédito de origen sigue vigente y las partes deben asumir sus obligaciones].
+
+HECHOS RELEVANTES Y/O CONTEXTO* Tres bancos dieron un crédito a una inmobiliaria para construir un hotel en playas mexicanas. Cuando surgieron problemas legales y administrativos con el proyecto, los bancos consideraron que la empresa había incumplido [ya que no mantuvieron las licencias de construcción vigentes, la autoridad les clausuró la construcción, no pagaron predial, entre otras] por tal motivo las instituciones financieras demandaron para que se declarara vencido el crédito y se remataran los bienes hipotecados.
+
+El juez, sin embargo, concluyó que la inmobiliaria sí había cumplido con informarles sobre los juicios y trámites relacionados, y que los obstáculos que surgieron provinieron de decisiones de diversas autoridades y no por negligencias de la empresa. El juez también revisó el contrato y determinó que la obligación principal —pagar el crédito— no había sido incumplida, y que los retrasos o dificultades señalados por los bancos eran obligaciones accesorias que no justificaban declarar vencido el crédito [licencias de construcción vigentes, predial, reservar fondos para pagar intereses].
+
+Por eso el juez negó la ejecución de las hipotecas y decidió que el contrato sigue vigente, debiendo ambas partes continuar cumpliendo con sus compromisos. En la parte de la contrademanda, el juez rechazó la mayoría de las peticiones de la inmobiliaria, salvo invalidar una cláusula que imponía un cobro que solo puede ordenarse por sentencia [costas].
+
+En apelación se confirmó la decisión anterior y, además, condenó a los bancos a devolver una cantidad que había sido exhibida por la empresa demandada.
+
+No conforme con lo anterior, las instituciones de crédito promovieron un amparo directo pues consideran que los incumplimientos de la empresa encargada de la construcción del hotel son suficientes para declarar el vencimiento anticipado del crédito.
+
+PROBLEMA JURÍDICO:
+
+Determinar si las conductas atribuibles a la empresa acreditada [relacionadas con avisos, licencias de construcción, cumplimiento de obligaciones contractuales accesorias y gestión de contingencias administrativas y judiciales del proyecto hotelero] constituyen incumplimientos esenciales capaces de activar válidamente las causas de vencimiento anticipado del contrato de crédito, y si la autoridad responsable incurrió en una indebida interpretación contractual al considerar que tales incumplimientos no justificaban la exigibilidad inmediata del crédito ni la ejecución de las hipotecas.
+
+DECISIÓN JUDICIAL Concede el amparo principal y niega el amparo adhesivo El tribunal colegiado determina conceder el amparo a los bancos porque considera que la inmobiliaria sí incurrió en incumplimientos relevantes del contrato de crédito. A diferencia del juez de primera instancia y la Sala responsable, el tribunal federal determina que las omisiones y acciones de la empresa —incluyendo la forma en que manejó la información sobre los juicios en su contra, las autorizaciones del proyecto y otras obligaciones contractuales— sí afectaron de manera seria la relación crediticia y activaron las causas pactadas para declarar el vencimiento anticipado del crédito.
+
+De acuerdo con la sentencia de este Tribunal, esos incumplimientos no pueden verse como “simples retrasos” o faltas menores, sino como eventos capaces de poner en riesgo la viabilidad del proyecto y la seguridad del crédito otorgado. Por ello, el tribunal colegiado determinó que los bancos estaban en su derecho de dar por vencido el crédito y exigir su pago inmediato, junto con las consecuencias previstas en el contrato, revocando así la decisión del juez y el tribunal de apelación que habían absuelto a la inmobiliaria y determinado al continuidad del centrado de crédito.
+
+En cuando al amparo adhesivo, se declaran infundados los conceptos de violación y se niega la protección.
+
+*Nota: El resumen de hechos y la síntesis de decisión judicial para esta carátula fueron elaborados mediante el uso de inteligencia artificial a través de la aplicación chatgpt: https://chatgpt.com. Siempre con la más estricta supervisión humana del secretario proyectista y sin comprometer datos personales conforme a la tesis II.2o.C.9 K (11a.), con registro digital: 2031010, de rubro: INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. ELEMENTOS MÍNIMOS QUE DEBEN OBSERVARSE PARA SU USO ÉTICO Y RESPONSABLE CON PERSPECTIVA DE DERECHOS HUMANOS.
+
+Discusión del asunto Transmisión aquí:
+
+Sesión pública https://apps.cjf.gob.mx/BVS/Trans ordinaria misionBiblioteca?clave=212627
+
+Minuto: 00:10:13 JURISPRUDENCIA DESTACADA
+
+●Jurisprudencia 1a./J. 139/2005, registro digital: 176546, de rubro: FUNDAMENTACIÓN Y MOTIVACIÓN DE LAS RESOLUCIONES JURISDICCIONALES, DEBEN ANALIZARSE A LA LUZ DE LOS ARTÍCULOS 14 Y 16 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, RESPECTIVAMENTE.
+
+●Jurisprudencia 1a./J. 75/2015 (10a.), registro digital 2010470: CONTRATO DE APERTURA DE CRÉDITO. A LA ACCIÓN DE VENCIMIENTO ANTICIPADO Y PAGO NO ES OPONIBLE LA EXCEPCIÓN DE CONTRATO NO CUMPLIDO POR LA FALTA DE CONTRATACIÓN DE SEGUROS, A MENOS QUE SE EXPONGA Y DEMUESTRE QUE LA CAUSA DE LA ACCIÓN DERIVA DE ALGUNO DE LOS SINIESTROS
+
+ÍNDICE TEMÁTICO
+
+Apartado Criterio y decisión Págs.
+
+Este apartado narra los hechos ANTECEDENTES I. relevantes del caso y secuela procesal 2-38 Y TRÁMITE.
+
+del juicio oral mercantil de origen.
+
+II. COMPETENCIA Este Tribunal Colegiado es competente 38-40
+
+III. OPORTUNIDAD La promoción del amparo es oportuna. 40-41
+
+Los conceptos de violación del amparo principal son fundados en virtud de que la inmobiliaria sí incurrió en incumplimientos relevantes del contrato de crédito que afectaron de manera ESTUDIO DE IV. seria la relación crediticia y activaron las 41-80
+
+FONDO causas pactadas para declarar el vencimiento anticipado del crédito.
+
+En cuanto al amparo adhesivo, se declaran infundados los conceptos de violación y se niega la protección.
+
+Se concede el amparo principal para DECISIÓN Y V. efectos por vicios de fondo y se niega el 80-82 EFECTOS
+
+amparo adhesivo.
+
+AMPARO DIRECTO CIVIL: 615/2024
+
+QUEJOSAS: **** ****** * ******** ******** *********** ** ***** ********* ***** ********** **** ****** , ***** ******** ** ******** ********* ******** ******** ** ******** *********** ** ***** ** ********** y ********** * ******** ******* ** ******* ********* ******** ********** ** ****** ********* ******* ******** (PARTE ACTORA Y DEMANDADA EN LA RECONVENCIÓN) TERCERA INTERESADA Y ADHERENTE: ********* *********** *** ********* ******** ** *************** ******** ** ******* ******** (PARTE DEMANDADA Y ACTORA EN LA RECONVENCIÓN)
+
+DERIVADO DE LOS TOCA DE APELACIÓN ***/2023/5 Y ***/2023/6
+
+Vo. Bo.
+
+Magistrado
+
+MAGISTRADO PONENTE: JUAN JAIME GONZÁLEZ VARAS SECRETARIO: RICARDO MARTÍNEZ HERRERA
+
+Ciudad de México. El Décimo Tribunal Colegiado en Materia Civil del Primer Circuito, en la sesión ordinaria virtual de tres de diciembre de dos mil veinticinco, emite la siguiente:
+
+S E N T E N C I A
+
+Mediante la cual se resuelve el juicio de amparo directo número D.C. 615/2024, promovido por **** ******* ******** ******** *********** ** ***** ********** **** ****** , ***** ******** ** ******** ********* ***** ********* ******** ******** ** ******** *********** ** ***** ** ********** y *********** ******** ******* ** ******* ******** * ********, por conducto de su apoderado ****** ********** ******** ***************** ; así como el amparo adhesivo promovido por ** ** ****** ********* *********** *** ********* ******** ** ********* *************** ******** ** ******* ********, por conducto de su apoderado ******* ****** ****** , en contra de la ******* sentencia definitiva de veinticuatro de septiembre de dos mil veinticuatro, dictada por la Primera Sala Civil del Tribunal Superior de Justicia de la Ciudad de México en los tocas de apelación ***/2023/5 y ***/2023/6; y su ejecución atribuida al Juzgado Cuadragésimo Sexto de lo Civil de Proceso Escrito de la Ciudad de México.
+
+El problema jurídico que este Tribunal Colegiado debe resolver consiste en determinar si fue jurídicamente correcto que la sala responsable determinara que las instituciones de crédito no demostraron el vencimiento anticipado del contrato de apertura de crédito, en virtud de que el supuesto incumplimiento de la demanda recayó sobre obligaciones accesorias y cumplió con los compromisos principales, por lo que en el caso se debía atender al principio de conservación de los contratos.
+
+I.- ANTECEDENTES Y TRÁMITE
+
+1. Contrato de crédito. De los datos que obran en el expediente se obtiene que el quince de septiembre de dos mil veinte, **** ******* ******** ******** *********** ** ***** ********* ***** ********** **** ***** ******, ******** ** ******** ********* ******** ******** ** ******** *********** ** ***** ** ********** y *********** ******** ******* ** ******* ********* ******** ********** ** ****** ********* ******* ********, [en su carácter de acreditantes] celebraron un contrato de apertura de crédito simple con ********* *********** *** ********* ******** ** *************** ******** ** ******* ******** [en su carácter de acreditada] y ****** **** *** [como obligado solidario].
+
+� ������ ��� ��� ���� � ��������. Conforme a las cláusulas Décima Novena inciso f) y Trigésima inciso b) del Contrato de Crédito, las Instituciones Financieras acreditantes designaron como Banco Agente, Agente de Garantías y Comisionista a **** ******* ******** ******** *********** ** ***** ********** **** ******* antes **** ********* ******** ********* ***** ******** *********** ** ***** ********* ***** ********** **** ********, autorizándolo para realizar y ejercer en su representación todas las acciones y facultades pactadas en el contrato de crédito y documentos derivados del mismo, así como celebrar, otorgar, cumplir y exigir el cumplimiento de cualquier convenio o instrumento necesario o conveniente para el otorgamiento, perfeccionamiento y ejecución de los documentos del crédito. sería para el pago de costos del proyecto relativo a la construcción, desarrollo y equipamiento de un hotel, comisiones (sin considerar el IVA); intereses durante la etapa de construcción del proyecto; cubrir los gastos conforme al contrato de cobertura y la constitución de la reserva de servicio de deuda. Al respecto, la acreditada realizó tres disposiciones del crédito otorgado.
+
+4. Contrato de hipoteca. Con fecha veintiuno de julio de dos mil veintiuno las partes celebraron un contrato de hipoteca respecto de los inmuebles destinados al desarrollo hotelero, a fin de garantizar todas las obligaciones contraídas derivadas del contrato de crédito incluyendo la suma principal, intereses ordinarios y moratorios y demás accesorios.
+
+5. Convenios modificatorios al contrato de crédito.
+
+Posteriormente, con fechas veintiuno de julio y quince de diciembre de dos mil veintiuno realizaron dos convenios modificatorios al contrato de crédito.
+
+6. Aviso de vencimiento anticipado del crédito. Ante el supuesto incumplimiento en las obligaciones asumidas, el veintiuno de diciembre de dos mil veintidós, los acreditantes dieron por vencido anticipadamente el plazo para el pago del crédito, por lo que notificaron a los acreditados y les requirió el pago inmediato de la suma principal insoluta, así como de los intereses devengados y no pagados y de cualquier otro importe pagadero conforme al contrato de crédito y los pagarés.
+
+7. Juicio especial hipotecario. Por escrito presentado el diecisiete de marzo de dos mil veintitrés, ante la Oficialía de Partes Común para Juzgados y Salas del Tribunal Superior de Justicia de la Ciudad de México, las instituciones acreditantes demandaron en la vía especial hipotecaria y en ejercicio de la acción hipotecaria de ********* *********** *** ********* ******** ** *************** ******** ** ******* ******** (***), las siguientes prestaciones:
+
+“[…]
+
+A) L a cantidad de EUA$************* ******** * ***** ******** *********** ******** * ***** *** *********** ******* ******* ****** ****** ** ***** ***** ** *** ******* ****** ** ********, o su equivalente en moneda nacional, al tipo de cambio que rija en la fecha en que se realice el pago conforme al artículo 8 de la Ley Monetaria de los Estados Unidos Mexicanos en vigor, por concepto de suerte principal, importe insoluto del crédito dispuesto por *** al amparo del Contrato de Apertura de Crédito Simple de fecha 15 de septiembre de 2020 (según el mismo fue modificado de tiempo en tiempo, el “Contrato de Crédito) adeudado a los Acreditantes y garantizado por la hipoteca constituida sobre los Inmuebles Hipotecados –según dicho término se define más adelante-, cuyo monto se acredita con los documentos base de la acción y demás documentales exhibidas junto con la presente demanda.
+
+B) L os intereses moratorios generados y que se sigan generando hasta la fecha en que se realice el pago total del adeudo referido en la prestación A) anterior, por la suma principal adeudada a los Acreditantes conforme al Contrato de Crédito, a la tasa moratoria pactada en la Cláusula Sexta de dicho Contrato de Crédito, mismos que habrán de cuantificarse en ejecución de sentencia.
+
+C) E l Impuesto al Valor Agregado generado sobre los intereses causados y que se sigan causando, al amparo de los documentos base de la acción.
+
+D) O rdenar en sentencia definitiva que se proceda al trance y remate de los Inmuebles Hipotecados de acuerdo con el Contrato de Hipoteca de fecha 21 de julio de 2021 (en adelante el “Contrato de Hipoteca”) –el cual se hizo constar en la escritura pública número *******, otorgada en dicha fecha ante la fe del Licenciado ****** ******** *******, titular de la Notaría Pública número *** de la Ciudad de México y Notario del Patrimonio Inmueble Federal, que se acompaña en original al presente escrito como Anexo 6.1-, para el caso de que la demandada se abstenga de realizar el pago de las prestaciones reclamadas en los incisos que anteceden, dentro del plazo de 5 (cinco) días a que cause ejecutoria la sentencia que al efecto se pronuncie en este juicio.
+
+En consecuencia, ordenar que el producto obtenido por la venta judicial de dichos Inmuebles Hipotecados sea aplicado, hasta donde alcance al pago de las prestaciones que se reclaman en la presente demanda, aplicación que deberá practicarse conforme el orden pactado en la Cláusula Décima del Contrato de Hipoteca.
+
+E) L os gastos y costas que se generen por la tramitación del juicio que se promueve en términos del artículo 140 fracción III del Código de Procedimientos Civiles para la Ciudad de México.
+
+[…]”
+
+8. En el escrito de demanda la parte actora manifestó que la acreditada incurrió en incumplimiento de diversas obligaciones, por lo que el veintiuno de diciembre de dos mil veintiuno dieron por vencido anticipadamente el plazo para el pago del crédito dispuesto. Lo anterior, con fundamento en la cláusula Décima Octava del contrato de crédito, lo que notificó en esa misma fecha a la acreditada y a su obligado solidario, requiriéndoles el pago inmediato de la suma principal insoluta, así como de los intereses devengados y no pagados y cualquier otro importe pagadero conforme al contrato de crédito y los pagarés, haciéndolo constar en el acta notarial respectiva.
+
+9. Causas de incumplimiento. La actora clasificó las causas de vencimiento anticipado del plazo para el pago del crédito en tres rubros:
+
+A) Actualización de las causas de incumplimiento previstas en la cláusula Décima Octava, inciso b), del contrato de crédito, que hizo consistir en lo siguiente:
+
+i) La acreditada y su obligado solidario no cumplieron con su obligación de mantener la reserva de servicio de deuda por la cantidad calculada conforme a lo estipulado en el contrato de crédito en la cláusula Décima sexta, inciso l), que consiste esencialmente en una reserva con el monto necesario para cubrir seis meses de intereses, la cual se actualizaría en cada fecha de pago de intereses.
+
+ii) La segunda causa de incumplimiento consistió en que la
+
+asegurada no cumplió con su obligación establecida en la cláusula Décima sexta, inciso i) del contrato de crédito, de mantener vigentes y cumplir todas las autorizaciones necesarias para el desarrollo, construcción, comercialización y operación del proyecto, incluyendo compromisos medioambientales, en términos de la legislación aplicable.
+
+La actora narró que ese incumplimiento se generó porque la licencia para la construcción y desarrollo del hotel venció el veinte de febrero de dos mil veintidós y fue hasta el catorce de abril de ese año cuando la acreditada envió un correo a los acreditantes para informales que con motivo de una suspensión definitiva dictada en un juicio de amparo indirecto, la Dirección de Desarrollo Urbano y Medio Ambiente del municipio de Puerto Vallarta, Jalisco, suspendió las obras y actividades relacionadas con el hotel, a fin de dar cumplimiento a lo decretado por la autoridad federal judicial competente, por estar ejecutando trabajos de construcción con una licencia de construcción vencida y no presentar prórroga de la licencia de construcción.
+
+iii) La siguiente causa de vencimiento anticipado consistió
+
+en que la acreditada omitió notificarle a más tardar dentro de los cinco días siguientes de haber tenido conocimiento del juicio de amparo en el que se decretó la suspensión definitiva que afectó la construcción y el desarrollo del hotel en los inmuebles hipotecados, ya que tuvo conocimiento al menos desde el once de marzo de dos mil veintidós y envió un correo con una nota informativa a los acreditantes sobre esa suspensión hasta el veintiuno de abril del mismo año. Omisión con la que dejaron de cumplir con la obligación prevista en la cláusula Décima sexta, incisos a) (iii) y c) (ix) del contrato de crédito. iv) La acreditada incurrió en incumplimiento a la cláusula Décima sexta, inciso d), en la cual se estableció la obligación a su cargo de pagar el impuesto predial de los inmuebles hipotecados con anticipación a la fecha de su vencimiento, así como las demás contribuciones e impuestos determinados sobre el inmueble, y entregar al banco de inmediato los comprobantes de pago, lo cual, la parte actora aseguró, no se cumplió al menos desde el mes de mayo de dos mil veintidós y además, afirma que en los estados de cuenta generados en el portal en línea del gobierno de Puerto Vallarta de fecha cinco de enero de dos mil veintitrés, el impuesto continuaba sin ser pagado.
+
+v) La siguiente causa de incumplimiento fue que las acreditadas no pagaron a los acreditantes los costos y gastos relacionados con la administración del crédito, como se estipuló en la cláusula Vigésima sexta del contrato de crédito, incluyendo costos y gastos relacionados con asesores independientes, honorarios notariales y de asesores legales, a pesar de que el banco agente le ha requerido en múltiples ocasiones ese pago.
+
+B) Incumplimiento a la cláusula Décima Octava, inciso k), del contrato de crédito, consistente en:
+
+i) La paralización de la construcción y el desarrollo del hotel en los inmuebles hipotecados debido a la suspensión concedida en un juicio de amparo que fue notificado a la acreditada por la Dirección de Desarrollo Urbano y Medio Ambiente de Puerto Vallarta, Jalisco.
+
+C) Incumplimiento a la cláusula Décima Octava, inciso n), del contrato de crédito, consistente en lo siguiente:
+
+i) La acreditada realizó la ejecución de los trabajos de construcción con una licencia vencida y no presentó prórroga de esa autorización, generando la suspensión de las obras y desarrollo del hotel en los inmuebles hipotecados, lo que se hizo constar en el acta administrativa compartida por las acreditada a las acreditantes en el comunicado del juicio de amparo y de la copia de la licencia de construcción cuya vigencia venció el veinte de febrero de dos mil veintidós, además de que la acreditada no acreditó hasta el momento de la presentación de la demanda la prórroga de la misma o la concesión de una nueva licencia.
+
+10. Por otra parte, la actora manifestó que el veintinueve de diciembre
+
+de dos mil veintidós, como consecuencia del vencimiento
+
+anticipado del contrato de crédito y de la terminación anticipada de
+
+operaciones financieras acordadas entre el Banco agente y la
+
+acreditada con motivo de un contrato marco de operaciones
+
+financieras, el banco agente recibió un pago de *************
+
+*** ****** ********* *********** *********** **** *********** ******** * ** ******** ** ********* ****** ** ***** ***** ** ***
+
+******* ****** ** ******** , cantidad que fue aplicada y
+
+distribuida por el banco agente a cada acreditante, conforme a lo
+
+establecido en la cláusula Décima del contrato de crédito.
+
+11. Admisión parcial. Por razón de turno correspondió conocer de la demanda al Juzgado Cuadragésimo Sexto de lo Civil de Proceso Escrito de la Ciudad de México, registrándolo con el número de expediente ********. Por acuerdo de veintitrés de marzo de dos mil veintitrés la persona juzgadora admitió a trámite únicamente respecto de **** ******* ******** ******** *********** ** **** ****** , al considerar que ***** ******** ** ***** ********* ***** ******** ********* ******** ******** ** ******** *********** ********** ** ***** ** ********** y *********** ******** ******* ** ******* ********* ******** ******* ******** , carecían de legitimación activa en la ********** ** causa.****** ********* de toca **********. Por resolución de tres de mayo de dos mil veintitrés, la Sala declaró fundado el recurso de queja y, por consiguiente, instruyó al Juez de primera instancia admitir a trámite la demanda por todas las actoras.
+
+13. Aclaración del auto admisorio. En cumplimiento a lo ordenado por la sentencia antes referida, por proveído de dieciséis de mayo de dos mil veintitrés, el Juez Cuadragésimo Sexto de lo Civil de Proceso Escrito de la Ciudad de México aclaró el auto admisorio y tuvo como parte actora a **** ******* ******** ******** *********** ** ***** ********* ***** ********** **** ***** ******, ******** ** ******** ********* ******** ******** ** ******** *********** ** ***** ** ********** y *********** ******** ******* ** ******* ********* ******** ********** ** ****** ********* ******* ********.
+
+14. Por lo anterior, el juez ordenó correr traslado y emplazar a la parte demandada para que dentro del término de quince días produjera su contestación y opusieran las excepciones y defensas que estimara pertinentes. Además, decretó la inscripción preventiva de la demanda en el Registro Público de la Propiedad y del Comercio del estado en el que se ubicaba el inmueble hipotecado.
+
+15. Contestación. Por escrito presentado el trece de junio de dos mil veintitrés, ********* *********** *** ********* ******** ** *************** ******** ** ******* ********, por conducto de sus apoderados, contestó la demanda y opuso excepciones y defensas.
+
+16 ó cumplimiento de las prestaciones que reclaman, por considerar que la causa de vencimiento anticipado prevista en el inciso b) de la Cláusula Décima Octava del contrato, es ilegal, porque **** no acreditó haber recibido la instrucción de la mayoría requerida para proceder a dar por vencido de forma anticipada el plazo para el pago del saldo insoluto del crédito.
+
+17. También negó la procedencia de las prestaciones reclamadas, manifestando que la terminación anticipada es ilegal porque no se cumplieron los requisitos previstos en el contrato y se encontraba al corriente en el cumplimiento de sus obligaciones garantizadas, ya que carecen de exigibilidad y por ende, no se actualiza ninguno de los supuestos previstos en la cláusula Octava del contrato de hipoteca.
+
+18. Respecto a las causas de vencimiento anticipado manifestó lo siguiente:
+
+i) Negó haber incumplido con la obligación prevista en el
+
+inciso b), de la cláusula Décima octava y argumentó que se contravienen los principios de buena fe y conservación de los contratos, además de que el banco agente no acreditó haber recibido la instrucción de la Mayoría Requerida para dar por vencido de forma anticipada el plazo para el pago del saldo insoluto del crédito.
+
+Además, sostuvo que las obligaciones no son esenciales al contrato de crédito y, por tanto, su incumplimiento no puede traer como consecuencia la terminación anticipada o la rescisión del contrato.
+
+ii) Negó que tuviera la obligación de mantener la “Reserva
+
+de Servicio de Deuda” por el monto necesario para cubrir seis meses de intereses, ya que, aseguró, la actora concedió la autorización de utilizar los fondos de reserva de servicio de deuda para el pago de los intereses y comisiones correspondiente al cinco de octubre de dos mil veintidós, lo que afirma, evidencia que fue voluntad de las partes modificar la forma en que se constituiría la aludida reserva.
+
+La demandada recalcó que la parte actora reconoció en el hecho treinta y nueve, que tiene en su poder una cantidad en dólares de la cual era titular la acreditada con motivo del contrato marco de operaciones financieras derivadas, por lo que el banco agente tenía en su poner una cantidad mayor para poder ser utilizada como Reserva de Servicio de Deuda.
+
+iii) Negó que fuera omisa en demostrar la prórroga de la vigencia de la licencia de construcción para la construcción y desarrollo del hotel, ya que tal obligación no tenía el carácter de esencial.
+
+Refirió también que la actora reconoció que la suspensión de las obras y actividades relacionadas con el hotel por parte de la Dirección de Desarrollo Urbano y Medio ambiente del Municipio de Puerto Vallarta, Jalisco, tuvo lugar con motivo de un procedimiento judicial, lo que aseguró, constituye caso fortuito o fuerza mayor derivado de un acto de autoridad y, por ende, una excepción al principio de obligatoriedad de los contratos.
+
+iv) Negó que omitiera dar aviso de la existencia del juicio de amparo indirecto referido por la actora.
+
+v) Negó que la falta de pago en tiempo del impuesto predial constituya una causa justificada para dar por vencido anticipadamente el plazo para el pago insoluto del crédito, ya que no es una obligación esencial.
+
+vi) Negó que la falta de pago en tiempo de los costos o gastos relacionados con la administración del crédito y su disposición constituya causa justificada para dar por vencido anticipadamente el plazo para el pago insoluto del crédito, ya que estima que no es una obligación de carácter esencial y afirma que la cláusula Vigésima sexta del contrato de crédito que la contempla es nula.
+
+vii) Negó que la suspensión de la construcción y desarrollo del hotel constituya una obligación esencial cuyo incumplimiento pueda traer como consecuencia el vencimiento anticipado del pago del crédito, sobre todo porque se trata de caso fortuito o fuerza mayor derivado de un acto de autoridad, y, por ende, una excepción al principio de obligatoriedad de los contratos.
+
+viii) Asimismo, negó que hubiere cesado la validez y vigencia
+
+de la licencia de construcción, ya que afirmó que sí solicitó la prórroga a la autoridad competente y aseguró que existe una resolución que ordenó que se respetara la validez y eficacia de la mencionada licencia y se permitiera la continuación de las obras del hotel.
+
+Por otra parte, opuso la excepción de improcedencia de la vía especial hipotecaria, con el argumento de que, en términos del artículo 458 del Código de Procedimientos Civiles para el Distrito Federal, es requisito indispensable que el crédito conste en escritura pública o escrito privado y registrado en el Registro Público de la Propiedad, lo que afirma, no sucede en el caso, ya que sólo está inscrita la hipoteca y tampoco reúne los requisitos del diverso 469 del propio Código para el supuesto de que ese contrato no se encuentre registrado.
+
+También sostuvo como excepción que el banco agente no demostró que fuera instruido por la Mayoría requerida para dar por vencido de forma anticipada el plazo para el pago del saldo insoluto del crédito.
+
+En otra excepción, sostuvo que los incumplimientos que se le atribuyen no fueron respecto de las obligaciones esenciales del contrato de crédito; sostiene que la obligación esencial es restituir al acreditante las sumas que disponga o cubrir el crédito oportunamente por el importe de la obligación, más el pago de intereses, prestaciones, gastos y comisiones.
+
+19. Excepciones y defensas. Al respecto la demandada opuso como excepciones y defensas:
+
+I. Excepción de improcedencia de la vía especial hipotecaria y falta de acción para demandar el pago de las prestaciones contenidas en el escrito inicial de demanda.
+
+II. Excepción de falta de acción y derecho para demandar las prestaciones reclamadas en el escrito inicial de demanda, derivado de lo dispuesto por el artículo 281 del Código de Procedimientos Civiles para el Distrito Federal, en virtud de que los demandantes no acreditaron los elementos constitutivos de su acción.
+
+III. Excepción de falta de acción y derecho para demandar las prestaciones reclamadas en el escrito inicial de demanda, en virtud de que los incumplimientos que los acreditantes le imputan a *** no fueron respecto a las obligaciones esenciales del contrato de crédito.
+
+IV. Excepción de falta de acción y derecho para demandar las prestaciones reclamadas, en virtud de que contrario a lo argumentado por los acreditantes, *** se encuentra al corriente en el cumplimiento de las obligaciones identificadas con los incisos (A), subincisos (i), (ii) y (iii), así como en el inciso (c) del hecho 38, en el escrito inicial de demanda.
+
+V. La excepción derivada de lo dispuesto por el artículo 2111 del Código Civil para el Distrito Federal, en virtud de que la suspensión de la construcción y desarrollo del hotel se ocasionó con motivo de un caso fortuito o fuerza mayor.
+
+VI. Excepción de falta de acción y derecho para demandar el pago de las cantidades que la parte actora pretende justificar con los estados de cuenta certificados, ya que los mismos no cumplen con los requisitos necesarios que permitan a *** plantear una defensa completa y adecuada.
+
+VII.Las excepciones que deriven de lo señalado en el cuerpo del escrito al dar contestación a los hechos de la demanda.
+
+VIII. Defensa genérica de falta de acción o sine actione agis.
+
+20. Reconvención. Por otra parte la enjuiciada, reconvino de las actoras en el principal, las siguientes prestaciones:
+
+“[…]
+
+I. La declaración judicial que por sentencia definitiva determine la nulidad de rescisión y/o terminación anticipada que pretendió ejercer ****, en su calidad de Banco Agente y en representación de ********* y ********, respecto del Contrato de Crédito de fecha 15 de septiembre de 2020, sus Convenios Modificatorios y demás Documentos de Crédito - término definido en el contrato de crédito base de la acción-, por no haber instruido la Mayoría Requerida -término definido en el contrato de crédito base de la acción- al Banco Agente dar por vencido de forma anticipada el plazo para el pago del saldo insoluto del crédito.
+
+II. La declaración judicial consistente en que el Contrato de Crédito de fecha 15 de septiembre de 2020, sus Convenios Modificatorios y demás Documentos de Crédito -término definido en el contrato de crédito base de la acción- continúa vigente y sigue surtiendo todos sus efectos.
+
+III.La condena a los Acreditantes al cumplimiento forzoso del Contrato de Crédito de fecha 15 de septiembre de 2020, sus Convenios Modificatorios y demás Documentos de Crédito - término definido en el contrato de crédito base de la acción-.
+
+IV.La condena en contra de los Acreditantes al pago de la cantidad de USD$************ (***** ******** *********** *********** ***** *********** ******** * ** ******* ****** ****** ** ***** ***** ** *** ******* ****** ** *******que le correspondía a *** con motivo del Contrato Marco ) de Operaciones Financieras Derivadas ****, toda vez que los hoy demandados en la reconvención aplicaron en pago la aludida cantidad al importe del crédito concedido a mi representada, mismo que fue distribuido entre ****, ********* y ********.
+
+V. La declaración judicial que por sentencia definitiva determine la nulidad de la cláusula Vigésimo Sexta del Contrato de Crédito de fecha 15 de septiembre de 2020, en virtud de que las partes no pueden convenir para alterar, modificar o renunciar a las normas del procedimiento, como lo son los ‘gastos y costos por la administración del crédito’, ya que éstos se traducen en los ‘gastos y costas’, las cuales constituyen una sanción procesal que se integra por los gastos del juicio y por los honorarios de los abogados que asesoró a la parte vencedora, mismos que pertenecen al proceso y se encuentran en el ámbito del derecho público.
+
+VI.La condena en contra de los Acreditantes al pago de los daños y perjuicios causados a mi representada con motivo de la ilegal rescisión y/o terminación anticipada del Contrato de Crédito de fecha 15 de septiembre de 2020, sus Convenios Modificatorios y demás Documentos de Crédito -término definido en el contrato de crédito base de la acción-.
+
+VII. La condena a pagar los gastos y costas que se generen por la
+
+tramitación del presente juicio; mismos que serán cuantificados en ejecución de sentencia de conformidad con lo dispuesto por el artículo 1348 del Código de Comercio.
+
+[…]”.
+
+21. Admisión de la reconvención. Por auto de quince de junio de dos mil veintitrés el juez del conocimiento tuvo a la demandada contestando en tiempo y forma la demanda y por opuestas sus excepciones y defensas, con las que ordenó dar vista a la parte actora. Asimismo, admitió a trámite la reconvención planteada, por lo que ordenó correrle traslado y emplazarla para que dentro del término de nueves días diera contestación a la acción reconvencional enderezada en su contra.
+
+22. Contestación a la reconvención. Por escrito presentado el veintiocho de junio de dos mil veintitrés, **** ******* ******** ******** *********** ** ***** ********* ***** ********** **** ****** , ***** ******** ** ******** ********* ******** ******** ** ******** *********** ** ***** ** ********** y *********** ******** ******* ** ******* ******** * ********, por conducto de su apoderado ****** ********** ******** ***************** , contestaron la acción reconvencional.
+
+** ** 23. ****** En el escrito de contestación manifestaron que ningún ******** derecho tenía la enjuiciada para reclamar la terminación * ******* anticipada del contrato de crédito, los convenios modificatorios y demás documentos de crédito; de igual forma, negaron el derecho de la acreditada para reclamarles el cumplimiento forzoso del contrato de crédito. Al respecto la parte actora:
+
+i) Negó el derecho de la acreditada a reclamar la nulidad de la
+
+terminación anticipada del contrato de crédito porque no era
+
+necesario documentar que la Mayoría Requerida instruyera
+
+al banco agente efectuar dicho vencimiento, y aseguró que
+
+se contó con la decisión unánime de los acreditantes para
+
+tales efectos y de ahí la improcedencia de las prestaciones
+
+derivadas de la pretendida nulidad. Relacionado con ello,
+
+negó el pago de daños y perjuicios derivados de esa
+
+terminación porque aseveró que no existe hecho ilícito
+
+atribuible a la actora reconvenida.
+
+ii) Negó el derecho a demandar el pago de la cantidad
+
+aplicada con motivo del Contrato Marco de Operaciones
+
+Financieras Derivadas, debido a que el banco agente recibió
+
+esa cantidad por virtud del vencimiento anticipado del
+
+contrato y fue distribuida a los acreditantes.
+
+iii) Negó la procedencia de la nulidad de la cláusula Vigésimo
+
+Sexta y al respecto aseguró que no constituye una modificación a una norma procesal, porque su naturaleza es
+
+contractual y crediticia.
+
+iv) Negó el derecho al pago de gastos y costas.
+
+• Agregó que la cláusula Primera inciso a) del contrato de crédito se establece como fecha de vencimiento, entre otros supuestos, cualquier fecha anterior al quince de septiembre de dos mil treinta, en la cual el banco agente exija el pago del crédito en su totalidad por vencimiento anticipado.
+
+• Que en la cláusula Trigésima del contrato de crédito, si bien se previó que ciertas decisiones de los acreditantes se adoptarían con el voto favorable de la mayoría requerida compuesta por el sesenta y seis por ciento del saldo insoluto del crédito, no se pactó la obligación de documentar dicha votación mediante acto o instrumento alguno.
+
+• Así, en autos consta que el vencimiento anticipado fue acordado de manera unánime por los acreditantes.
+
+Esto es, por el cien por ciento del saldo insoluto, y además suscribieron la demanda especial hipotecaria;
+
+por lo que asegura que no se prevé formalismo alguno para documentar la voluntad de los acreditantes.
+
+• Asimismo, expresó que en el aviso de vencimiento anticipado se estipuló que el banco agente actuó en representación y por instrucciones de todos los acreditantes, y ello se corroboró con la emisión de sus estados de cuenta certificados con base en dicho vencimiento anticipado y también suscribieron la demanda principal.
+
+• Además, sostuvo que, al existir unanimidad, resulta intrascendente el voto documentado de la Mayoría para dar por vencido anticipadamente el contrato de crédito, porque tal formalismo no se prevé en el contrato de crédito y además, las tres acreditantes decidieron de manera unánime el vencimiento y posterior exigencia judicial, ya que demandaron en su conjunto a la acreditada como consecuencia de ese vencimiento.
+
+• Por otra parte, manifestó que la cantidad recibida por el banco agente con motivo del Contrato Marco de Operaciones Financieras Derivadas no era propiedad de las acreditada y, como consecuencia del vencimiento anticipado, fue aplicada y distribuida a los acreditantes, en términos de la cláusula Décima del contrato de crédito.
+
+• Hizo valer, en vía de excepción, que las prestaciones
+
+relacionadas con el referido Contrato Marco no podían ser
+
+atendidas en el juicio porque en términos del artículo 470,
+
+cuarto párrafo, del Código de Procedimientos Civiles de la
+
+Ciudad de México[1], la reconvención solo es procedente
+
+cuando se funde en el mismo documento base de la acción
+
+o se refiera a su nulidad, y en segundo lugar, porque en el
+
+Contrato Marco se estableció en su cláusula Vigésima que en caso de controversia se someterían a un procedimiento
+
+de arbitraje, conforme a las Reglas de Arbitraje del Centro
+
+de Arbitraje de México.
+
+24. Pruebas y etapa de alegatos. Con fecha seis de julio de dos mil veintitrés se dictó auto admisorio de pruebas, mismas que fueron desahogadas en las audiencias respectivas y una vez hecho lo anterior, se procedió a la etapa de alegatos, en la que las partes alegaron lo que a su derecho convino y se citó a las partes para oír sentencia definitiva.
+
+25. Sentencia de primera instancia. Seguido el juicio en todas sus etapas, el treinta de enero de dos mil veinticuatro el Juez Cuadragésimo Sexto de lo Civil de Proceso Escrito de la Ciudad de México dictó sentencia definitiva que culminó con los siguientes puntos resolutivos:
+
+“[…]
+
+PRIMERO.- Ha sido procedente la vía Especial Hipotecaria, en la que las coactoras **** ******* **** *********** ** ***** ********* ***** ********** **** ******, ***** ******** ** ******** ********* ****** *********** ** ***** ** ********** Y *********** **** ** **** ****** ****, no probaron los hechos en que fundaron sus pretensiones, en tanto que la parte demandada ********* *********** *** ********* ** ** **** ** ****, justificó parcialmente su acción reconvencional, en consecuencia:
+
+SEGUNDO.- En virtud de que a criterio del suscrito debe prevalecer el principio de conservación de los contratos y de que el mero retraso en el cumplimiento de algunas de las obligaciones accesorias, no puede equipararse al cumplimiento de las mismas, máxime que la obligación principal ha sido cumplida cabalmente por la parte demandada en lo principal, en consecuencia, no puede declararse el vencimiento anticipado del Contrato de Apertura de Crédito Simple, por tal motivo, se absuelve a ********* *********** *** ********* ** ** **** ** **** del pago de la cantidad de EUA$************* (******* * ***** ******** *********** ******** * ***** *** *********** ******* ******* ******* ****** ** ***** ***** ** *** ******* ****** ** *******). Asimismo, se absuelve a la parte demandada en lo principal y actora en la reconvención ********* *********** *** ********* ** ** **** ** **** del pago de los intereses moratorios generados, así como el Impuesto al Valor Agregado generado sobre los intereses causados, así como del trance y remate de los Inmuebles Hipotecados, éstas últimas por ser una consecuencia inherente al vencimiento anticipado del Contrato de Hipoteca, caso que no se actualiza en el presente Juicio.
+
+Derivado de lo anterior y con la finalidad de dar certeza jurídica a los contratantes, sin que ello atente contra la autonomía de la voluntad, pues al contrario la complementa toda vez que se brinda seguridad a las partes del contrato, al desentrañar la verdadera intención que tuvieron al firmar el Contrato de Apertura de Crédito Simple materia de la Litis, atendiendo de igual manera al principio básico del derecho civil y el derecho internacional pacta sunt servanda, que significa reciprocidad en el cumplimiento de los pactos basándose en el respeto y la buena fe de las partes, puesto que las mismas han cumplido y respetado con los derechos y obligaciones establecidos en el Contrato, aunado a las erogaciones y esfuerzos realizados por cada una de ellas para continuar con la relación Contractual; este Juzgador considera que de dicho contrato se encuentra VIGENTE y en consecuencia se condena a las partes **** ******* **** *********** ** ***** ********* ***** ********** **** ******, ***** ******** ** ******** ********* ****** *********** ** ***** ** ********** Y *********** **** ** **** ****** ***** ********* *********** *** ********* ** ** **** ** **** a cumplir con todas y cada una de las obligaciones que asumieron en el Contrato de Crédito de fecha quince de septiembre de dos mil veinte, sus Convenios Modificatorios y demás Documentos de Crédito, en virtud de encontrarse vigentes y seguir surtiendo sus efectos jurídicos, por los razonamientos vertidos en el considerando IV del presente fallo.
+
+TERCERO.- Se condena a las partes **** ******* **** *********** ** ***** ********* ***** ********** **** ******, ***** ******** ** ******** ********* ****** *********** ** ***** ** ********** Y *********** **** ** **** ****** ***** ********* *********** *** ********* ** ** **** ** **** a cumplir con todas y cada una de las obligaciones que asumieron en el Contrato de Crédito de fecha quince de septiembre de dos mil veinte, sus Convenios Modificatorios y demás Documentos de Crédito, en virtud de encontrarse vigentes y seguir surtiendo sus efectos jurídicos, lo anterior derivado de los razonamientos vertidos en el considerando IV del presente fallo.
+
+CUARTO.- Se declara improcedente la prestación marcada en el numeral I de la reconvención consistente en la declaración judicial que por sentencia definitiva determine la nulidad de la rescisión y/o terminación anticipada que pretendió ejercer ****, en su calidad de Banco Agente y en representación de ********* y ********, respecto del Contrato de Crédito de fecha 15 de septiembre del 2020, sus Convenios Modificatorios y demás Documentos de Crédito, por los razonamientos vertidos en el considerando V del presente fallo.
+
+QUINTO.- Respecto a las prestaciones marcadas con los numerales II y III consistentes en que el Contrato de Crédito de fecha 15 de septiembre de 2020, sus Convenios Modificatorios y demás Documentos de Crédito, continúa vigente y sigue surtiendo todos sus efectos, así como el cumplimiento forzoso del mismo, deberá estarse a lo vertido en el considerando IV del presente fallo.
+
+SEXTO.- Se absuelve a los coactores en el principal y demandados en la reconvención **** ******* **** *********** ** ***** ********* ***** ********** **** ******, ***** ******** ** ******** ********* ****** *********** ** ***** ** ********** Y *********** **** ** **** ****** ****, del pago de la cantidad de USD$************ (***** ******** *********** *********** *** *********** ******** * ** ******* ****** ****** ** ***** ***** ** *** ******* ****** ** *******), así como del pago de los daños y perjuicios, por los razonamientos vertidos en los considerandos VII y VIII del presente fallo.
+
+SÉPTIMO.- Se declara la nulidad de la Cláusula Vigésima Sexta del Contrato de Apertura de Crédito Simple de fecha quince de septiembre del dos mil veinte, atento a lo vertido en el considerando IX del presente fallo.
+
+OCTAVO.- Se absuelve a las partes en el presente Juicio **** ******* **** *********** ** ***** ********* ***** ********** **** ******, ***** ******** ** ******** ********* ****** *********** ** ***** ** ********** Y *********** **** ** **** ****** ****, ********* *********** *** ********* ** ** **** ** **** del pago de los gastos y costas causados en esta instancia.
+
+NOVENO.- NOTIFÍQUESE.
+
+[…]”
+
+26. Consideraciones relevantes del acto reclamado. En la sentencia el juez consideró, entre otras cosas, que a su criterio debía prevalecer el principio de conservación de los contratos y de que el mero retraso en el cumplimiento de algunas de las obligaciones accesorias, no podía equipararse al incumplimiento de las mismas. Máxime que la obligación principal había sido cumplida cabalmente por la parte demandada en lo principal, en consecuencia, no podía declararse el vencimiento anticipado del contrato de apertura de crédito simple.
+
+27. Por tal motivo, absolvió a la demandada del pago de la cantidad reclamada como suerte principal, el pago de los intereses moratorios generados, así como el Impuesto al Valor Agregado generado sobre los intereses causados, así como del trance y remate de los inmuebles hipotecados.
+
+28. Así, sobre la acción principal, en la sentencia de primera instancia se consideró esencialmente lo siguiente:
+
+• El estudio de la relación contractual establece como obligación principal de la actora en el principal la disposición de un crédito simple, y la obligación de la demandada en el principal de pagar dicho crédito y diversas obligaciones accesorias como son intereses y comisiones, entre otras, de las cuales se manifestó su incumplimiento para demandar el trance y remate de los bienes hipotecados.
+
+• El juez determinó que la acreditada sí cumplió con su obligación de informar a los acreditantes y al banco agente sobre la existencia del juicio de amparo, y lo tuvo por demostrado con el acta notarial de fe de hechos del siete de diciembre de dos mil veintidós.
+
+• Sostuvo que la notificación del juicio de amparo fue el catorce de abril de dos mil veintidós y la solicitud de disposición dirigida a los acreditantes en los que la acreditada manifestó que no existía un cambio material adverso ni una causa de vencimiento anticipada, fue el cinco de abril de dos mil veintidós, por lo que en la sentencia de primera instancia se estableció que ello aconteció nueve días antes de la notificación de un juicio de amparo a las instituciones actoras.
+
+• En cuanto a las causas de vencimiento consistentes en la suspensión del desarrollo del proyecto por parte de una autoridad gubernamental, cambio material adverso y cese de validez y vigencia de una de las autorizaciones del proyecto e inicio de un procedimiento administrativo contra la acreditada; el juez de primera instancia declaró que esas obligaciones no dependen del acreditado y las consideró como causas de fuerza mayor, de imposible previsión.
+
+• Además, consideró que en las copias certificadas expedidas por la Sexta Sala Unitaria del Tribunal de Justicia Administrativa de Jalisco se advierten las gestiones judiciales realizadas por la acreditada para efecto de no entorpecer los avances de construcción del proyecto en el bien inmueble, y obtuvo las medidas consistentes en que se le permitiera realizar acciones correctivas específicas necesarias para conservar el inmueble y no poner en riesgo a la población vecina, a fin de reforzar el edificio.
+
+• Por otra parte, se estableció que en la carta fechada el ocho de junio de dos mil veintidós exhibida por la actora principal, la acreditada le dio aviso de su cambio de domicilio, por lo que no existió ese incumplimiento. Con base en lo anterior, en la sentencia de primera instancia se declaró que la acreditada sí cumplió con sus obligaciones.
+
+• El juez citó el artículo 1796 del Código Civil para la Ciudad de México[2] y procedió a la interpretación del contrato de crédito, determinando que la acción hipotecaria tiene por objeto asegurar el cumplimiento de una obligación principal afectando bienes inmuebles;
+
+que se debía estar al sentido literal del contrato e interpretarse de forma sistemática, realizando el estudio de todo el clausulado e invocó las tesis de Tribunales Colegiado de rubros: “CONTRATOS. INCUMPLIMIENTOS ESENCIALES Y NO ESENCIALES Y SU INFLUENCIA EN LA RESCISIÓN O RESOLUCION DE AQUELLOS (APLICACIÓN DEL CRITERIO DE INTERPRETACIÓN DE LA ESENCIALIDAD)”; “CONTRATOS. INTERPRETACION. LA CONDUCTA QUE OBSERVAN LAS PARTES FRENTE A LAS OBLIGACIONES CONTRAÍDAS ES ELEMENTO FUNDAMENTAL.”, “CONTRATOS. PARA SU INTERPRETACION CUANDO NO SE ADVIERTA DE MANERA EXPRESA LA VOLUNTAD DE LAS PARTES, DEBE ATENDERSE A LA INTENCIÓN DE ELLAS AL CONTRATAR”, “CONTRATOS, INTERPRETACIÓN DE LOS.”
+
+• La persona juzgadora también determinó que el contrato de hipoteca se realizó a favor de las acreditantes para responder del pago de la cantidad establecida en el contrato de crédito, pero que en el caso no se ha incumplido con la obligación principal, ya que sólo se invocó el incumplimiento de algunas de las obligaciones establecidas en la cláusula Décima sexta del contrato de crédito, las cuales considera, fueron cumplidas en los términos que analizó en párrafos anteriores y procedió a reproducir las consideraciones relacionadas con ellas.
+
+• Asimismo, estableció que debía prevalecer el principio de conservación de los contratos y que el retraso en el cumplimiento de algunas obligaciones accesorias no se puede equiparar a su incumplimiento, sobre todo porque consideró que la obligación principal ha sido cumplida cabalmente por la demandada en lo principal, y por ello, no podía declararse vencido anticipadamente el contrato de crédito, motivo por el cual absolvió a la demandada en el principal del pago de la cantidad que se le reclamó en dólares y sus accesorios legales, así como del trance y remate de los inmuebles hipotecados.
+
+• Por tanto, declaró que el contrato de crédito sigue vigente y condenó a las partes a cumplir con todas y cada una de las obligaciones contenidas en él, a fin de dar certeza jurídica a los contratantes, sin atentar contra la autonomía de voluntad, desentrañando la verdadera intención que tuvieron al firmar el contrato de crédito, al principio básico del derecho civil y del derecho internacional pacta sunt servanda, aunado a las erogaciones y esfuerzos realizados por cada una de ellas para continuar con la relación contractual.
+
+29. En cuanto a la reconvención, en la sentencia de primera instancia se estableció:
+
+• La persona juzgadora declaró improcedente la nulidad solicitada, estableciendo que en la cláusula Décima octava del contrato de apertura de crédito simple, no se estipuló que fuera voluntad de las partes acordar que la mayoría requerida tuviese que constar en escritura pública, asamblea o cualquier otro documento de carácter público.
+
+• En cuanto la declaratoria de que el referido contrato sigue vigente, se estableció que debía estarse a lo establecido en cuanto a la acción principal –continuidad del contrato–.
+
+• Por lo que hace al pago de la cantidad en dólares americanos, determinó su improcedencia, con la consideración de que fue aplicada por el banco agente y distribuida entre los acreditantes como pago para cubrir y disminuir la deuda contraída y la actora en la reconvención no demostró con documento fehaciente o medio de prueba idóneo que esa cantidad le correspondía con motivo del contrato marco de operaciones financieras derivadas.
+
+• Respecto de los daños y perjuicios reclamados, fueron declarados improcedentes porque no se precisaron con claridad en los hechos de la demanda y no se demostró la pérdida y el menoscabo sufridos en el patrimonio de la actora en la reconvención.
+
+• Sobre la declaración judicial de nulidad de la cláusula Vigésima sexta del Contrato de Crédito, en la sentencia de primera instancia se declaró procedente considerando que la erogación contenida en esa cláusula no es susceptible de pacto contractual, porque se trata de una prestación procesal, que solo puede ser materia de condena en una sentencia.
+
+• Finalmente, absolvió del pago de gastos y costas del juicio.
+
+30. Apelación. Inconformes con la anterior resolución, ambas partes interpusieron recursos de apelación, tanto principales como adhesivos, de los que correspondió conocer a la Primera Sala Civil del Tribunal Superior de Justicia de la Ciudad de México. Con fecha veinticuatro de septiembre de dos mil veinticuatro la Sala dictó sentencia en los autos de los tocas de apelación números ********** y **********.
+
+31. Sentencia de segunda instancia. El veinticuatro de septiembre de dos mil veinticuatro, la sala responsable dictó sentencia que modificó el fallo de primer grado, únicamente por lo que respecta al resolutivo sexto condenando a las actoras principales a pagar a la acreditada la cantidad exigida en la reconvención y quedaron intactos los restantes puntos resolutivos.
+
+32. En la sentencia que constituye el acto reclamado la Sala consideró esencialmente lo siguiente:
+
+En primer término, analizó de manera conjunta los agravios del toca de apelación expresados por la actora en la acción principal:
+
+• En principio, la Sala se refirió al agravio relativo al estudio incorrecto del principio de conservación de los contratos. Al respecto consideró que el hecho de que la libertad contractual sea constitucional, no significa que carezca de límites, porque se debe respetar el núcleo esencial de otros derechos, como es el principio de conservación de los contratos o el derecho a la dignidad humana en su modalidad de no explotar a los prójimos, particularmente a los que se encuentran en una situación de desventaja en la relación contractual.
+
+• La responsable estableció que carecían de razón, todos y cada uno de los argumentos de la parte actora en el principal, expresados para evidenciar que el juzgador de primera instancia debió resolver que cualquiera de los incumplimientos atribuidos a la demandada conduce a la terminación de los contratos base de la acción, porque así fue pactado.
+
+• La responsable consideró que se debe tomar en consideración que el juez refirió un límite a la libertad contractual que defienden las actoras, consistente en el respeto al núcleo esencial del principio y/o derecho de conservación de los contratos, esto es, que el contrato subsista ante incumplimientos no esenciales y, para sustentar sus consideraciones, citó una tesis de Tribunales Colegiados de Circuito, de rubro: “CONTRATOS. INCUMPLIMIENTOS ESENCIALES Y NO ESENCIALES Y SU INFLUENCIA EN LA RESCISIÓN O RESOLUCIÓN DE AQUELLOS (APLICACIÓN DEL CRITERIO DE INTERPRETACIÓN DE LA ESENCIALIDAD)”.
+
+• Asimismo, estableció que los agravios de la actora son infundados en la parte donde afirma que el Juez natural estudió incorrectamente el principio de conservación de los contratos y que debió resolver que cualquiera de los incumplimientos conduce forzosamente a la terminación de los contratos base de la acción por así haberlo pactado.
+
+• La Sala sostuvo al respecto que aunque la libertad contractual sea constitucional, no significa que carezca de límites, porque todo derecho de rango constitucional debe respetar el núcleo esencial de otros derechos como el que surge del principio de conservación de los contratos, los que deben subsistir ante incumplimientos no esenciales o el derecho a la dignidad humana de no explotar a los prójimos, en particular, aquellos que se encuentran en una situación de desventaja en la relación contractual.
+
+• Por otra parte, la autoridad responsable estableció que los agravios relacionados con la falta de estudio de las obligaciones esenciales de los incumplimientos de la demandada, son infundados.
+
+• La Sala consideró que el juez natural sólo dejó de analizar los incumplimientos relacionados con la reserva del servicio de deuda y el impuesto predial, porque en la sentencia de primera instancia se estableció que en lo relativo a la licencia de construcción y su vigencia no depende de la demandada, porque se clasifica como causa de fuerza mayor de imposible previsión y que la demandada realizó gestiones judiciales para no entorpecer los avances y suspensiones de construcción del proyecto y las medidas de seguridad obtenidas.
+
+• También estableció que los incumplimientos de la demandada relacionados con la reserva de servicio de deuda y con el impuesto predial no están referidos a obligaciones esenciales, a partir del significado de la palabra esencial.
+
+• Sobre ese tema, sostuvo que el contrato de apertura de crédito simple celebrado entre las partes establece como obligación esencial a cargo de la demandada la restitución a las actoras de las sumas dispuestas o a cubrirlo oportunamente por el importe de la obligación que contrajo y la obligación esencial de la actora fue la de poner determinadas sumas de dinero a disposición de la demandada, en los términos establecidos en las cláusulas segunda y séptima de ese acuerdo de voluntades.
+
+• De lo anterior, la responsable derivó que los incumplimientos relacionados con la reserva de servicio de deuda y con el impuesto predial no son esenciales porque en los contratos de apertura de crédito simple previstos en el artículo 291 de la Ley General de Títulos y Operaciones de Crédito, se presenta una recíproca dependencia entre la obligación del acreditado de restituir al acreditante las sumas de que disponga o a cubrirlo oportunamente por el importe de la obligación que contrajo, y la obligación del acreditante de poner una suma de dinero a disposición del acreditado o a contraer por cuenta de éste una obligación para que haga uso del crédito concedido.
+
+• Lo anterior fue identificado por la responsable como sinalagma genético y estableció que, al ser un contrato de tracto sucesivo, en el que el acreditado debe pagar el importe del crédito ejercido mediante pagos mensuales vencidos, se evidencia la continuidad de la relación contractual.La responsable estableció que ello ponía de manifiesto la interdependencia entre el pago del crédito y su puesta a disposición, porque consideró que aquél no se causaría si no se concede al acreditado la cantidad acordada.
+
+• Con base en ello, la Sala estableció que las obligaciones de mantener la reserva del servicio de deuda y de pagar el impuesto predial no son recíprocas a la puesta de disposición del préstamo, porque consideró que son obligaciones accesorias y por ende no esenciales.
+
+• En ese sentido, determinó que en el procedimiento no se evidenció que el incumplimiento de la demandada a esas obligaciones impidiera que las actoras pusieran a su disposición las sumas de dinero pactadas; en cambio, en su concepto, se puso de manifiesto que las actoras debían realizar tal acción ya que la demandada cumplió con su obligación esencial de restituir las sumas dispuestas, afirmación que sustentó en el hecho de que las actoras no reclamaron prestación alguna relacionada con las mensualidades acordadas.
+
+• Por ello, la responsable estableció que los incumplimientos no generan la procedencia de las pretensiones de las actoras porque se relacionan con obligaciones accesorias o no esenciales.
+
+• Por otra parte, consideró que no debía estudiar los argumentos relativos al incumplimiento de la obligación de pago por parte de la demandada porque no fueron puestos a consideración del juez de primera instancia.
+
+• En otro orden de ideas, consideró que el incumplimiento de la demandada atinente a la licencia de construcción no se refiere a una obligación esencial, por lo que no integra el sinalagma del contrato de apertura de crédito.
+
+• Asimismo, insistió que la obligación de la demandada de obtener las licencias correspondientes para la construcción del hotel señalado en el contrato de apertura de crédito simple no es esencial ya que, si bien el préstamo concedido debía destinarse a costear esa construcción, conforme a lo pactado en la cláusula Cuarta, las partes acordaron hipotecar los lotes en los que se construye el hotel con las correspondientes edificaciones, para garantizar el pago del préstamo.
+
+• Por lo anterior, determinó que el incumplimiento de la demandada con la obligación de mantener la licencia de construcción no debía impedir que las actoras pusieran a su disposición las sumas de dinero pactadas, porque, en concepto de la responsable, además de que cumplió con su obligación esencial de restituirles las sumas dispuestas, la demandada hipotecó a favor de las actoras los lotes en los que se construye el hotel para garantizar el pago del préstamo.
+
+• Enseguida, consideró que aun cuando la falta de vigencia de las autorizaciones de la construcción del hotel no puede estimarse como un evento superior a la voluntad individual de la demandada por tratarse de un trámite administrativo que estaba en aptitud de atender, no versa sobre una obligación esencial, sino accesoria.
+
+• En cuanto al argumento relativo a que se debió desechar de plano la prestación cuatro de la reconvención, la Sala lo declaró infundado, estableciendo que en la sentencia de primera instancia se debía emitir un pronunciamiento al respecto porque se puso a consideración del juez; y porque el momento oportuno para desecharla de plano era al acordarla, dado que el artículo 470 establece que en el juicio hipotecario la reconvención sólo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad y en cualquier otro caso, se desechará de plano.
+
+• También estableció que no advertía del expediente, que las actoras hubieren opuesto excepción en el sentido de que, cualquier controversia relacionada con el contrato por virtud del cual la demandada recibió una cantidad en dólares americanos debía resolverse por tres árbitros con las Reglas de Arbitraje del Centro de Arbitraje en México, por lo que no podía pronunciarse sobre una excepción no opuesta oportuna y debidamente.
+
+• Por otra parte, declaró infundados los agravios relativos a que el juez natural debió declarar improcedente la nulidad de la cláusula Vigésima sexta del contrato de apertura de crédito, porque aunque el juez no analizó la excepción opuesta contra esa nulidad. En dicha cláusula se pactó que la demandada cubriría los costos-gastos que genera la administración del crédito y de su lectura integral se advierte que no solo se pactó ese concepto, sino el pago de los gastos y costas judiciales que surjan con motivo del cumplimiento o ejecución del contrato, a lo cual se suman las comisiones relacionadas con la administración del crédito acordado en la cláusula Quinta.
+
+• Por ese motivo, la responsable consideró que fue correcto que en la sentencia de primera instancia se declarara la nulidad de la cláusula Vigésima Sexta del contrato de apertura de crédito simple, ya que el pago de costas judiciales no puede ser objeto de convenio, dado que surgen en un proceso judicial y nacen hasta que se imponen en la sentencia como sanción procesal.
+
+Estudio de la apelación interpuesta por la demandada, actora en la reconvención.
+
+• Al respecto, la autoridad responsable estimó fundado el único agravio expresado. Al haber prevalecido la declaratoria de improcedencia de la acción de vencimiento anticipado del contrato de apertura de crédito simple de quince de septiembre de dos mil veinte –debido a que las obligaciones que la sustentan resultaron no esenciales– consideró que la consecuencia lógica y jurídica es restituir la cantidad en dólares reclamada en la reconvención.
+
+• Lo anterior, dado que las actoras admitieron en su demanda que aplicaron y distribuyeron esa cantidad, que había recibido de la demandada por un diverso acuerdo de voluntades, a lo pactado en el contrato de apertura de crédito como consecuencia de su vencimiento anticipado.
+
+Estudio de los agravios expresados en el recurso de apelación adhesiva interpuesto por la parte actora.
+
+• En esos agravios las actoras principales argumentaron que la prestación “cuatro” de la reconvención [devolución de USD$************] debió desecharse de plano. Esos motivos de inconformidad fueron declarados infundados porque el juez de primera instancia debía pronunciarse sobre la prestación cuatro en cuanto al fondo al resolver en definitiva y no desecharla de plano como se alegó en los agravios Además, el momento procesal oportuno para ese desechamiento era al acordar la reconvención, en términos del artículo 470 del Código de Procedimientos Civiles para la Ciudad de México. También porque la devolución de la cantidad en dólares reclamada formó parte de la controversia, en la medida que las actoras admitieron haberla aplicado y distribuido en términos de lo pactado en el contrato de apertura de crédito simple, es decir, las actoras dispusieron de ese dinero.
+
+• Por otra parte, declaró inoperantes los agravios relacionados con que tal prestación debía resolverse por tres árbitros con las Reglas de Arbitraje del Centro de Arbitraje de México, considerando que de las constancias de autos no se advertía que la recurrente hubiese opuesto una excepción en ese sentido.
+
+• En otro aspecto, calificó como infundados los argumentos vertidos en el sentido de que la actora en la reconvención no tiene derecho a la devolución de la cantidad en dólares reclamado con la consideración de que, al haberse declarado la improcedencia de la acción de vencimiento anticipado del contrato de apertura de crédito simple, éste se encuentra vigente y surte sus efectos jurídicos.
+
+Estudio de los agravios del recurso de apelación adhesivo interpuesto por la demandada.
+
+• La Sala declaró inoperantes esos agravios considerando que de su lectura se advierte que no pretende fortalecer los razonamientos de la sentencia definitiva, sino modificar lo resuelto por el juez de primera instancia.
+
+• La responsable estableció que en esos agravios la demandada apelante adherente manifestó que nunca refirió que la mayoría calificada debía acreditarse con escritura pública para dar por vencido anticipadamente el contrato de apertura de crédito simple. Argumento que la Sala consideró, implicaría resolver una cuestión distinta a la decidida en la sentencia de primera instancia en la cual se declaró la improcedencia de la acción de nulidad de la rescisión y/o terminación anticipada que pretendió ejercer el banco agente.
+
+• Por tanto, la responsable consideró que, para analizar ese argumento, la demandada en el principal, actora en la reconvención, debió interponer el recurso de apelación contra la sentencia definitiva en términos del artículo 688 del Código de Procedimientos Civiles para la Ciudad de México.
+
+• Con base en esas consideraciones, la Sala modificó la sentencia definitiva, para condenar a la actora, demandada en la reconvención, a la devolución de la cantidad en dólares reclamada en ésta última.
+
+33. Amparo directo. Contra la anterior determinación, las actoras en el principal y demandadas en reconvención **** ******* ******** ******** *********** ** ***** ********* ***** ********** ***** ******** ** **** ******* ******** ********* ******** ******** ** ******** *********** ** ***** ** ********** y *********** ******** ******* ** ******* ********* ******** ********** ** ****** ******** por conducto de su apoderado ****** ********** ********* , promovieron juicio de amparo directo.
+
+34. Del asunto correspondió conocer a este Décimo Tribunal Colegiado en Materia Civil del Primer Circuito, en donde su t P id t l i t ó l ú D C 615/2024 pago de las prestaciones reclamadas a ********* *********** *** ******** , ******** ** *************** ******** ** ******* ********, en la acción principal y condenó a los quejosos al pago de cierta prestación reclamada por la demandada en el principal en la acción reconvencional.
+
+36. Amparo adhesivo. Por escrito presentado vía electrónica el dos de enero de dos mil veinticinco, mediante el Portal de Servicios en Línea del Poder Judicial de la Federación, ********* *********** *** ********* ******** ** *************** ******** ** ******* ********, por conducto de su apoderado ******* ****** ****** , promovió amparo adhesivo, mismo que se admitió a trámite en proveído de seis de enero de la anualidad en curso.
+
+37. En sus conceptos de violación la tercera interesada dice que a través de la demanda de amparo adhesiva busca aportar elementos jurídicos adicionales a los tomados en consideración en la sentencia definitiva reclamada, que permitan reforzar el sentido de la misma, es decir, el que la acción de pago ejercida por los acreditantes en contra de ********* *********** *** ********* ******** ** *************** ******** ** ******* ******** respecto de diversas prestaciones derivadas del contrato de crédito base de la acción, resulta improcedente.
+
+38. Turno. Por proveído de trece de enero de dos mil veinticinco, se ordenó hacer del conocimiento de las partes que a partir del uno de enero del presente año, este tribunal quedaría integrado de la siguiente manera, Magistrado Jaime Aurelio Serret Álvarez como Presidente y por los Secretarios en funciones de Magistrados Xochitl Vergara Godínez y Francisco Javier Arredondo Campuzano, turnándose el presente asunto a la segunda de los mencionados.
+
+39. Returno por nueva integración. Por auto de diecisiete de enero de dos mil veinticinco, se hizo del conocimiento de las partes que a partir del quince de enero de dicho año, ese tribunal quedó integra do de la siguiente manera: Magistrado Jaime Aurelio Serret Álvarez como Presidente y por los Secretarios en Funciones de Magistrados Xochitl Vergara Godínez y Fernando Aragón González, turnándose el presente asunto a la segunda de los mencionados.
+
+40. Returno por nueva integración. En auto de dos de julio de dos mil veinticinco se hizo del conocimiento de las partes la nueva integración de este Tribunal Colegiado, el cual quedó conformado por el Magistrado Jaime Aurelio Serret Álvarez (Presidente), Alberto Ramírez Ruiz, y la Licenciada Xochitl Vergara Godínez (Secretaria en funciones de Magistrada).
+
+41. Nueva integración. Por proveído de dieciocho de agosto de dos mil veinticinco, se hizo del conocimiento de las partes que a partir de esta misma fecha, el órgano colegiado que se preside, quedó integrado de la siguiente manera: Magistrado Alberto Ramírez Ruiz (Presidente), los Licenciados Xochitl Vergara Godínez y Jesús Julio Hinojosa Cerón (Secretarios en funciones de Magistrados).
+
+42. Nueva integración. Con fecha uno de septiembre de dos mil veinticinco, se ordenó hacer del conocimiento de las partes que a partir del treinta y uno de agosto de la anualidad en curso, el órgano colegiado que se preside, quedó integrado de la siguiente manera: Magistrados Alberto Ramírez Ruiz (Presidente), Juan Jaime González Varas y Licenciado Jesús Julio Hinojosa Cerón (Secretario en funciones de Magistrado), por lo que el asunto se returnó al Magistrado Juan Jaime González Varas.
+
+43. Integración actual. El diecisiete de septiembre de dos mil veinticinco fue publicado en el Diario Oficial de la Federación el Acuerdo General AG-POAG-008/2025 del Pleno del Órgano de Administración Judicial “por el que se adscriben a las personas electas en el Proceso Electoral Extraordinario a diversos cargos del Poder Judicial de la Federación 2024-2025, asimismo, se comisionan, reubican y readscriben, a personas funcionarias de los Órganos Jurisdiccionales, se designan y, en su caso, prorrogan a personas secretarias en funciones de Personas Juzgadoras”, por medio del cual se determinó que, a partir del quince de septiembre de dos mil veinticinco, este Tribunal quedó conformado por la Magistrada Ma. Luz Silva Santillán (Presidenta), el Magistrado Juan Jaime González Varas y el Secretario en funciones de Magistrado Jesús Julio Hinojosa Cerón.
+
+44. En ese sentido, por acuerdos de diecisiete y diecinueve de septiembre del presente año se dio a conocer a las partes la nueva integración de este órgano de control de constitucionalidad y se devolvieron los autos al ponente para la elaboración del proyecto respectivo.
+
+II.- COMPETENCIA
+
+45. Este Décimo Tribunal Colegiado en Materia Civil del Primer Circuito es legalmente competente para conocer y por ende resolver del presente juicio de amparo de conformidad con los artículos 103, fracción I, y 107, fracción III, inciso a), primer párrafo, de la Constitución Política de los Estados Unidos Mexicanos[3]; 170, fracción I, de la Ley de Amparo[4]; 35, fracción I inciso c), 210 y 211 de la actual Ley Orgánica del Poder Judicial de la Federación publicada en el Diario Oficial de la Federación el veinte de diciembre de dos mil veinticuatro[5]; y, los puntos Primero y Tercero, Apartado II, del Acuerdo General 3/2013[6], publicado en el Diario Oficial de la
+
+[3]Artículo 103. Los Tribunales de la Federación resolverán toda controversia que se suscite I. Por normas generales, actos u omisiones de la autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por esta Constitución, así como por los tratados internacionales de los que el Estado Mexicano sea parte;
+
+[…]
+
+Artículo 107. Las controversias de que habla el artículo 103 de esta Constitución, con excepción de aquellas en materia electoral, se sujetarán a los procedimientos que determine la ley reglamentaria, de acuerdo con las bases siguientes:
+
+[…]
+
+III. Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo solo procederá en los casos siguientes: a) Contra sentencias definitivas, laudos o resoluciones que pongan fin al juicio, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte las defensas del quejoso trascendiendo al resultado del fallo.
+
+[…]
+
+[4] Artículo 170. El juicio de amparo directo procede:
+
+Federación el quince de febrero de dos mil trece, emitido por el extinto Pleno del Consejo de la Judicatura Federal.
+
+46. Lo anterior, debido a que se promovió contra una sentencia dictada por una autoridad que tiene su residencia en el ámbito territorial en que este órgano colegiado ejerce jurisdicción.
+
+III. OPORTUNIDAD
+
+47. La demanda de amparo se promovió oportunamente, ya que la sentencia reclamada se notificó mediante Boletín Judicial el veinticinco de septiembre de dos mil veinticuatro, y surtió sus efectos al día siguiente[7]. De esa manera, el plazo de quince días previsto en el artículo 17 de la Ley de Amparo transcurrió del veintisiete de septiembre al dieciocho de octubre de dicho año; descontándose para efectos del cómputo relativo los días veintiocho y veintinueve de septiembre; uno, cinco, seis, doce y trece de octubre todos de dos mil veinticuatro, por haber sido inhábiles conforme a los artículos 19 de la Ley de Amparo[8], 229 de la Ley Orgánica del Poder Judicial de la Federación y 74, fracción III, de la Ley Federal del Trabajo.
+
+48. Por tanto, si la demanda se presentó el dieciocho de octubre de dos mil veinticuatro, su presentación es oportuna.
+
+IV. ESTUDIO
+
+49. Este Tribunal Colegiado determina que los conceptos de violación del amparo principal, analizados en su conjunto, son esencialmente fundados y suficientes para conceder la protección constitucional solicitada. Por cuestión de método este tribunal abordara, en primer lugar: a) los argumentos relativos a las violaciones formales por parte de la responsable, en relación con la falta de estudio de todos los motivos de inconformidad; b) los conceptos de violación donde la quejosa plantea que incumplimientos al contrato de crédito que las instituciones bancarias consideran suficientes para el vencimiento anticipado y la solución al caso; y c) el estudio del amparo adhesivo.
+
+Violaciones en relación con la falta de estudio de todos los motivos de inconformidad 50. En principio la quejosa hace valer una violación de forma en su segundo concepto de violación, consistente en la omisión de la autoridad responsable de estudiar todos los incumplimientos en que incurrió la parte demandada. Argumentos que serían de estudio previo a las violaciones de fondo, sin embargo, en el caso concreto lo procedente es estudiar los conceptos de violación que controvierten la consideración toral de la sentencia reclamada consistente en que los incumplimientos en que incurrió la tercera interesada no son esenciales y por ende, no generaban el vencimiento anticipado del contrato de apertura de crédito simple.
+
+51. Lo anterior obedece a que la quejosa expresa que la acreditada incurrió en diversas causas de vencimiento anticipado del contrato de apertura de crédito simple, que fue garantizado con el contrato de hipoteca, respecto del cual se ejerció la acción en la vía especial hipotecaria del cual emana la sentencia reclamada. En esa sentencia se confirmó la determinación de que la única obligación esencial a cargo de la parte acreditada era el pago de la cantidad materia de ese crédito y la entrega de la misma por parte de los bancos acreditantes.
+
+52. Por tanto, en primer término, es necesario establecer si tal consideración toral es desvirtuada por la quejosa y a partir de ello, establecer si las causas de vencimiento anticipado que se tuvieron por acreditadas generan el vencimiento anticipado del contrato de apertura de crédito simple garantizado con el contrato de hipoteca.
+
+53. Lo anterior no implica desatender la referida violación formal, porque el eventual perjuicio que podría haber causado la alegada omisión de estudiar otras causas de incumplimiento, además de las que se tuvieron por acreditadas, dependerá de lo que se considere sobre la esencialidad o no de los incumplimientos alegados. Así, en caso de que se estime que no son esenciales, entonces a nada práctico conduciría conceder el amparo para que la responsable se pronuncie sobre esos incumplimientos, porque de cualquier modo no daría lugar a tener por vencido anticipadamente el contrato de crédito. Es aplicable en lo conducente, la tesis P./J. 3/2005, de rubro y texto:
+
+CONCEPTOS DE VIOLACIÓN EN AMPARO DIRECTO. EL ESTUDIO DE LOS QUE DETERMINEN SU CONCESIÓN DEBE ATENDER AL PRINCIPIO DE MAYOR BENEFICIO, PUDIÉNDOSE OMITIR EL DE AQUELLOS QUE AUNQUE RESULTEN FUNDADOS, NO MEJOREN LO YA ALCANZADO POR EL QUEJOSO, INCLUSIVE LOS QUE SE REFIEREN A CONSTITUCIONALIDAD DE LEYES. De acuerdo con la técnica para resolver los juicios de amparo directo del conocimiento de los Tribunales Colegiados de Circuito, con independencia de la materia de que se trate, el estudio de los conceptos de violación que determinen su concesión debe atender al principio de mayor beneficio, pudiéndose omitir el de aquellos que, aunque resulten fundados, no mejoren lo ya alcanzado por el quejoso, inclusive los que se refieren a constitucionalidad de leyes. Por tanto, deberá quedar al prudente arbitrio del órgano de control constitucional determinar la preeminencia en el estudio de los conceptos de violación, atendiendo a la consecuencia que para el quejoso tuviera el que se declararan fundados. Con lo anterior se pretende privilegiar el derecho contenido en el artículo 17, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, consistente en garantizar a los ciudadanos el acceso real, completo y efectivo a la administración de justicia, esto es, que en los diversos asuntos sometidos al conocimiento de los tribunales de amparo se diluciden de manera preferente aquellas cuestiones que originen un mayor beneficio jurídico para el gobernado, afectado con un acto de autoridad que al final deberá ser declarado inconstitucional[9].
+
+54. Esta consideración tiene sustento, además, en el artículo 17 de Constitución Política del país, que en su párrafo tercero establece que siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales[10].
+
+Estudio de los conceptos de violación que combaten lo relativo a si los incumplimientos de la demanda son esenciales o no para declarar el vencimiento anticipado del contrato de crédito.
+
+55. Precisado lo anterior, se procede al estudio de los argumentos en los cuales la parte quejosa sostiene que la autoridad responsable actuó incorrectamente al establecer que los incumplimientos en que incurrió la parte demandada hoy tercera interesada no son esenciales del contrato de apertura de crédito y por ello no configuran causas de vencimiento anticipado.
+
+56. En efecto, la Sala responsable confirmó la consideración de la jueza natural emitida en el sentido de que las únicas obligaciones esenciales del contrato de apertura de crédito simple son, para la parte actora, entregar a la acreditada el monto del crédito contratado y, para la demandada, el pago de dicho crédito. Por lo que, atendiendo al principio de conservación de los contratos, sólo los incumplimientos a esas obligaciones darían lugar a su vencimiento anticipado. Al respecto, la quejosa argumenta en sus conceptos de violación que:
+
+• Contrario a lo sostenido por la autoridad responsable, a partir de un análisis integral del contrato de crédito no puede limitarse la obligación esencial de la acreditada a la restitución de las sumas dispuestas. Si bien esa es una obligación primordial, se acordaron otras obligaciones de las cuales dependía el otorgamiento y mantenimiento de la vigencia natural o programada del crédito, por lo que no pueden ser vistas como meramente accesorias.
+
+• La quejosa sostiene que el incumplimiento de esas obligaciones impediría la ejecución o la continuación del contrato de crédito, porque constituyen garantías suficientes para el cumplimiento de las obligaciones de pago y destinar el monto obtenido del crédito al destino autorizado consistente en la construcción, desarrollo y operación del hotel.
+
+• Por ello considera que la autoridad responsable aplicó de manera reduccionista y simplista el principio de conservación de los contratos, ya que éste busca preservar la relación contractual cuando los incumplimientos son menores y accesorios. Por ende, no puede aplicarse cuando afectan aspectos fundamentales que ponen en riesgo la ejecución misma del contrato y la consecución de su objetivo.
+
+• En ese sentido, asevera que los incumplimientos en que incurrió la parte acreditada abarcan obligaciones esenciales y trascendentales que no pueden considerarse accesorias ya que impactan directamente la viabilidad del proyecto y la protección de los intereses de los acreditantes, porque la falta de licencias de construcción, la omisión de mantener la reserva de servicio de deuda y la falta de pago de los impuestos prediales de los inmuebles hipotecados, así como la falta de pago de los gastos administrativos, y la suspensión del proyecto justifican el vencimiento anticipado del crédito, en términos de la cláusula Décima octava.
+
+• Por ello, considera que las obligaciones que dejó de cumplir la parte acreditada están vinculadas directamente con la viabilidad del proyecto y la capacidad de la hoy tercera interesada para cumplir con el objeto del contrato, incluyendo el eventual pago, lo que justifica plenamente que su incumplimiento dé lugar a la terminación anticipada del crédito conforme a lo pactado por las partes en el contrato de crédito.
+
+57. Los conceptos de violación anteriores son analizados en su conjunto y atendiendo a la causa de pedir, los cuales como se adelantó son sustancialmente fundados[11].
+
+58. En efecto, el artículo 291 de la Ley General de Títulos y Operaciones de Crédito dispone lo siguiente:
+
+Artículo 291. En virtud de la apertura de crédito, el acreditante se obliga a poner una suma de dinero a disposición del acreditado, o a contraer por cuenta de éste una obligación, para que el mismo haga uso del crédito concedido en la forma y en los términos y condiciones convenidos, quedando obligado el acreditado a restituir al acreditante las sumas de que disponga, o a cubrirlo oportunamente por el importe de la obligación que contrajo, y en todo caso a pagarle los intereses, prestaciones, gastos y comisiones que se estipulen.”
+
+59. De lo dispuesto en el artículo transcrito se advierte que el contrato de apertura de crédito es sinalagmático o bilateral, y como tal las partes tienen obligaciones y derechos y deben de responder a las que se comprometieron.
+
+60. De esa misma disposición se advierte que las partes se obligan a los derechos y obligaciones que estipulen, y en el caso de la parte acreditada, puede hacer uso del crédito concedido en la forma, términos y condiciones convenidos.
+
+61. Ese contrato es bilateral en términos del artículo 1836 del Código Civil para la Ciudad de México[12], ya que las partes se obligaron recíprocamente y se entiende implícita la facultad de resolver las obligaciones, para el caso de que uno de los obligados no cumpliere lo que le corresponde.
+
+62. Conforme a lo anterior, tenemos que, aun cuando el objeto del contrato de apertura de crédito consista en que la parte acreditante ponga una suma de dinero a disposición del acreditado y éste haga uso de ella, quedando obligado a restituirla. Eso no significa que sean las únicas obligaciones que adquieren las partes al momento de celebrar ese acuerdo de voluntades, ya que el propio precepto establece que la acreditada puede disponer del crédito en la forma, términos y condiciones convenidas.
+
+63. Con base en lo anterior, se puede establecer que en el contrato de apertura de crédito las partes pueden convenir las condiciones que estimen necesarias para el cumplimiento de los fines de ese acuerdo de voluntades.
+
+64. Así, en el contrato de apertura de crédito se pueden convenir obligaciones que sirven de instrumento ya sea para lograr la finalidad para la cual fue concedido el crédito o para cubrir alguna eventualidad riesgosa para su recuperación, a favor del derecho del acreditante, así como en beneficio de la obligación de pago del deudor. 65. De ahí que, aun cuando las obligaciones principales del contrato sean la entrega a la acreditada de una suma dinero y aquella deba devolverlo en los términos pactados, porque ese es su objeto, lo cierto es que en ese mismo acuerdo de voluntades se pueden pactar otras obligaciones que por sí solas tengan una correspondencia o interdependencia directa con la obligación del acreditado de pagar el crédito en los términos pactados.
+
+66. En esas condiciones, el hecho de que el otorgamiento del crédito por parte de las acreditantes y su pago por la acreditada sean las obligaciones principales del contrato, consideradas esenciales por la responsable, no significa que sólo el incumplimiento de una de ellas dé lugar a un vencimiento anticipado del contrato. Lo anterior, porque puede ocurrir también cuando alguna de las obligaciones accesorias [denominadas como no esenciales por la responsable] se encuentren en correspondencia o interdependencia con la obligación del acreditado de pagar el crédito del que dispuso.
+
+67. Luego, aun cuando la reciprocidad funcional en el contrato se mantiene entre las mismas obligaciones principales del contrato, ya que la del acreditante [poner a disposición del acreditado una suma de dinero o contraer una obligación por cuenta de éste] se cumple ordinariamente en la etapa inicial de la vigencia del contrato. En tanto que el resto del plazo sirve para que el acreditado cumpla la suya de restituir el importe del crédito con las prestaciones accesorias [intereses, comisiones, gastos, etc.]; existe la posibilidad de que la bilateralidad también se forme respecto de otras obligaciones que sean necesarias para el funcionamiento del contrato, que de no cumplirse, pueden dar lugar al vencimiento anticipado del contrato[13].
+
+68. De ahí que se estime contrario a derecho que la autoridad responsable considere que “sólo el incumplimiento de las obligaciones principales”, denominadas por ella, esenciales, puede dar lugar al vencimiento anticipado del contrato de apertura de crédito simple, porque las obligaciones accesorias –que estimó no esenciales– también pueden dar lugar a tal vencimiento si se encuentran en correspondencia o interdependencia con la obligación del acreditado de pagar el crédito del que dispuso y por ende, necesarias para el funcionamiento del contrato.
+
+69. En ese sentido, aun cuando este Tribunal Colegiado comparte la consideración de que el principio de conservación de los contratos trata de salvar el negocio jurídico ante el incumplimiento de obligaciones accesorias no esenciales. Lo cierto es que, en el caso, la hoy quejosa ejerció su facultad de vencimiento anticipado del contrato argumentando que los incumplimientos afectan en términos sustanciales las obligaciones contraídas por la parte demandada.
+
+70. Por tanto, no es válido que la autoridad responsable estableciera que las acreditantes, ahora quejosas dieron por vencido anticipadamente el contrato con la única finalidad de obtener mayores beneficios, dado que, desde el escrito de demanda y luego en los agravios que expresó en la apelación, la hoy quejosa manifestó que los incumplimientos en que incurrieron los acreditados incidían directamente en el contrato al afectar el desarrollo y ejecución de la obra que, al finalizar, proporcionaría los elementos para cubrir el crédito.
+
+71. Además, no pasa inadvertido lo sostenido por la quejosa en el sentido que al momento de que las acreditantes ahora quejosas notificaron a la acreditada el vencimiento anticipado del contrato, ésta última había solicitado y recibido tres disposiciones de diversas cantidades en dólares americanos, más no la totalidad de la suma contratada. Lo que permite establecer que no existen elementos que evidencien que ese vencimiento anticipado tenía como finalidad obtener mayores beneficios.
+
+72. Con esas premisas se puede establecer que es fundado lo alegado por la peticionaria de amparo en el sentido de que las obligaciones accesorias también pueden dar lugar al vencimiento anticipado del contrato de apertura de crédito simple que celebró con la tercera interesada, cuya trascendencia para la funcionalidad del contrato debió ser atendida por la responsable. Por lo que, contrario a lo sustentado por la responsable, dichas obligaciones deben considerarse esenciales para la operatividad y vigencia del crédito.
+
+73. Ahora, en la sentencia reclamada la responsable analizó dos causas de vencimiento anticipado consistentes en:
+
+a. Dejar de conservar la cantidad establecida para la reserva del servicio de deuda; y b. La omisión de pagar el impuesto predial.
+
+74. La responsable estableció que los incumplimientos de la demandada relacionados con la reserva de servicio de deuda y con el impuesto predial no están referidos a las obligaciones esenciales del contrato de apertura de crédito simple establecidos en el artículo 291 de la Ley General de Títulos y Operaciones de Crédito, porque no son recíprocas a la puesta de disposición del préstamo.
+
+75. En ese orden de ideas, la responsable consideró que el incumplimiento a esas obligaciones no impedía que las acreditantes ahora quejosas pusieran a disposición de las acreditada las sumas de dinero pactadas.
+
+76. Como se puede apreciar, lo importante es destacar que la Sala estableció que la acreditada sí incurrieron en esos dos incumplimientos. Esa consideración no fue controvertida por la demanda en el amparo directo que pudo haber promovido, por lo que siguen rigiendo el sentido del fallo y se consideran firmes por falta de impugnación.
+
+77. Al haber quedado firme la determinación de la responsable de que la hoy tercera interesada incurrió en dos causas de vencimiento anticipado del contrato porque la parte tercera interesada no promovió amparo directo para reclamarlo, procede analizar los conceptos de violación que controvierten las consideraciones con base en las cuales se confirmó la inexistencia de otro de los incumplimiento invocados por la responsable. De modo que, se proceda a determinar si dichos incumplimientos en sí mismos o en su conjunto, tienen una interdependencia y correlación con el contrato suficiente para provocar el vencimiento anticipado.
+
+78. Así tenemos que la autoridad responsable consideró que el incumplimiento de la demandada atinente a mantener vigente la licencia de construcción, no se refiere a una obligación esencial y su vigencia no depende de la demandada tercera interesada porque se clasifica como causa de fuerza mayor de imposible previsión; y que la demandada realizó gestiones judiciales para no entorpecer los avances y suspensiones de construcción del proyecto y las medidas de seguridad obtenidas.
+
+79. Asimismo, la autoridad responsable reiteró que la obligación de la demandada de obtener las licencias correspondientes para la construcción del hotel señalado en el contrato de apertura de crédito simple no es esencial ya que, si bien el préstamo concedido debía destinarse a costear esa construcción, conforme a lo pactado en la cláusula Cuarta, las partes acordaron hipotecar los lotes en los que se construye el hotel con las correspondientes edificaciones, para garantizar el pago del préstamo.
+
+80. Por lo anterior, determinó que el incumplimiento de la demandada con la obligación de mantener la licencia de construcción no debía impedir que las actoras pusieran a su disposición las sumas de dinero pactadas porque, en concepto de la Sala responsable, además de que cumplió con su obligación esencial de restituirles las sumas dispuestas, la demandada hipotecó a favor de las actoras los lotes en los que se construye el hotel para garantizar el pago del préstamo.
+
+81. La Sala también consideró que aun cuando la falta de vigencia de las autorizaciones de la construcción del hotel no puede estimarse como un evento superior a la voluntad individual de la demandada por tratarse de un trámite administrativo que estaba en aptitud de atender, no versa sobe una obligación esencial, sino accesoria.
+
+82. Los conceptos de violación expresados contra esas consideraciones son fundados.
+
+83. En principio, se advierte una incongruencia interna en las consideraciones de la responsable, porque al iniciar el estudio del incumplimiento consistente en que la licencia de construcción no se encuentra vigente, sostiene que ello no depende de la demandada hoy tercera interesada, y por ende, considera que se trata de una causa de fuerza mayor de imposible previsión. Sin embargo, al finalizar el estudio de ese incumplimiento la responsable establece que la falta de vigencia de las autorizaciones de la construcción del hotel no puede estimarse como un evento superior a la voluntad individual de la demandada por tratarse de un trámite administrativo que estaba en aptitud de atender.
+
+84. Asimismo, existe otra incongruencia, porque la autoridad responsable afirma que la falta de vigencia de la licencia no es esencial y que las acreditadas cumplieron con su obligación esencial de restituir las sumas dispuestas. No obstante, más adelante calificó como inoperantes los agravios relacionados con la falta de pago del crédito, porque estimó que ello no había sido materia de la litis. Ello, con independencia de que tampoco se observa que la ahora quejosa diera por vencido anticipadamente el contrato por falta de pago de la obligación principal.
+
+85. Es aplicable, en lo conducente, la tesis XXI.2o.12 K, de rubro y texto siguiente:
+
+SENTENCIA. CONGRUENCIA INTERNA Y EXTERNA. El principio de congruencia que debe regir en toda sentencia estriba en que ésta debe dictarse en concordancia con la demanda y con la contestación formuladas por las partes, y en que no contenga resoluciones ni afirmaciones que se contradigan entre sí. El primer aspecto constituye la congruencia externa y el segundo, la interna. En la especie, la incongruencia reclamada corresponde a la llamada interna, puesto que se señalan concretamente las partes de la sentencia de segunda instancia que se estiman contradictorias entre sí, afirmándose que mientras en una parte se tuvo por no acreditada la personalidad del demandado y, por consiguiente, se declararon insubsistentes todas las promociones presentadas en el procedimiento por dicha parte, en otro aspecto de la propia sentencia se analiza y concede valor probatorio a pruebas que específicamente fueron ofrecidas y, por ende, presentadas por dicha persona; luego, esto constituye una infracción al principio de congruencia que debe regir en toda sentencia[14].
+
+86. Sobre estos temas, los principios de congruencia y exhaustividad, que rigen a las resoluciones judiciales, están referidos a que las sentencias sean congruentes no sólo consigo mismas, sino también con la litis y con la demanda.
+
+Apreciando las pruebas conducentes y resolviendo sin omitir nada, ni añadir cuestiones no hechas valer, ni expresar consideraciones contrarias entre sí o con los puntos resolutivos, lo que obliga a la persona juzgadora a pronunciarse sobre todas y cada una de las pretensiones de las partes[15].
+
+87. Otro aspecto relevante, relacionado con los principios de congruencia y exhaustividad, se refiere a que la persona juzgadora no debe desvincularse de lo dispuesto por el primer párrafo del artículo 16 constitucional, que impone a las autoridades la obligación de fundar y motivar debidamente los actos que emitan. Esto es, que se expresen las razones de derecho y los motivos de hecho considerados para su dictado, los cuales deberán ser reales, ciertos e investidos de la fuerza legal suficiente para provocar el acto de autoridad.
+
+88. Así, la fundamentación y motivación de una resolución jurisdiccional se encuentra en el análisis exhaustivo de los puntos que integran la litis, es decir, en el estudio de las acciones y excepciones del debate, apoyándose en el o los preceptos jurídicos que permiten expedirla y que establezcan la hipótesis que genere su emisión, así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para la emisión del acto, siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso. Así lo establece la jurisprudencia 1a./J. 139/2005, de rubro y texto:
+
+FUNDAMENTACIÓN Y MOTIVACIÓN DE LAS RESOLUCIONES JURISDICCIONALES, DEBEN ANALIZARSE A LA LUZ DE LOS ARTÍCULOS 14 Y 16 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, RESPECTIVAMENTE. Entre las diversas garantías contenidas en el segundo párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, sustento de la garantía de audiencia, está la relativa al respeto de las formalidades esenciales del procedimiento, también conocida como de debido proceso legal, la cual se refiere al cumplimiento de las condiciones fundamentales que deben satisfacerse en el procedimiento jurisdiccional que concluye con el dictado de una resolución que dirime las cuestiones debatidas. Esta garantía obliga al juzgador a decidir las controversias sometidas a su conocimiento, considerando todos y cada uno de los argumentos aducidos en la demanda, en su contestación, así como las demás pretensiones deducidas oportunamente en el pleito, de tal forma que se condene o absuelva al demandado, resolviendo sobre todos los puntos litigiosos materia del debate. Sin embargo, esta determinación del juzgador no debe desvincularse de lo dispuesto por el primer párrafo del artículo 16 constitucional, que impone a las autoridades la obligación de fundar y motivar debidamente los actos que emitan, esto es, que se expresen las razones de derecho y los motivos de hecho considerados para su dictado, los cuales deberán ser reales, ciertos e investidos de la fuerza legal suficiente para provocar el acto de autoridad. Ahora bien, como a las garantías individuales previstas en la Carta Magna les son aplicables las consideraciones sobre la supremacía constitucional en términos de su artículo 133, es indudable que las resoluciones que emitan deben cumplir con las garantías de debido proceso legal y de legalidad contenidas en los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos. Así, la fundamentación y motivación de una resolución jurisdiccional se encuentra en el análisis exhaustivo de los puntos que integran la litis, es decir, en el estudio de las acciones y excepciones del debate, apoyándose en el o los preceptos jurídicos que permiten expedirla y que establezcan la hipótesis que genere su emisión, así como en la exposición concreta de las circunstancias especiales, razones particulares o causas inmediatas tomadas en consideración para la emisión del acto, siendo necesario, además, que exista adecuación entre los motivos aducidos y las normas aplicables al caso[16].
+
+89. Ahora, aun cuando por regla general la autoridad emisora de una resolución jurisdiccional está obligada a fundar sus actos, citando los preceptos con los que se cumpla, esta exigencia formal excepcionalmente se puede prescindir si los razonamientos de la resolución conducen a la norma aplicada. De ahí que las resoluciones jurisdiccionales cumplen con la garantía constitucional de referencia sin necesidad de invocar de manera expresa el o los preceptos que las fundan, cuando de la resolución se advierte con claridad el artículo en que se basa.
+
+90. Lo anterior, de acuerdo con la tesis P. CXVI/2000, del Pleno de la Suprema Corte de Justicia de la Nación que establece lo siguiente:
+
+FUNDAMENTACIÓN Y MOTIVACIÓN. EL CUMPLIMIENTO A DICHA GARANTÍA TRATÁNDOSE DE RESOLUCIONES JURISDICCIONALES SE VERIFICA SIN QUE SE INVOQUEN DE MANERA EXPRESA SUS FUNDAMENTOS, CUANDO LOS RAZONAMIENTOS DE ÉSTAS CONDUZCAN A LAS NORMAS APLICADAS. La garantía de legalidad consagrada en el artículo 16 de la Constitución Federal consiste en la obligación que tiene la autoridad de fundar y motivar todo acto de molestia que se dirija a los particulares, pero su cumplimiento se verifica de manera distinta tratándose de actos administrativos y de resoluciones jurisdiccionales. Lo anterior es así, porque en el acto administrativo que afecta de manera unilateral los intereses del gobernado, se debe cumplir con la formalidad de invocar de manera precisa los fundamentos del mismo, a efecto de que esté en posibilidad de conocer el sustento jurídico del acto que le afecta, mientras que la resolución jurisdiccional presupone el debido proceso legal en que se plantea un conflicto o una litis entre las partes, en el cual el actor establece sus pretensiones apoyándose en un derecho y el demandado lo objeta mediante defensas y excepciones, constituyendo la fundamentación de la resolución el análisis exhaustivo de los puntos que integran la litis, es decir, el estudio de las acciones y excepciones del debate, sin que se requiera de la formalidad que debe prevalecer en los actos administrativos, toda vez que dentro del citado análisis se dan razonamientos que involucran las disposiciones en que se funda la resolución, aun sin citarlas de forma expresa. En consecuencia, aun cuando por regla general la autoridad emisora de una resolución jurisdiccional está obligada a fundar tal acto citando los preceptos con los que se cumpla esa exigencia, excepcionalmente, si los razonamientos de la resolución conducen a la norma aplicada, la falta de formalidad puede dispensarse, de ahí que las resoluciones jurisdiccionales cumplen con la garantía constitucional de referencia sin necesidad de invocar de manera expresa el o los preceptos que las fundan, cuando de la resolución se advierte con claridad el artículo en que se basa[17].
+
+91. Destacado lo anterior, tenemos que la quejosa sostiene que la vigencia de la licencia de construcción es atribuible exclusivamente a la demandada porque, además de que asumió la responsabilidad en caso de que no se cumpliera con tal vigencia, de las constancias del juicio de nulidad que exhibió la entonces demandada como prueba para desvirtuar la existencia de esa circunstancia, se aprecia que la suspensión del proyecto deriva de cuestiones imputables directamente a las acreditada.
+
+92. El motivo de inconformidad resumido resulta fundado, toda vez que tal como lo expresa, la vigencia de la licencia de construcción es un acto que la acreditada debió haber realizado a fin de dar continuidad al destino del crédito previsto en la cláusula Cuarta del contrato, en cuyo primer párrafo se establece:
+
+“Cuarta. Destino del Crédito. El destino del Crédito será para el pago de i) Costos de Construcción del Proyecto, ii) gastos de desarrollo y puesta en marcha del Hotel, iii) Comisiones (sin considerar el IVA), intereses durante la etapa de construcción del Proyecto, iv) cubrir los pagos que deba pagar el Acreditado conforme al Contrato de Cobertura, y v) la constitución de la Reserva de Servicio de Deuda.”.
+
+93. Ahora, conforme a la cláusula Primera, relativa a las definiciones, se estableció que por Proyecto se entiende:
+
+“Proyecto” significa la construcción, desarrollo y equipamiento del Hotel, de conformidad con la Memoria Descriptiva.”.
+
+94. En esa misma cláusula, se definió el concepto Hotel de la manera siguiente:
+
+“Hotel” significa un hotel de 703 habitaciones, bajo la marca **** ** **** ****, ubicado en ****** ********, cuyas características están descritas en la Memoria Descriptiva y, en su momento, las características del mismo deberán quedar establecidas en el Proyecto Ejecutivo.”
+
+95. El contenido de ambas cláusulas pone de manifiesto que las partes convinieron en que el destino del crédito era para el pago, entre otros conceptos, de los costos de construcción del proyecto, el cual consiste en la construcción, desarrollo y equipamiento de un hotel de setecientas tres habitaciones, localizado en Puerto Vallarta, Jalisco.
+
+96. Luego, la licencia de construcción es un elemento indispensable para llevar a cabo los trabajos de edificación del hotel y así cumplir con el destino del crédito, por tanto, debía estar vigente durante todo el tiempo de la construcción y el trámite correspondiente corría a cargo de la acreditada, ahora tercera interesada.
+
+97. Lo anterior también se pone de relieve en la cláusula Décima Segunda relativa a las “Condiciones para las Disposiciones”, en cuyo inciso b), relativo a las “Condiciones para la primera disposición del Tramo A del crédito”, se establece que para obtener tal disposición, la acreditada debió haber enviado al banco agente, tanto en versión física como electrónica, entre otros documentos: “xii) Licencia de Construcción. Que el acreditado haya entregado al Banco Agente una copia de la licencia de construcción respecto del Proyecto emitida por la autoridad local competente.”.
+
+98. Asimismo, en el inciso vi) de las “Condiciones para cualquier Disposición Subsecuente del Tramo A del Crédito.”, se requiere también la presentación de la licencia vigente, dentro del “Reporte de Avance de Obra”:
+
+“vi) Reporte de Avance de Obra. Un reporte de Avance de Obra en el que el Ingeniero Independiente confirme y apruebe: (…) iv) la validez, suficiencia y cumplimiento de las Autorizaciones necesarias para la construcción y/o operación del Proyecto, incluyendo las autorizaciones obtenidas bajo legislación ambiental, adjuntando una copia de dichas Autorizaciones al documento.”.
+
+99. Lo anterior se reitera en las Condiciones para la Disposición del Tramo B del Crédito.
+
+100.Como se puede advertir, la acreditada hoy tercera interesada se encontraba obligada a exhibir la licencia de construcción vigente para poder solicitar las disposiciones del crédito en cada uno de los tramos establecidos en el contrato, por tanto, es claro que era su deber realizar todas las actividades necesarias para mantener la vigencia de esos permisos.
+
+101.De ahí que no pueda considerarse, como lo hizo la responsable, que la vigencia de la licencia de construcción no dependía de la hoy tercera interesada y tampoco que constituía una causa de fuerza mayor de imposible previsión, porque la vigencia de una licencia es del conocimiento del titular de la misma y por ende se encuentra en aptitud de solicitar su renovación en tiempo y forma.
+
+102.Aunado a lo anterior asiste razón a la quejosa cuando manifiesta que la responsable procedió incorrectamente al establecer que la acreditada demostró que realizó gestiones judiciales para no entorpecer los avances y suspensiones de construcción del proyecto y las medidas de seguridad obtenidas.
+
+103.En efecto, como lo sostiene la peticionaria de amparo, las copias certificadas exhibidas por la demandada hoy tercera interesada del incidente de suspensión tramitado en el juicio de nulidad 2811/2022, del índice de la Sexta Sala Unitaria del Tribunal de Justicia Administrativa del Estado de Jalisco, permiten conocer que el veintiocho de junio de dos mil veintidós, las persona moral acreditada presentó demanda de nulidad. Los actos impugnados en ese juicio administrativo fueron:
+
+a) “La abstención y la omisión de la autoridad demandada Dirección de Protección Civil Municipal de dar trámite, decretar y permitir ejecutar las medidas de seguridad peticionadas por la actora, tendientes a inhibir riesgos ocasionados por obra inconclusa. b) Las inminentes ordenes escritas o verbales, tácitas o expresas de las demandadas, tendientes a impedir los trabajos de reparación, adecuación, reconstrucción, cimentación de reforzamiento y en general todos los que están siendo realizados por la actora, tendientes a inhibir el riesgo que ocasiona la obra propiedad de la actora.
+
+c) Las órdenes escritas o verbales, tácitas o expresas, de la autoridad enunciada en el punto 1 y 2 que impiden que la sociedad actora inicie procedimientos administrativos tendientes a obtener actos regulativos respecto al predio ubicado en **** ********* ****** ******** ** ***** ******* **** ******** *** ******** propiedad de mi mandante.
+
+d) El silencio administrativo actualizado por parte de la autoridad demandada enunciada en el punto 1 y sus consecuencias legales.”.
+
+104. En la resolución incidental de trece de julio de dos mil veintidós, se concedió la suspensión definitiva solicitada por la hoy tercera interesada, para los efectos siguientes: i. Se permita y no se le impida a la actora realizar los trabajos para
+
+realizar las medidas de seguridad, mismos que de manera enunciativa consisten en reparar, rectificar, adaptar, mantener, adecuar, apuntalar, instalar, excavar, instalar, desinstalar y en general cualquier acción que considere necesaria realizar a la obra con el fin de que ésta no genere riesgo alguno a la población vecina ni a sus propiedad, sino que únicamente se realice todas las gestiones necesarias tendientes a reforzar la seguridad de la obra, con la finalidad de evitar que se genere un daño a la vida y a las cosas.
+
+ii. Se permita y no se impida a la actora incoar procedimientos
+
+administrativos tendientes a obtener actos administrativos de carácter regulativo, estos sean desahogados y en caso de cumplir con los requisitos que marcan el Reglamento y la norma aplicable, sean expeditos.
+
+105.De lo anterior se sigue que la autoridad responsable dio un alcance indebido a esa resolución incidental, ya que la suspensión definitiva concedida a la acreditada [demandada]
+
+derivó de las pretensiones relacionadas con la ejecución de trabajos para impedir el riesgo que genera una obra inconclusa, y de los actos que atribuyó a las autoridades ahí demandadas de impedirle iniciar procedimientos administrativos para obtener actos regulativos relacionados con el inmueble de su propiedad. Sin que se observe que haya impugnado específicamente una posible negativa de renovación de la licencia de construcción del inmueble hipotecado para garantizar el contrato de apertura de crédito.
+
+106.Ahora, en el mismo documento aparece que el inmueble sobre el que reclama esos actos, es el ubicado en “**** ********* ****** *** ******** , sin embargo, no se advierten datos que ******** ** permitan establecer que se trata del inmueble sobre el que se ***** ******* **** ******** constituyó la hipoteca, ya que en el instrumento notarial ****** ******* *** ********** ******* * ****, en el que se hizo constar el contrato de hipoteca celebrado entre la hoy quejosa y la tercera interesada, aparece que se constituyó sobre:
+
+“LAS FRACCIONES UNO Y DOS QUE RESULTAN DE LA SUBDIVISION DEL INMUEBLE IDENTIFICADO COMO HOTEL ANTES DENOMINADO ***** ***** ********* UBICADO EN EL KILOMETRO *** DE LA CARRETERA PUERTO VALLARTA-AEROPUERTO, CONSTRUIDO SOBRE EL LOTE DE TERRENO NUMERO **** DE LA ZONA HOTELERA **** ********, PUERTO VALLARTA, ESTADO DE JALISCO.”
+
+107.De lo anterior se sigue que los datos del inmueble materia de la hipoteca con la cual se garantizó el contrato de apertura de crédito simple celebrado entre las partes, no concuerdan con los datos proporcionados en el juicio administrativo de nulidad promovido por la acreditada.
+
+108.Por tanto, la autoridad responsable procedió incorrectamente al considerar que no existió el incumplimiento de mantener vigente la licencia de construcción del hotel para el cual se destinó el crédito, con el argumento de que con el juicio de nulidad se evidenció que realizó gestiones judiciales para no entorpecer los avances y suspensiones de construcción del proyecto y las medidas de seguridad obtenidas.
+
+109.Esto último, en principio, no demuestra que realizó acciones para renovar la vigencia de la licencia de construcción porque en ninguna parte de esos documentos aparece tal circunstancia y tampoco existen elementos para considerar que el inmueble materia de ese juicio de nulidad es el mismo que es objeto del contrato de hipoteca. 110.Por tanto, es fundado lo aseverado por las quejosas en el sentido de que, contrario a lo sostenido por la autoridad responsable, la acreditada no demostró contar con la licencia de construcción vigente y por ello, se actualizó otra de las causas de vencimiento anticipado del contrato invocadas por las acreditantes.
+
+111.En este punto conviene ahora resumir las causas de incumplimiento que fueron acreditadas:
+
+i) La omisión de conservar el monto establecido en el contrato de apertura de crédito simple, de la reserva de deuda.
+
+ii) La omisión de pagar el impuesto predial del inmueble hipotecado para garantizar el contrato de apertura de crédito simple.
+
+iii) La omisión de mantener vigente la licencia de construcción.
+
+112.Así tenemos que la cláusula Décima Octava del contrato de apertura de crédito simple establece que en el caso de ocurra y continúe cualquiera de los supuestos previstos en ella, procederá la cancelación o suspensión de las disposiciones, dar por vencido de forma anticipada el plazo para el pago del saldo insoluto del crédito, junto a sus intereses y accesorios mediante aviso por escrito entregado al acreditado, la cual no requerirá demanda o diligencia judicial, a las cuales la acreditada renunció expresamente.
+
+113.Así, en la referida cláusula Décimo Octava, se establecieron como causas de incumplimiento, entre otras, las siguientes:
+
+“Décima Octava. Causas de Vencimiento Anticipado.” Sujeto a lo dispuesto en el presente contrato, en el caso de que ocurra y continúe cualquiera de los siguientes supuestos (cada uno de dichos supuestos, una “Causa de Vencimiento Anticipado”) el Banco Agente podrá, si así se lo instruye la Mayoría Requerida, (i) cancelar o suspender las disposiciones bajo el presente, y/o (ii) dar por vencido en forma anticipada el plazo para el pago del saldo insoluto del crédito, junto con sus intereses y accesorios (obligándose el Acreditado y/o el Obligado Solidario, en tal caso, al pago del saldo total insoluto del Crédito, junto con sus intereses y accesorios) mediante aviso por escrito entregado al Acreditado, la cual no requerirá de demanda o diligencia judicial alguna, a las cuales el Acreditado renuncia expresamente:
+
+(…)
+
+b) Si el Acreditado y/o el Obligado Solidario incumplen con cualquiera de sus obligaciones conforme al presente Contrato y/o los documentos del Crédito.”
+
+(…)
+
+n) Si cualquiera de las autorizaciones del proyecto no se obtiene, se obtiene ilegalmente o deja de ser plenamente válida y vigente, o es modificada y esta última resulta o puede con el transcurso del tiempo resultar en un Cambio Material Adverso. (…)”
+
+114.Del contenido de esa cláusula se pone de manifiesto que las partes convinieron en dar por terminado anticipadamente el contrato si ocurriera y continuara cualquiera de los supuestos de incumplimiento precisados en esa misma cláusula. El sentido literal de esa convención es que al ocurrir uno de los incumplimientos establecidos en ella, se genera el vencimiento anticipado del contrato de crédito de apertura simple.
+
+115.Es cierto que la Suprema Corte de Justicia de la Nación ha establecido que existen cuestiones accesorias que no son recíprocas de la de pago del crédito, por ejemplo la contratación de seguros. Pues por ser accesoria, no forma parte del sinalagma entre las obligaciones principales que definen al contrato de crédito: la de poner a disposición del acreditado una suma de dinero o contraer por su cuenta una obligación [a cargo del acreditante] y la de restituir las sumas dispuestas o el importe de la obligación, más los intereses, prestaciones, gastos y comisiones [a cargo del acreditado]. No obstante, existen casos que esas cuestiones accesorias pueden están vinculadas con las obligaciones principales. Al respecto se cita la tesis 1a./J. 75/2015 (10a.), de rubro y texto siguiente:
+
+CONTRATO DE APERTURA DE CRÉDITO. A LA ACCIÓN DE VENCIMIENTO ANTICIPADO Y PAGO NO ES OPONIBLE LA EXCEPCIÓN DE CONTRATO NO CUMPLIDO POR LA FALTA DE CONTRATACIÓN DE SEGUROS, A MENOS QUE SE EXPONGA Y DEMUESTRE QUE LA CAUSA DE LA ACCIÓN DERIVA DE ALGUNO DE LOS SINIESTROS. De la interpretación de los artículos 1836 y 1949 del Código Civil Federal, supletorio del Código de Comercio, en relación con los artículos 291 de la Ley General de Títulos y Operaciones de Crédito y 1o. de la Ley sobre el Contrato de Seguro, se advierte que frente a la acción de vencimiento anticipado y pago derivada de un contrato de apertura de crédito, no es oponible la excepción de contrato no cumplido o non adimpleti contractus basada en la sola circunstancia de que el actor acreditante no hubiere contratado ciertos seguros, ya que esta última obligación no es recíproca de la de pago del crédito exigida en la demanda, pues por ser accesoria, no forma parte del sinalagma entre las obligaciones principales que definen al contrato de crédito: la de poner a disposición del acreditado una suma de dinero o contraer por su cuenta una obligación (a cargo del acreditante) y la de restituir las sumas dispuestas o el importe de la obligación, más los intereses, prestaciones, gastos y comisiones (a cargo del acreditado), de forma que, en su caso, la excepción fundada en el hecho mencionado podría servir sólo para oponerse a la prestación accesoria de pago de las primas de seguro. Sin embargo, para que la obligación de contratar los seguros referida forme parte del sinalagma y sea recíproca de la diversa de pago del crédito, precisa de la expresión del hecho y la demostración en autos, de que el incumplimiento o el hecho por el cual se promueve la acción, tiene su causa en la actualización de alguno de los supuestos de riesgo o siniestros por los cuales se convino la contratación de seguros, ya sea la muerte del acreditado, su invalidez total y permanente, su desempleo injustificado, el daño al inmueble hipotecado, etcétera, según lo acordado en el contrato de crédito, y siempre que se hubieran pagado las primas de seguro correspondientes. Lo anterior es así, ya que en ese supuesto, la obligación de pago del crédito está ligada por una relación de interdependencia con la de contratar los seguros, ya que por medio de éstos se garantizaría el cumplimiento de la primera; de modo que el incumplimiento atribuido al deudor no es exigible, en la medida en que pagó las primas de seguro a efecto de que las eventualidades de riesgo fueran cubiertas[18].
+
+116.Precisado lo anterior, es necesario recordar que en esta ejecutoria ha quedado establecido que la autoridad responsable procedió incorrectamente al establecer que las obligaciones de los contratos que consideró no esenciales no pueden dar lugar al vencimiento anticipado del contrato.
+
+117.En efecto, como se dijo en párrafos anteriores, es contrario a derecho establecer que sólo el incumplimiento de las obligaciones principales puede dar lugar al vencimiento anticipado del contrato de apertura de crédito simple que celebraron la hoy quejosa y la tercera interesada. Porque las obligaciones accesorias, que estimó no esenciales, también pueden dar lugar a ello si se encuentran en correspondencia o interdependencia con la obligación del acreditado de pagar el crédito del que dispuso y por ende, necesarias para el funcionamiento del contrato.
+
+118.Con base en tal razonamiento, este Tribunal considera que los conceptos de violación en los que la quejosa asevera que las obligaciones que dejó de cumplir la acreditada, ahora tercera interesada, son esenciales porque se estipularon para el debido cumplimiento del contrato de apertura de crédito, son fundados.
+
+119.En efecto, las obligaciones que no fueron cumplidas por la actora, aunque no son las obligaciones principales del contrato de apertura de crédito, sí resultan esenciales para su debida ejecución. Así, la obligación de la acreditada de mantener vigente la licencia de construcción es esencial, ya que tiene por objeto lograr la materialización del destino del crédito que, conforme a las cláusulas citadas en párrafos anteriores, consistía el pago de los costos de construcción del proyecto, el cual consiste en la construcción, desarrollo y equipamiento de un hotel de setecientas tres habitaciones, localizado en Puerto Vallarta, Jalisco.
+
+120.En esas condiciones, al no contar con una licencia de construcción vigente, la parte acreditada se encontraba impedida para llevar a cabo la construcción del hotel para el cual se le concedió el crédito y, por ende, el proyecto no podría concretarse, lo que generaría que, en su momento, el monto que fue puesto a su disposición no pudiera ser recuperado; lo que evidencia que tal incumplimiento afecta los aspectos sustanciales ya que que impiden alcanzar la finalidad del contrato.
+
+121.Por tanto, si la acreditada incumplió con su obligación de mantener vigente la licencia de construcción, incurrió en la causa de vencimiento anticipado prevista en la cláusula n) de la cláusula Décima Octava del contrato de apertura de crédito. La cual, por sí sola y dada la entidad de la consecuencia que produce la falta de vigencia de la licencia de construcción del proyecto, es suficiente para declarar el vencimiento.
+
+122.Por otra parte, son fundados los conceptos de violación que expresa la quejosa respecto de que el incumplimiento de la acreditada a su deber de pagar el impuesto predial de los predios en los que se llevaría a cabo la construcción también es esencial. Si bien a primera vista podría parecer una obligación accesoria no esencial, sin embargo, dejar de cubrir ese impuesto también pone en riesgo la ejecución del destino del contrato, ya que, al existir un adeudo por ese concepto se podría generar un crédito fiscal municipal que incidiría en el destino del proyecto.
+
+123.Es importante precisar que la obligación de pagar el impuesto predial se encuentra prevista en la cláusula Décima Sexta, inciso j) del Contrato de Apertura de Crédito, ya que en ella se establece lo siguiente:
+
+“Décima Sexta. Obligaciones de Hacer del Acreditado. A partir de la fecha de la firma del presente Contrato, el Acreditado y el Obligado Solidario, según corresponda, se obligan a:
+
+(…)
+
+j) Cumplimiento de Leyes. Cumplir con la Legislación Aplicable en México, incluyendo sin limitación, el pago a su vencimiento de todos los Impuestos (…)
+
+124.Entonces, el pago del impuesto predial también se encuentra contemplado como una de las obligaciones de la acreditada ahora tercera interesada y por tal razón, su incumplimiento encuadra en la causa de vencimiento anticipado prevista en la cláusula Décimo Octava, inciso b).
+
+125.Por lo que hace a la obligación de mantener la Reserva del Servicio de Deuda, la quejosa manifiesta que se trata de una obligación esencial para la mecánica operativa del crédito y para gestionar los riesgos financieros asumidos por los acreditantes, dado que esa reserva se integra con fondos del crédito y, con ella, los acreditantes pretenden contar con la garantía de que, cuando menos cierta parte de su adeudo podrá quedar cubierto a través de los recursos existentes en dicha reserva en caso de que los acreditados no llegaren a contar con recursos propios.
+
+126.Este Tribunal determina que fundados esos argumentos, ya que en la cláusula Primera se definió ese concepto como:
+
+“Reserva de Servicio de Deuda” significa el monto necesario para cubrir los siguientes 6 (seis meses) de Servicio de Deudas;
+
+en el entendido que durante el periodo comprendido entre la fecha de la primera Disposición del Crédito y la fecha en que se desembolse la última Disposición del Crédito, dicha Reserva de Servicio de Deuda estará constituida únicamente con el monto necesario para cubrir 6 (seis) meses de intereses y la misma se actualizará en cada Fecha de Pago de Intereses; y en la fecha de desembolso de la última Disposición del Crédito, la Reserva de Servicio de Deuda deberá quedar totalmente constituida con el monto necesario para cubrir los 6 (seis) meses inmediatos siguientes de intereses y principal, respectivamente; en el entendido que una vez concluido el Periodo de Gracia a Capital, la Reserva de Servicio de Deuda estará constituida con el monto necesario para cubrir 6 (seis) meses de capital e intereses y se actualizará durante la vigencia del presente Contrato en función del Servicio de Deuda correspondiente de los 2 (dos) trimestres inmediatos siguientes.
+
+Una vez cumplidas las Condiciones de la Fase Estable del Hotel, el Acreditado podrá solicitar que la Reserva de Servicio se reduzca al monto necesario para cubrir los siguientes 3 (tres)
+
+meses de Servicio de Deuda.”
+
+127.En tanto, en la cláusula Décima Sexta, se estipularon las obligaciones del acreditado y al respecto, se pactó lo siguiente:
+
+“Décima Sexta. Obligaciones de Hacer del Acreditado. A partir de la fecha de la firma del presente Contrato, el Acreditado y el Obligado Solidario, según corresponda, se obligan a:
+
+(…)
+
+l) Reserva de Servicio de Deuda. Constituir y mantener la Reserva de Servicio de Deuda en términos de lo previsto por el presente Contrato y el Fideicomiso durante la vigencia del presente Contrato, en el entendido que dicha reserva se liberará simultáneamente con el pago total del Crédito, sus intereses, comisiones y cualesquiera cantidades pagaderas a los Acreditantes, al Proveedor de Cobertura y al Banco Agente bajo los documentos de crédito.”
+
+128.Con base en lo pactado en esas cláusulas, se considera fundado lo argumentado por la quejosa en el sentido de que se trata de una obligación esencial, en virtud que la Reserva de Servicio de Deuda se integra con recursos del propio crédito con la finalidad de cubrir seis meses de intereses y que en caso de que la acreditada incumpla con los pagos a que se comprometió, se aplicaría como pago a la acreditante ahora quejosa. Por tanto, mantener la reserva en los términos pactados garantiza que los acreditantes puedan recuperar parte de sus recursos en el caso de que la acreditada dejara de cumplir con su obligación de pago prevista como obligación principal.
+
+129.Tales circunstancias evidencian que, tal como lo sostiene la quejosa, la obligación de mantener la Reserva de Servicio de Deuda es esencial y al no haberse cumplido, configura la causa de vencimiento anticipado contemplada en el inciso b) de la Cláusula Décima Octava del contrato de apertura de crédito.
+
+130.Lo expuesto hasta este punto, permite concluir que, contrario a lo sostenido por la responsable, la acreditada hoy tercera interesada dejó de cumplir con obligaciones esenciales a su cargo pactadas en el contrato de apertura de crédito, las cuales por sí solas son suficientes para justificar el vencimiento anticipado de ese contrato y por ende, para tener por acreditada la acción hipotecaria ejercida por la actora hoy peticionaria de amparo.
+
+131.Ante lo fundado de los conceptos de violación expresados para demostrar que las obligaciones incumplidas por las demandadas son esenciales y, por ello, generaban por sí mismas el vencimiento anticipado del contrato de apertura de crédito simple, resulta innecesario analizar el segundo concepto de violación en el que se hace valer que no se analizaron la totalidad de los agravios que la ahora quejosa expresó en apelación.
+
+132.Lo anterior, porque en ese concepto de violación se hace valer medularmente que argumentó la existencia de otras causas de vencimiento anticipado del contrato y que la autoridad responsable dejó de pronunciarse sobre ellas.
+
+133.No obstante, al haberse establecido en esta ejecutoria que los incumplimientos en que incurrió la parte demandada hoy tercera interesada generaban por sí mismas el vencimiento anticipado del contrato, resulta innecesario ordenar a la responsable pronunciarse sobre los demás incumplimientos respecto de los cuales la quejosa expresó agravios en la apelación, ya que su pretensión colmada se encuentra colmada.
+
+134.Ahora, en cuanto al tercer concepto de violación, en el que se hacen valer argumentos relacionados con el derecho de la quejosa a ejercer una administración integral de riesgos se encuentran vinculados con las obligaciones de mantener la Reserva del Servicio de Deuda; la vigencia de la licencia de construcción; el pago del impuesto predial y otras más previstas en el contrato de apertura de crédito, se advierte también tienen como finalidad justificar la esencialidad de las obligaciones y que su incumplimiento genera el vencimiento del contrato.
+
+135.En esas condiciones, al haberse establecido que la demandada incurrió en causas suficientes en sí mismas para provocar el vencimiento anticipado, resulta innecesario analizar la relevancia de contemplar esas obligaciones en el contrato por ser mecanismos relevantes en la gestión integral de riesgos y su impacto en el sistema financiero. Es aplicable la tesis VI. 2o. J/170, que este tribunal comparte, de contenido siguiente:
+
+CONCEPTO DE VIOLACION FUNDADO. HACE INNECESARIO EL ESTUDIO DE LOS DEMAS. Cuando el amparo se va a conceder al considerarse fundado uno de los conceptos de violación, lo que va a traer como consecuencia que quede sin efecto la resolución que constituye el acto reclamado, es innecesario hacer el estudio de los demás conceptos de violación expresados por la quejosa y que tienden al fondo de la cuestión propuesta, porque los mismos serán objeto del estudio que realice la autoridad responsable al emitir el nuevo fallo en cumplimiento de la ejecutoria, ya que de hacerlo la potestad federal, se sustituiría a la responsable, siendo que dicho análisis corresponde a la misma al haber reasumido jurisdicción[19].
+
+136.Por otra parte, en el cuarto concepto de violación, la quejosa sostiene que fue indebido que la autoridad responsable la condenara en la reconvención al pago de USD ************* ****** ********* *********** *********** **** *********** ******** * ** ******* ****** ****** ** ***** ***** ** *** ******* ****** ** ********* 138.No obstante, al haberse determinado en párrafos anteriores que la tercera interesada sí dejó de cumplir con obligaciones esenciales que justifican el vencimiento anticipado, las condiciones de la condena en la reconvención han cambiado.
+
+Por lo que la responsable necesariamente tendrá que pronunciarse nuevamente sobre las acciones principales y reconvencionales. Lo que también hace innecesario el estudio de los conceptos de violación en ese sentido.
+
+139.En efecto, en esta ejecutoria quedó establecido que el contrato de apertura de crédito simple venció anticipadamente debido a los incumplimientos de obligaciones esenciales en que incurrió la acreditada. Por tanto, la razón por la cual se condenó a la parte actora a la restitución de la cantidad antes señalada deja de existir y, como consecuencia, debe emitirse un nuevo pronunciamiento a cargo de la autoridad responsable.
+
+140.Lo mismo ocurre con el quinto concepto de violación, donde la quejosa controvierte la declaración de nulidad de la Cláusula Vigésima Sexta del contrato de apertura de crédito, lo cual fue sustentado por la responsable bajo la consideración de que dicho pacto abarca el pago de gastos y costas judiciales, lo que la quejosa asegura es contrario a derecho, ya que en la cláusula en cuestión no se contempla tal concepto.
+
+141.Sobre ese tema, al ordenar dejar sin efecto la sentencia reclamada, la autoridad responsable deberá emitir una nueva sentencia, en la que debe fijar nuevamente los alcances de la cláusula Vigésima Sexta, la cual es del tenor literal siguiente:
+
+“Vigésima Sexta. Costos. Gastos. El acreditado y/o el obligado solidario pagarán cualquier gasto, derechos y honorarios, debidamente documentados y de mercado, de notarios públicos, asesores independientes (incluyendo al Ingeniero Independiente y el Asesor de Seguros) o legales, incurridos con motivo de la negociación, preparación y celebración de este contrato, o cualquier otro contrato o documento que se celebre conforme o en relación con el presente Contrato. Adicionalmente, el Acreditado y/o el Obligado solidario pagarán, en su caso, al Banco Agente y a los Acreditantes, en cuanto le sea solicitado por éste, cualquier gasto y honorarios, debidamente documentales, de asesores independientes o legales en que incurra por cualquier modificación al presente Contrato o cualquier otro contrato o documento que se celebre conforme al presente, así como cualquier costo o gasto, si los hubiere, en relación con la administración del Crédito y las Disposiciones, el cumplimiento o la ejecución del presente Contrato o cualquiera de los Documentos del Crédito.”.
+
+142.Es decir, al determinar las condiciones del vencimiento anticipado, la autoridad debe analizar nuevamente la acción reconvencional a partir de nuevos elementos, por lo que decidirá conforme a derecho lo relativo a dicha prestación.
+
+143. Agotado el estudio del amparo principal, a continuación se analiza el amparo adhesivo.
+
+Estudio del amparo adhesivo
+
+144.La quejosa en el amparo adhesivo argumenta que la autoridad responsable procedió correctamente al absolverla de las prestaciones reclamadas en la acción principal, porque la parte actora en el principal pretendió dar por terminado anticipadamente el contrato de crédito sin contar con la mayoría requerida en términos de lo establecido en la cláusula Décimo Octava. Que no exhibió documental alguna en la que conste la decisión que en ese sentido hubiere adoptado la citada mayoría y afirma que no es válido tener por satisfecho ese requisito con la presentación de la demanda en el juicio natural. 145.Tales argumentos son inoperantes.
+
+146.Lo anterior porque la quejosa adherente hizo valer como excepción que la actora en el principal no demostró con documental alguna que el vencimiento anticipado del contrato de apertura de crédito haya sido determinado por la mayoría requerida a que se refiere la cláusula Décimo Octava del referido acuerdo de voluntades, en los términos que se transcriben a continuación en las partes sustanciales:
+
+“EXCEPCION DE FALTA DE ACCION Y DERECHO PARA DEMANDAR LAS PRESTACIONES RECLAMADAS EN EL ESCRITO INICIAL DE DEMANDA, DERIVADO DE LO DISPUESTO POR EL ARTÍCULO 281 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL, EN VIRTUD DE QUE LOS DEMANDANTES NO ACREDITARON LOS ELEMENTOS CONSTITUTIVOS DE SU ACCIÓN.
+
+(…)
+
+“Al respecto, en la cláusula DÉCIMO OCTAVA del Contrato de Crédito, las partes acordaron que en el caso de que ocurriere y continuara cualquiera de los supuestos ahí previstos y catalogados como “Causas de Vencimiento Anticipado”, el Banco Agente podría, entre otras cuestiones, dar por vencido de forma anticipada el plazo para el pago del saldo insoluto del crédito, siempre y cuando así se lo instruyera la Mayoría Requerida, es decir, con el voto de la simple mayoría equivalente al 66% (sesenta y seis por ciento) del saldo insoluto del crédito.
+
+(…)
+
+En ese sentido, como su Señoría podrá apreciar de la literalidad de la misiva de fecha 21 de diciembre de 2022 antes mencionada, así como de todos y cada uno de los medios de prueba ofrecidos por la parte actora, NO SE DESPRENDE NINGUNA ACTA EN LA QUE CONSTE LA RESOLUCIÓN QUE, EN SU CASO, HUBIEREN ADOPTADO LOS ACREDITANTES CONFORME A LA MAYORÍA REQUERIDA.
+
+En virtud de lo anterior, es que la “Notificación de Aviso de Vencimiento Anticipado” de fecha 21 de diciembre de 2022, resulta a todas luces ilegal, al no haberse cumplido con los requisitos esenciales para haber dado por vencido en forma anticipada el plazo para el pago del saldo insoluto del crédito y, por consiguiente, al ser ineficaz la aludida comunicación, el Contrato de Crédito sigue vigente y surtiendo sus efectos, sin que sean exigibles las obligaciones reclamadas de mi poderdante en el presente juicio.”.
+
+147.Más adelante, al plantear la reconvención, demandó la declaración judicial que por sentencia definitiva determinara la nulidad de la rescisión y/o terminación anticipada ejercida por el Banco Agente en representación de las acreditadas; prestación que apoyó en las mismas razones expresadas al oponer la excepción transcrita en los párrafos anteriores. Así se advierte de la transcripción siguiente:
+
+“I. La declaración judicial que por sentencia definitiva determine la nulidad de la rescisión y/o terminación anticipada que pretendió ejercer BBVA, en su calidad de Banco Agente y en representación de Bancomext y Sabadell, respecto del Contrato de Crédito de fecha 15 de septiembre de 2020, sus Convenios Modificatorios y demás Documentos de Crédito –término definido en el contrato de crédito base de la acción-, por no haber instruido la Mayoría Requerida - término definido en el contrato de crédito base de la acción- al Banco Agente dar por vencido de forma anticipada el plazo para el pago del saldo insoluto del crédito.”.
+
+148.En la sentencia de primera instancia no se hizo pronunciamiento alguno sobre la excepción, pero se analizó el argumento toral de la misma, al estudiar la reconvención planteada por la ahora quejosa adherente sobre la primera prestación basada en esos mismos argumentos; en los términos siguientes:
+
+“V. Ahora bien, entrando al estudio de la reconvención planteada por la demandada en el principal y actora reconvencionista PROMOTORA ATARDECERES DEL PACIFICO, S. DE R.L. DE C.V., dígasele que por cuanto hace a la prestación marcada con el numeral I de la reconvención consistente en la declaración judicial que por sentencia definitiva determine la nulidad de la rescisión y/o terminación anticipada que pretendió ejercer BBVA en su calidad de Banco Agente y en representación de Bancomext y Sabadell, respecto del contrato de Crédito de fecha 15 de septiembre del 2020, sus Convenios Modificatorios y demás Documentos de Crédito – término definido en el contrato de crédito base de la acción – por no haber instruido la Mayoría Requerida –término definido en el contrato de crédito base de la acción- al Banco Agente dar por vencido de forma anticipada el plazo para el pago del saldo insoluto del crédito, basándose en que no se desprende ninguna acta en la que conste la resolución que, en su caso, hubieren adoptado los acreditantes conforme a la mayoría requerida deberá declararse IMPROCEDENTE, dado que tal y como se desprende de la cláusula Décima Octava del Contrato de Apertura de Crédito Simple, no fue voluntad de las partes acordar que la Mayoría Requerida tuviere que constar en escritura pública, asamblea o cualesquier documento de carácter público, misma que se transcribe a continuación:
+
+“(…) Décima Octava. Causas de Vencimiento Anticipado. Sujeto a lo dispuesto en el presente Contrato, en el caso de que ocurra y continúe cualquiera de los siguientes supuestos (cada uno de dichos supuestos, una “Causa de Vencimiento Anticipado”) el Banco Agente podrá, si así se lo instruye la Mayoría Requerida, (i)
+
+cancelar o suspender las disposiciones bajo el presente y/o ii) dar por vencido de forma anticipada el plazo para el pago del saldo insoluto del Crédito, junto con sus intereses y accesorios (obligándose el Acreditado y/o el obligado solidario, en tal caso al pago del saldo total insoluto del Crédito, junto con sus intereses y accesorios, mediante aviso por escrito entregado al Acreditado, la cual no requerirá de demanda o diligencia judicial alguna, a las cuales el Acreditado renuncia expresamente.”
+
+149.Como se ve, en la sentencia de primera instancia se desestimó el argumento de la quejosa adherente vertida en el sentido de que para que el Banco Agente diera por vencido anticipadamente el contrato requería la instrucción de la mayoría simple, con la consideración de que en el contrato base de la acción no se pactó que la instrucción de la Mayoría Requerida tuviera que constar en escritura pública, asamblea o cualquier otro documento de carácter público.
+
+150.Esa consideración no fue combatida por la ahora quejosa adherente en el recurso de apelación principal que interpuso contra la sentencia de primera instancia, como se advierte de la lectura del escrito correspondiente que aparece de las fojas 31 a 40 del tomo I del toca de apelación, y la autoridad responsable la desestimó precisamente con esa consideración, porque la hizo valer en su recurso de apelación adhesiva, como se observa en el escrito que aparece en las fojas 114 a 120 del tomo II del toca de apelación.
+
+151.En efecto, la autoridad responsable declaró inoperantes los agravios relacionados con la Mayoría Requerida, considerando que de su lectura se advierte que no pretende fortalecer los razonamientos de la sentencia definitiva, sino modificar lo resuelto por el juez de primera instancia.
+
+152.En ese sentido, estableció que en esos agravios la demandada apelante adherente manifestó que nunca refirió que la mayoría calificada debía acreditarse con escritura pública para dar por vencido anticipadamente el contrato de apertura de crédito simple. Argumento que la Sala consideró, implicaría resolver una cuestión distinta a la decidida en la sentencia de primera instancia, en la cual se declaró la improcedencia de la acción de nulidad de la rescisión y/o terminación anticipada que pretendió ejercer el banco agente.
+
+153.Conforme a lo anterior, la responsable consideró que, para analizar ese argumento, la demandada en el principal, actora en la reconvención, debió interponer el recurso de apelación contra la sentencia definitiva en términos del artículo 688 del Código de Procedimientos Civiles para la Ciudad de México.
+
+154.Esas consideraciones de la quejosa no fueron impugnadas en el juicio de amparo directo que la quejosa adherente pudo promover en su contra, ya que versan sobre el fondo de la cuestión planteada en el juicio natural y su análisis hubiera podido incidir en la resolución de la controversia. Sin embargo, al haberlo hecho valer en apelación adhesiva, son inoperantes, ya que el objeto del amparo adhesivo únicamente es reforzar las consideraciones de la sentencia reclamada, porque así lo dispone el artículo 182 de la Ley de Amparo, siendo que en este caso, la adherente pretende introducir un elemento de una excepción opuesta a la acción principal.
+
+155. Ante la inoperancia de los argumentos planteados, procede negar la protección constitucional solicitada en el amparo adhesivo.
+
+V. DECISIÓN Y EFECTOS
+
+156.Por las razones anotadas, este Tribunal Colegiado considera que lo procedente es conceder la protección constitucional a las quejosas principales, para el efecto de que la autoridad responsable:
+
+a) Deje insubsistente la resolución reclamada;
+
+b) En su lugar emita otra en la que, siguiendo los lineamientos establecidos en esa ejecutoria, determine que las causas de incumplimiento en que incurrió la demanda y que fueron precisadas en esa ejecutoria, son esenciales porque se encuentran relacionadas directamente con el destino del crédito.
+
+c) Asimismo, determine que el incumplimiento de cualquiera de esas obligaciones da lugar al vencimiento anticipado del contrato y resuelva la litis conforme a derecho proceda.
+
+157.Con fundamento en el artículo 192 de la Ley de Amparo[20], se concede a la autoridad responsable el plazo de diez días hábiles para que dicte la nueva sentencia, tomando en cuenta las cargas de trabajo y la complejidad del asunto. Dicho plazo correrá a partir del día siguiente al en que quede legalmente notificada de esta ejecutoria.
+
+Por lo expuesto y fundado, se
+
+RESUELVE:
+
+PRIMERO. La justicia de la unión ampara y protege a **** ******* ******** ******** *********** ** ***** ********* ***** ********** ***** ******** ** **** ******* ******** ********* ******** ******** ** ******** *********** ** ***** ** ********** * *********** ******** ******* ** ******* ********* ******** ********** ******* ********* en contra de la sentencia definitiva de ** ****** ********* veinticuatro de septiembre de dos mil veinticuatro, dictada por la Primera Sala Civil del Tribunal Superior de Justicia de la Ciudad de México, en los autos de los tocas de apelación ********** y ********** , para los efectos precisados en el último apartado de esta resolución.
+
+SEGUNDO. La justicia de la unión no ampara ni protege a la quejosa adhesiva ********* *********** *** ********* ******** ** *************** ******** ** ******* ********* en contra de la sentencia definitiva de veinticuatro de septiembre de dos mil veinticuatro, dictada por la Primera Sala Civil del Tribunal Superior de Justicia de la Ciudad de México, en los autos de los tocas de apelación ********** y **********.
+
+Notifíquese con testimonio de esta resolución, y de ser el caso, vuelvan los autos a su lugar de origen, en su oportunidad archívese como asunto concluido, previas las anotaciones pertinentes en el libro de gobierno correspondiente.
+
+Así, por unanimidad de votos de la Magistrada Ma. Luz Silva Santillán, como Presidenta, el Magistrado Juan Jaime González Varas y el Secretario en funciones de Magistrado Jesús Julio Hinojosa Cerón, lo resolvió el Pleno del Décimo Tribunal Colegiado en Materia Civil del Primer Circuito, siendo ponente el segundo de los nombrados, en sesión ordinaria virtual celebrada el tres de diciembre de dos mil veinticinco, ante el Secretario de Tribunal Ricardo Martínez Herrera, que autoriza y da fe.
+
+El presente asunto se firma el doce de diciembre de dos mil veinticinco en términos del artículo 188 de la Ley de Amparo, por la Magistrada Ma. Luz Silva Santillán, como Presidenta, el Magistrado Juan Jaime González Varas y el Secretario en funciones de Magistrado Jesús Julio Hinojosa Cerón, conforme al Acuerdo General AG-POAJ-008/2025, denominado Acuerdo General del Pleno del Órgano de Administración Judicial por el que se adscribieron a las personas Electas en el Proceso Electoral Extraordinario a diversos cargos del Poder Judicial de la Federación 2024-2025 y se Comisionan, Reubican y Readscriben, a personas funcionarias de los Órganos Jurisdiccionales, se designan, y en su caso, prorrogan a personas Secretarias en Funciones de Personas Juzgadoras aprobado en sesión de doce de septiembre de dos mil veinticinco y sus anexos correspondientes, dentro del término que señala el artículo 184, segundo párrafo de la mencionada Ley de Amparo, de manera electrónica con fundamento en el artículo 3 de la misma ley, y los numerales 3, fracciones I y III, 26 Ter, del Acuerdo General 12/2020 del entonces Pleno del Consejo de la Judicatura Federal, que reglamenta la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del entonces Consejo; considerando Décimo, párrafo tercero, así como de los arábigos 52 Octies, 252 y 263, del Acuerdo General del extinto Pleno del Consejo de la Judicatura Federal, que abroga los acuerdos de contingencia por COVID-19 y reforma, adiciona y deroga diversas disposiciones relativas a la utilización de medios electrónicos y soluciones digitales como ejes rectores del nuevo esquema de trabajo en las áreas administrativas y órganos jurisdiccionales del entonces Consejo, publicado en el Diario Oficial de la Federación el veintiocho de octubre de dos mil veintidós, y que entró en vigor el día siete de noviembre del mismo año, ante la Secretaria que da fe, como se advierte de la evidencia criptográfica que se anexa a continuación, misma que equivale a la firma autógrafa.
+
+MAGISTRADA PRESIDENTA
+
+(Firma electrónica)
+
+MA. LUZ SILVA SANTILLÁN MAGISTRADO PONENTE
+
+(Firma electrónica)
+
+JUAN JAIME GONZÁLEZ VARAS
+
+SECRETARIO EN FUNCIONES DE MAGISTRADO
+
+(Firma electrónica)
+
+JESÚS JULIO HINOJOSA CERÓN
+
+SECRETARIO DE TRIBUNAL
+
+(Firma electrónica)
+
+RICARDO MARTÍNEZ HERRERA.
+
+En términos de lo previsto en el artículo 115 de la Ley General de
+
+Transparencia y Acceso a la Información Pública, en esta versión
+
+pública se suprime la información considerada legalmente como
+
+reservada o confidencial que encuadra en esos supuestos normativos.
+
+Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+[FIRMA ELECTRÓNICA] Firmantes: RICARDO MARTINEZ HERRERA; JUAN JAIME GONZALEZ VARAS; MA. LUZ SILVA SANTILLÁN; Jesús Julio Hinojosa Cerón
+
+Cadena firma: El doce de diciembre de dos mil veinticinco, el licenciado Ricardo Martínez Herrera , Secretario(a), con adscripción en el Décimo Tribunal Colegiado en Materia Civil del Primer Circuito, hago constar y certifico que en esta versión pública no existe información clasificada como confidencial o reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública. Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+RICARDO MARTINEZ HERRERA 706a6620636a663300000000000000000000439d 18/08/26 11:49:38 PJF - Versión Pública
+[1] Artículo 470.-Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor y, en su caso, al titular registral del embargo o gravamen por plazo inferior a que se refiere la fracción III, del artículo anterior, para que dentro del término de quince días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que: […] La reconvención sólo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
+[2] Artículo 1796. Los contratos se perfeccionan por el mero consentimiento, excepto aquellos que deben revestir una forma establecida por la Ley. Desde que se perfeccionan obligan a los contratantes no sólo al cumplimiento de lo expresamente pactado, sino también a las consecuencias que, según su naturaleza son conforme a la buena fe, al uso o a la ley, con excepción de aquellos contratos que se encuentren en el supuesto señalado en el párrafo siguiente. Salvo aquellos contratos que aparezcan celebrados con carácter aleatorio, cuando en los contratos sujetos a plazo, condición o de tracto sucesivo, surjan en el intervalo acontecimientos extraordinarios de carácter nacional que no fuesen posibles de prever y que generen que las obligaciones de una de las partes sean más onerosas, dicha parte podrá intentar la acción tendiente a recuperar el equilibrio entre las obligaciones conforme al procedimiento señalado en el siguiente artículo. I. Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, dictadas por tribunales judiciales, administrativos, agrarios o del trabajo, ya sea que la violación se cometa en ellos, o que cometida durante el procedimiento, afecte las defensas de la persona quejosa trascendiendo al resultado del fallo. Se entenderá por sentencias definitivas o laudos, los que decidan el juicio en lo principal; por resoluciones que pongan fin al juicio, las que sin decidirlo en lo principal lo den por concluido. En materia penal, las sentencias condenatorias, absolutorias y de sobreseimiento, podrán ser impugnadas por la víctima u persona ofendida del delito. […]
+[5] Artículo 35. Con las salvedades a que se refiere el artículo 16 de esta Ley, son competentes los Tribunales Colegiados de Circuito para conocer: I. De los juicios de amparo directo contra sentencias definitivas, laudos o contra resoluciones que pongan fin al juicio por violaciones cometidas en ellas o durante la secuela del procedimiento, cuando se trate: […] c) En materia civil o mercantil, de sentencias o resoluciones respecto de las que no proceda el recurso de apelación, de acuerdo con las leyes que las rigen, o de sentencias o resoluciones dictadas en apelación en juicios del orden común o federal, y Artículo 210. Para los efectos de esta Ley, el territorio de la República se dividirá en el número de circuitos y regiones que mediante acuerdos generales determine el Órgano de Administración Judicial. En cada uno de los circuitos el Órgano de Administración Judicial establecerá mediante acuerdos generales, el número de Tribunales Colegiados de Circuito, Colegiados de Apelación y de Juzgados de Distrito, así como su especialización y límites territoriales. En cada región funcionará un pleno regional con jurisdicción sobre los circuitos que le correspondan. Artículo 211. Cada uno de los circuitos a que se refiere el artículo anterior comprenderá los distritos judiciales cuyo número y límites territoriales determine el Órgano de Administración Judicial mediante acuerdos generales.
+[6] PRIMERO. El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente: I.PRIMER CIRCUITO: Ciudad de México.
+[7] Ver tesis 1a./J. 25/2017 (10a.), de rubro y texto: “JUICIO ORAL MERCANTIL. EL CÓMPUTO DEL PLAZO PARA PROMOVER AMPARO DIRECTO CONTRA LA SENTENCIA DEFINITIVA DICTADA EN LA AUDIENCIA, INICIA EL DÍA SIGUIENTE AL EN QUE SURTA EFECTOS LA NOTIFICACIÓN A LAS PARTES. De la interpretación armónica, sistemática y funcional de los artículos 17, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos; 18 de la Ley de Amparo y 1390 bis-8, 1390 bis-10,
+1390 bis-39, 1390 bis-22 y 1075 del Código de Comercio, se advierte que la notificación de la sentencia definitiva dictada en la audiencia del juicio oral se tiene por realizada en ese mismo acto y surte efectos al día siguiente, por lo que el tribunal de amparo debe tomar como inicio del plazo para promover el juicio constitucional iniciado en contra de ese fallo, el día siguiente al en que surta efectos la notificación tenida por hecha en la audiencia […]”. Tesis publicada en la Gaceta del Semanario Judicial de la Federación, Libro 43, Junio de 2017, Tomo I, página 544, Registro digital: 2014496.
+[8] Ley de Amparo. Artículo 19. Son días hábiles para la promoción, substanciación y resolución de los juicios de amparo todos los del año, con excepción de los sábados y domingos, uno de enero, cinco de febrero, veintiuno de marzo, uno y cinco de mayo, catorce y dieciséis de septiembre, doce de octubre, veinte de noviembre y veinticinco de diciembre, así como aquellos en que se suspendan las labores en el órgano jurisdiccional ante el cual se tramite el juicio de amparo, o cuando no pueda funcionar por causa de fuerza mayor. LOPJF Artículo 229. En los órganos del Poder Judicial de la Federación, se considerarán como días inhábiles los sábados y domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 14 y 16 de septiembre y 20 de noviembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la ley. LFT Artículo 74. Son días de descanso obligatorio: […] III. El tercer lunes de marzo en conmemoración del 21 de marzo;
+[9] Publicada en el Semanario Judicial de la Federación y su Gaceta. Tomo XXI, Febrero de 2005, página 5. Registro digital 179367.
+[10] Artículo 17. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. […] Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales
+[11] Ley de Amparo. Artículo 76. El órgano jurisdiccional, deberá corregir los errores u omisiones que advierta en la cita de los preceptos constitucionales y legales que se estimen violados, y podrá examinar en su conjunto los conceptos de violación y los agravios, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, sin cambiar los hechos expuestos en la demanda.
+[12] Artículo 1836. El contrato es bilateral cuando las partes se obligan recíprocamente.
+[13] Así lo consideró la entonces Primera Sala en la Contradicción de tesis 419/20214, de donde emanó la jurisprudencia 1a./J. 75/2015 (10a.), de rubro: CONTRATO DE APERTURA DE CRÉDITO. A LA ACCIÓN DE VENCIMIENTO ANTICIPADO Y PAGO NO ES OPONIBLE LA EXCEPCIÓN DE CONTRATO NO CUMPLIDO POR LA FALTA DE CONTRATACIÓN DE SEGUROS, A MENOS QUE SE EXPONGA Y DEMUESTRE QUE LA CAUSA DE LA ACCIÓN DERIVA DE ALGUNO DE LOS SINIESTROS. Resuelta el 28 de octubre de 2015. La votación se dividió en dos partes: mayoría de cuatro votos por la competencia. Disidente: José Ramón Cossío Díaz. Unanimidad de cinco votos de los Ministros Arturo Zaldívar Lelo de Larrea, José Ramón Cossío Díaz, Jorge Mario Pardo Rebolledo, Olga Sánchez Cordero de García Villegas y Alfredo Gutiérrez Ortiz Mena, en cuanto al fondo. Ponente: José Ramón Cossío Díaz
+[14] Publicada en el Semanario Judicial de la Federación y su Gaceta. Tomo VI, Agosto de 1997, página 813, registro digital: 198165.
+[15] Es aplicable, por analogía, la tesis 1a. X/2000, de rubro: “SENTENCIAS DE AMPARO, PRINCIPIOS DE CONGRUENCIA Y EXHAUSTIVIDAD EN LAS”. Publicada en el Semanario Judicial de la Federación y su Gaceta, Tomo XII, Agosto de 2000, página 191. Registro digital: 191458.
+[16] Publicada en el Semanario Judicial de la Federación y su Gaceta, Tomo XXII, Diciembre de 2005, página 162, registro digital: 176546.
+[17] Publicada en el Semanario Judicial de la Federación y su Gaceta, tomo XII, agosto de 2000, página 143, registro digital: 191358.
+[18] Publicada en la Gaceta del Semanario Judicial de la Federación. Libro 24, Noviembre de 2015, Tomo I , página 675, registro digital 2010470.
+[20] Artículo 192 Las ejecutorias de amparo deben ser puntualmente cumplidas Al efecto
+PJF - Versión Pública

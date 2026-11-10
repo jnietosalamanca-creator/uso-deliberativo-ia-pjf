@@ -1,0 +1,752 @@
+UNIDAD: 37062926
+SENTENCIA: 37062926
+ÓRGANO: Segundo Tribunal Colegiado en Materia Administrativa del Segundo Circuito
+FECHA: 2026-04-09
+TIPO DE ASUNTO: Amparo Directo
+AVISO: (ninguno)
+
+=== PÁRRAFOS QUE MENCIONAN LA IA, UNA HERRAMIENTA O UN PROMPT (para orientarte) ===
+
+136. En ese sentido, con independencia de que la resolución haya sido dictada por un ser humano, mediante un sistema de inteligencia artificial o por un servidor público que ha sido apoyado con alguna herramienta o sistema tecnológico, “para el ciudadano de a pie lo esencial es que pueda conocer, en lenguaje natural, las razones fácticas y jurídicas que motivan la resolución[23]”.
+
+140. Desde luego, una cuestión importante atañe a la fiabilidad misma de la herramienta tecnológica que pretenda utilizarse para sustentar una decisión administrativa. En el caso concreto, se estima que, para los efectos de la medición de distancia entre un inmueble y otro, Google Maps cuenta con un grado de fiabilidad suficiente y adecuado. 141. Dicho aserto se deriva de la consulta que este Tribunal Federal hace a tres modelos de inteligencia artificial, a saber: Gemini, Grok y Chat GPT. En efecto, ante el avance de las nuevas tecnologías y las tendencias emergentes de justicia digital, la inteligencia artificial es una herramienta innovadora que puede incorporarse a los procesos para facilitar el razonamiento numérico dentro de labores jurisdiccionales.
+
+143. Es preciso resaltar que la utilización de la inteligencia artificial no resulta aplicable en todos los casos, sino que ese Tribunal Federal, de manera prudente procede a su uso a partir de que permite la comprobación de elementos que son verificables a través de los modelos que han quedado indicados y solo para reforzar y motivar la determinación adoptada en el presente juicio.
+
+144. Sirve de sustento a lo anterior, la tesis II.2o.C.8 K (11a.), que este Tribunal Federal comparte, de rubro: “INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. CONSTITUYE UNA HERRAMIENTA VÁLIDA PARA CALCULAR EL MONTO DE LAS GARANTÍAS QUE SE FIJEN EN LOS JUICIOS DE AMPARO”.
+
+145. Una vez precisado lo anterior, respecto a la fiabilidad de Google Maps como herramienta de geolocalización para medir distancias entre inmuebles, este Tribunal obtuvo el siguiente análisis usando el mismo “prompt” o pregunta a tres sistemas de inteligencia artificial, tal y como se desprende del siguiente cuadro comparativo: 2. Factores que afectan la fiabilidad
+
+[FIRMA ELECTRÓNICA] ANDRÉS DONALDO ROJAS MARTÍNEZ ANDRES DONALDO ROJAS MARTINEZ 706a6620636a6633000000000000000000013073 16/04/27 09:29:43 PJF - Versión Pública REALIZADO EN EL PROYECTO, HA SIDO PUBLICADO EN LA PÁGINA WWW.CJF.GOB.MX, EN EL APARTADO DE 'LISTAS DE SESIÓN', HABILITADO POR EL CONSEJO DE LA JUDICATURA FEDERAL, QUE EL MISMO ABRE CORRECTAMENTE Y QUE QUEDA A DISPOSICIÓN DE LAS PARTES INTERESADAS EN DICHOS ASUNTOS PARA SU CONSULTA. LO ANTERIOR PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR. DOY FE. SECRETARIO DE ACUERDOS [FIRMA ELECTRÓNICA] ANDRÉS DONALDO ROJAS MARTÍNEZ OCTUBRE 2024 D L M M J V S 1 2 3 4 5 8 11 6 7 9 10 12 a) b) 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 [1] Gaceta del Semanario Judicial de la Federación, Libro 36, Noviembre de 2016, Tomo II, página 902. [2] https://www.who.int/es/news-room/fact-sheets/detail/gambling [3] Gaceta del Semanario Judicial de la Federación. Libro 36, Noviembre de 2016, Tomo II, página 911 [4] Semanario Judicial de la Federación y su Gaceta, Tomo XXXIV, Agosto de 2011, [5] Pleno. Semanario Judicial de la Federación, Volumen CIII, Primera Parte, página 28. [6] Segunda Sala. Semanario Judicial de la Federación. Volumen XIII, Tercera Parte, [7] Ibídem. Párrafo 6. [8] Ídem. [9] ONU. Consejo de Derechos Humanos. Informe del Relator Especial sobre el derecho a la educación, Vernor Muñoz, relativo a su Misión a México. 2 de junio de 2010, párrafo 103. [10] ONU. Comité sobre los Derechos de las Personas con Discapacidad. Observación general núm. 4 (2016) sobre el derecho a la educación inclusiva. 25 de noviembre de 2016, párrafo 15. [11] Brown v. Board of Education, 347 U.S. 483, 74 S.Ct.686, 98 L.Ed.873 (1954), citado en Education Law, Education Series, capítulo 4, 'Students Rights', Law Journal Press, Nueva York, 2002. [12] Wisconsin v. Yoder, 406 U.S.205, 92 S. Ct. 1526, 32 L.Ed.2d 15 (1972), citado en Education Law, Education Series, op. cit. [13] Gaceta del Semanario Judicial de la Federación, Libro 36, Noviembre de 2016, Tomo II, página 894. [14] ARTÍCULO 50. Las sentencias del Tribunal se fundarán en derecho y resolverán sobre la pretensión del actor que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios. Cuando se hagan valer diversas causales de ilegalidad, la sentencia de la Sala deberá examinar primero aquéllos que puedan llevar a declarar la nulidad lisa y llana. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las leyes, o por vicios de procedimiento, la misma deberá señalar en que forma afectaron las defensas del particular y trascendieron al sentido de la resolución. Las Salas podrán corregir los errores que adviertan en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación. Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda. En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada. [15] ARTÍCULO 41. El Magistrado Instructor, hasta antes de que se cierre la instrucción, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecida por las partes. El magistrado ponente podrá proponer al Pleno o a la Sección, se reabra la instrucción para los efectos señalados anteriormente. [16] Daly, Paul and Raso, Jennifer and Tomlinson, Joe, Administrative Law in the Digital World (January 13, 2022). Forthcoming in Carol Harlow ed., Research Handbook on Administrative Law (Edward Elgar, Aldershot, 2021) p.19. [17] Ídem. [18] Ibidem. p7. [19] Ibidem. p.9 [20] Velasco Caballero, Francisco. Administraciones públicas y derechos administrativos. Marcial Pons. Madrid. 2020. Página 187. [21] Tahirí Moreno, J. A. (2025). La actuación administrativa algorítmica: Una propuesta doctrinal desde la dogmática de la acción administrativa y la teoría general de los actos. Revista De Derecho Público: Teoría Y método, 12, página. 98. [22] Ídem. [23] Ibidem. página 104. [24] Ídem. [25] Ídem. Gemini Razona y explica La fiabilidad de Google Maps para medir distancias en metros qué tan fiable es es, en términos generales, muy alta para usos cotidianos y Google Maps para estimaciones profesionales preliminares, pero tiene la determinación de limitaciones críticas si lo que buscas es precisión legal o de la distancia en ingeniería civil. metros entre un inmueble y otro. Para entender qué tan fiable es, debemos distinguir entre la precisión del mapa (cartografía) y la precisión de la herramienta de medición. 1. El margen de error técnico Google Maps utiliza una proyección de Mercator modificada. Aunque es excelente para la navegación, la escala puede variar ligeramente dependiendo de la latitud. • Precisión horizontal: En condiciones óptimas, el error suele ser de 1 a 5 metros. • Fuentes de datos: Google utiliza una combinación de imágenes de satélite, fotogrametría aérea y datos de GPS. Las imágenes aéreas (tomadas desde aviones) son mucho más precisas que las de satélite, ya que sufren menos distorsión atmosférica. No (0%) levantamiento topográfico propiedad legal. El veredicto Si necesitas saber si un inmueble está a 50 o 60 metros de otro para un fin informativo, Google Maps es excelente y suficiente. Sin embargo, si la distancia es para un trámite legal, una escritura pública o una construcción donde cada centímetro cuenta, Google Maps no es fiable. Los errores de resolución de píxel y la falta de puntos de control terrestres pueden darte una cifra que un juez o un arquitecto rechazarían. Nota técnica: Para obtener la máxima precisión posible dentro de las herramientas de Google, es mejor usar Google Earth Pro (versión de escritorio), que permite visualizar fechas de imágenes más recientes y herramientas de relieve más avanzadas. Chat GPT La fiabilidad de Google Maps para medir la distancia en metros entre dos inmuebles es generalmente alta, pero no perfecta. Depende de varios factores técnicos y del tipo de medición que estés haciendo. Qué tan preciso es realmente • Para distancias cortas (decenas o pocos cientos de metros), el error suele ser de ±1 a ±5 metros en humano de varios metros. • Zoom alto mejora mucho la precisión. En términos prácticos • Para usos cotidianos o administrativos básicos (por ejemplo, estimar si algo está a 50 m o 100 m): ✅ muy fiable • Para usos técnicos o legales (catastro, deslindes, peritajes): ⚠￿ no suficiente por sí sola • Para decisiones críticas (construcción, límites de propiedad): ❌ se requiere medición topográfica profesional Comparación rápida Uso Fiabilidad de Google Maps Orientación general Muy alta Estimaciones urbanas Alta Ingeniería / topografía Baja Procesos legales Limitada Conclusión Google Maps es una herramienta muy útil y bastante precisa a nivel práctico, pero no está diseñada como instrumento de medición certificada. Puedes confiar en ella para estimaciones razonables, pero no para definir límites exactos entre inmuebles donde unos pocos metros importan legalmente. Grok Google Maps es **bastante fiable** para medir distancias en - El error suele ser de **unos pocos metros** (1-5 metros en promedio en zonas urbanas bien mapeadas). - En pruebas reales (comparadas con cinta métrica, láser o mediciones topográficas conocidas), a menudo coincide con diferencia de menos de 0,2-1% o incluso centímetros en distancias de 50-100 metros. - Ejemplo: En un vídeo de prueba de ~75 metros (248 pies), Google Maps dio prácticamente el mismo valor que un láser (diferencia insignificante, atribuible a la cinta). Para distancias medias o largas: - El error relativo aumenta ligeramente (puede llegar a 0,44% en líneas rectas según estudios en Google Earth, que usa tecnología similar). - Fuentes de error acumulativo: curvatura de la Tierra, alineación de imágenes, relieve. En general: - En ciudades con buena cobertura (EE.UU., Europa, grandes ciudades de Latinoamérica), la precisión horizontal de las imágenes es de **1-2 metros** o mejor. - En zonas rurales o con imágenes antiguas, puede subir a 5- 15 metros de error. Google mismo indica que las mediciones **no son 100% exactas**, especialmente en terreno 3D o edificios altos (recomienda vista top-down). 3. Factores que afectan la fiabilidad - Resolución de las imágenes: En áreas urbanas densas suele - Menos fiable (usa con precaución): - Mediciones precisas para contratos, lindes legales o construcción (mejor usar topógrafo o herramientas certificadas). - Distancias muy largas (> cientos de km), donde el error porcentual crece. - Zonas con relieve pronunciado o imágenes desactualizadas. Conclusión: ¿Qué tan fiable es? Para la distancia en metros entre dos inmuebles en un contexto urbano normal, Google Maps es altamente fiable (precisión de unos pocos metros, suficiente para el 95% de los usos no profesionales). El error típico es bajo y muchas veces imperceptible. Estudios y pruebas de usuarios confirman que para líneas cortas es "spot-on" o con error <1%. Si necesitas más exactitud (por ejemplo, para un trámite legal o obra), complementa con: - Un láser de mano o app de medición con AR. - Visita in situ con GPS de alta precisión. - Herramientas profesionales como Google Earth Pro con mediciones calibradas, o software GIS. En resumen: Excelente para uso práctico diario, pero no infalible. Siempre verifica visualmente en vista satélite y, si dudas, mide manualmente los puntos clave. ANDRÉS DONALDO ROJAS MARTÍNEZ. PJF - Versión Pública
+
+=== TEXTO COMPLETO DE LA SENTENCIA ===
+
+RAZÓN. El presente asunto se incluyó en la lista de treinta de marzo de dos mil veintiséis, para discutirse en la sesión ordinaria virtual de nueve de abril del mismo año. CONSTE.
+
+SECRETARIO DE ACUERDOS Licenciado ANDRÉS DONALDO ROJAS MARTÍNEZ, Secretario del Segundo
+
+Tribunal Colegiado en Materia Administrativa del Segundo Circuito, ------------------
+
+----------------------------------------- C E R T I F I C A: -------------------------------------
+
+que en cumplimiento a lo dispuesto en el punto primero y segundo del Acuerdo
+
+General 7/2016, de cuatro de julio de dos mil dieciséis del Tribunal Pleno de la
+
+Suprema Corte de Justicia de la Nación, por el que se reglamenta la publicidad
+
+de los proyectos de sentencia tratándose de resoluciones sobre la
+
+constitucionalidad de una norma general y amparos colectivos, publicado en el
+
+Diario Oficial de la Federación el cinco de julio de dos mil dieciséis, así como los
+
+artículos 248 y 249, del Acuerdo General del Pleno del Consejo de la Judicatura
+
+Federal, que establece las disposiciones en materia de actividad administrativa
+
+de los órganos jurisdiccionales, en relación con lo previsto en el artículo 73,
+
+párrafo segundo, de la Ley de Amparo, en esta fecha se hace público el
+
+proyecto de sentencia relativo al Amparo Directo 658/2024 (ASUNTO DOS),
+
+promovido por *********** *****, SOCIEDAD ANÓNIMA DE CAPITAL
+
+VARIABLE, en la parte considerativa en la que se planteó la
+
+INCONSTITUCIONALIDAD DEL ARTÍCULO 38 DEL REGLAMENTO DE LA
+
+LEY FEDERAL DE JUEGOS Y SORTEOS; para verse en la próxima sesión de
+
+NUEVE DE ABRIL DE DOS MIL VEINTISÉIS, o siguientes; asimismo,
+
+CERTIFICA: QUE EL ESTUDIO RELATIVO A LA CONVENCIONALIDAD AMPARO DIRECTO D.A. 658/2024.
+
+PERSONA QUEJOSA:
+
+*********** ***** , SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE. MAGISTRADO PONENTE:
+
+ISIDRO EMMANUEL MUÑOZ ACEVEDO.
+
+SECRETARIA: NANCY IRÁN ZARIÑÁN BARRERA.
+
+Naucalpan de Juárez, Estado de México. Sentencia del Segundo Tribunal Colegiado en Materia Administrativa del Segundo Circuito, correspondiente a la sesión ordinaria virtual de nueve de abril de dos mil veintiséis.
+
+V I S T O S; y, R E S U L T A N D O:
+
+1. Por escrito recibido el cuatro de noviembre de dos mil veinticuatro en la oficialía de partes de las Salas Regionales Norte-Este del Estado de México del Tribunal Federal de Justicia Administrativa, *********** *****, Sociedad Anónima de Capital Variable, por conducto de su apoderado ***** ******* ***** ******* , solicitó el amparo y la protección de la Justicia Federal contra el acto y la autoridad siguiente:
+
+III. AUTORIDAD RESPONSABLE:
+
+Segunda Sala Regional Norte-Este del Estado de México del Tribunal Federal de Justicia Administrativa (ahora Segunda Sala Regional en el Estado de México I del Tribunal Federal de Justicia Administrativa).
+
+IV. ACTO RECLAMADO:
+
+Sentencia de treinta de septiembre de dos mil veinticuatro, emitida dentro del juicio contencioso administrativo 422/24-11-02-7.
+
+2. De la demanda de amparo correspondió conocer a este Segundo Tribunal Colegiado en Materia Administrativa del Segundo Circuito que, en auto de doce de diciembre de dos mil veinticuatro la registró bajo el expediente de amparo directo 658/2024, la admitió a trámite y con apoyo en lo previsto en el artículo 5, fracción III, inciso b), de la Ley de Amparo, se tuvo como tercera interesada a la autoridad que fue parte en el juicio de origen.
+
+3. Se notificó al Fiscal Federal adscrito, quien no formuló pedimento.
+
+4. En veinticuatro de enero de dos mil veinticinco se tuvo por apersonado al Director de lo Administrativo adscrito a la Dirección General de lo Contencioso de la Unidad General de Asuntos Jurídicos de la Secretaría de Gobernación en representación de la Dirección General de Juegos y Sorteos de dicha Secretaría, en su carácter de autoridad tercera interesada; y, por hechas las manifestaciones que realizó.
+
+5. En veintiocho de abril de dos mil veinticinco se turnó el asunto a la ponencia del magistrado relator para formular el proyecto de resolución respectivo.
+
+6. Por oficio SEADS/292/2026, emitido por el Secretario Ejecutivo de la Comisión de Adscripción del Órgano de Administración Judicial, informó sobre la determinación aprobada en once de febrero de dos mil veintiséis, por la cual se acordó la adscripción interina de la magistrada Elizabeth Vázquez Pineda a este órgano jurisdiccional, a partir del doce del mismo mes y año, en sustitución de la magistrada Mayra Sandoval Mendoza quien se encuentra comisionada al Pleno Regional en Materias Administrativa y Civil de la Región Centro-Norte, con residencia en la Ciudad de México.
+
+7. De igual forma, en oficio SEADS/413/2026 de veinticuatro de febrero de dos mil veintiséis, el Titular de la Secretaría Ejecutiva de la Comisión de Adscripción del Órgano de Administración Judicial, comunicó que la nueva integración de este Tribunal es la siguiente: Magistrado Presidente Isidro Emmanuel Muñoz Acevedo, Magistrada Elizabeth Vázquez Pineda y Secretario en funciones de Magistrado Edgar Iván Jiménez Sánchez.
+
+8. De conformidad con los artículos 27, fracción II y 30 del Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo; el presente asunto se listó en el portal de Internet del Poder Judicial de la Federación (Portal de Servicios en Línea), el treinta de marzo de dos mil veintiséis, para verse en sesión ordinaria virtual (videoconferencia) de nueve de abril del mismo año; y,
+
+C O N S I D E R A N D O:
+
+I. COMPETENCIA.
+
+9. Este tribunal colegiado de circuito es legalmente competente para conocer y resolver el presente juicio de amparo directo, conforme a lo dispuesto en los artículos 103, fracción I, 107, fracciones III, inciso a) y V, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 170, fracción I, de la Ley de Amparo y 35, fracción I, inciso b), de la Ley Orgánica del Poder Judicial de la Federación, en relación con el Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal.
+
+II. EXISTENCIA DEL ACTO RECLAMADO.
+
+10.La existencia del acto reclamado, sentencia definitiva dictada por la Segunda Sala Regional Norte-Este del Estado de México del Tribunal Federal de Justicia Administrativa (ahora Segunda Sala Regional en el Estado de México I del Tribunal Federal de Justicia Administrativa) el treinta de septiembre de dos mil veinticuatro, en el juicio contencioso administrativo 422/24-11-02-7, quedó debidamente acreditada con el informe justificado rendido por la autoridad responsable, al que adjuntó los autos originales de dicho expediente.
+
+III. LEGITIMACIÓN.
+
+11. ***** ******* ***** *******, tiene legitimación para promover el presente juicio de amparo directo a nombre de la actora *********** ***** , Sociedad Anónima de Capital Variable, al ser su apoderado; personalidad que tiene reconocida ante la autoridad responsable.
+
+IV. OPORTUNIDAD.
+
+12. La demanda de amparo se presentó en el plazo de quince días a que se refiere el artículo 17 de la Ley de Amparo, en relación con el 19 de ese ordenamiento, como se esquematiza.
+
+NOVIEMBRE 2024 D L M M J V S 1 2 3 4 c) 5 6 7 8 9
+
+a) Fecha en que fue notificada por boletín la sentencia reclamada a la persona quejosa.
+
+b) Data en que surtió efectos la notificación.
+
+c) Día en que fue presentada la demanda de amparo.
+
+Plazo de quince días para promover la demanda.
+
+Días inhábiles de conformidad con el artículo 19 de la Ley de Amparo y el Acuerdo SS/1/2024 del Pleno General de la Sala Superior del Tribunal Federal de Justicia Administrativa.
+
+V. ANTECEDENTES.
+
+13. Previo al análisis de los problemas legales que son materia de este juicio de amparo, resulta oportuno tener en cuenta los antecedentes del presente caso.
+
+I. *********** ***** , Sociedad Anónima de Capital Variable, por conducto de su representante ***** ***** ******* **** , demandó la nulidad de la resolución contenida en el oficio DGJS/0129/2024 por la que la autoridad demandada, en cumplimiento a la sentencia dictada en el diverso juicio de nulidad 24727/18-17-114-1449/22-PL-03-94, resolvió negar el permiso para la instalación y apertura de una sala de sorteos de números y símbolos con un centro de apuestas remotas.
+
+II. De la demanda conoció la entonces Segunda Sala Regional Norte-Este del Estado de México del Tribunal Federal de Justicia Administrativa (ahora Segunda Sala Regional en el Estado de México I del Tribunal Federal de Justicia Administrativa), la que registró el expediente con el número 422/24-11-02-7; se admitió a trámite la demanda; se ordenó correr traslado a la enjuiciada para que produjera su contestación a la demanda.
+
+III. Se tuvo por contestada la demanda; se concedió plazo a la actora para que ampliara su demanda, derecho que se declaró precluido; se otorgó a las partes el plazo de ley para alegar.
+
+IV. Cerrada la instrucción, el treinta de septiembre de dos mil veinticuatro, los magistrados integrantes de la Sala responsable procedieron a dictar sentencia en la que resolvieron reconocer la validez de la resolución impugnada.
+
+14.Esta sentencia es la que constituye el acto reclamado en el presente juicio de amparo.
+
+VI. ESTUDIO.
+
+15. De los conceptos de violación formulados por la persona quejosa se advierte que los problemas legales que debe resolver este Tribunal Colegiado consisten en determinar lo siguiente:
+
+1. ¿El artículo 38 del Reglamento de la Ley Federal de Juegos y Sorteos es contrario a la libertad de comercio, al establecer una distancia mínima de 200 metros entre establecimientos de juegos e instituciones educativas?
+
+2. ¿Es correcto negar el permiso por incumplir el requisito de distancia, a pesar de que ello no fue solicitado en su momento por la autoridad?
+
+3. ¿Se analizó lo relativo a la forma de determinar el domicilio y medir las distancias a través de Google Maps?
+
+16.Precisado lo anterior se procede al estudio de los problemas legales precisados.
+
+17.1 ¿El artículo 38 del Reglamento de la Ley Federal de Juegos y Sorteos es contrario a la libertad de comercio, al establecer una distancia mínima de 200 metros entre establecimientos de juegos e instituciones educativas? A juicio de este Tribunal Federal, la respuesta a este problema es negativa y, para establecer las razones de ello, la presente sentencia seguirá la siguiente metodología: (I) en principio, se analizará el cumplimiento de los requisitos que la técnica jurídico procesal exige para el reclamo de normas en amparo directo; (II) se razonará que en tratándose de restricciones a este tipo de libertades comerciales, el escrutinio es laxo y únicamente consta de tres gradas; y (III) se establecerán los argumentos por los cuales se considera que la norma reclamada persigue un fin constitucionalmente válido; es una medida susceptible de alcanzar dicha finalidad y, finalmente, es proporcional.
+
+18.1.1. Requisitos para la impugnación constitucional de normas generales en amparo directo. Del análisis relacionado de los artículos 170 y 175, fracción IV, de la Ley de Amparo, se desprende que el juicio de amparo directo procede contra sentencias definitivas, laudos o resoluciones que pongan fin al juicio, dictado por tribunales judiciales, administrativos o del trabajo, respecto de los cuales no proceda ningún recurso ordinario por el que puedan ser modificados o revocados, en el que podrá plantearse en vía de conceptos de violación, la posible inconstitucionalidad de leyes, tratados internacionales o reglamentos aplicados en perjuicio de la persona quejosa durante la secuela del procedimiento del juicio natural o en la sentencia, laudo o resolución reclamado.
+
+19.Asimismo, en el juicio de amparo directo se permite impugnar normas aplicadas en el acto o resolución de origen, cuando sea promovido contra la resolución recaída a los recursos o medios de defensa legal interpuestos contra el primer acto de aplicación de ellas.
+
+20.De lo anterior, se evidencia que en el juicio de amparo directo no se cuestiona la constitucionalidad de las leyes o reglamentos por vía de acción, sino por vía de excepción, conceptos propios del derecho procesal que aplicados a la materia del juicio de garantías, se traduce en que el ejercicio de esa acción se endereza contra la sentencia, laudo o resolución reclamados, siendo el análisis de la ley o reglamento aplicado un argumento más para decidir sobre la constitucionalidad o inconstitucionalidad de la resolución destacada, esto es, lo que en realidad se pretende al cuestionar la ley o reglamento es, sin lugar a dudas, que se declare la inconstitucionalidad del acto reclamado que se funda en la norma impugnada en vía de conceptos de violación, otorgando respecto de éste el amparo y dejando intocada la ley o el reglamento, los que no son materia aislada de concesión o negativa de la protección Federal; por lo mismo, lo determinado respecto de éstos únicamente trasciende al fallo reclamado, sin más efecto que obligar a la responsable a no aplicar la norma general relativa en el nuevo acto que emita en cumplimiento a la ejecutoria de amparo.
+
+21.No está por demás agregar, que la particularidad antes señalada tuvo su origen en que el juicio de amparo directo se concibió como un medio para regular exclusivamente la constitucionalidad de las sentencias definitivas, laudos o resoluciones que pongan fin al juicio respectivo, no así para impugnar la constitucionalidad de leyes o reglamentos; sin embargo, la práctica judicial, puso de manifiesto que esa limitación provocaba la transgresión a la garantía de defensa que tenía en su favor el gobernado, puesto que no evidenciaba la inconstitucionalidad de la actuación de la autoridad, es decir, no demostraba que la autoridad se apartó de la ley que rige su función, porque aplicó correctamente el ordenamiento jurídico procedente, la persona quejosa nada podía argumentar contra la ley o reglamento aplicados en su perjuicio y tenía que resignarse de esa forma a la negativa del amparo, por más que aquéllos fueran inconstitucionales; por eso precisamente se introdujo la idea esencial que condujo a la reforma de la Ley de Amparo en lo concerniente a permitir, por excepción, que de encontrarse debidamente aplicada la ley o el reglamento por la autoridad responsable, la persona quejosa pueda cuestionar la constitucionalidad de la norma a efecto de que, de demostrar su aserto, se declare la inaplicación de la ley o el reglamento que se estima inconstitucional y se le otorgue el amparo, no por defectos de legalidad, sino con motivo de que la ley o el reglamento resultan contrarios al Texto Fundamental.
+
+22.Estas breves precisiones, explican con claridad porqué en el juicio de amparo directo, no se tiene a la ley o reglamento como acto reclamado ni debe hacerse un pronunciamiento en los puntos resolutivos sobre su constitucionalidad o inconstitucionalidad y, que la determinación que sobre ellos se realice tenga efectos limitados a la resolución reclamada, lo que significa que pueden ser aplicados en el futuro contra el agraviado.
+
+23.Ahora, de las señaladas disposiciones de la Ley de Amparo, se desprende que los presupuestos para que en el juicio de garantías promovido en la vía directa se analice la constitucionalidad de una norma general, son:
+
+I. Que se haya aplicado la norma, ya sea en la sentencia definitiva, laudo o resolución que haya puesto fin al juicio; durante la secuela del procedimiento respectivo, en un acto procesal que no haya revestido una ejecución irreparable; o, en la resolución o acto de origen.
+
+II. Que esa aplicación se haya actualizado en perjuicio del solicitante de la protección constitucional y trascienda al resultado del fallo, pues de no ser así, no sería bastante para conceder el amparo, ya que no habría afectación o ésta no habría determinado el sentido del fallo reclamado.
+
+III. Que sobre el particular se planteen conceptos de violación; y IV. Que ese acto de aplicación sea el primero, o uno posterior, distinto de las aplicaciones que realice la autoridad jurisdiccional durante el procedimiento natural, siempre que no exista consentimiento, por aplicaciones anteriores a la emisión de la resolución o acto impugnado en el juicio de nulidad.
+
+24.Sirve de apoyo a lo anterior la jurisprudencia número 2a./J. 53/2005, de la Segunda Sala de la Suprema Corte de Justicia de la Nación, visible en la página cuatrocientos setenta y ocho, Tomo XXI, mayo de dos mil cinco del Semanario Judicial de la Federación y su Gaceta, Novena Época, que señala:
+
+AMPARO DIRECTO CONTRA LEYES. REQUISITOS PARA QUE PROCEDA ANALIZAR SU CONSTITUCIONALIDAD, CUANDO SE IMPUGNEN POR SU APLICACIÓN EN EL ACTO O RESOLUCIÓN DE ORIGEN Y NO SE ACTUALICE LA HIPÓTESIS DE SUPLENCIA DE LA QUEJA PREVISTA EN EL ARTÍCULO 76 BIS, FRACCIÓN I, DE LA LEY DE AMPARO (MATERIA ADMINISTRATIVA). Cuando el juicio de amparo directo derive de un juicio de nulidad en el que se controvierta un acto o resolución en que se hubiesen aplicado las normas generales controvertidas en los conceptos de violación, y no se actualice el supuesto de suplencia de la queja previsto en el artículo 76 bis, fracción I, de la Ley de Amparo, para que proceda el estudio de su constitucionalidad, es necesario que se satisfagan los siguientes requisitos: 1. Que se haya aplicado la norma controvertida; 2. Que cause perjuicio directo y actual a la esfera jurídica del quejoso; 3. Que ese acto de aplicación sea el primero, o uno posterior, distinto de las aplicaciones que realice la autoridad jurisdiccional durante el procedimiento natural, siempre que no exista consentimiento, por aplicaciones anteriores a la emisión de la resolución o acto impugnado en el juicio de nulidad, pues de lo contrario serían inoperantes los argumentos relativos, aún bajo la premisa de que la norma reclamada se hubiese aplicado nuevamente durante el juicio natural.
+
+25.En el caso concreto se encuentran cumplido tanto el primer como el segundo presupuesto para la procedencia del estudio de constitucionalidad, ya que desde la resolución impugnada (oficio DJS/0129/2024) se aplicó el precepto impugnado, pues se consideró que la persona quejosa incumplió con lo dispuesto en el precepto 38 del Reglamento de al Ley Federal de Juegos y Sorteos, esto es, en respetar la distancia mínima entre el establecimiento de juegos y sorteos que pretende instalarse y dos instituciones educativas, por lo que no se autorizó el permiso de solicitado.
+
+26.Asimismo, en la sentencia reclamada se reconoció la validez y legalidad de dicha determinación con base en tal norma impugnada. Siendo que, evidentemente, dicha aplicación causó perjuicio a la esfera jurídica de la persona quejosa, al negársele la instalación de tal establecimiento.
+
+27. También, se cumple con el tercer requisito ya que la persona quejosa formuló conceptos de violación en contra del precepto reclamado. Finalmente, se cumple el cuarto requisito, consistente en que la persona quejosa no consintió la aplicación del artículo reclamado, pues no se está ante alguna secuela procesal donde se advierte que haya precluido el derecho para plantear su inconstitucionalidad.
+
+28. Por lo anterior, es procedente el estudio de la inconstitucionalidad del precepto legal controvertido.
+
+29. 2. Metodología que debe emplearse para examinar el problema constitucionalidad planteado. Una vez precisado lo anterior, este Tribunal Federal estima oportuno, previo al análisis del problema constitucional planteado, establecer el tipo de examen o test que le corresponde al presente asunto.
+
+30. Al respecto, se precisa que la inconstitucionalidad argumentada por la persona quejosa atañe a demostrar que, el hecho de que la norma reglamentaria reclamada establezca la prohibición absoluta de que los establecimientos puedan instalarse “a menos de doscientos metros de distancia de […] Instituciones de educación básica, media superior y superior”, viola la libertad de comercio reconocida en el artículo 5 de la Constitución General de la República.
+
+31.Al respecto, este Tribunal estima que, atendiendo a la naturaleza del problema constitucional planteado, debe atenderse al precedente que fue sentado por la Primera Sala de la Suprema Corte, al resolver el amparo directo en revisión 4292/2019, por lo que hace al tipo de escrutinio que debe emplearse en tratándose de restricciones legislativas a libertades comerciales:
+
+El parámetro de control constitucional se fija en este caso con las libertades económicas contenidas en el artículo 5º constitucional, las cuales incluyen la libertad de comercio, la libertad contractual y la libertad de trabajo, cuyos contenidos amplios abarcan una gran cantidad de actividades económicas, incluida la de empresa a la que se refirió el Tribunal Colegiado.
+
+Así lo ha establecido esta Suprema Corte, quien ha encontrado que el artículo 5ª constitucional es el fundamento de la mayoría de las libertades económicas consagradas en nuestra Texto Fundamental.
+
+En la fijación del parámetro de control, esta Sala estima necesario corregir la metodología utilizada por el Tribunal Colegiado en su sentencia. Dicho Tribunal determinó que el artículo 48 de la Ley del Mercado de Valores era inconstitucional por vulnerar, por una parte, la libertad de empresa y, por la otra parte, ser contraria al principio de proporcionalidad. Sin embargo, debe precisarse que no cabe distinguir ambas entidades normativas, ya que, como lo ha determinado esta Suprema Corte en diversos precedentes, el principio de proporcionalidad es una herramienta metodológica para determinar si las medidas legislativas que implican una interferencia en el ámbito de protección de un derecho constitucional resultan o no justificadas; en otras palabras, el test de proporcionalidad es el instrumento de medición de la validez de las medidas legislativas frente a su intromisión en un derecho constitucional y no un contenido constitucional propio que pueda fijarse como parámetro de control independiente.
+
+[…]
+
+Sin embargo, lo cierto es que no todos los derechos constitucionales se controlan con el principio de proporcionalidad. Existen algunos derechos cuya formulación en el texto de la Constitución se encuentra como reglas precisas y, por tanto, la validez de las normas secundarias debe determinarse directamente a través de la subsunción. De la misma forma, esta Suprema Corte ha establecido que existen ciertos derechos, como el de no discriminación e igualdad, o ciertos contenidos en el interior de dichos derechos, que requieren la aplicación de estándares diferenciados, en cuyo caso se ha reconocido la exigibilidad de dos niveles de escrutinio: el estricto y el ordinario.
+
+En efecto, esta Suprema Corte ha establecido que cuando una medida legislativa distinga en perjuicio de una categoría sospechosa, o bien, implique una afectación a la libertad de expresión en su ámbito de protección reforzada –por ejemplo, discurso político– el juez debe evaluar la medida legislativa mediante la aplicación de un escrutinio estricto que requiere comprobar que su finalidad sea imperiosa –no sólo legítima–, que sea necesaria y no exista una medida alternativa igualmente eficaz pero menos gravosa, además de ser proporcional en sentido estricto.
+
+Asimismo, ha establecido que existen ciertas libertades o derechos respecto de los cuales la Constitución otorga al legislador un mayor margen de configuración legislativa para su desarrollo (derechos cuya protección se confía al legislador), por lo que la validez de las medidas emitidas en ese contexto debe evaluarse con un escrutinio laxo u ordinario, en cuyo caso el juez sólo debe constatar que la medida persiga una finalidad legítima, que sea razonablemente eficaz y que sea proporcional en sentido estricto. Como es obvio, este test es menos exigente que el escrutinio estricto y que el de proporcionalidad, ya que se encuentra diseñado para aquellos ámbitos en los cuales los jueces constitucionales deben ser cuidadosos para no interferir en la libertad política de los representantes populares Así, surge una doble diferencia entre el escrutinio estricto y el ordinario. Mientras que el estricto exige una finalidad constitucional imperativa, cuya consecución se debe hacer a través de los medios menos gravosos posibles, en el escrutinio laxo sólo se exige legitimidad de la finalidad y una relación racional entre ésta y la medida, lo que implica que en aquella se exige máxima racionalidad al legislador en el cumplimiento de un mandato constitucional, mientras en ésta se les exige mínima racionalidad y actuar dentro de los márgenes de permisión constitucional 32.Las anteriores consideraciones dieron lugar a la tesis 1a. X/2022 (10a.) de rubro: “LIBERTADES ECONÓMICAS.
+
+LAS INTERFERENCIAS A ESTAS LIBERTADES SE CONTROLAN MEDIANTE EL ESCRUTINIO ORDINARIO Y NO POR UN TEST DE PROPORCIONALIDAD O ESCRUTINIO ESTRICTO”.
+
+33.En ese sentido, este Tribunal considera que las restricciones atinentes al lugar o ubicación donde puede “instalarse” un establecimiento donde se lleven a cabo apuestas o sorteos, amerita una intensidad o escrutinio judicial laxo;
+
+no sólo por el hecho de que incide únicamente en una limitación espacial a la libertad comercial de quienes de dedican a este tipo de establecimientos.
+
+34.Sino y, preponderantemente, atento a que la determinación de la distancia mínima en que estos establecimientos pueden instalarse respecto de instituciones educativas y lugares de culto público, es una decisión administrativa que encuadra dentro un margen importante de discrecionalidad o libertad configurativa, atinente a la “política” que debe implementarse para evitar que los menores de edad o estudiantes, puedan verse afectados ante la proximidad de su centro educativo con este tipo de establecimientos de juegos y sorteos.
+
+35.Luego, este tipo de restricciones a las libertades económicas, esto es, requisitos o exigencias relativas para la instalación o autorización de establecimientos de juegos y sorteos, están sujetas a un “escrutinio” ordinario.
+
+36.Atento a dicho escrutinio ordinario, la regularidad constitucional de la norma administrativa impugnada en el presente juicio de amparo directo deberá cumplir con las siguientes gradas o pasos de escrutinio judicial: (I) que la medida persiga una finalidad legítima; (II) que sea razonablemente eficaz para la consecución de tal finalidad; y (III) que sea proporcional en sentido estricto.
+
+37.Finalmente, debe señalarse que este tipo de intensidad, en el análisis de la regularidad constitucional de la norma, resulta coincidente con los precedentes que ha emitido este Tribunal Colegiado en tratándose de restricciones a libertades de índole meramente económicas.
+
+38.Tal es el caso, por ejemplo, de los amparos en revisión 168/2022 y 303/2023, en los cuales se examinaron normas del Bando Municipal de Metepec, de distintas anualidades, a virtud de las cuales se estableció la obligación de otorgar a las personas usuarias de los estacionamientos de las plazas o centros comerciales, los primeros 30 minutos de tolerancia, esto sin costo alguno.
+
+39.En ambos precedentes se determinó que tal restricción a la libertad de comercio –la afectación económica derivada de la obligación de no cobrar los primeros 30 minutos de estacionamiento–, era constitucionalmente admisible, precisamente, empleando un test o escrutinio laxo, con sólo tres pasos o gradas.
+
+40. 1.3. Constitucionalidad del artículo 38 del Reglamento de la Ley Federal de Juegos y Sorteos [prohibición de instalar establecimientos a menos de 200 metros de distancia con instituciones educativas].
+
+Precisado el tipo de escrutinio que corresponde emplear en este caso concreto, se procede al estudio de los planteamientos de constitucionalidad. En el noveno concepto de violación, la persona quejosa aduce que el precepto citado al rubro es inconstitucional porque contiene una prohibición restrictiva de sus derechos humanos, aunado a que dicha prohibición es desproporcional y excesiva a las libertades de comercio e industria previstas en el artículo 5 de la Constitución Federal.
+
+41.Alega que se afecta al derecho humano del libre desarrollo de la personalidad de las personas que concurran con habitualidad al establecimiento para el cual se solicitó el permiso para hacer cruces de apuestas y sorteos; a más de que existen medidas menos lesivas o destructivas de los derechos humanos antes referidos que permiten salvaguardar el derecho a la salud y a la educación de los estudiantes que se encuentran cerca del establecimiento para el cual se solicitó el permiso.
+
+42.Argumenta que el artículo reclamado no toma en consideración que existen otras medidas que resultan menos lesivas de los derechos humanos de la persona quejosa, como lo es la establecida en el artículo 5º del Reglamento de la Ley Federal de Juegos y Sorteos, que determina que se encuentra prohibido el acceso o permanencia a las áreas de juegos con apuestas de los establecimientos a las personas que son menores de edad, excepto cuando en compañía de un adulto ingresan a esos establecimientos, pero sólo para presenciar espectáculos en vivo; así mismo, se prohíbe a los menores de edad participar en el curso de apuestas, por lo que con esta medida se logra proteger los derechos de los niños y las niñas, sin afectar de manera excesiva y desproporcional el derecho de libertad de comercio previsto a favor de la persona quejosa en el artículo 5 constitucional. 43. Sostiene que, al establecer como medida la imposibilidad de obtener un permiso para operar establecimientos con apuestas y sorteos si se encuentran en una distancia menor de doscientos metros de escuelas o iglesias, es desproporcional, excesiva e inconstitucional, puesto que el Gobierno Federal cuenta con opciones de medidas menos restrictivas de los derechos humanos de la persona quejosa.
+
+44.A juicio de este Tribunal Federal, resultan inoperantes por una parte, e infundados por otra, los planteamientos de constitucionalidad acabados de sintetizar. En principio, son inoperantes aquellos planteamientos que pretenden examinar la norma reclamada a la luz del derecho al libre desarrollo de la personalidad de quienes concurran al establecimiento de juegos y sorteos.
+
+45.Ello, toda vez que la quejosa es una persona jurídico colectiva de naturaleza mercantil –sociedad anónima de capital variable– quien pretende obtener la autorización para instalar el establecimiento de juegos y sorteos; de ahí que no puede hacer valer la violación del derecho al libre desarrollo de la personalidad, ni aún bajo el razonamiento de que la afectación incidirá en sus potenciales clientes.
+
+46. Sirve de sustento a lo anterior, la tesis P./J. 1/2015 (10a.), que establece:
+
+PRINCIPIO DE INTERPRETACIÓN MÁS FAVORABLE A LA PERSONA. ES APLICABLE RESPECTO DE LAS NORMAS RELATIVAS A LOS DERECHOS HUMANOS DE LOS QUE SEAN TITULARES LAS PERSONAS MORALES. El artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, al disponer que en los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos reconocidos en dicha Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, no prevé distinción alguna, por lo que debe interpretarse en el sentido de que comprende tanto a las personas físicas, como a las morales, las que gozarán de aquellos derechos en la medida en que resulten conformes con su naturaleza y fines. En consecuencia, el principio de interpretación más favorable a la persona, que como imperativo establece el párrafo segundo del citado precepto, es aplicable respecto de las normas relativas a los derechos humanos de los que gocen las personas morales, por lo que deberán interpretarse favoreciendo en todo tiempo la protección más amplia, a condición de que no se trate de aquellos derechos cuyo contenido material sólo pueda ser disfrutado por las personas físicas, lo que habrá de determinarse en cada caso concreto.
+
+47.Asimismo, son inoperantes aquellos argumentos que tienden a evidenciar la inconstitucionalidad de la norma administrativa, atento al hecho de que, a juicio de la persona quejosa, existen medidas menos lesivas o restrictivas para alcanzar el fin que persigue el precepto reclamado. 48.Ello, pues como fue examinado en el anterior sub apartado de la presente ejecutoria, el presente asunto amerita un escrutinio laxo y “ordinario”, conforme al cual no corresponde examinar el requisito de “necesidad” de la norma reclamada. Es decir, en este tipo de examen sobre la regularidad constitucional de libertades económicas, no procede evaluar si existen medidas menos lesivas o restrictivas para lograr el fin pretendido por el emisor de la norma, ya que ese análisis corresponde, propiamente, a un examen de proporcionalidad que amerite una intensidad o escrutinio más rígido, en el cual sí se componga de cuatro pasos o gradas. De ahí que resulten inoperantes tales planteamientos.
+
+49.Dicho lo anterior y, como se ha anticipado, este Tribunal Federal estima que la prohibición que tienen los establecimientos de juegos y apuestas, consistentes en no poder instalarse a menos de doscientos metros de distancia con instituciones educativas, constituye una restricción válida a la libertad de comercio.
+
+50.En efecto, el artículo 38 del Reglamento de la Ley Federal de Juegos y Sorteos, prevé lo siguiente:
+
+Artículo 38. Los establecimientos deberán estar ubicados exactamente en los lugares que la Secretaría autorice para su funcionamiento.
+
+Los establecimientos no podrán instalarse a menos de doscientos metros de distancia de los inmuebles en que se ubique algunas de las instituciones u organizaciones siguientes:
+
+I. Instituciones de educación básica, media superior y superior, y II. Lugares de culto público debidamente registrados ante la Secretaría.
+
+Cuando un sorteo sea organizado por una institución contemplada en las fracciones anteriores, la Secretaría podrá autorizar que dicho evento se lleve a cabo en las propias instalaciones de la permisionaria.
+
+51.Al respecto, debe señalarse que el precepto reglamentario reclamado permite complementar la disposición prevista en el artículo 9 de la Ley Federal de Juegos y Sorteos, vigente desde 1947, en el sentido de que: “[n]ingún lugar en que se practiquen juegos con apuestas o se efectúen sorteos, podrá establecerse cerca de escuelas o centros de trabajo”.
+
+52.Ahora, para determinar la regularidad constitucional de dicha restricción respecto al lugar donde pueden instalarse tales establecimientos mercantiles, procede a examinarse si tal medida: (I) persigue una finalidad constitucionalmente válida; (II) si razonablemente es susceptible de lograr dicha finalidad; y (III) finalmente, si es proporcional en sentido estricto.
+
+53.I. La medida administrativa persigue una finalidad constitucionalmente legítima. Respecto al fin perseguido por el precepto reclamado, es oportuno mencionar que su naturaleza es de índole reglamentaria –por lo que no existe alguna exposición de motivos o debate parlamentario que ilustre su razón de ser– aunado a que no se cuentan con documentos o informes, ya en el expediente, ya en los medios de publicación oficial, que expresamente determinen y justifiquen la finalidad de tal medida restrictiva.
+
+54.Sin embargo, ello en forma alguna impide su determinación en sede judicial, pues ha sido criterio de nuestra Corte Constitucional que, no toda finalidad normativa deba ser justificada en la exposición de motivos, proceso legislativo o proceso normativo.
+
+55.Se dice lo anterior pues basta que esta finalidad sea objetiva, lo cual deberá ser valorado por el órgano de control, ya sea mediante documentos oficiales o inclusive, con lo expresado en el propio texto de la norma general respectivo, a efecto de contar con elementos suficientes que le permitan determinar la constitucionalidad o inconstitucionalidad del precepto o preceptos reclamados.
+
+56.Sirve de sustento a lo anterior, por analogía, la tesis 2a. XXVII/2009 que se lee bajo el rubro: "FUNDAMENTACIÓN Y MOTIVACIÓN DE LEYES QUE DAN TRATO DESIGUAL A SUPUESTOS DE HECHO EQUIVALENTES. NO NECESARIAMENTE DERIVAN DE LA EXPOSICIÓN DE MOTIVOS DE LA LEY CORRESPONDIENTE O DEL PROCESO LEGISLATIVO QUE LE DIO ORIGEN, SINO QUE PUEDEN DEDUCIRSE DEL PRECEPTO QUE LO ESTABLEZCA".
+
+57.En ese sentido, este Tribunal Federal estima que, si bien, no se cuenta con razones explícitas del Poder Ejecutivo, respecto a la justificación de la norma reglamentaria reclamada, lo cierto es que la finalidad perseguida se deduce, objetivamente, de la propia norma, a saber: la protección de los derechos de niñas, niños y adolescentes, al nivel más alto posible de salud física y mental, así como el entorno en el que desarrollan su educación.
+
+58.Tan es así que la propia persona quejosa reconoce esta finalidad al señalar en su demanda de amparo que “[f]rente a los derechos que pretende proteger el poder ejecutivo con la restricción prevista en el artículo 38 […] existen otras medidas menos lesivas para salvaguardar los derechos de la infancia, de los menores de edad, así como el derecho a la educación, desarrollo de la personalidad de los estudiantes”.
+
+59.En ese sentido, en tanto la medida tiende a proteger los derechos de la niñez, como lo es a su desarrollo integral, el derecho al nivel más alto posible de salud física y mental, así como el entorno en el cual los educandos desarrollan su educación, tutelados por los preceptos 3 y 4 de la Constitución Federal, así como en diversos Tratados Internacionales, como lo es la Convención sobre los Derechos del Niño y el Pacto Internacional de Derechos Económicos y Sociales, este Tribunal Federal estima que persigue una finalidad constitucionalmente válida –incluso imperiosa–.
+
+60.Sirve de sustento a lo anterior, la tesis 1a.
+
+CCLXV/2016 (10a.)[1], que prevé:
+
+PRIMERA ETAPA DEL TEST DE PROPORCIONALIDAD. IDENTIFICACIÓN DE UNA FINALIDAD CONSTITUCIONALMENTE VÁLIDA. Para que las intervenciones que se realicen a algún derecho fundamental sean constitucionales, éstas deben superar un test de proporcionalidad en sentido amplio. Lo anterior implica que la medida legislativa debe perseguir una finalidad constitucionalmente válida, además de que debe lograr en algún grado la consecución de su fin, y no debe limitar de manera innecesaria y desproporcionada el derecho fundamental en cuestión. Ahora bien, al realizar este escrutinio, debe comenzarse por identificar los fines que persigue el legislador con la medida, para posteriormente estar en posibilidad de determinar si éstos son válidos constitucionalmente. Esta etapa del análisis presupone la idea de que no cualquier propósito puede justificar la limitación a un derecho fundamental. En efecto, los fines que pueden fundamentar la intervención legislativa al ejercicio de los derechos fundamentales tienen muy diversa naturaleza: valores, intereses, bienes o principios que el Estado legítimamente puede perseguir. En este orden de ideas, los derechos fundamentales, los bienes colectivos y los bienes jurídicos garantizados como principios constitucionales, constituyen fines que legítimamente fundamentan la intervención del legislador en el ejercicio de otros derechos.
+
+61.II. La restricción reclamada constituye una medida razonable para alcanzar la finalidad pretendida. Asimismo, este Tribunal Colegiado considera que la prohibición de instalar establecimientos de juegos y apuestas a menos de doscientos metros de instituciones educativas, es una medida susceptible de lograr la finalidad pretendida.
+
+62.Es así, pues el mínimo de distancia evita, razonablemente, que niños, niñas, adolescentes, así como estudiantes que estén cursando la educación media superior o superior, puedan verse influenciados negativamente por este tipo de establecimientos, esto es, que se encuentren expuestos a ambientes que inciten a este tipo de actividades y que incluso son susceptibles de generar adicciones, tales como la ludopatía, poniendo en resigo su salud mental, así como su desarrollo sano.
+
+63. Al respecto, la Organización Mundial de Salud, en un informe de 2024, ha determinado lo siguiente[2]:
+
+Los juegos de azar y de apuestas pueden poner en peligro la salud y aumentar la incidencia de enfermedades mentales y suicidios. También pueden generar pobreza al reducir la partida del gasto de los hogares destinada a bienes y servicios esenciales.
+
+Otros daños son la ruptura de relaciones personales, la violencia doméstica, las dificultades financieras, la estigmatización, los delitos cometidos para obtener dinero (robo, fraude), la desatención de los niños y la erosión de las instituciones civiles por corrupción y por intervencionismo del sector de los juegos de azar y de apuestas en el ámbito político. Los juegos de azar y de apuestas son también una forma habitual de blanquear dinero procedente de actividades ilegales.
+
+La comercialización y la digitalización propician la rápida normalización de estos juegos. El patrocinio y la mercadotecnia son también factores clave en el rápido crecimiento del sector a nivel mundial.
+
+Panorama general Los juegos de azar y de apuestas consisten en jugarse dinero (u objetos de valor) en un evento de resultado incierto, con la posibilidad de obtener un mayor rendimiento. Las apuestas, las máquinas tragamonedas, los juegos de casino, las loterías y el bingo son algunos ejemplos de estos juegos. Las máquinas tragamonedas y los juegos de casino suelen estar asociados a un mayor riesgo de que se produzcan daños. Se encuentran disponibles tanto en locales físicos como en línea. La condición jurídica de los juegos de azar y de apuestas varía dentro de cada país y de un país a otro, aunque en la actualidad estos juegos se han legalizado en muchas jurisdicciones. Al estar disponibles en línea es posible acceder a ellos desde casi cualquier lugar y en cualquier momento, incluso desde lugares en los que están prohibidos.
+
+Los juegos de azar y de apuestas pueden causar daños graves en la salud, por ejemplo:
+
+dificultades financieras, ruptura de relaciones, violencia doméstica, enfermedades mentales y suicidio. Las consecuencias de los daños provocados por los juegos de azar y de apuestas pueden perdurar durante toda la vida y transmitirse de una generación a otra. Para prevenir y reducir estos daños pueden aplicarse medidas dirigidas a toda la población: acabar con la publicidad y la promoción de estos juegos, centralizar el registro de cuentas para exigir a quienes juegan que fijen límites de pérdidas de obligado cumplimiento y aplicar restricciones relativas al acceso y la disponibilidad (horarios de apertura, aforo). Para que se respete legislación vigente también es necesaria una regulación estricta y medidas para garantizar su cumplimiento.
+
+Alcance del problema En la actualidad, los juegos de azar y de apuestas son legales en muchos países. Se han normalizado mediante nuevas asociaciones comerciales con actividades culturales y deportivas, que se promocionan intensamente. Alrededor del 5,5 % de las mujeres y el 11,9 % de los hombres en el mundo sufre algún tipo de daño a causa de los juegos de azar y de apuestas. Según un estudio sueco, las personas con ludopatía tienen 15 veces más probabilidades de morir por suicidio que la población general. En Victoria (Australia), al menos un 4,2 % de los suicidios están relacionados con los juegos de azar y de apuestas.
+
+Por cada persona que participa en juegos de azar y de apuestas de alto riesgo, se ven afectadas un promedio de otras seis (normalmente no jugadores). Es probable que esta cifra sea mucho mayor en las culturas centradas en la familia, como las de los Pueblos Indígenas. Los juegos de azar y de apuestas también pueden atraer dinero de otros negocios, destinado inicialmente a cubrir gastos de consumo habitual. La autorregulación del sector es una característica común en la normativa de estos juegos. Con todo, hay muchos ejemplos del fracaso de este planteamiento. A menudo hay poca transparencia sobre cómo funcionan muchos de estos juegos de azar y de apuestas. Las máquinas tragamonedas pueden engañar a los usuarios mediante características de diseño que fomentan la continuación del juego. Los mensajes de promoción de la salud que se utilizan actualmente no suelen ser adecuados y pueden utilizar lo que en inglés se conoce como «dark nudges» (literalmente, empujoncitos oscuros)
+
+para fomentar el consumo de productos nocivos (por ejemplo, aprovechándose de los sesgos cognitivos de los ludópatas) y potenciar la normalización del juego. Además de regular estrictamente los juegos de azar y de apuestas y su disponibilidad, es probable que unas advertencias claras sobre los daños que acarrean estos hábitos sean más eficaces que los mensajes en los que se recomienda dejar de jugar simplemente cuando el juego deje de ser divertido.
+
+No existe un acuerdo a nivel mundial sobre la regulación de los juegos de azar y de apuestas en línea. Es habitual encontrar a operadores sin licencia que ofrecen juegos no regulados; y, en el entorno en línea, es necesario regular los juegos de azar y de apuestas de manera urgente.
+
+¿Quién corre riesgo?
+
+Las personas que atraviesan momentos delicados en su vida, como una separación, la jubilación, una lesión o la muerte de un ser querido, corren un mayor riesgo. Factores de estrés social, como la pobreza, la discriminación u otras situaciones de desventaja, también aumentan el riesgo. Una promoción intensa del juego en línea o a través del deporte también supone un riesgo de normalización del juego para los niños y los jóvenes.
+
+[…]
+
+Transmisión Acceder fácilmente a juegos de azar y de apuestas aumenta el riesgo de engancharse a ellos. Las oportunidades para jugar suelen ofrecerse mucho más en entornos menos favorecidos. Desde casi cualquier lugar es posible acceder fácilmente a juegos de azar y de apuestas de alta intensidad: plataformas de apuestas de alta velocidad, juegos de casino y máquinas tragamonedas, incluidas sus versiones en línea.
+
+La comercialización de los juegos de azar y de apuestas en muchos países (algo que también fomenta la normalización) aumenta la incidencia de los daños. El patrocinio y otro tipo de asociaciones con ligas deportivas populares, y la publicación de juegos de azar y de apuestas en entornos sociales, son mecanismos clave del sector. La promoción agresiva de estos juegos en medios sociales y con un gran público también fomenta su práctica.
+
+Prevención y control Para prevenir los daños causados por el juego son necesarias medidas de salud pública universales para toda la población. Por ejemplo: acabar con la publicidad, la promoción y el patrocinio de los juegos de azar y de apuestas en el deporte y en otras actividades culturales; reducir la estigmatización y la vergüenza que sufren las víctimas de los juegos de azar y de apuestas; servirse de un registro universal de cuentas en el que figuren compromisos vinculantes previos a la práctica de estos juegos e instrumentos eficaces de autoexclusión; aplicar medidas de seguridad a los juegos de azar y de apuestas, entre otras, límites universales de pérdidas, máximos en las apuestas y pausas obligatorias en las sesiones de juego; regular las actividades de los operadores de juegos de azar y de apuestas, aplicando también medidas coercitivas dotadas de suficientes recursos; hacer frente al intervencionismo de las empresas del sector de los juegos de azar y de apuestas en la política y a su influencia en el campo de la investigación; y organizar campañas de contrapropaganda con advertencias sobre los daños asociados a los juegos de azar y de apuestas.
+
+[…]
+
+Respuesta de la OMS La OMS reconoce los efectos negativos de los juegos de azar y de apuestas en la salud. Para reducir el potencial que los juegos de azar y de apuestas tienen de impedir el progreso hacia el cumplimiento de los ODS, se requiere una acción multisectorial con la que limitar los daños conexos. La Organización reconoce la necesidad de que los Estados Miembros vigilen de cerca y regulen eficazmente las operaciones, productos y actividades de los juegos de azar y de apuestas.
+
+Para ello, tendrán que reducir la estigmatización y la vergüenza asociadas con los juegos de azar y de apuestas, poner fin a la publicidad y la promoción de este sector y centrarse en otras actividades preventivas con las que evitar daños y reducirlos.
+
+64.Como se aprecia de lo anterior, en tanto los juegos de azar y de apuestas pueden causar daños graves en la salud, por ejemplo: dificultades financieras, ruptura de relaciones, violencia doméstica, enfermedades mentales y suicidio, y que los daños provocados por los juegos de azar y de apuestas pueden perdurar durante toda la vida, es evidente que la medida administrativa, tendiente a prohibir su acercamiento a centros escolares, tanto de educación básica, media superior y superior, constituye una medida susceptible de evitar que las y los educandos, puedan verse influenciados por este tipo de establecimientos mercantiles.
+
+65.Asimismo, se estima que, para cumplir con esta grada, basta que la medida normativa cumpla con un “mínimo de idoneidad”, siendo suficiente que la medida contribuya en algún modo y en algún grado a lograr el propósito que busca la norma reclamada. En otras palabras, basta que tenga el potencial de promover la finalidad constitucionalmente válida.
+
+66.En ese sentido, bajo esa óptica de mera razonabilidad o probabilidad, es claro que obligar a que los establecimientos de juegos y sorteos se instalen con una distancia mínima de doscientos metros de centros educativos, es una medida susceptible de tutelar los derechos de la niñez, a la salud y a la educación ya referidos.
+
+67.Ello, con entera independencia de que pudiesen existir otras medidas más eficaces o más idóneas para tutelar tales derechos humanos, frente a los riesgos o daños que generan los juegos de apuestas y azar, pues se insiste, esta grada de idoneidad se colma una vez que se determina que el medio, razonablemente, es susceptible de alcanzar el fin. De ahí que es innecesario acreditar que la medida normativa, en un ejercicio comparativo con otras, es la óptima o la más adecuada
+
+68.Luego, el hecho de que, a juicio de la persona quejosa, el medio sea ocioso o ineficaz, en tanto, de cualquier manera, existe prohibición de que los menores de edad puedan acceder a los establecimientos de juegos y sorteos, en forma alguna implica que la medida deje de ser idónea, bajo los estándares de razonabilidad y probabilidad ya referidos. 69.En suma, no se exige que la medida “persiga los objetivos constitucionalmente admisibles por los mejores medios imaginables”, sino que basta que los que utiliza “estén encaminados de algún modo a la consecución del fin, que constituyan un avance hacia él, aunque pueda pensarse en medios más efectivos y adecuados desde otros puntos de vista”.
+
+70.Así, para que pueda concluirse que la norma supera el escrutinio de constitucionalidad “es suficiente con que sea instrumentalmente apta para impulsar las cosas en algún grado en dirección al objetivo perseguido”.
+
+71.Sirven de apoyo a lo anterior, las tesis 1a.
+
+CCLXVIII/2016 (10a.) y P. VIII/2011, que a la letra señalan:
+
+SEGUNDA ETAPA DEL TEST DE PROPORCIONALIDAD. EXAMEN DE LA IDONEIDAD DE LA MEDIDA LEGISLATIVA.
+
+Para que resulten constitucionales las intervenciones que se realicen a un derecho fundamental, éstas deben superar un test de proporcionalidad en sentido amplio. Lo anterior implica que la medida legislativa debe perseguir una finalidad constitucionalmente válida, lograr en algún grado la consecución de su fin y no limitar de manera innecesaria y desproporcionada el derecho fundamental en cuestión. Por lo que hace a la idoneidad de la medida, en esta etapa del escrutinio debe analizarse si la medida impugnada tiende a alcanzar en algún grado los fines perseguidos por el legislador. En este sentido, el examen de idoneidad presupone la existencia de una relación entre la intervención al derecho y el fin que persigue dicha afectación, siendo suficiente que la medida contribuya en algún modo y en algún grado a lograr el propósito que busca el legislador. Finalmente, vale mencionar que la idoneidad de una medida legislativa podría mostrarse a partir de conocimientos científicos o convicciones sociales generalmente aceptadas[3].
+
+IGUALDAD. EN SU ESCRUTINIO ORDINARIO, EL LEGISLADOR NO TIENE LA OBLIGACIÓN DE USAR LOS MEJORES MEDIOS IMAGINABLES[4]. Para descartar el carácter discriminatorio de una norma cuando se somete a un escrutinio de igualdad ordinario, basta con examinar si el establecimiento de la clasificación analizada persigue una finalidad constitucionalmente admisible; si resulta racional para su consecución -esto es, si guarda una relación identificable de instrumentalidad respecto de ella- y si constituye además un medio proporcional que evita el sacrificio innecesario de otros bienes y derechos, de modo que no exista un desbalance entre lo que se consigue con la medida legislativa y los costos que impone desde la perspectiva de otros intereses y derechos constitucionalmente protegidos. Estos dos últimos puntos son esenciales, ya que, bajo un escrutinio de igualdad ordinario, no se exige que el legislador persiga los objetivos constitucionalmente admisibles por los mejores medios imaginables, sino que basta que los que utiliza estén encaminados de algún modo a la consecución del fin, que constituyan un avance hacia él, aunque pueda pensarse en medios más efectivos y adecuados desde otros puntos de vista. Así, para que pueda concluirse que la norma supera el escrutinio de constitucionalidad es suficiente con que sea instrumentalmente apta para impulsar las cosas en algún grado en dirección al objetivo perseguido. 72.Aunado a lo anterior, este Tribunal advierte que las medidas de distanciamiento mínimo, entre ciertos negocios o establecimientos y los centros escolares, han sido históricamente empleadas en nuestro sistema jurídico, tal y como se advierte de los siguientes criterios que datan desde la Sexta Época Judicial:
+
+COMERCIOS DE UNA MISMA ESPECIE, INCONSTITUCIONALIDAD DEL REQUISITO DE DISTANCIA ENTRE LOS. Son anticonstitucionales los reglamentos y leyes que fijan el requisito de distancia para el establecer comercios o negocios de la misma clase, porque según el artículo 4o. constitucional, el ejercicio de esa libertad sólo puede vedarse por determinación judicial cuando se atacan los derechos de tercero, o por resolución gubernativa cuando se ofenden los derechos de la sociedad, dictada en los términos que marque la ley; esto es, que las propias leyes sólo pueden limitar esa libertad cuando su ejercicio acarrea perjuicios a la sociedad, como sucede, entre otros casos, cuando se instalan expendios de bebidas alcohólicas o centros de vicio en general cerca de las escuelas o de los centros de trabajo. Pero el establecimiento, en una misma calle o lugar, próximos unos a otros, de comercios o locales de prestación de servicios de la misma especie, de ninguna manera lesiona los derechos de la sociedad, antes bien se ejercita la libertad de comercio establecida por el artículo 4o. de la Constitución Federal, y se obtiene el evidente beneficio social de la libre concurrencia garantizada por el artículo 28 constitucional[5].
+
+COMERCIOS, DISTANCIA ENTRE LOS. La Suprema Corte de Justicia ha reconocido la constitucionalidad del requisito de distancia sólo cuando el mismo se refiere a la distancia que debe haber entre un expendio de bebidas alcohólicas y los templos, cuarteles, mercados, escuelas, etcétera; pero también ha reafirmado, en recientes ocasiones, su criterio en el sentido de que es inconstitucional el requisito de la distancia que debe existir entre dos negociaciones comerciales de la misma naturaleza. Finalmente, debe decirse que, si bien el quejoso debe justificar que su establecimiento reúne todos los requisitos legales, esto no impide que la autoridad practique la investigación respectiva, y que requiera al promovente para que exhiba los documentos necesarios[6].
+
+73.Como se advierte, la determinación o imposición de distancias mínimas entre determinados comercios o negocios y escuelas, es una medida normativa que cuenta con una larga tradición en nuestro sistema jurídico, a fin de evitar que, la proximidad de ciertos tipos de establecimientos, por la naturaleza de sus actividades, afecten a la comunidad estudiantil.
+
+74.Esto se explica atendiendo al "carácter crucial de la educación para el desarrollo humano"[7]. El derecho a la educación, en tanto que derecho jurídico fundamental, es tanto más importante en cuanto que "no es solo un derecho humano por sí mismo, sino que también es esencial para el ejercicio de otros derechos"[8]. 75.Esa interdependencia con otros derechos humanos se ve fuertemente robustecida, si se considera que "el fin último de la educación es dignificar la vida, en todos sus sentidos"[9]. En efecto, la enseñanza debe estar orientada a "desarrollar plenamente el potencial humano y el sentido de la dignidad y la autoestima y reforzar el respeto por los derechos humanos y la diversidad humana"[10].
+
+76.De ahí que la educación puede ser entendida como una de las actividades más elementales y necesarias de la sociedad humana. En ese sentido, es dable afirmar que "el establecimiento de centros públicos de enseñanza figura entre las más altas funciones del Estado"[11] y que la "educación es quizás la función más importante de los gobiernos estatales y locales"[12].
+
+77.En ese entendido, la protección del “entorno escolar”, los lugares accesibles y visibles para los educandos, conlleva, entre otras consideraciones, a evitar que estén expuestos a determinados negocios o actividades que pudiesen obstaculizar o ser incongruentes con ese desarrollo educativo y que, como se ha explicado, incluso, su práctica pudiese generar daños graves en su salud, e incluso, adicciones que propician o exponencian el riesgo mismo de suicidio.
+
+78.Siendo que la consecución del fin pretendido, mediante estas medidas de distanciamiento, no sólo atiende a cuestiones respecto al ejercicio o participación misma en estas actividades de apuestas y azar –pues está prohibido legalmente el acceso a los menores de edad a estos establecimientos–, sino a la exposición misma de este tipo de negocios desde temprana edad que pudiesen llevar a internalizar o normalizar estas actividades.
+
+79.Como se advierte del citado informe de la OMS, una exposición, promoción o publicidad de este tipo de actividades, “también supone un riesgo de normalización del juego para los niños y los jóvenes”. El tener este tipo de establecimientos cerca de la escuela, día a día, desde luego, aumenta tales riesgos e, incluso, los toleraría o solaparía en perjuicio de los derechos de la niñez, la educación y la salud.
+
+80.Es por ello que, en otros entornos, con independencia de la prohibición legal de acceso de la niñez a estos negocios, se considera necesario un mínimo de distanciamiento entre sus escuelas y los comercios respectivos. Piénsese en el precepto 31, fracción XXV Bis, de la Ley Orgánica Municipal del Estado de México, que prevé:
+
+Con el objeto de combatir el alcoholismo, los Ayuntamientos y las autoridades estatales, en el ámbito de sus respectivas competencias, no autorizarán la instalación de establecimientos dedicados a la venta de bebidas alcohólicas en envase cerrado o por copeo, que se ubique en un radio no menor de 300 metros de centros escolares, instalaciones deportivas o centros de salud; para lo cual, las autoridades realizarán las inscripciones correspondientes en los planes municipales de desarrollo urbano.
+
+81.Como se aprecia, prohibir la instalación de ciertos establecimientos, cuya actividad resulta nociva o al menos, contradictoria con el entorno escolar y con la salud de los educandos, es una medida legal ha tenido asidero en nuestro sistema jurídico.
+
+82.Luego, en tanto este tipo de medidas son, al menos razonablemente, susceptibles de tutelar los derechos de la niñez y el desarrollo educativo, se concluye que cumplen con el requisito de ser “idóneas”.
+
+83.III. La medida es proporcional en estricto sentido.
+
+Finalmente, se estima que esta limitación impuesta a los establecimientos de juegos y sorteos, de no instalarse a menos de doscientos metros de instituciones educativas, resulta proporcional.
+
+84.En efecto, en esta grada es necesario examinar que el fin perseguido sea mayor al grado de afectación provocado al derecho fundamental por la medida impugnada. Consiste en efectuar un balance o ponderación entre dos principios que compiten en un caso concreto. Dicho análisis requiere comparar el grado de intervención en el derecho fundamental que supone la medida normativa examinada, frente al grado de realización del fin perseguido por ésta.
+
+85.En otras palabras, en esta fase es preciso realizar una ponderación entre los beneficios que cabe esperar de una limitación desde la perspectiva de los fines que se persiguen, frente a los costos que necesariamente se producirán desde la perspectiva de los derechos fundamentales afectados. De modo que no exista un desbalance entre lo que se consigue con la medida normativa y los costos que impone desde la perspectiva de otros intereses y derechos constitucionalmente protegidos.
+
+86.Así lo establece la tesis 1a. CCLXXII/2016 (10a.), que a la letra señala:
+
+CUARTA ETAPA DEL TEST DE PROPORCIONALIDAD. EXAMEN DE LA PROPORCIONALIDAD EN SENTIDO ESTRICTO DE LA MEDIDA LEGISLATIVA. Para que resulten constitucionales las intervenciones que se realicen a algún derecho fundamental, éstas deben superar un test de proporcionalidad en sentido amplio. Lo anterior implica que la medida legislativa debe perseguir una finalidad constitucionalmente válida, lograr en algún grado la consecución de su fin y no limitar de manera innecesaria y desproporcionada el derecho fundamental en cuestión. Así, una vez que se han llevado a cabo las primeras tres gradas del escrutinio, corresponde realizar finalmente un examen de proporcionalidad en sentido estricto.
+
+Esta grada del test consiste en efectuar un balance o ponderación entre dos principios que compiten en un caso concreto. Dicho análisis requiere comparar el grado de intervención en el derecho fundamental que supone la medida legislativa examinada, frente al grado de realización del fin perseguido por ésta. En otras palabras, en esta fase del escrutinio es preciso realizar una ponderación entre los beneficios que cabe esperar de una limitación desde la perspectiva de los fines que se persiguen, frente a los costos que necesariamente se producirán desde la perspectiva de los derechos fundamentales afectados. De este modo, la medida impugnada sólo será constitucional si el nivel de realización del fin constitucional que persigue el legislador es mayor al nivel de intervención en el derecho fundamental. En caso contrario, la medida será desproporcionada y, como consecuencia, inconstitucional. En este contexto, resulta evidente que una intervención en un derecho que prohíba totalmente la realización de la conducta amparada por ese derecho, será más intensa que una intervención que se concrete a prohibir o a regular en ciertas condiciones el ejercicio de tal derecho. Así, cabe destacar que desde un análisis de proporcionalidad en estricto sentido, sólo estaría justificado que se limitara severamente el contenido prima facie de un derecho fundamental si también fueran muy graves los daños asociados a su ejercicio.[13]
+
+87.A juicio de este Tribunal, la medida no genera un desbalance entre los derechos tutelados y los derechos afectados. Ello, pues no existe una incidencia superlativa en la libertad para ejercer el comercio, pues no se prohíben los negocios de juegos y sorteos, simplemente, se restringe su ubicación a fin de que respete, al menos, doscientos metros de distancia con los centros educativos.
+
+88.En ese sentido, las personas que deseen dedicarse a este tipo de negocios cuentan un amplio margen “espacial o territorial” para hacerlo, conforme a sus propios intereses y estrategia de mercado. Lo único que se limita o restringe, es que respeten tal distancia mínima de doscientos metros, de ahí que el grado de afectación a la libertad de comercio es de poca intensidad o interferencia.
+
+89.Máxime que doscientos metros es una distancia razonable respecto a la proximidad que este tipo de negocios deben respetar respecto a escuelas. De ahí que no se advierte que tal espacio o separación entre el establecimiento del juegos y sorteos, y los centros educativos, se traduzca en la imposibilidad de instalarlos u operarlos, ni que genere obstáculos demasiado gravosos para las personas que deseen dedicarse a tal actividad comercial.
+
+90.En cambio, como se ha anticipado, los riesgos de daño generados por las actividades de azar y apuestas son serios y graves: dificultades financieras, ruptura de relaciones, violencia doméstica, enfermedades mentales y suicidio. Mismas que pueden perdurar durante toda la vida e incluso transmitirse de una generación a otra.
+
+91. En ese sentido, si como se ha razonado, limitar un distanciamiento mínimo entre el centro escolar y tales negocios, es susceptible de evitar tales daños en los educandos, es evidente que la restricción administrativa reclamada resulta proporcional: los beneficios de la medida –tutela de los derechos de la niñez, educación y salud– superan, por mucho, los costos o perjuicios que puedan tener los establecimientos de juegos y sorteos, derivado de la necesidad de respetar tales limitaciones espaciales.
+
+92.Finalmente y, a mayor abundamiento, este Tribunal Federal estima que, desde un punto de vista no conflictivista entre los derechos, sino concebidos de manera armónica e interdependiente, se colige que la libertad de comercio no tiene el alcance de contar o exigir el “derecho” a instalar casinos frente a las escuelas.
+
+93.Por todas estas razones, se concluye que el artículo 38, fracción I, del la Ley Federal de Juegos y Sorteos, al establecer una distancia mínima de 200 metros entre establecimientos de juegos y sorteos e instituciones de educación básica, media superior y superior, cumple con todas y cada una de las gradas de escrutinio ordinario o laxo y, por ende, no viola la libertad de comercio.
+
+94.2 ¿Es correcto negar el permiso por incumplir el requisito de distancia, a pesar de que ello no fue solicitado en su momento por la autoridad? En el primer concepto de violación, la parte quejosa aduce que la sentencia es ilegal porque la resolución impugnada no observa la sentencia dictada en el juicio contencioso 24727/18-17-114-1449/22-PL-03-4, en la que se declaró la nulidad para el efecto de que la demandada admitiera a trámite la solicitud planteada y la resolviera, de manera fundada y motivada, absteniéndose de considerar aquellos requisitos que no requirió en tiempo, de conformidad con el artículo 17-A de la Ley Federal de Procedimiento Administrativo, pero sí valorando los elementos probatorios presentados inicialmente con la petición.
+
+95.Añade que la demandada no podía negar el permiso señalando que no acreditó que el establecimiento se encuentra a menos de doscientos metros de distancia de instituciones educativas y lugares de culto público, ya que está negando el permiso con base en un requisito que no le requirió en tiempo legal (un mes).
+
+96.Agrega que la sentencia reclamada contraviene el instituto de la cosa juzgada, en su efecto refleja, al incumplir con lo resuelto en la sentencia definitiva dictada en el juicio contencioso administrativo 24727/18-17-114-1449/22-PL-03-4, porque la demandada nunca le requirió acreditara el requisito de distancia previsto en el artículo 38 del Reglamento de la Ley Federal de Juegos y Sorteos; por ende, al resolver estaba imposibilitada o impedida para considerar aquellos requisitos que no requirió en el tiempo legal previsto.
+
+97.En el segundo concepto de violación señala que es ilegal la valoración del requisito previsto en el artículo 38 del Reglamento de la Ley Federal de Juegos y Sorteos; porque al no haberse requerido dentro del plazo legal, no puede ser valorado para resolver sobre la petición planteada, ya que en términos del artículo 22, fracción VII del referido reglamento solo se requiere señalar la ubicación del establecimiento pero no la distancia.
+
+98.En el séptimo concepto de violación aduce que la sentencia es violatoria de los principios de legalidad y seguridad jurídica porque la Sala soslayó la sentencia definitiva y firme dictada en el juicio contencioso administrativo 24727/18-17-114-1449/22-PL-03-4, por lo que la demandada se encontraba imposibilitada para analizar el cumplimiento del requisito de distancia previsto en los artículos 9 de la Ley Federal de Juegos y Sorteos y 38 de su Reglamento, ya que dicho requisito no fue materia de requerimiento dentro del plazo legal previsto en el artículo 17-A de la Ley Federal de Procedimiento Administrativo.
+
+99.Resultan inoperantes los argumentos que se proponen, ya que mediante ellos la persona quejosa no combate las consideraciones que tuvo la sala responsable para determinar infundado su planteamiento, a saber: Por tanto, si la persona quejosa es omisa en controvertir y combatir las consideraciones que expuso la Sala y que sirvieron de sustento en la sentencia reclamada para desvirtuar esos planteamientos, los conceptos de violación deben declararse inoperantes.
+
+• La Sala responsable, en principio, analizó la resolución impugnada consistente en el oficio DGJS/0129/2024 de dieciséis de enero de dos mi veinticuatro y estableció que en este se negó la solicitud para la instalación, apertura y operación de una sala de sorteos de números y símbolos con un centro de apuestas remotas, por el incumplimiento del requisito previsto por los artículos 9 de la Ley Federal de Juegos y Sorteos y 38 de su Reglamento, vigentes en dos mil dieciocho, por ser la fecha en que se presentó la solicitud. • Luego de transcribir los referidos preceptos legales, la responsable señaló que de ellos se advierte que existe una prohibición para que los establecimientos en que se practiquen juegos con apuestas o se efectúen sorteos se instalen a menos de doscientos metros de distancia de los inmuebles en donde se ubiquen instituciones u organizaciones de educación básica, media superior y superior, y lugares de culto público debidamente registrados entre la Secretaría de Gobernación.
+
+• Además, determinó que en la resolución impugnada se negó a la actora el permiso para la instalación, apertura y operación de una sala de sorteos de números y símbolos con un centro de apuestas remotas en el establecimiento ubicado en Calle ******* (**** ***** ******* * ***** )
+
+número ***, Colonia **** ******, código postal *****, en ********, **********, puesto que se ubica a treinta y dos metros entre el establecimiento a instalar y el Instituto ************* y Preparatoria ******* ******* y a su vez la distancia de ciento treinta y nueve metros Jardín de Niños "******", los que son inferiores a la distancia mínima prevista por los artículos 9 de la Ley Federal de Juegos y Sorteos y 38 de su Reglamento.
+
+• Consideró que no le asiste la razón a la actora, toda vez que -de acuerdo con lo expuesto en la resolución impugnada- en la sentencia emitida en el diverso juicio de nulidad diverso juicio de nulidad 24727/18-17-114-1449/22-PL-03-4, el Pleno Jurisdiccional de la Sala Superior de ese Tribunal declaró la nulidad de la resolución impugnada en dicho juicio, para el efecto de que se admitiera a trámite la petición planteada y resolviera lo procedente en derecho de manera fundada y motivada, absteniéndose de considerar a aquellos requisitos que no se requirieron en el tiempo legal establecido en el artículo 17-A de la Ley Federal de Procedimiento Administrativo, pero sí valorando los elementos probatorios presentados inicialmente con la petición.
+
+• Por lo que, la autoridad demandada se encontraba en aptitud de resolver la petición planteada por la actora basándose en los elementos probatorios presentados con la solicitud presentada el veintitrés de abril de dos mil dieciocho.
+
+• En particular, en el listado de la resolución impugnada, se aprecia que en el numeral once se indicó que la actora aportó un escrito por el que señaló la ubicación del establecimiento a instalar; de tal manera que la autoridad demandada se encontraba en aptitud de verificar si existían instituciones de educación o de culto cercanos al lugar en donde se encuentra el establecimiento para el que se solicitó el permiso, por corresponder a la verificación de información que ya se había aportado, sin que ello implique el incumplimiento a lo establecido por el Pleno Jurisdiccional de la Sala Superior de este Tribunal mediante la sentencia dictada en el diverso juicio 24727/18-17-114-1449/22-PL03-4.
+
+100.Resulta aplicable la jurisprudencia emitida por la entonces Tercera Sala de la Suprema Corte de Justicia de la Nación, consultable en el Semanario Judicial de la Federación, Sexta Época, Volumen CXXVI, Cuarta Parte, página veintisiete, de rubro y texto:
+
+CONCEPTOS DE VIOLACIÓN. SON INOPERANTES SI NO ATACAN LOS FUNDAMENTOS DEL FALLO RECLAMADO. Si los conceptos de violación no atacan los fundamentos del fallo impugnado, la Suprema Corte de Justicia no está en condiciones de poder estudiar la inconstitucionalidad de dicho fallo, pues hacerlo equivaldría a suplir las deficiencias de la queja en un caso no permitido legal ni constitucionalmente, si no se está en los que autoriza la fracción II del artículo 107 reformado, de la Constitución Federal, y los dos últimos párrafos del 76, también reformado, de la Ley de Amparo, cuando el acto reclamado no se funda en leyes declaradas inconstitucionales por la jurisprudencia de la Suprema Corte, ni tampoco se trate de una queja en materia penal o en materia obrera en que se encontrare que hubiere habido en contra del agraviado una violación manifiesta de la ley que lo hubiera dejado sin defensa, ni menos se trate de un caso en materia penal en que se hubiera juzgado al quejoso por una ley inexactamente aplicable.
+
+101.3. Omisión de estudio (domicilio). En el tercer concepto de violación, la persona quejosa aduce que es ilegal la sentencia porque se permite a la autoridad demandada verificar la existencia de instituciones de educación o culto cercanos al lugar en donde se encuentra el establecimiento para el que se solicitó el permiso, tomando en consideración información que no le fue previamente requerida.
+
+102. Añade que la Sala confunde el acto de verificar con el acto de otorgar valor, que para ello el artículo 27 del Reglamento de la Ley Federal de Juegos y Sorteos, indica que se podrá verificar la veracidad de la información, documentación y demás datos proporcionados por el solicitante y, para tal efecto hasta antes de emitir la resolución, podrá requerir que precise la información que resulte necesaria.
+
+103. Expone que la sentencia es ilegal porque la Sala no advirtió que la autoridad demandada no contaba con elementos para valorar el requisito de distancia, por lo que resultó ilegal la prueba obtenida para la supuesta medición.
+
+104. En el cuarto concepto de violación aduce que se soslayó que la demandada se apoyó en tres elementos de los cuales solo uno fue presentado por la parte actora, por lo que por principio de congruencia se debió declarar la ilegalidad de la resolución por haber valorado elementos probatorios que no se presentaron con la petición.
+
+105. En el quinto concepto de violación sostiene que se vulnera el principio de legalidad porque la demandada recabó y desahogó pruebas que no otorgan fiabilidad y certeza de la información, más aún porque alegó que la liga o enlace de internet contiene una diversa dirección que no hace mención del domicilio de la persona moral quejosa, lo que fue inadvertido por la demandada y omitió analizar debidamente, por lo que es ilegal convalidar y otorgar valor probatorio pleno a las impresiones de captura de la página de google maps.
+
+106. En el sexto concepto de violación señala que la sentencia es ilegal porque la Sala omitió considerar que si la persona moral actora negó lisa y llanamente que al momento de presentar la solicitud de permiso, el establecimiento no se ubica en una distancia menor de doscientos metros de alguna institución educativa o de culto religioso, la carga de la prueba la tenía la demandada sin que la haya desvirtuado. 107. En el octavo concepto de violación la persona quejosa refiere que la Sala consideró acreditado el incumplimiento del requisito de distancia con base en las pruebas que tomó en consideración la demandada transgrediendo lo previsto en el artículo 46 de la Ley Federal de Procedimiento Contencioso Administrativo, aun cuando las pruebas solo tienen valor indiciario porque las páginas que consultó la autoridad administrativa como la Sala no tienen el carácter de información oficial, por lo que la sentencia se apoya en apreciaciones subjetivas.
+
+108. Por la estrecha relación que guardan se estudian en conjunto los argumentos que se proponen, los que a juicio de este Tribunal Colegiado, resultan fundados.
+
+109. El artículo 50 de la Ley Federal de Procedimiento Contencioso Administrativo[14], en la parte que interesa establece el principio de congruencia de las sentencias dictadas por el Tribunal Federal de Justicia Administrativa, que en esencia, consiste en que aquéllas se fundarán en derecho y resolverán sobre la pretensión del actor que se deduzca de su demanda, principio que supone que todas las sentencias se ajusten a la litis planteada, esto es, a lo alegado por las partes, pues es de reconocido derecho que en nuestro sistema procesal, corresponde a las partes fijar los hechos de la litis y al juzgador compete resolverla declarando el derecho, por lo que los juzgadores no pueden fijar la litis en forma distinta a la planteada, ya que deben hacer una precisión correcta de los puntos cuestionados, por ende, existe incongruencia cuando se analizan los conceptos de impugnación en forma distinta a la que fueron expuestos, se introducen argumentos ajenos a la litis o se aborden cuestiones no planteadas en la demanda o bien, se omita estudiar los planteamientos que sí fueron propuestos.
+
+110. Además, doctrinalmente existen dos clases de congruencia, la interna y la externa, la primera consiste en que la sentencia no contenga resoluciones ni afirmaciones que se contradigan entre sí o con los puntos resolutivos; y, la segunda, exige que la sentencia haga ecuación con los términos de la litis, es decir, que exista coherencia entre los planteamientos expresados por las partes y las consideraciones que sobre ellos se realicen, que exista conformidad entre lo pedido y lo resuelto; aspectos que se prevén en el artículo 50 de la Ley Federal de Procedimiento Contencioso Administrativo, al disponer que las sentencias del Tribunal Federal de Justicia Administrativa, han de fundarse en derecho y resolverán sobre la pretensión de la actora que se deduzca en su demanda, en relación con la resolución impugnada, lo que significa que se debe observar en toda sentencia que al resolver la controversia se haga atento a lo planteado por las partes respecto de la resolución, la demanda y la contestación, sin cambiar u omitir nada, ni añadir cuestiones no hechas valer por las partes.
+
+111. Resulta aplicable a lo anterior, por analogía, la jurisprudencia I.1o.A. J/9, consultable en el Semanario Judicial de la Federación y su Gaceta, Tomo VIII, agosto de 1998, novena época, página 764, cuyo rubro y texto son:
+
+PRINCIPIO DE CONGRUENCIA. QUE DEBE PREVALECER EN TODA RESOLUCIÓN JUDICIAL. En todo procedimiento judicial debe cuidarse que se cumpla con el principio de congruencia al resolver la controversia planteada, que en esencia está referido a que la sentencia sea congruente no sólo consigo misma sino también con la litis, lo cual estriba en que al resolverse dicha controversia se haga atendiendo a lo planteado por las partes, sin omitir nada ni añadir cuestiones no hechas valer, ni contener consideraciones contrarias entre sí o con los puntos resolutivos.
+
+112. Aunado a lo anterior, del invocado artículo 50 de la Ley Federal de Procedimiento Contencioso Administrativo, se advierte que las Salas del Tribunal Federal de Justicia Administrativa al dictar sus fallos, resolverán "sobre la pretensión del actor que se deduzca de su demanda, en relación con una resolución impugnada", lo que determina el contenido y finalidad de las sentencias e implica considerar: a) el petitum en relación con un bien jurídico; y, b) la razón de la pretensión o título que es la causa petendi.
+
+113. Es así que el juzgador, sobre la base no formalista de un fundamento de hecho, debe evaluar si la esencia y relevancia de lo planteado es conforme con el ordenamiento, todo ello de una manera razonable, integral y no rigorista, sin desvincularlo de los efectos o consecuencias de la esencia de la pretensión, privilegiando una respuesta basada en la verdad fáctica y real por encima de lo procesal.
+
+114. Lo anterior implicará un pronunciamiento completo y amplio de la litis propuesta atendiendo a la solución de fondo, al problema jurídico y a la controversia, como lo ordena el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos. 115. Aunado a lo anterior, la mencionada ley faculta y conmina a las Salas del mencionado tribunal a pronunciarse sobre los siguientes aspectos:
+
+a) una litis abierta, b) la eventual sustitución en lo que deban resolver las autoridades demandadas, c) invocar hechos notorios, d) resolver el tema de fondo con preferencia a las violaciones formales, e) corregir errores en la cita de preceptos y suplir agravios en el caso de ciertas causas de ilegalidad, f) examinar conjuntamente los agravios, causales de ilegalidad y argumentaciones, g) constatar el derecho que en realidad asista a las partes y, h) aplicar los criterios y principios jurisprudenciales dictados y reconocidos por los tribunales del Poder Judicial de la Federación.
+
+116.Sirve de apoyo a lo anterior, la jurisprudencia I.4o.A.
+
+J/73, visible en el Semanario Judicial de la Federación y su Gaceta, Tomo XXVIII, Noviembre de 2008, Novena Época, página 1259, de rubro y texto:
+
+SENTENCIAS DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA. SU CONTENIDO Y FINALIDAD EN RELACIÓN CON LA PRETENSIÓN DEDUCIDA (INTERPRETACIÓN DEL ARTÍCULO 50 DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO). Del artículo 50 de la Ley Federal de Procedimiento Contencioso Administrativo se advierte que las Salas del Tribunal Federal de Justicia Fiscal y Administrativa al dictar sus fallos, resolverán "sobre la pretensión del actor que se deduzca de su demanda, en relación con una resolución impugnada", lo que determina el contenido y finalidad de las sentencias e implica considerar: a) el petitum en relación con un bien jurídico; y, b) la razón de la pretensión o título que es la causa petendi. Es así que el juzgador, sobre la base no formalista de un fundamento de hecho, debe evaluar si la esencia y relevancia de lo planteado es conforme con el ordenamiento, todo ello de una manera razonable, integral y no rigorista, sin desvincularlo de los efectos o consecuencias de la esencia de la pretensión, privilegiando una respuesta basada en la verdad fáctica y real por encima de lo procesal. Lo anterior implicará un pronunciamiento completo y amplio de la litis propuesta atendiendo a la solución de fondo, al problema jurídico y a la controversia, como lo ordena el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos. Aunado a lo anterior, la mencionada ley faculta y conmina a las Salas del mencionado tribunal a pronunciarse sobre los siguientes aspectos: a) una litis abierta, b) la eventual sustitución en lo que deban resolver las autoridades demandadas, c) invocar hechos notorios, d) resolver el tema de fondo con preferencia a las violaciones formales, e) corregir errores en la cita de preceptos y suplir agravios en el caso de ciertas causas de ilegalidad, f) examinar conjuntamente los agravios, causales de ilegalidad y argumentaciones, g) constatar el derecho que en realidad asista a las partes y, h) aplicar los criterios y principios jurisprudenciales dictados y reconocidos por los tribunales del Poder Judicial de la Federación.
+
+117. Por su parte, el artículo 41 de la Ley Federal de Procedimiento Contencioso Administrativo[15] prevé que el
+
+, Magistrado Instructor podrá acordar la exhibición de cualquier documento relacionado con los hechos controvertidos u ordenar la práctica de cualquier diligencia, pues la facultad de practicar diligencias para mejor proveer contenida en el citado precepto legal, debe entenderse como la potestad del Magistrado para ampliar las diligencias probatorias previamente ofrecidas por las partes y desahogadas durante la instrucción, cuando considere que existen situaciones dudosas, imprecisas o insuficientes en dichas probanzas, por lo que tales ampliaciones resulten indispensables para el conocimiento de la verdad sobre los puntos en litigio.
+
+118. De ahí que, la facultad de ordenar la práctica de las referidas diligencias no entraña una obligación, sino una potestad de la que el magistrado puede hacer uso libremente, sin llegar al extremo de suplir a las partes en el ofrecimiento de pruebas, pues ello contravendría los principios de equilibrio procesal e igualdad de las partes que deben observarse en todo litigio, ya que no debe perderse de vista que en el juicio contencioso administrativo prevalece el principio de estricto derecho.
+
+119. Además, si bien es cierto que conforme al numeral indicado el Magistrado Instructor tiene la potestad de acordar la exhibición de cualquier documento que tenga relación con los hechos controvertidos o de ordenar la práctica de cualquier diligencia para un mejor conocimiento de los hechos controvertidos, también lo es que esa facultad no puede entenderse en el sentido de eximir a la parte actora de su obligación de exhibir las pruebas documentales que ofrezca a fin de demostrar su acción, ni de perfeccionar las aportadas deficientemente para ese mismo efecto, sino que tal facultad se refiere a que puede solicitar la exhibición de cualquier prueba considerada necesaria para la correcta resolución de la cuestión planteada.
+
+120. Sentado lo anterior, es oportuno puntualizar que la persona quejosa demandó la nulidad de la resolución contenida en el oficio DGJS/0129/2024 por medio del cual se resolvió negar el permiso para la instalación y apertura de una sala de sorteos de números y símbolos con un centro de apuestas remotas.
+
+121. El motivo que se expuso para negar el permiso solicitado, fue porque se estableció que en términos de lo previsto por los artículos 9 de la Ley Federal de Juegos y Sorteos y 38 de su Reglamento, ningún establecimiento en el que se practiquen juegos de apuestas y sorteos, podrá instalarse a menos de doscientos metros de distancia de instituciones de educación básica, media superior y superior, así como de los lugares de culto público, que se encuentren registradas en la Secretaría de Gobernación; cuya observancia era de orden público e interés social.
+
+122. Que del escrito que presentó la solicitante del permiso, advirtió cual era el domicilio en el que se pretende instalar el establecimiento, luego se realizó una búsqueda en el Sistema Integral de Información Educativa del Estado de Tamaulipas, Sistema de Información y Gestión Educativa de la Secretaria de Educación Pública y el Catálogo Nacional de Centros de Trabajo de la Secretaria de Educación Pública; y se encontraron dos centros educativos, por lo que se acudió a la consulta del mapa contenido en la plataforma google maps y se concluyó que dichos centros se encuentran a menos de doscientos metros del establecimiento donde se pretende instalar la sala de sorteos, por lo que se negó la solicitud.
+
+123. En la sentencia reclamada, la responsable consideró infundados los conceptos de impugnación que se hicieron valer, porque estimó que la resolución impugnada era legal porque se emitió con apoyó en los artículos 9 de la Ley Federal de Juegos y Sorteos y 38 de su Reglamento, además porque se basó en la valoración correlacionada de tres elementos probatorios, consistentes en el escrito por el que la actora manifestó el domicilio del establecimiento; los datos obtenidos en la búsqueda del Sistema Integral de Información Educativa del Estado de Tamaulipas, Sistema de Información y Gestión Educativa de la Secretaria de Educación Pública y el Catálogo Nacional de Centros de Trabajo de la Secretaria de Educación Pública; y los datos obtenidos de la consulta de la página de internet google maps.
+
+124. Precisó que los mencionados medios probatorios debían ser valorados en términos de lo dispuesto por los artículos 46, fracción III, de la Ley Federal de Procedimiento Contencioso Administrativo, en relación con los diversos 88, 210-A y 217 del Código Federal de Procedimientos Civiles, de aplicación supletoria a la materia.
+
+125. Señaló que son fiables los datos obtenidos de la búsqueda del Sistema Integral de Información Educativa (SIIE), del Estado de Tamaulipas, Sistema de Información y Gestión Educativa de la Secretaría de Educación Pública y el Catálogo Nacional de Centros de Trabajo de la Secretaría de Educación Pública, por tratarse de páginas de internet institucionales habilitadas por el Gobierno Estado de Tamaulipas, la Secretaría de Educación Pública, las que permiten su ulterior consulta a fin de constatar el registro y funcionamiento de los centros educativos conocidos.
+
+126. Añadió que, en cuanto a los datos obtenidos de la consulta a la aplicación de internet conocida como "Google Maps", es un hecho notorio la fiabilidad y accesibilidad de la generación y conservación de los datos contenidos en la misma, así como su facilidad de consulta a fin de constatar su veracidad; incluso la Sala refirió que constató la información en el vínculo https://mapsplatform.google.com/intl/es/solutions/visualize-data/ de la cual conoció que la existencia de las instituciones que citó la demandada y la medición efectuada con el establecimiento.
+
+127. Por esas razones, concluyó que era válido que la autoridad demandada basara su decisión de negar el permiso solicitado por la actora, pues consideró debidamente fundada y motivada la resolución impugnada.
+
+128. Conforme a lo anterior, se pueden deducir dos cuestiones o problemas relevantes: (I) el primero, determinar si Google Maps es una herramienta susceptible de motivar el incumplimiento al artículo 38 del Reglamento de la Ley Federal de Juegos y Sorteos; (II) en caso de estimarse que es dable que la autoridad administrativa recurra a esa herramienta para motivar su decisión, debe verificarse si, en el caso concreto, la autoridad demanda justificó, explicó y se cercioró de que las direcciones conforme a las cuales realizó el cálculo de distancias entre inmuebles, a través de Google Maps, sean acertadas y, desde luego, si esto fue analizado por la Sala responsable.
+
+129. Cada uno de estos problemas amerita una análisis individualizado y propio. Pues mientras el primero atañe a la posibilidad misma de motivar la decisión administrativa de negar la autorización para instalar un establecimiento de juegos y sorteos, por incumplimiento a los requisitos de distancia mínima con instituciones escolares, lo cual se verificó a través de una aplicación tecnológica –la ilegalidad del acto administrativo ante el empleo de esa herramienta o servicio de geolocalización–, la segunda, en cambio, se dirige a determinar que las direcciones o ubicaciones con base en las cuales se realizó la medida de distanciamiento entre los inmuebles, sean las correctas –la ilegalidad de la determinación ante la omisión de verificar que las direcciones empleadas en Google Maps sean las correctas–.
+
+130. 3.1. El empleo de Google Maps como herramienta para determinar el cumplimiento de normas de distanciamiento administrativas. En principio este Tribunal Colegiado estima que sí resulta dable que la autoridad administrativa emplee dicha tecnología para efectos de verificar el cumplimiento del precepto 38 de Reglamento de la Ley Federal de Juegos y Sorteos.
+
+131. Al respecto, se estima oportuno realizar diversas precisiones. La primera, es que dicha herramienta tecnológica no fue aportada o exhibida como tal, en el juicio contencioso de origen para acreditar alguna acción o excepción. Sino que fue incorporada como parte de las razones fácticas jurídicas que sustentan la resolución impugnada en el juicio de origen. Es decir, forma parte misma de la fundamentación y motivación de la decisión administrativa de negar la autorización del establecimiento de juegos y sorteos, en razón del incumplimiento al requisito de distancia mínima a que alude el precepto 38 reglamentario ya referido.
+
+132. Es un hecho notorio que la Administración se enfrenta a cambios significativos cuyas consecuencias afectan a varios de sus elementos estructurales. “El paso acelerado de los avances en el mundo digital está demostrando ser una fuerza desestabilizadora en el derecho administrativo y seguirá siéndolo en los próximos años[16]”. Se trata de un cambio de tal naturaleza y magnitud que puede considerarse “un verdadero cambio generacional, similar al crecimiento del Estado de bienestar o al impulso hacia la privatización de los servicios públicos[17]”.
+
+133. Los sistemas de toma de decisiones con apoyo digital “modifican de manera significativa la forma en que se toman las decisiones administrativas. Además, pueden influir en el acceso de las personas a la justicia administrativa y en su experiencia con ella”[18]. Hoy en día, las decisiones administrativas siguen siendo decisiones de individuos dentro de las instituciones, “pero las tareas de toma de decisiones se distribuyen entre una red más amplia de funcionarios humanos y tecnologías de asistencia y coercitivas[19]”.
+
+134. El empleo de herramientas tecnológicas es susceptible de hacer más eficiente a la administración, así como reducir costes en la gestión administrativa. Al final de cuentas, “los resultados de cada administración pública dependen también de su capacidad de innovación”[20]. Por ello, sería ingenuo y, acaso perjudicial, desaprovechar los avances tecnológicos en el desarrollo de la actividad administrativa y en la toma de decisiones públicas.
+
+135. Sin embargo, “el fin (la prosecución del interés general) no habilita a la Administración a utilizar cualquier medio[21]”. Existen determinados ámbitos de actuación en los que, si se quieren emplear sistemas algorítmicos o tecnológicos, “debe hacerse reforzando la transparencia y las garantías de los interesados que puedan verse significativamente afectados como consecuencia de su uso[22]”.
+
+136. En ese sentido, con independencia de que la resolución haya sido dictada por un ser humano, mediante un sistema de inteligencia artificial o por un servidor público que ha sido apoyado con alguna herramienta o sistema tecnológico, “para el ciudadano de a pie lo esencial es que pueda conocer, en lenguaje natural, las razones fácticas y jurídicas que motivan la resolución[23]”.
+
+137. En es sentido, si “la tecnología empleada permite dar buena cuenta de los fundamentos de hecho y de Derecho que motivan la decisión, no existen razones, más allá de las filosóficas, éticas o morales, para no poner a disposición de la Administración estas herramientas[24]”. Lo esencial es que se respete el deber de motivación y que exista un órgano administrativo responsable de la decisión. “Qué herramienta se utilice para motivar el acto es secundario[25]”.
+
+138. De hecho, en la administración pública federal existen diversos ejemplos de la actuación administrativa soportada o justificada mediante el uso de herramientas o sistemas tecnológicos. Piénsese en el Sistema de Recaudación Fiscal (TRM) a virtud del cual, entre otras cuestiones, refleja la información recabada de la plataforma tecnológica del Instituto del Fondo Nacional de la Vivienda para los Trabajadores proporcionada por el patrón.
+
+139. O el Servicio Integral de Registro de Obras de Construcción (SIROC) del IMSS el cual es un aplicativo desarrollado que permite a los patrones dedicados a la actividad de construcción dar cumplimiento e forma digital a las obligaciones informativas que tienen. La Oficina Virtual para atención a los derechohabientes (SINAVID) del ISSSTE, que funciona como un expediente electrónico único para trabajadores y pensionados. Inclusive, hoy en día el SAT puede realizar el embargo por medios remotos o virtuales a través del buzón tributario.
+
+140. Desde luego, una cuestión importante atañe a la fiabilidad misma de la herramienta tecnológica que pretenda utilizarse para sustentar una decisión administrativa. En el caso concreto, se estima que, para los efectos de la medición de distancia entre un inmueble y otro, Google Maps cuenta con un grado de fiabilidad suficiente y adecuado. 141. Dicho aserto se deriva de la consulta que este Tribunal Federal hace a tres modelos de inteligencia artificial, a saber: Gemini, Grok y Chat GPT. En efecto, ante el avance de las nuevas tecnologías y las tendencias emergentes de justicia digital, la inteligencia artificial es una herramienta innovadora que puede incorporarse a los procesos para facilitar el razonamiento numérico dentro de labores jurisdiccionales.
+
+142. Este mecanismo, recomendable desde una visión institucional de los tribunales que adoptan mejores prácticas para la administración de justicia, permite a las personas juzgadoras obtener datos auditables que muestran de manera transparente cómo se cuantifica una garantía. De esta forma se preserva el núcleo esencial de la función jurisdiccional, a la vez que se refuerza la motivación y transparencia del fallo, en consonancia con un principio de justicia digital y los estándares de motivación previstos en el artículo 16 de la Constitución Federal.
+
+143. Es preciso resaltar que la utilización de la inteligencia artificial no resulta aplicable en todos los casos, sino que ese Tribunal Federal, de manera prudente procede a su uso a partir de que permite la comprobación de elementos que son verificables a través de los modelos que han quedado indicados y solo para reforzar y motivar la determinación adoptada en el presente juicio.
+
+144. Sirve de sustento a lo anterior, la tesis II.2o.C.8 K (11a.), que este Tribunal Federal comparte, de rubro: “INTELIGENCIA ARTIFICIAL APLICADA EN PROCESOS JURISDICCIONALES. CONSTITUYE UNA HERRAMIENTA VÁLIDA PARA CALCULAR EL MONTO DE LAS GARANTÍAS QUE SE FIJEN EN LOS JUICIOS DE AMPARO”.
+
+145. Una vez precisado lo anterior, respecto a la fiabilidad de Google Maps como herramienta de geolocalización para medir distancias entre inmuebles, este Tribunal obtuvo el siguiente análisis usando el mismo “prompt” o pregunta a tres sistemas de inteligencia artificial, tal y como se desprende del siguiente cuadro comparativo: 2. Factores que afectan la fiabilidad
+
+No todos los puntos en el mapa tienen la misma precisión. Aquí es donde debes tener cuidado:
+
+• Desplazamiento de imágenes (Orthorectification): A veces, la capa del mapa (las calles dibujadas) no coincide perfectamente con la capa de imagen (la foto).
+
+Si mides desde una foto que tiene un ligero "desplazamiento", podrías errar por varios metros.
+
+• Efecto de "Parallax" en edificios: En las fotos aéreas, los edificios altos parecen "inclinados". Si intentas medir la base de un inmueble pero haces clic en la sombra o en el borde del tejado, la medición será incorrecta.
+
+• La curvatura de la Tierra: Para distancias cortas entre dos inmuebles, este error es despreciable, pero Google lo calcula automáticamente mediante algoritmos de gran círculo.
+
+3. Comparativa de Fiabilidad
+
+¿Es Contexto de uso Razón
+
+fiable?
+
+Un error de 2 metros no Logística/Entregas Sí (99%) afecta la llegada de un
+
+paquete.
+
+Sirve para anteproyectos, Planificación Relativo
+
+pero requiere validación en urbana (80%)
+
+campo.
+
+Jamás debe sustituir a un Límites de condiciones normales.
+
+• Para distancias más largas, el error relativo es pequeño (menos del 1%), pero el absoluto puede aumentar. • Si usas la herramienta de “medir distancia” en el mapa (línea recta), es más precisa que calcular rutas.
+
+Factores que afectan la precisión
+
+1. Calidad del posicionamiento (GPS)
+
+• Si tomas puntos desde tu ubicación actual, depende del GPS de tu dispositivo.
+
+• En ciudades con edificios altos (como muchas zonas de CDMX), el error puede subir a ±5–15 metros.
+
+2. Exactitud del mapa base
+
+• Google usa imágenes satelitales y datos cartográficos. • Si un inmueble está mal delimitado o desactualizado, la medición puede desplazarse algunos metros.
+
+3. Tipo de medición
+
+• Línea recta (herramienta “medir distancia”): más exacta geométricamente.
+
+• Ruta (a pie o en coche): menos útil para “distancia real entre inmuebles” porque sigue calles, no la distancia directa.
+
+4. Precisión al seleccionar puntos
+
+• Si haces clic manualmente, puedes introducir error metros entre dos inmuebles (por ejemplo, dos edificios o propiedades), pero su precisión depende del contexto, la distancia y el tipo de medición que uses. No es un instrumento topográfico profesional (como un teodolito o GPS de alta precisión), por lo que tiene limitaciones. Te explico paso a paso el razonamiento y los factores que influyen.
+
+1. ¿Cómo calcula Google Maps las distancias?
+
+- Distancia en línea recta (straight-line o "Measure distance"):
+
+Usas el clic derecho → "Medir distancia". Calcula la distancia geodésica (siguiendo la curvatura de la Tierra) entre dos puntos en el mapa o imagen satelital. Se basa en coordenadas GPS (generalmente WGS84) y fórmulas como la de Haversine o Vincenty.
+
+- Distancia por ruta: Para caminar, conducir o bicicleta, sigue caminos reales y puede ser mucho más larga que la línea recta.
+
+- Para inmuebles cercanos (decenas o cientos de metros), la mayoría de la gente usa la **línea recta** en vista satélite.
+
+La base de datos combina:
+
+- Imágenes satelitales/aéreas de alta resolución (sub-métricas en ciudades grandes).
+
+- Datos de elevación (terreno y edificios en 3D en algunas zonas).
+
+- Modelos matemáticos precisos.
+
+2. Nivel de precisión y error típico
+
+Para distancias cortas (entre inmuebles en la misma manzana o barrio, < 1-2 km):
+
+ser excelente (<1 metro/píxel). En periferias o países en desarrollo, puede ser peor.
+
+- Posición exacta de los inmuebles: Los pines o clics se colocan en el centro del edificio o en la fachada. Si los inmuebles tienen forma irregular o hay proyecciones (balcones, etc.), hay que elegir puntos representativos (ej. esquina a esquina). - Elevación y 3D: Si hay diferencia de altura significativa (cuesta, edificios altos), la distancia en mapa plano subestima ligeramente la real (distancia en 3D). El error es pequeño para distancias horizontales cortas.
+
+- Actualizaciones: Las imágenes se actualizan periódicamente; en zonas activas (ciudades) son recientes.
+
+- Modo de uso: La herramienta "Measure distance" es más precisa que estimaciones automáticas de rutas. La Distance Matrix API (para desarrolladores) da distancias en metros con buena precisión, pero redondea y snappea a carreteras en algunos casos.
+
+Comparaciones con GPS real o láser suelen mostrar que Google Maps es **sorprendentemente bueno** para uso cotidiano, pero no sustituye una medición profesional si necesitas exactitud legal o de construcción (donde se usan errores de centímetros).
+
+4. ¿Para qué es fiable y para qué no?
+
+- Muy fiable (error bajo, usable sin problema):
+
+- Estimar distancia entre dos casas o lotes para orientación personal.
+
+- Planificar recorridos a pie o en auto (la distancia por ruta es muy buena en ciudades).
+
+- Análisis preliminares (ej. ¿está a menos de 500 m de un servicio?). 146. Como se aprecia, Google Maps constituye una herramienta eficaz para obtener estimaciones de distancia.
+
+Especialmente, en tratándose de “distancia lineal”, pues en condiciones óptimas el margen de error es menor al 5 %. Es sumamente fiable para distancias mayores a 100 metros. Una precisión de al menos 95 % para estas mediciones, lógicamente la vuelve un método fiable, por lo cual puede ser aprovechado por la administración pública.
+
+147. Esa fiabilidad únicamente atañe a la idoneidad de que pueda ser empleada como parte de la motivación del acto administrativo, pues, lógicamente, aquellas personas que cuenten con interés para impugnarla pueden ofrecer pruebas que desvirtúen el cálculo realizado mediante Google Maps, como lo sería, especialmente, la pericial en materia de topografía –cuestión que la persona quejosa no hizo en el juicio contencioso de origen–.
+
+148. Lo relevante, se insiste, es que el grado de fiabilidad de Google Maps, para efectos de la medición de distancias entre inmuebles, la hace apta para apoyar la decisión administrativa. En ese sentido, este Tribunal estima que el hecho de que las autoridades administrativas, encargadas de verificar los requisitos legales y reglamentarios para la instalación de establecimientos de juegos y sorteos, se apoyen en Google Maps para verificar que se cumpla con el requisito de distancia mínima a que se refiere el precepto 38 del Reglamento de la Ley Federal de Juegos y Sorteos, no torna ilegal a la decisión administrativa.
+
+149. Lo anterior, siempre y cuando, al motivar dicha decisión, las autoridades administrativas transparenten el uso de Google Maps; precisen los domicilios o ubicaciones con base en los cuales se realizó la medición y, en general, razonen, con base en datos objetivos, la resolución respectiva, plasmando la evidencia que arrojo tal instrumento de geolocalización.
+
+150. Es así, pues sólo de esa manera se cumplirá con el deber de fundar y motivar, adecuadamente, el acto administrativo. Asimismo, es el cumplimiento de esa exigencia, lo que permite dar la oportunidad a la persona interesada de cuestiona, en sede administrativa o jurisdiccional, la veracidad de lo así determinado. La motivación del acto administrativo, desde luego, no puede delegarse o relegarse a herramientas tecnológicas. El avance y progreso de la tecnología no puede traducirse en la opacidad de la actividad administrativa.
+
+151. Una vez precisado lo anterior, se procede a examinar el siguiente planteamiento que atañe, justamente, al cumplimiento del deber de motivación de la decisión administrativa impugnada en el juicio de origen, por lo que hace a la forma en que se empleó Google Maps y el resultado de la distancia entre el establecimiento que pretende instalar la persona quejosa y dos centros educativos.
+
+152. 3.2. Justificación y motivación de la decisión administrativa por lo que hace a la medición obtenida a través de Google Maps. A juicio de este tribunal le asiste razón a la persona quejosa, porque la Sala responsable no atendió a lo argumentado en los conceptos de impugnación en los que sostuvo que no está debidamente justificada ni motivada la determinación impugnada, porque de la información obtenida a través de los sistemas de información educativa del Estado de Tamaulipas de la Secretaría de Educación Pública, así como de la consulta de google maps y del mapa inserto, no se advierte el método, procedimiento y técnica empleada para realizar la medición; aunado a que el domicilio que proporcionó es calle ******* y la autoridad alude a la calle **** ***** ******* * *****, y porque la liga de internet a que alude es relativa al domicilio ubicado en ***********************, el cual es distinto a la calle *******.
+
+153. En efecto, la Sala otorgó valor probatorio pleno a las probanzas que tomó en consideración la autoridad responsable, y estimó que de ellas se advertía que efectivamente el establecimiento para el que se solicitó la autorización del centro de apuestas remotas con sala de sorteos, no cumple con el requisito previsto en los artículos 9 de la Ley Federal de Juegos y Sorteos y 38 de su Reglamento.
+
+154. Porque estimó que en los datos obtenidos en páginas de internet institucionales abiertas al públicos en general, de donde conoció la existencia de las instituciones educativas preparatoria ******* ******* , ubicada en **** ***** ******* , número ***, Colonia **** ****** , ********, Tamaulipas y el jardín de niños "******", ubicado en **** ***** ******* número ***, **** ******, ********, Tamaulipas, México, así como de la medición efectuada a través de la aplicación de "Google Maps", de donde se conoció la distancia que existe entre las referidas instituciones educativas y el establecimiento para el que se solicitó el permiso, ubicado en la Calle ******* (**** ***** ******* * ***** ) número ***, Colonia **** ****** , código postal ***** , en ******** , Tamaulipas, dado que existen elementos que permiten presumir su fiabilidad en cuanto a su generación, conservación y el método empleado para calcular la distancia entre dos puntos, así como la acceso al público en general para su consulta.
+
+155. Aunado a que la Sala responsable sostuvo que constató la información en la plataforma de google maps y estableció la forma en que la aplicación permite la medición de la distancia entre las ubicaciones y por ello concluyó valida la determinación adoptada, además de que sostuvo que ante la presunción de veracidad y certeza de los datos obtenidos a través de las páginas de internet mencionadas con antelación, la actora debía aportar los medios de convicción idóneos y suficientes para demostrar que entre el inmueble en el que solicitó el permitido y los centros educativos median más de doscientos metros, o bien, que no se encuentran en operación.
+
+156. No obstante, la Sala nada refirió con relación a la diferencia que existe en el domicilio que proporcionó la persona moral quejosa y el que se cita en la resolución impugnada, tampoco estudio lo argumentado en relación a la diferencia en la nomenclatura de la calle que se proporcionó del establecimiento y la que se cita en la resolución impugnada, de ahí que la responsable incurre en violación a los principios de congruencia y exhaustividad.
+
+157. Tampoco explicó la responsable cómo es que corroboró o comprobó que el domicilio donde se pretende establecer el establecimiento es el que se cita en la resolución impugnada y sobre todo, cómo lo identificó en la página de google maps, aun cuando existe diferencia en el nombre de la calle y número con el que se proporcionó por la persona moral solicitante.
+
+158. Aunado a lo anterior, debe dejarse acotado que, de conformidad con lo previsto en el artículo 41 de la Ley Federal de Procedimiento Contencioso Administrativo, el Tribunal Federal de Justicia Administrativa, debe realizar el ejercicio de ponderación de dicho precepto, consistente en que se podrá acordar la exhibición de cualquier documento relacionado con los hechos controvertidos u ordenar la práctica de cualquier diligencia, para mejor proveer, cuando considere que existen situaciones dudosas, imprecisas o insuficientes en dichas probanzas, para el conocimiento de la verdad.
+
+159. Respecto al contenido y alcance de dicho precepto legal, el deber de ejercer esta facultad dependerá de cada caso (pues es evidente que no puede tener lugar en la totalidad de los juicios contenciosos), lo cierto es que, cuando en el juicio contencioso administrativo la parte actora aporte una prueba de la cual, indiciariamente, se desvirtue el contenido del acto administrativo impugnado, entonces, resulta necesario, en tales casos, que conforme al citado precepto legal, se desahoguen la pruebas conducentes a determinar si la ubicación del domicilio del establecimiento que consideró la autoridad responsable está debidamente corroborada y de ahí analizar la distancia de este con los centros educativos a que se alude, a fin de estar en aptitud de resolver conforme a derecho. 160. En efecto, ante la duda o incertidumbre sobre la ubicación del domicilio exacto, asi como la forma y métodoque se utilizo para realizar las mediciones correspondientes, la Sala debe adoptar una conducta activa y oficiosa de allegarse de las pruebas necesarias para poder resolver sobre la invalidez del actuar administrativo impugnado (es decir, para disipar la duda).
+
+161. En suma, en estos casos, tal y como lo determinó este Tribunal Federal en los amparos directos 452/2022 y 640/2024, y que se invoca como un hecho notorio por analogía, la duda o incertidumbre sobre la veracidad de lo argumentado por la accionante, no debe resolverse en perjuicio de la acción, sino dar lugar a recabar las pruebas conducentes, a fin de emitir una decisión informada respecto a las pretensiones del administrado. Máxime cuando, como en el caso concreto, de la existencia de tales probanzas dependerá la determinación de la validez del actuar administrativo impugnado.
+
+162. Luego, unicamente en el caso que se estime necesario, la Sala podrá apoyarse, mediante la coordinación con las diversas Salas que ejerzan jurisdicción en el Municipio de Altamira, Tamaulipas, para oficiosamente allegarse de pruebas tendentes a evidenciar si en el caso concreto se cumple con el requisito de distanciamiento mínimo a que se ha hecho referencia.
+
+163. Ello, pues el cumplimento de tal exigencia es de interés social y orden público, luego resulta indispensable para que, la instalación de estos establecimientos comerciales, no afecten los derechos de la niñez, el derecho a la salud y el sano desarrollo de las personas.
+
+164. Asimismo, la Sala responsable tiene amplias libertades para determinar, en caso de que no se cuenten con los elementos necesarios o estime que no es dable allegarse de medios probatorios para determinar lo anterior, opere no bajo el modelo de plena jurisdicción, sino de mera anulabilidad.
+
+165. En ese sentido, únicamente en caso de que, con plena libertad de jurisdicción, estime que el empleo de Google Maps, por la manera en que fue consultado y las direcciones en que se basó la autoridad administrativa, no cumple con la exigencia de motivación, podrá dictar una nulidad para efectos de que la autoridad emita una nueva determinación, dentro del plazo que establece la Ley Federal de Procedimiento Contencioso Administrativo, en la que motive y funde adecuadamente si la parte actora cumple con el referido requisito de distanciamiento y emita la decisión que en Derecho corresponda. 166. En las relacionadas condiciones, al haber resultado substancialmente fundados los argumentos planteados, lo procedente es conceder la protección federal solicitada.
+
+167. Finalmente, respecto de los alegatos formulados por la autoridad tercera interesada, debe decirse que no es necesario hacer mayor pronunciamiento porque en ellos, dichas autoridades se encaminan a fortalecer las consideraciones que la Sala plasmó en la sentencia reclamada.
+
+168. Tiene aplicación la jurisprudencia P./J. 26/2018 (10a.), emitida por el Pleno de la Suprema Corte de Justicia de la Nación, de la Décima Época, visible en la Gaceta del Semanario Judicial de la Federación, libro 60, noviembre de 2018, Tomo I, Materia(s): Común, página 5, de rubro y texto:
+
+ALEGATOS EN EL JUICIO DE AMPARO DIRECTO. SI BIEN LOS TRIBUNALES COLEGIADOS DE CIRCUITO DEBEN ESTUDIARLOS, NO NECESARIAMENTE DEBEN PLASMAR ALGUNA CONSIDERACIÓN AL RESPECTO EN LA SENTENCIA. En términos del artículo 181 de la Ley de Amparo, después de que hayan sido notificadas del auto admisorio de la demanda, las partes tendrán 15 días para formular alegatos, los cuales tienen como finalidad que quienes no ejercieron la acción de amparo directo puedan ser escuchados, al permitírseles formular opiniones o conclusiones lógicas respecto de la promoción del juicio de amparo, por lo que se trata de una hipótesis normativa que garantiza un debido proceso en cumplimiento a las formalidades esenciales del procedimiento que exige el párrafo segundo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos. De esa forma, el debido proceso se cumple con brindar la oportunidad de manifestarse y el correlativo deber del tribunal de estudiar las manifestaciones, sin que ello pueda traducirse en una obligación de un pronunciamiento expreso en la sentencia, en tanto que no todo ejercicio analítico que realiza un órgano jurisdiccional respecto del estudio de las constancias debe reflejarse forzosamente en una consideración. Por todo lo anterior, el órgano jurisdiccional es el que debe determinar, en atención al caso concreto, si plasma en la resolución el estudio de los alegatos formulados por las partes, en el entendido de que, en cumplimiento a la debida fundamentación y motivación, si existiera alguna incidencia o cambio de criterio a partir del estudio de dichos argumentos, sí resultaría necesario referirlo en la sentencia, como, por ejemplo, el análisis de una causal de improcedencia hecha valer. Así, el ejercicio de esta facultad debe darse en cumplimiento al artículo 16 constitucional que ordena a las autoridades fundar y motivar sus actos, así como al diverso artículo 17 constitucional que impone una impartición de justicia pronta, completa e imparcial.
+
+VII. EFECTOS DEL AMPARO.
+
+169. Al atender a lo argumentado en el considerando que antecede, con apoyo en los artículos 74, fracciones V y VI, y 77, de la Ley de Amparo, se concede a la persona quejosa el amparo que solicita para el efecto de que la autoridad responsable la entonces Segunda Sala Regional Norte Este del Estado de México del Tribunal Federal de Justicia Administrativa (ahora Segunda Sala Regional en el Estado de México I del Tribunal Federal de Justicia Administrativa) se conduzca en los términos siguientes:
+
+I. Deje insubsistente la sentencia reclamada de treinta de septiembre de dos mil veinticuatro, emitida en el juicio contencioso administrativo 422/24-11-02-7.
+
+II. Emita otra en la que estudie todos los agravios que hizo valer la persona actora en sus conceptos de impugnación, especialmente, por lo que hace a la manera en que se empleó Googe Maps y las direcciones en que se basó la decisión administrativa.
+
+III. Hecho lo anterior, resuelva con plena libertad de jurisdicción.
+
+VIII. DECISIÓN.
+
+170. Por lo expuesto, fundado y con apoyo, además, en lo dispuesto por los artículos 73, 74, 75, 77, 170 y demás relativos de la Ley de Amparo, se
+
+R E S U E L V E:
+
+ÚNICO. La Justicia de la Unión ampara y protege a *********** *****, sociedad anónima de capital variable, contra el acto y la autoridad precisados en el considerando segundo de este fallo, para los efectos precisados en el último considerando de esta ejecutoria.
+
+Notifíquese y electrónicamente a la quejosa, con testimonio de esta resolución; una vez que fenezca el plazo para la interposición del recurso de revisión, vuelvan los autos al lugar de su procedencia; háganse las anotaciones correspondientes en el libro de control y, en su oportunidad archívese este expediente como asunto concluido, el cual es susceptible de conservación conforme a lo que se prevé en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de valoración, destrucción, digitalización, transferencia, resguardo y destino final de los expedientes judiciales generados por los órganos jurisdiccionales y en el Manual para la organización de los archivos judiciales resguardados por el Consejo de la Judicatura Federal.
+
+Así lo resolvió en sesión ordinaria virtual, el Segundo Tribunal Colegiado en Materia Administrativa del Segundo Circuito, por unanimidad de votos del Magistrado Isidro Emmanuel Muñoz Acevedo (presidente), de la Magistrada Elizabeth Vázquez Pineda y del Secretario en funciones de Magistrado Edgar Iván Jiménez Sánchez, este último adscrito mediante Acuerdo General del Pleno del Órgano de Administración Judicial por el que se adscriben a las Personas Electas en el Proceso Electoral Extraordinario a diversos cargos del Poder Judicial de la Federación 2024-2025, asimismo, se comisionan, reubican y readscriben, a personas funcionarias de los Órganos Jurisdiccionales, se designan y, en su caso, prorrogan a personas Secretarias en funciones de personas juzgadoras a partir del diecisiete de septiembre de dos mil veinticinco; siendo ponente el primero de los nombrados.
+
+Firman electrónicamente los integrantes de este Tribunal Colegiado, así como el Secretario de Acuerdos que autoriza y da fe.
+
+MAGISTRADO PRESIDENTE
+
+[Firma electrónica]
+
+ISIDRO EMMANUEL MUÑOZ ACEVEDO.
+
+MAGISTRADA [Firma electrónica]
+
+ELIZABETH VÁZQUEZ PINEDA.
+
+SECRETARIO EN FUNCIONES DE MAGISTRADO
+
+[Firma electrónica]
+
+EDGAR IVÁN JIMÉNEZ SÁNCHEZ.
+
+SECRETARIO DE ACUERDOS
+
+[Firma electrónica]
+
+ANDRÉS DONALDO ROJAS MARTÍNEZ.
+
+RAZÓN. El día de la última firma y autorización electrónica en el Sistema Integral de Seguimiento de Expediente, se dio cumplimiento a lo dispuesto por el artículo 184, segundo párrafo y 188, primer párrafo, de la Ley de Amparo, por así haberlo permitido las labores de este Tribunal Colegiado de Circuito; asimismo, se hace constar que la presente foja corresponde a la parte final de la ejecutoria de fecha nueve de abril de dos mil veintiséis, dictada por este Segundo Tribunal Colegiado en Materia Administrativa del Segundo Circuito, en los autos del expediente Amparo Directo 658/2024, promovido por *********** *****, Sociedad Anónima de Capital Variable.- Conste.
+
+SECRETARIO DE ACUERDOS [Firma electrónica]
+
+Autoridad Certificadora Intermedia del Consejo de la Judicatura Federal
+
+[FIRMA ELECTRÓNICA] Firmantes: ANDRES DONALDO ROJAS MARTINEZ; EDGAR IVAN JIMENEZ SANCHEZ; ISIDRO EMMANUEL MUÑOZ ACEVEDO; ELIZABETH VAZQUEZ PINEDA
+
+Cadena firma: El veintidos de abril de dos mil veintiseis, la licenciada Nancy Iran Zariñan Barrera, Secretario(a), con adscripción en el Segundo Tribunal Colegiado en Materia Administrativa del Segundo Circuito, hago constar y certifico que en esta versión pública no existe información clasificada como confidencial o reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública. Conste.
+
+[NOTAS AL PIE Y TEXTO MARGINAL]
+
+[FIRMA ELECTRÓNICA] ANDRÉS DONALDO ROJAS MARTÍNEZ
+ANDRES DONALDO ROJAS MARTINEZ 706a6620636a6633000000000000000000013073 16/04/27 09:29:43 PJF - Versión Pública REALIZADO EN EL PROYECTO, HA SIDO PUBLICADO EN LA PÁGINA WWW.CJF.GOB.MX, EN EL APARTADO DE 'LISTAS DE SESIÓN', HABILITADO POR EL CONSEJO DE LA JUDICATURA FEDERAL, QUE EL MISMO ABRE CORRECTAMENTE Y QUE QUEDA A DISPOSICIÓN DE LAS PARTES INTERESADAS EN DICHOS ASUNTOS PARA SU CONSULTA. LO ANTERIOR PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR. DOY FE. SECRETARIO DE ACUERDOS [FIRMA ELECTRÓNICA] ANDRÉS DONALDO ROJAS MARTÍNEZ OCTUBRE 2024 D L M M J V S
+1 2 3 4 5
+8 11
+6 7 9 10 12 a) b)
+13 14 15 16 17 18 19
+20 21 22 23 24 25 26
+27 28 29 30 31
+[1] Gaceta del Semanario Judicial de la Federación, Libro 36, Noviembre de 2016, Tomo II, página 902.
+[2] https://www.who.int/es/news-room/fact-sheets/detail/gambling
+[3] Gaceta del Semanario Judicial de la Federación. Libro 36, Noviembre de 2016, Tomo II, página 911
+[4] Semanario Judicial de la Federación y su Gaceta, Tomo XXXIV, Agosto de 2011,
+[5] Pleno. Semanario Judicial de la Federación, Volumen CIII, Primera Parte, página 28.
+[6] Segunda Sala. Semanario Judicial de la Federación. Volumen XIII, Tercera Parte,
+[7] Ibídem. Párrafo 6.
+[8] Ídem.
+[9] ONU. Consejo de Derechos Humanos. Informe del Relator Especial sobre el derecho a la educación, Vernor Muñoz, relativo a su Misión a México. 2 de junio de 2010, párrafo 103.
+[10] ONU. Comité sobre los Derechos de las Personas con Discapacidad. Observación general núm. 4 (2016) sobre el derecho a la educación inclusiva. 25 de noviembre de 2016, párrafo 15.
+[11] Brown v. Board of Education, 347 U.S. 483, 74 S.Ct.686, 98 L.Ed.873 (1954), citado en Education Law, Education Series, capítulo 4, 'Students Rights', Law Journal Press, Nueva York, 2002.
+[12] Wisconsin v. Yoder, 406 U.S.205, 92 S. Ct. 1526, 32 L.Ed.2d 15 (1972), citado en Education Law, Education Series, op. cit.
+[13] Gaceta del Semanario Judicial de la Federación, Libro 36, Noviembre de 2016, Tomo II, página 894.
+[14] ARTÍCULO 50. Las sentencias del Tribunal se fundarán en derecho y resolverán sobre la pretensión del actor que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios. Cuando se hagan valer diversas causales de ilegalidad, la sentencia de la Sala deberá examinar primero aquéllos que puedan llevar a declarar la nulidad lisa y llana. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las leyes, o por vicios de procedimiento, la misma deberá señalar en que forma afectaron las defensas del particular y trascendieron al sentido de la resolución. Las Salas podrán corregir los errores que adviertan en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación. Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda. En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
+[15] ARTÍCULO 41. El Magistrado Instructor, hasta antes de que se cierre la instrucción, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecida por las partes. El magistrado ponente podrá proponer al Pleno o a la Sección, se reabra la instrucción para los efectos señalados anteriormente.
+[16] Daly, Paul and Raso, Jennifer and Tomlinson, Joe, Administrative Law in the Digital World (January 13, 2022). Forthcoming in Carol Harlow ed., Research Handbook on Administrative Law (Edward Elgar, Aldershot, 2021) p.19.
+[17] Ídem.
+[18] Ibidem. p7.
+[19] Ibidem. p.9
+[20] Velasco Caballero, Francisco. Administraciones públicas y derechos administrativos. Marcial Pons. Madrid. 2020. Página 187.
+[21] Tahirí Moreno, J. A. (2025). La actuación administrativa algorítmica: Una propuesta doctrinal desde la dogmática de la acción administrativa y la teoría general de los actos. Revista De Derecho Público: Teoría Y método, 12, página. 98.
+[22] Ídem.
+[23] Ibidem. página 104.
+[24] Ídem.
+[25] Ídem. Gemini Razona y explica La fiabilidad de Google Maps para medir distancias en metros qué tan fiable es es, en términos generales, muy alta para usos cotidianos y Google Maps para estimaciones profesionales preliminares, pero tiene la determinación de limitaciones críticas si lo que buscas es precisión legal o de la distancia en ingeniería civil. metros entre un inmueble y otro. Para entender qué tan fiable es, debemos distinguir entre la precisión del mapa (cartografía) y la precisión de la herramienta de medición. 1. El margen de error técnico Google Maps utiliza una proyección de Mercator modificada. Aunque es excelente para la navegación, la escala puede variar ligeramente dependiendo de la latitud. • Precisión horizontal: En condiciones óptimas, el error suele ser de 1 a 5 metros. • Fuentes de datos: Google utiliza una combinación de imágenes de satélite, fotogrametría aérea y datos de GPS. Las imágenes aéreas (tomadas desde aviones) son mucho más precisas que las de satélite, ya que sufren menos distorsión atmosférica. No (0%) levantamiento topográfico propiedad legal. El veredicto Si necesitas saber si un inmueble está a 50 o 60 metros de otro para un fin informativo, Google Maps es excelente y suficiente. Sin embargo, si la distancia es para un trámite legal, una escritura pública o una construcción donde cada centímetro cuenta, Google Maps no es fiable. Los errores de resolución de píxel y la falta de puntos de control terrestres pueden darte una cifra que un juez o un arquitecto rechazarían. Nota técnica: Para obtener la máxima precisión posible dentro de las herramientas de Google, es mejor usar Google Earth Pro (versión de escritorio), que permite visualizar fechas de imágenes más recientes y herramientas de relieve más avanzadas. Chat GPT La fiabilidad de Google Maps para medir la distancia en metros entre dos inmuebles es generalmente alta, pero no perfecta. Depende de varios factores técnicos y del tipo de medición que estés haciendo. Qué tan preciso es realmente • Para distancias cortas (decenas o pocos cientos de metros), el error suele ser de ±1 a ±5 metros en humano de varios metros. • Zoom alto mejora mucho la precisión. En términos prácticos • Para usos cotidianos o administrativos básicos (por ejemplo, estimar si algo está a 50 m o 100 m): ✅ muy fiable • Para usos técnicos o legales (catastro, deslindes, peritajes): ⚠￿ no suficiente por sí sola • Para decisiones críticas (construcción, límites de propiedad): ❌ se requiere medición topográfica profesional Comparación rápida Uso Fiabilidad de Google Maps Orientación general Muy alta Estimaciones urbanas Alta Ingeniería / topografía Baja Procesos legales Limitada Conclusión Google Maps es una herramienta muy útil y bastante precisa a nivel práctico, pero no está diseñada como instrumento de medición certificada. Puedes confiar en ella para estimaciones razonables, pero no para definir límites exactos entre inmuebles donde unos pocos metros importan legalmente. Grok Google Maps es **bastante fiable** para medir distancias en - El error suele ser de **unos pocos metros** (1-5 metros en promedio en zonas urbanas bien mapeadas). - En pruebas reales (comparadas con cinta métrica, láser o mediciones topográficas conocidas), a menudo coincide con diferencia de menos de 0,2-1% o incluso centímetros en distancias de 50-100 metros. - Ejemplo: En un vídeo de prueba de ~75 metros (248 pies), Google Maps dio prácticamente el mismo valor que un láser (diferencia insignificante, atribuible a la cinta). Para distancias medias o largas: - El error relativo aumenta ligeramente (puede llegar a 0,44% en líneas rectas según estudios en Google Earth, que usa tecnología similar). - Fuentes de error acumulativo: curvatura de la Tierra, alineación de imágenes, relieve. En general: - En ciudades con buena cobertura (EE.UU., Europa, grandes ciudades de Latinoamérica), la precisión horizontal de las imágenes es de **1-2 metros** o mejor. - En zonas rurales o con imágenes antiguas, puede subir a 5-
+15 metros de error. Google mismo indica que las mediciones **no son 100% exactas**, especialmente en terreno 3D o edificios altos (recomienda vista top-down). 3. Factores que afectan la fiabilidad - Resolución de las imágenes: En áreas urbanas densas suele - Menos fiable (usa con precaución): - Mediciones precisas para contratos, lindes legales o construcción (mejor usar topógrafo o herramientas certificadas). - Distancias muy largas (> cientos de km), donde el error porcentual crece. - Zonas con relieve pronunciado o imágenes desactualizadas. Conclusión: ¿Qué tan fiable es? Para la distancia en metros entre dos inmuebles en un contexto urbano normal, Google Maps es altamente fiable (precisión de unos pocos metros, suficiente para el 95% de los usos no profesionales). El error típico es bajo y muchas veces imperceptible. Estudios y pruebas de usuarios confirman que para líneas cortas es "spot-on" o con error <1%. Si necesitas más exactitud (por ejemplo, para un trámite legal o obra), complementa con: - Un láser de mano o app de medición con AR. - Visita in situ con GPS de alta precisión. - Herramientas profesionales como Google Earth Pro con mediciones calibradas, o software GIS. En resumen: Excelente para uso práctico diario, pero no infalible. Siempre verifica visualmente en vista satélite y, si dudas, mide manualmente los puntos clave. ANDRÉS DONALDO ROJAS MARTÍNEZ.
+PJF - Versión Pública

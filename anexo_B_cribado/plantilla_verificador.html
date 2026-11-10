@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Verificar usos de IA</title>
+<style>
+:root{--bg:#faf9f7;--card:#fff;--tx:#1f1e1c;--tx2:#5f5e5a;--tx3:#888780;--bd:#e3e1da;--bd2:#c9c7bf;
+  --ac:#185fa5;--acbg:#e6f1fb;--ok:#3b6d11;--okbg:#eaf3de;--wa:#854f0b;--wabg:#faeeda;--er:#a32d2d;--erbg:#fcebeb;
+  --mk:#fac77580;--mkh:#f0959566}
+@media (prefers-color-scheme:dark){:root{--bg:#1c1c1b;--card:#262624;--tx:#ecebe6;--tx2:#b4b2a9;--tx3:#888780;--bd:#3a3936;--bd2:#55544f;
+  --ac:#85b7eb;--acbg:#0c447c;--ok:#c0dd97;--okbg:#27500a;--wa:#fac775;--wabg:#633806;--er:#f09595;--erbg:#791f1f;--mk:#ef9f2755;--mkh:#e24b4a55}}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.env{max-width:900px;margin:0 auto;padding:16px}
+header{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between}
+h1{font-size:19px;font-weight:600;margin:0}
+.sub{font-size:13px;color:var(--tx2)}
+button{font:inherit;font-size:14px;color:var(--tx);background:var(--card);border:1px solid var(--bd2);border-radius:8px;padding:6px 12px;cursor:pointer}
+button:hover{border-color:var(--tx3)}
+button.prim{background:var(--ac);color:var(--card);border-color:var(--ac)}
+.barra{height:5px;background:var(--bd);border-radius:3px;margin:8px 0 12px}
+.barra div{height:5px;background:var(--ac);border-radius:3px}
+.aviso{background:var(--wabg);color:var(--wa);border-radius:8px;padding:8px 12px;font-size:14px;margin-bottom:12px}
+.mapa{display:flex;flex-wrap:wrap;gap:3px;margin-bottom:12px}
+.mapa span{width:14px;height:14px;border-radius:3px;background:var(--bd);cursor:pointer}
+.mapa span.organo{background:var(--ok)} .mapa span.parte,.mapa span.mencion{background:var(--tx3)} .mapa span.duda{background:var(--wa)}
+.mapa span.actual{outline:2px solid var(--tx);outline-offset:1px}
+.tarjeta{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:18px 20px}
+.datos{font-size:13px;color:var(--tx2);margin:0 0 4px}
+.origen{display:inline-block;font-size:12px;border-radius:6px;padding:1px 8px;background:var(--acbg);color:var(--ac)}
+.pregunta{font-size:20px;font-weight:600;margin:14px 0 4px}
+.especial{background:var(--wabg);color:var(--wa);border-radius:8px;padding:8px 12px;font-size:14px;margin:8px 0}
+.ops{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:8px;margin:10px 0 6px}
+.ops button{text-align:left;padding:10px 12px;line-height:1.35}
+.ops button b{display:block;font-size:15px}
+.ops button span{font-size:12.5px;color:var(--tx2)}
+.ops button.sel.organo{background:var(--okbg);border-color:var(--ok)}
+.ops button.sel.parte,.ops button.sel.mencion{background:var(--bd);border-color:var(--tx2)}
+.ops button.sel.duda{background:var(--wabg);border-color:var(--wa)}
+.efecto{font-size:14px;margin:4px 0 12px;color:var(--tx2)}
+textarea{font:inherit;font-size:14px;color:var(--tx);background:var(--card);border:1px solid var(--bd2);border-radius:8px;padding:6px 10px;width:100%;min-height:48px;resize:vertical}
+.nav{display:flex;flex-wrap:wrap;gap:8px;justify-content:space-between;margin:12px 0 4px}
+h3{font-size:14px;font-weight:600;color:var(--tx2);margin:18px 0 6px;border-top:1px solid var(--bd);padding-top:14px}
+.par{margin:0 0 12px;font-size:15.5px}
+.completo{white-space:pre-wrap;font-size:14px;color:var(--tx2);max-height:70vh;overflow:auto;border:1px solid var(--bd);border-radius:8px;padding:10px}
+mark.ia{background:var(--mk);color:inherit} mark.he{background:var(--mkh);color:inherit}
+details{font-size:14px;color:var(--tx2);margin:8px 0 12px}
+</style>
+</head>
+<body>
+<div class="env">
+  <header>
+    <div><h1>Verificar usos de IA</h1><div class="sub" id="avance"></div></div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
+      <button class="prim" id="bajar">Descargar mis decisiones</button>
+      <button id="cargar">Cargar decisiones</button>
+      <input type="file" id="archivo" accept=".csv" hidden>
+    </div>
+  </header>
+  <div class="barra"><div id="relleno"></div></div>
+  <div class="aviso" id="aviso" hidden></div>
+  <details><summary>Cómo se usa</summary>
+    <p>Lee los párrafos de abajo y contesta la pregunta con un botón o con las teclas 1 a 4. Se pasa sola a la siguiente.
+    Flechas ← → para moverte. Los cuadros de colores son las sentencias: verde, uso del órgano; gris, no entra; ámbar, duda.
+    Si los párrafos no bastan, pulsa «Ver sentencia completa». Tu avance se guarda en este navegador, pero descarga tus
+    decisiones de vez en cuando: ese archivo es tu respaldo.</p></details>
+  <div class="mapa" id="mapa"></div>
+  <div class="tarjeta">
+    <p class="datos"><span class="origen" id="origen"></span> &nbsp;<b id="pos"></b> · sentencia <span id="sid"></span></p>
+    <p class="datos" id="meta"></p>
+    <div class="pregunta">¿Quién usó la IA en esta sentencia?</div>
+    <div class="especial" id="especial" hidden></div>
+    <div class="ops" id="ops"></div>
+    <div class="efecto" id="efecto"></div>
+    <textarea id="nota" placeholder="Nota (opcional): por qué, o qué tarea hizo la IA"></textarea>
+    <div class="nav"><button id="prev">← Anterior</button><button id="pend">Siguiente sin decidir</button><button id="next">Siguiente →</button></div>
+    <h3>Párrafos que mencionan la IA, una herramienta o las tesis</h3>
+    <div id="pert"></div>
+    <button id="vercompleto">Ver sentencia completa</button>
+    <div class="completo" id="completo" hidden></div>
+  </div>
+</div>
+<script>
+const D = __DATOS__;
+const OPS = [
+  {v: "organo", t: "El órgano", s: "el juez, la jueza o su personal dice que la usó", e: "Entra al estudio como uso propio."},
+  {v: "parte", t: "Una parte", s: "quejosa, abogado, autoridad responsable, perito", e: "No entra: no es uso del órgano."},
+  {v: "mencion", t: "Nadie: solo se menciona", s: "cita la tesis, habla de la IA en general, la nombra", e: "No entra: no hay uso."},
+  {v: "duda", t: "No estoy seguro", s: "queda para revisarla después", e: "Queda pendiente; anota por qué."},
+];
+const LS = "verificador:" + D.huella;
+const $ = id => document.getElementById(id);
+let dec = {}, i = 0, cambios = 0, memoria = true;
+D.items.forEach(x => dec[x.id] = {decision: "", nota: ""});
+try {
+  const s = JSON.parse(localStorage.getItem(LS) || "null");
+  if (s) { for (const k in s.dec) if (dec[k]) dec[k] = s.dec[k]; i = Math.min(s.i || 0, D.items.length - 1); cambios = s.cambios || 0; }
+} catch (e) { memoria = false; }
+function guardar() { try { localStorage.setItem(LS, JSON.stringify({dec, i, cambios})); } catch (e) { memoria = false; } }
+
+const RIA = new RegExp(D.ia, "gi"), RHE = new RegExp(D.herramienta, "gi");
+const esc = t => t.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+function marcar(t) {
+  const marcas = [];
+  for (const [re, c] of [[RIA, "ia"], [RHE, "he"]]) { re.lastIndex = 0; let m; while ((m = re.exec(t))) { marcas.push([m.index, m.index + m[0].length, c]); if (!m[0].length) re.lastIndex++; } }
+  marcas.sort((a, b) => a[0] - b[0]);
+  let o = "", p = 0;
+  for (const [a, b, c] of marcas) { if (a < p) continue; o += esc(t.slice(p, a)) + `<mark class="${c}">` + esc(t.slice(a, b)) + "</mark>"; p = b; }
+  return o + esc(t.slice(p));
+}
+
+function pintar() {
+  const x = D.items[i], d = dec[x.id];
+  const hechas = D.items.filter(y => dec[y.id].decision).length;
+  $("avance").textContent = `${hechas} de ${D.items.length} decididas`;
+  $("relleno").style.width = (100 * hechas / D.items.length).toFixed(1) + "%";
+  $("origen").textContent = x.origen;
+  $("pos").textContent = `${i + 1} de ${D.items.length}`;
+  $("sid").textContent = x.id;
+  $("meta").textContent = `${x.organo} · ${x.fecha} · ${x.tipo_asunto}`;
+  $("especial").hidden = !x.especial; $("especial").textContent = x.especial;
+  $("ops").innerHTML = OPS.map((o, k) => `<button data-v="${o.v}" class="${o.v}${d.decision === o.v ? " sel" : ""}"><b>${k + 1} · ${o.t}</b><span>${o.s}</span></button>`).join("");
+  const sel = OPS.find(o => o.v === d.decision);
+  $("efecto").textContent = sel ? "→ " + sel.e : "";
+  $("nota").value = d.nota;
+  $("pert").innerHTML = x.pertinentes.length ? x.pertinentes.map(p => `<p class="par">${marcar(p)}</p>`).join("") : "<p class='par'><em>Sin párrafos pertinentes: mira la sentencia completa.</em></p>";
+  $("completo").hidden = true; $("completo").innerHTML = ""; $("vercompleto").textContent = "Ver sentencia completa";
+  $("mapa").innerHTML = D.items.map((y, k) => `<span class="${dec[y.id].decision}${k === i ? " actual" : ""}" data-ir="${k}" title="${y.id}"></span>`).join("");
+  const av = $("aviso");
+  if (!memoria) { av.hidden = false; av.textContent = "Este navegador no está guardando tu avance. Descarga tus decisiones seguido."; }
+  else if (cambios >= 15) { av.hidden = false; av.textContent = `Llevas ${cambios} decisiones sin descargar. Descárgalas para no perderlas.`; }
+  else av.hidden = true;
+}
+function ir(k) { i = Math.max(0, Math.min(D.items.length - 1, k)); guardar(); pintar(); window.scrollTo(0, 0); }
+function decidir(v) {
+  const d = dec[D.items[i].id];
+  d.decision = d.decision === v ? "" : v; cambios++; guardar();
+  if (d.decision && i < D.items.length - 1) { pintar(); setTimeout(() => ir(i + 1), 350); } else pintar();
+}
+
+document.addEventListener("click", ev => {
+  const b = ev.target.closest("button, .mapa span"); if (!b) return;
+  if (b.dataset.v) decidir(b.dataset.v);
+  else if (b.dataset.ir) ir(+b.dataset.ir);
+});
+$("vercompleto").onclick = () => {
+  const c = $("completo"), abrir = c.hidden;
+  if (abrir && !c.innerHTML) c.innerHTML = marcar(D.items[i].completo);
+  c.hidden = !abrir; $("vercompleto").textContent = abrir ? "Ocultar sentencia completa" : "Ver sentencia completa";
+};
+$("nota").addEventListener("input", e => { dec[D.items[i].id].nota = e.target.value.trim(); guardar(); });
+$("nota").addEventListener("change", () => { cambios++; guardar(); });
+$("prev").onclick = () => ir(i - 1);
+$("next").onclick = () => ir(i + 1);
+$("pend").onclick = () => {
+  for (let s = 1; s <= D.items.length; s++) { const k = (i + s) % D.items.length; if (!dec[D.items[k].id].decision) return ir(k); }
+  alert("Ya decidiste todas.");
+};
+document.addEventListener("keydown", ev => {
+  const t = ev.target.closest ? ev.target : document.body;
+  if (t.closest("textarea, input")) { if (ev.key === "Escape") t.blur(); return; }
+  if (ev.metaKey || ev.ctrlKey || ev.altKey) return;
+  if (/^[1-4]$/.test(ev.key)) decidir(OPS[+ev.key - 1].v);
+  else if (ev.key === "ArrowRight") ir(i + 1);
+  else if (ev.key === "ArrowLeft") ir(i - 1);
+});
+
+const campo = v => /[",\r\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+$("bajar").onclick = () => {
+  const filas = [["id_sentencia", "origen", "decision", "nota"]].concat(D.items.map(x => [x.id, x.origen, dec[x.id].decision, dec[x.id].nota]));
+  const csv = "﻿" + filas.map(r => r.map(campo).join(",")).join("\r\n") + "\r\n";
+  const d = new Date(), z = n => String(n).padStart(2, "0");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([csv], {type: "text/csv;charset=utf-8"}));
+  a.download = `decisiones_verificacion_${d.getFullYear()}-${z(d.getMonth() + 1)}-${z(d.getDate())}_${z(d.getHours())}${z(d.getMinutes())}.csv`;
+  document.body.appendChild(a); a.click(); a.remove();
+  cambios = 0; guardar(); pintar();
+};
+function leerCSV(t) {
+  t = t.replace(/^﻿/, ""); const filas = []; let fila = [], f = "", q = false;
+  for (let k = 0; k < t.length; k++) {
+    const ch = t[k];
+    if (q) { if (ch === '"') { if (t[k + 1] === '"') { f += '"'; k++; } else q = false; } else f += ch; }
+    else if (ch === '"') q = true; else if (ch === ",") { fila.push(f); f = ""; }
+    else if (ch === "\n") { fila.push(f); filas.push(fila); fila = []; f = ""; } else if (ch !== "\r") f += ch;
+  }
+  if (f !== "" || fila.length) { fila.push(f); filas.push(fila); }
+  return filas;
+}
+$("cargar").onclick = () => $("archivo").click();
+$("archivo").onchange = ev => {
+  const arch = ev.target.files[0]; if (!arch) return;
+  const r = new FileReader();
+  r.onload = () => {
+    const filas = leerCSV(r.result), cab = filas[0] || [];
+    const [a, b, c] = ["id_sentencia", "decision", "nota"].map(n => cab.indexOf(n));
+    if (a < 0 || b < 0) return alert("Ese archivo no es una descarga de este verificador.");
+    const datos = filas.slice(1).filter(x => dec[x[a]]);
+    if (!confirm(`Se cargarán ${datos.length} decisiones y reemplazarán las de esta página. ¿Seguir?`)) return;
+    datos.forEach(x => dec[x[a]] = {decision: x[b] || "", nota: c >= 0 ? (x[c] || "") : ""});
+    cambios = 0; guardar(); pintar();
+  };
+  r.readAsText(arch, "utf-8"); ev.target.value = "";
+};
+window.addEventListener("beforeunload", ev => { if (cambios > 0) { ev.preventDefault(); ev.returnValue = ""; } });
+pintar();
+</script>
+</body>
+</html>
